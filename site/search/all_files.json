@@ -10,6 +10,15 @@
     },
     {
         "page": null,
+        "src_uri": "Miscellaneous/USMLE/GI/Absorption.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/Miscellaneous/USMLE/GI/Absorption.md",
+        "name": "Absorption",
+        "dest_uri": "Miscellaneous/USMLE/GI/Absorption/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/Miscellaneous/USMLE/GI/Absorption/index.html",
+        "url": "Miscellaneous/USMLE/GI/Absorption/"
+    },
+    {
+        "page": null,
         "src_uri": "assets/css/admonition.css",
         "abs_src_path": "/home/howie/Notes-blog/docs/assets/css/admonition.css",
         "name": "admonition",
@@ -34,6 +43,15 @@
         "dest_uri": "assets/css/customization.css",
         "abs_dest_path": "/home/howie/Notes-blog/site/assets/css/customization.css",
         "url": "assets/css/customization.css"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230702142057.png",
+        "abs_src_path": "/home/howie/Notes-blog/docs/assets/img/Pasted image 20230702142057.png",
+        "name": "Pasted image 20230702142057",
+        "dest_uri": "assets/img/Pasted image 20230702142057.png",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/img/Pasted image 20230702142057.png",
+        "url": "assets/img/Pasted%20image%2020230702142057.png"
     },
     {
         "page": null,
