@@ -1,0 +1,416 @@
+[
+    {
+        "page": null,
+        "src_uri": "tags.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/tags.md",
+        "name": "tags",
+        "dest_uri": "tags/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/tags/index.html",
+        "url": "tags/"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/css/admonition.css",
+        "abs_src_path": "/home/howie/Notes-blog/docs/assets/css/admonition.css",
+        "name": "admonition",
+        "dest_uri": "assets/css/admonition.css",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/css/admonition.css",
+        "url": "assets/css/admonition.css"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/css/custom_attributes.css",
+        "abs_src_path": "/home/howie/Notes-blog/docs/assets/css/custom_attributes.css",
+        "name": "custom_attributes",
+        "dest_uri": "assets/css/custom_attributes.css",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/css/custom_attributes.css",
+        "url": "assets/css/custom_attributes.css"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/css/customization.css",
+        "abs_src_path": "/home/howie/Notes-blog/docs/assets/css/customization.css",
+        "name": "customization",
+        "dest_uri": "assets/css/customization.css",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/css/customization.css",
+        "url": "assets/css/customization.css"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/meta/favicons.png",
+        "abs_src_path": "/home/howie/Notes-blog/docs/assets/meta/favicons.png",
+        "name": "favicons",
+        "dest_uri": "assets/meta/favicons.png",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/meta/favicons.png",
+        "url": "assets/meta/favicons.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/images/favicon.png",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/images/favicon.png",
+        "name": "favicon",
+        "dest_uri": "assets/images/favicon.png",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/images/favicon.png",
+        "url": "assets/images/favicon.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/bundle.b425cdc4.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/bundle.b425cdc4.min.js",
+        "name": "bundle.b425cdc4.min",
+        "dest_uri": "assets/javascripts/bundle.b425cdc4.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/bundle.b425cdc4.min.js",
+        "url": "assets/javascripts/bundle.b425cdc4.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/bundle.b425cdc4.min.js.map",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/bundle.b425cdc4.min.js.map",
+        "name": "bundle.b425cdc4.min.js",
+        "dest_uri": "assets/javascripts/bundle.b425cdc4.min.js.map",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/bundle.b425cdc4.min.js.map",
+        "url": "assets/javascripts/bundle.b425cdc4.min.js.map"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.ar.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.ar.min.js",
+        "name": "lunr.ar.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.ar.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.ar.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.ar.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.da.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.da.min.js",
+        "name": "lunr.da.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.da.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.da.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.da.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.de.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.de.min.js",
+        "name": "lunr.de.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.de.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.de.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.de.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.du.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.du.min.js",
+        "name": "lunr.du.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.du.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.du.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.du.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.es.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.es.min.js",
+        "name": "lunr.es.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.es.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.es.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.es.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.fi.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.fi.min.js",
+        "name": "lunr.fi.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.fi.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.fi.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.fi.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.fr.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.fr.min.js",
+        "name": "lunr.fr.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.fr.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.fr.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.fr.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.hi.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.hi.min.js",
+        "name": "lunr.hi.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.hi.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.hi.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.hi.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.hu.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.hu.min.js",
+        "name": "lunr.hu.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.hu.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.hu.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.hu.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.hy.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.hy.min.js",
+        "name": "lunr.hy.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.hy.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.hy.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.hy.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.it.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.it.min.js",
+        "name": "lunr.it.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.it.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.it.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.it.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.ja.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.ja.min.js",
+        "name": "lunr.ja.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.ja.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.ja.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.ja.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.jp.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.jp.min.js",
+        "name": "lunr.jp.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.jp.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.jp.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.jp.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.kn.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.kn.min.js",
+        "name": "lunr.kn.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.kn.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.kn.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.kn.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.ko.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.ko.min.js",
+        "name": "lunr.ko.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.ko.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.ko.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.ko.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.multi.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.multi.min.js",
+        "name": "lunr.multi.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.multi.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.multi.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.multi.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.nl.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.nl.min.js",
+        "name": "lunr.nl.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.nl.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.nl.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.nl.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.no.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.no.min.js",
+        "name": "lunr.no.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.no.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.no.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.no.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.pt.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.pt.min.js",
+        "name": "lunr.pt.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.pt.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.pt.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.pt.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.ro.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.ro.min.js",
+        "name": "lunr.ro.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.ro.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.ro.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.ro.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.ru.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.ru.min.js",
+        "name": "lunr.ru.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.ru.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.ru.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.ru.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.sa.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.sa.min.js",
+        "name": "lunr.sa.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.sa.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.sa.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.sa.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.stemmer.support.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.stemmer.support.min.js",
+        "name": "lunr.stemmer.support.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.stemmer.support.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.stemmer.support.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.stemmer.support.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.sv.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.sv.min.js",
+        "name": "lunr.sv.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.sv.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.sv.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.sv.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.ta.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.ta.min.js",
+        "name": "lunr.ta.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.ta.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.ta.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.ta.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.te.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.te.min.js",
+        "name": "lunr.te.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.te.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.te.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.te.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.th.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.th.min.js",
+        "name": "lunr.th.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.th.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.th.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.th.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.tr.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.tr.min.js",
+        "name": "lunr.tr.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.tr.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.tr.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.tr.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.vi.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.vi.min.js",
+        "name": "lunr.vi.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.vi.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.vi.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.vi.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.zh.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/min/lunr.zh.min.js",
+        "name": "lunr.zh.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.zh.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/min/lunr.zh.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.zh.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/tinyseg.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/tinyseg.js",
+        "name": "tinyseg",
+        "dest_uri": "assets/javascripts/lunr/tinyseg.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/tinyseg.js",
+        "url": "assets/javascripts/lunr/tinyseg.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/wordcut.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/lunr/wordcut.js",
+        "name": "wordcut",
+        "dest_uri": "assets/javascripts/lunr/wordcut.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/lunr/wordcut.js",
+        "url": "assets/javascripts/lunr/wordcut.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/workers/search.208ed371.min.js",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/workers/search.208ed371.min.js",
+        "name": "search.208ed371.min",
+        "dest_uri": "assets/javascripts/workers/search.208ed371.min.js",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/workers/search.208ed371.min.js",
+        "url": "assets/javascripts/workers/search.208ed371.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/workers/search.208ed371.min.js.map",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/javascripts/workers/search.208ed371.min.js.map",
+        "name": "search.208ed371.min.js",
+        "dest_uri": "assets/javascripts/workers/search.208ed371.min.js.map",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/javascripts/workers/search.208ed371.min.js.map",
+        "url": "assets/javascripts/workers/search.208ed371.min.js.map"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/stylesheets/main.26e3688c.min.css",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/stylesheets/main.26e3688c.min.css",
+        "name": "main.26e3688c.min",
+        "dest_uri": "assets/stylesheets/main.26e3688c.min.css",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/stylesheets/main.26e3688c.min.css",
+        "url": "assets/stylesheets/main.26e3688c.min.css"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/stylesheets/main.26e3688c.min.css.map",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/stylesheets/main.26e3688c.min.css.map",
+        "name": "main.26e3688c.min.css",
+        "dest_uri": "assets/stylesheets/main.26e3688c.min.css.map",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/stylesheets/main.26e3688c.min.css.map",
+        "url": "assets/stylesheets/main.26e3688c.min.css.map"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/stylesheets/palette.ecc896b0.min.css",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/stylesheets/palette.ecc896b0.min.css",
+        "name": "palette.ecc896b0.min",
+        "dest_uri": "assets/stylesheets/palette.ecc896b0.min.css",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/stylesheets/palette.ecc896b0.min.css",
+        "url": "assets/stylesheets/palette.ecc896b0.min.css"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/stylesheets/palette.ecc896b0.min.css.map",
+        "abs_src_path": "/home/howie/.local/lib/python3.10/site-packages/material/assets/stylesheets/palette.ecc896b0.min.css.map",
+        "name": "palette.ecc896b0.min.css",
+        "dest_uri": "assets/stylesheets/palette.ecc896b0.min.css.map",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/stylesheets/palette.ecc896b0.min.css.map",
+        "url": "assets/stylesheets/palette.ecc896b0.min.css.map"
+    }
+]
