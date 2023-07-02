@@ -1,0 +1,44 @@
+---
+author: Harvey Guo
+created: <% tp.file.creation_date() %>
+modified: <% tp.file.last_modified_date() %>
+aliases: <% tp.file.title %>
+description:
+tags:
+share: true
+---
+
+# Jugular venous pressure
+| Wave      | Description                                                                                                                                     | Abnormalities                                  |
+|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| a wave    | The first peak caused by atrial contraction                                                                                                     | Absent in atrial fibrillation                  |
+| c wave    | The second peak caused by tricuspid valve closure, contraction of the right ventricle, and bulging of the tricuspid valve into the right atrium | cv wave : severe tricuspid valve regurgitation |
+| x descent | A drop in JVP caused by atrial relaxation                                                                                                       | Absent in:                                     |
+|           |                                                                                                                                                 | Tricuspid valve regurgitation                  |
+|           |                                                                                                                                                 | Right heart failure                            |
+| v wave    | The third peak caused by venous refilling of the right atrium against the closed tricuspid valve                                                | Prominent in:                                  |
+|           |                                                                                                                                                 | Tricuspid valve regurgitation                  |
+|           |                                                                                                                                                 | Right heart failure                            |
+| y descent | A drop in JVP caused by decreased right atrial pressure as blood flows into the right ventricle after opening of the tricuspid valve            | Prominent in: [7]                              |
+|           |                                                                                                                                                 | Tricuspid valve regurgitation                  |
+|           |                                                                                                                                                 | Constrictive pericarditis                      |
+|           |                                                                                                                                                 | Absent in:                                     |
+|           |                                                                                                                                                 | Cardiac tamponade                              |
+|           |                                                                                                                                                 | Tricuspid valve stenosis                       |
+
+![[../../assets/img/Pasted image 20230624132724.png|Pasted image 20230624132724.png]]![[../../assets/img/Pasted image 20230624133437.png|Pasted image 20230624133437.png]]
+A normal jugular venous pressure (JVP) waveform is composed of:  
+- a wave: atrial contraction  
+- c wave: tricuspid valve closure  
+- x descent: atrial relaxation  
+- v wave: venous refilling of the atria  
+- y descent: passive filling of right ventricle when the tricuspid valve opens
+# Pathology
+Common abnormalities of the JVP waveform include:  
+- Constrictive pericarditis: elevated JVP (due to increased external atrial pressure) with a <mark style="background: #FFF3A34A;">prominent x (exaggerated atrial relaxation) and y (early rapid ventricular filling) descent</mark>  
+- Cardiac tamponade: elevated JVP (due to increased external atrial pressure), a prominent x descent (exaggerated atrial relaxation), and a blunt or absent y descent (minimal ventricular filling)  
+- Tricuspid regurgitation: prominent v wave as the blood from the right ventricle regurgitates into the right atrium during ventricular systole (atrial diastole), increasing interatrial pressure and volume  
+- Tricuspid stenosis: giant a wave due to high right atrial systolic pressure  
+- Atrial septal defect: v wave ≥ a wave due to the left-to-right shunting of blood  
+- Third-degree atrioventricular (AV) block: cannon a waves due to the loss of AV synchronization and contraction of the atria against a closed tricuspid valve  
+- Atrial fibrillation: absent a waves due to ineffective contraction of the atria
