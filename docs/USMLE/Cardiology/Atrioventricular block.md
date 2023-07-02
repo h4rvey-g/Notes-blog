@@ -17,7 +17,7 @@ The conduction of atrial impulses to the ventricles typically follows a regular 
 - 4:3 block: regular AV block with 4 atrial depolarizations but only 3 atrial impulses that reach the ventricles <mark style="background: #FFF3A3A6;">(heart rate = ¾ SA node rate)</mark>
 While 2:1 block follows a regular pattern, it cannot be classified as Mobitz type I or II and is classified separately (see “2:1 AV block”). [2]
 Risk of progression to complete heart block: high (> 50%), as it is typically due to infranodal block (usually in the His-Purkinje system) [7]
-![[../../../assets/img/Pasted image 20230619221102.png|Pasted image 20230619221102.png]]
+![[../../assets/img/Pasted image 20230619221102.png|Pasted image 20230619221102.png]]
 ## 2:1 AV block [2]
 - Description
     - Inhibited conduction of every second atrial [depolarization](https://next.amboss.com/us/article/9o0NVS#Zd4e0a1caa2f5d32a12799b9d4209249e) ([P wave](https://next.amboss.com/us/article/pl0LBT#Z322a8570694c6bce37349457185e57ec)) to the ventricles ([heart](https://next.amboss.com/us/article/Up0bKS#Z4e3e2c1885949b623580f92078d56c7d) rate = ½ SA node rate)
@@ -26,7 +26,7 @@ Risk of progression to complete heart block: high (> 50%), as it is typically du
 - Risk of progression to [complete heart block](https://next.amboss.com/us/article/I50Ylg#Z610af26daeadb55232691548b0a56240): depends on level of block 
     - Block at the level of the [AV node](https://next.amboss.com/us/article/zo0reS#Z000838c1249fec206b77360ff0adc110) (more common): low
     - [Infranodal block](https://next.amboss.com/us/article/I50Ylg#Z35609ef53f24544b69bf3d1b22d82373) (less common): high
-	![[../../../assets/img/Pasted image 20230619221837.png|Pasted image 20230619221837.png]]
+	![[../../assets/img/Pasted image 20230619221837.png|Pasted image 20230619221837.png]]
  # Ventriculophasic sinus arrhythmia
  Sinus rate variation of this type with complete heart block is called ventriculophasic sinus arrhythmia.
- ![[../../../assets/img/Pasted image 20230623224624.png|Pasted image 20230623224624.png]]
+ ![[../../assets/img/Pasted image 20230623224624.png|Pasted image 20230623224624.png]]

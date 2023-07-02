@@ -26,7 +26,7 @@ share: true
 |           |                                                                                                                                                 | Cardiac tamponade                              |
 |           |                                                                                                                                                 | Tricuspid valve stenosis                       |
 
-![[../../../assets/img/Pasted image 20230624132724.png|Pasted image 20230624132724.png]]![[../../../assets/img/Pasted image 20230624133437.png|Pasted image 20230624133437.png]]
+![[../../assets/img/Pasted image 20230624132724.png|Pasted image 20230624132724.png]]![[../../assets/img/Pasted image 20230624133437.png|Pasted image 20230624133437.png]]
 A normal jugular venous pressure (JVP) waveform is composed of:  
 - a wave: atrial contraction  
 - c wave: tricuspid valve closure  

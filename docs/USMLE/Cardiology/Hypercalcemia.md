@@ -29,4 +29,4 @@ For causes of hypercalcemia, remember “Thinking Chimpanzees!”
 - Sarcoidosis & granulomatous diseases
 # Clinical features
 ECG: Shorten QT interval
-![[../../../assets/img/Pasted image 20230622205511.png|Pasted image 20230622205511.png]]
+![[../../assets/img/Pasted image 20230622205511.png|Pasted image 20230622205511.png]]

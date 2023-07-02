@@ -8,5 +8,5 @@ tags:
 share: true
 ---
 
-# Migraine
-![[../../../assets/img/foo.jpg|foo.jpg]]
+# Etiology
+![[../../assets/img/Pasted image 20230623172022.png|Pasted image 20230623172022.png]]
