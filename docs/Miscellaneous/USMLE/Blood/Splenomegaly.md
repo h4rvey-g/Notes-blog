@@ -8,8 +8,5 @@ tags:
 share: true
 ---
 
----
-share: true
----
-# Absorption of Iron, Calcium, Folate, and VitB12
-![[../../../assets/img/Pasted image 20230702142057.png|Pasted image 20230702142057.png]]
+# Etiology
+![[../../../assets/img/Pasted image 20230623172022.png|Pasted image 20230623172022.png]]

@@ -8,8 +8,4 @@ tags:
 share: true
 ---
 
----
-share: true
----
-# Absorption of Iron, Calcium, Folate, and VitB12
-![[../../../assets/img/Pasted image 20230702142057.png|Pasted image 20230702142057.png]]
+Could be inverted P wave in lead II, which is normally upward.
