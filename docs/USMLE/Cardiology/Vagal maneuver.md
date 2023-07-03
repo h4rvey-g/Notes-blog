@@ -1,4 +1,5 @@
 ---
+title: Vagal maneuver
 author: Harvey Guo
 created: <% tp.file.creation_date() %>
 modified: <% tp.file.last_modified_date() %>
