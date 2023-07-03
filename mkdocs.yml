@@ -85,7 +85,7 @@ plugins:
   - git-revision-date-localized:
       type: date
       fallback_to_build_date: true
-      locale: cn
+      locale: zh
       # custom_format: "%A %d %B %Y"
       enable_creation_date: true
   - ezlinks:
