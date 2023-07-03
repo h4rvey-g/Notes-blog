@@ -1,4 +1,5 @@
 ---
+title: Antiphospholipid syndrome
 author: Harvey Guo
 created: <% tp.file.creation_date() %>
 modified: <% tp.file.last_modified_date() %>
@@ -13,7 +14,7 @@ share: true
 # Clinical features
 APS usually manifests with recurring thrombotic events that may affect any organ.
 Pregnancy-related: recurrent miscarriages and premature births.(Caused by thrombosis of [placental](https://next.amboss.com/us/article/Do01VS#Z414c23d8bf8265247dd2e1e7e9b0d89c) vessels and possible subsequent [placental](https://next.amboss.com/us/article/Do01VS#Z414c23d8bf8265247dd2e1e7e9b0d89c) [infarction](https://next.amboss.com/us/article/VP0GdT#Zb11fb76135fecdea9dd3e778dbe469e3))
-<mark style="background: #BBFABBA6;">Thrombosis in APS is typically unprovoked (e.g., unprovoked DVT), recurrent, and/or manifests in unusual sites (e.g., kidneys, liver, retina). It is most commonly seen in younger individuals (< 50 years of age) and in individuals with comorbid autoimmune diseases (e.g., SLE).</mark>
+<mark style="background: #BBFABBA6;">Thrombosis in APS is typically unprovoked (e.g., unprovoked DVT), recurrent, and/or manifests in unusual sites (e.g., kidneys, liver, retina). It is most commonly seen in younger individuals (less than 50 years of age) and in individuals with comorbid autoimmune diseases (e.g., SLE).</mark>
 # Diagnose
 Antiphospholipid antibodies ([aPL antibodies](https://next.amboss.com/us/article/hR0c5f#Zc64f6e326ddf58b2bc9a198ed8f87dd2))
 - Lupus anticoagulant (LA): [antibodies](https://next.amboss.com/us/article/x50Emg#Zcafc1c81671c54115ab5d77c08d696a0) against certain phospholipids in [cellular membranes](https://next.amboss.com/us/article/Lo0wcS#Z4224d324188134290d99f44a379e40f9)
