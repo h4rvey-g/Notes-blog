@@ -18,4 +18,6 @@ When Hb is deoxygenated (typically in peripheral tissue), uptake of CO2 is facil
 When Hb is oxygenated (in high pO2, for example, in the lungs):
 Oxygenated Hb has a decreased affinity for CO2 → CO2 that is bound to Hb is released in the pulmonary arteries to diffuse into the alveoli (the O2-Hb dissociation curve is shifted to the left).
 Hb releases bound H+ → ↑ H+ shifts equilibrium to CO2 production (see equation above) → CO2 is exhaled in lungs
-<mark style="background: #FFB8EBA6;">**Bohr for body, HaLdane for lung.**</mark>
+
+> [!Mnemonic]
+> **Bohr for body, HaLdane for lung**
