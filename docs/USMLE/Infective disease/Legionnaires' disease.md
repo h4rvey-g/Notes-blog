@@ -24,4 +24,6 @@ share: true
 - Relative bradycardia
 - Diarrhea
 - Neurological features, especially confusion, agitation, and stupor
-<mark style="background: #BBFABBA6;">Legionnaires' disease should always be considered in patients with signs of atypical pneumonia and diarrhea in combination with possible exposure (e.g., cruise ship travel, use of a whirlpool).</mark>
+
+> [!tip] 
+> Legionnaires' disease should always be considered in patients with signs of atypical pneumonia and diarrhea in combination with possible exposure (e.g., cruise ship travel, use of a whirlpool).
