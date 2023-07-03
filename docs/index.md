@@ -1,4 +1,4 @@
-# Welcome to Harvey's Blog
+# Homepage
 ## About Me
 I am passionate about both medicine and bioinformatics. In this blog, I aim to share my USMLE notes and bioinformatic skills with you. I hope you find the information helpful and informative.
 ## Contact Me
