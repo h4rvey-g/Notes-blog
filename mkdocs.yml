@@ -1,6 +1,8 @@
 site_name: Harvey's Blog # Change this to your site name
 site_description: My personal blog sharing study notes!
+site_author: Harvey # Change this to your name
 site_url: https://www.guolab.live/ # Change this to your site URL
+repo_url: https://github.com/babaolanqiu/Notes-blog # Change this to your repo URL
 
 theme:
     name: 'material'
@@ -83,8 +85,8 @@ plugins:
   - git-revision-date-localized:
       type: date
       fallback_to_build_date: true
-      locale: fr
-      custom_format: "%A %d %B %Y"
+      locale: cn
+      # custom_format: "%A %d %B %Y"
       enable_creation_date: true
   - ezlinks:
         wikilinks: true
@@ -135,3 +137,8 @@ extra:
   hooks:
     strip_comments: true
     fix_heading: true
+  social:
+    - icon: fontawesome/brands/twitter
+      twitter: https://twitter.com/babaolanqiu
+    - icon: fontawesome/brands/github
+      github: https://github.com/babaolanqiu
