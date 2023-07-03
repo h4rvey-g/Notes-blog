@@ -139,6 +139,6 @@ extra:
     fix_heading: true
   social:
     - icon: fontawesome/brands/twitter
-      twitter: https://twitter.com/babaolanqiu
+      link: https://twitter.com/babaolanqiu
     - icon: fontawesome/brands/github
-      github: https://github.com/babaolanqiu
+      link: https://github.com/babaolanqiu
