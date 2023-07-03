@@ -1,0 +1,1109 @@
+[
+    {
+        "page": null,
+        "src_uri": "CNAME",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/CNAME",
+        "name": "CNAME",
+        "dest_uri": "CNAME",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/CNAME",
+        "url": "CNAME"
+    },
+    {
+        "page": null,
+        "src_uri": "tags.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/tags.md",
+        "name": "tags",
+        "dest_uri": "tags/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/tags/index.html",
+        "url": "tags/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Questions.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Questions.md",
+        "name": "Questions",
+        "dest_uri": "USMLE/Questions/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Questions/index.html",
+        "url": "USMLE/Questions/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/\u5355\u6297\u8bb0\u5fc6.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/\u5355\u6297\u8bb0\u5fc6.md",
+        "name": "\u5355\u6297\u8bb0\u5fc6",
+        "dest_uri": "USMLE/\u5355\u6297\u8bb0\u5fc6/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/\u5355\u6297\u8bb0\u5fc6/index.html",
+        "url": "USMLE/%E5%8D%95%E6%8A%97%E8%AE%B0%E5%BF%86/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Blood/index.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Blood/index.md",
+        "name": "index",
+        "dest_uri": "USMLE/Blood/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Blood/index.html",
+        "url": "USMLE/Blood/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Blood/Alkaline phosphatase.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Blood/Alkaline phosphatase.md",
+        "name": "Alkaline phosphatase",
+        "dest_uri": "USMLE/Blood/Alkaline phosphatase/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Blood/Alkaline phosphatase/index.html",
+        "url": "USMLE/Blood/Alkaline%20phosphatase/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Blood/Anemia.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Blood/Anemia.md",
+        "name": "Anemia",
+        "dest_uri": "USMLE/Blood/Anemia/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Blood/Anemia/index.html",
+        "url": "USMLE/Blood/Anemia/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Blood/Anticoagulants.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Blood/Anticoagulants.md",
+        "name": "Anticoagulants",
+        "dest_uri": "USMLE/Blood/Anticoagulants/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Blood/Anticoagulants/index.html",
+        "url": "USMLE/Blood/Anticoagulants/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Blood/Autoimmune hemolytic anemia.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Blood/Autoimmune hemolytic anemia.md",
+        "name": "Autoimmune hemolytic anemia",
+        "dest_uri": "USMLE/Blood/Autoimmune hemolytic anemia/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Blood/Autoimmune hemolytic anemia/index.html",
+        "url": "USMLE/Blood/Autoimmune%20hemolytic%20anemia/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Blood/Erythrocyte morphology and hemoglobin.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Blood/Erythrocyte morphology and hemoglobin.md",
+        "name": "Erythrocyte morphology and hemoglobin",
+        "dest_uri": "USMLE/Blood/Erythrocyte morphology and hemoglobin/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Blood/Erythrocyte morphology and hemoglobin/index.html",
+        "url": "USMLE/Blood/Erythrocyte%20morphology%20and%20hemoglobin/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Blood/Hemophilia.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Blood/Hemophilia.md",
+        "name": "Hemophilia",
+        "dest_uri": "USMLE/Blood/Hemophilia/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Blood/Hemophilia/index.html",
+        "url": "USMLE/Blood/Hemophilia/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Blood/Immune thrombocytopenia (ITP).md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Blood/Immune thrombocytopenia (ITP).md",
+        "name": "Immune thrombocytopenia (ITP)",
+        "dest_uri": "USMLE/Blood/Immune thrombocytopenia (ITP)/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Blood/Immune thrombocytopenia (ITP)/index.html",
+        "url": "USMLE/Blood/Immune%20thrombocytopenia%20%28ITP%29/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Blood/Jaundice and cholestasis.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Blood/Jaundice and cholestasis.md",
+        "name": "Jaundice and cholestasis",
+        "dest_uri": "USMLE/Blood/Jaundice and cholestasis/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Blood/Jaundice and cholestasis/index.html",
+        "url": "USMLE/Blood/Jaundice%20and%20cholestasis/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Blood/Leukocyte alkaline phosphatase.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Blood/Leukocyte alkaline phosphatase.md",
+        "name": "Leukocyte alkaline phosphatase",
+        "dest_uri": "USMLE/Blood/Leukocyte alkaline phosphatase/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Blood/Leukocyte alkaline phosphatase/index.html",
+        "url": "USMLE/Blood/Leukocyte%20alkaline%20phosphatase/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Blood/Macrocytic anemias.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Blood/Macrocytic anemias.md",
+        "name": "Macrocytic anemias",
+        "dest_uri": "USMLE/Blood/Macrocytic anemias/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Blood/Macrocytic anemias/index.html",
+        "url": "USMLE/Blood/Macrocytic%20anemias/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Blood/Nucleated red blood cells.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Blood/Nucleated red blood cells.md",
+        "name": "Nucleated red blood cells",
+        "dest_uri": "USMLE/Blood/Nucleated red blood cells/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Blood/Nucleated red blood cells/index.html",
+        "url": "USMLE/Blood/Nucleated%20red%20blood%20cells/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Blood/Splenomegaly.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Blood/Splenomegaly.md",
+        "name": "Splenomegaly",
+        "dest_uri": "USMLE/Blood/Splenomegaly/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Blood/Splenomegaly/index.html",
+        "url": "USMLE/Blood/Splenomegaly/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
+        "name": "Thrombotic thrombocytopenic purpura (TTP)",
+        "dest_uri": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP)/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP)/index.html",
+        "url": "USMLE/Blood/Thrombotic%20thrombocytopenic%20purpura%20%28TTP%29/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Blood/Transfusion.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Blood/Transfusion.md",
+        "name": "Transfusion",
+        "dest_uri": "USMLE/Blood/Transfusion/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Blood/Transfusion/index.html",
+        "url": "USMLE/Blood/Transfusion/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Blood/Von Willebrand disease.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Blood/Von Willebrand disease.md",
+        "name": "Von Willebrand disease",
+        "dest_uri": "USMLE/Blood/Von Willebrand disease/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Blood/Von Willebrand disease/index.html",
+        "url": "USMLE/Blood/Von%20Willebrand%20disease/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Books/Radiology book.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Books/Radiology book.md",
+        "name": "Radiology book",
+        "dest_uri": "USMLE/Books/Radiology book/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Books/Radiology book/index.html",
+        "url": "USMLE/Books/Radiology%20book/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Books/The Only EKG book.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Books/The Only EKG book.md",
+        "name": "The Only EKG book",
+        "dest_uri": "USMLE/Books/The Only EKG book/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Books/The Only EKG book/index.html",
+        "url": "USMLE/Books/The%20Only%20EKG%20book/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Books/Ultrasound.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Books/Ultrasound.md",
+        "name": "Ultrasound",
+        "dest_uri": "USMLE/Books/Ultrasound/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Books/Ultrasound/index.html",
+        "url": "USMLE/Books/Ultrasound/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Cardiology/index.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Cardiology/index.md",
+        "name": "index",
+        "dest_uri": "USMLE/Cardiology/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Cardiology/index.html",
+        "url": "USMLE/Cardiology/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Cardiology/Acute pericarditis.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Cardiology/Acute pericarditis.md",
+        "name": "Acute pericarditis",
+        "dest_uri": "USMLE/Cardiology/Acute pericarditis/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Cardiology/Acute pericarditis/index.html",
+        "url": "USMLE/Cardiology/Acute%20pericarditis/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Cardiology/Arteriolosclerosis.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Cardiology/Arteriolosclerosis.md",
+        "name": "Arteriolosclerosis",
+        "dest_uri": "USMLE/Cardiology/Arteriolosclerosis/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Cardiology/Arteriolosclerosis/index.html",
+        "url": "USMLE/Cardiology/Arteriolosclerosis/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Cardiology/Atrioventricular block.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Cardiology/Atrioventricular block.md",
+        "name": "Atrioventricular block",
+        "dest_uri": "USMLE/Cardiology/Atrioventricular block/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Cardiology/Atrioventricular block/index.html",
+        "url": "USMLE/Cardiology/Atrioventricular%20block/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Cardiology/Cardiac transplatation.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Cardiology/Cardiac transplatation.md",
+        "name": "Cardiac transplatation",
+        "dest_uri": "USMLE/Cardiology/Cardiac transplatation/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Cardiology/Cardiac transplatation/index.html",
+        "url": "USMLE/Cardiology/Cardiac%20transplatation/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Cardiology/Cardiovascular examination.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Cardiology/Cardiovascular examination.md",
+        "name": "Cardiovascular examination",
+        "dest_uri": "USMLE/Cardiology/Cardiovascular examination/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Cardiology/Cardiovascular examination/index.html",
+        "url": "USMLE/Cardiology/Cardiovascular%20examination/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Cardiology/ECGs.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Cardiology/ECGs.md",
+        "name": "ECGs",
+        "dest_uri": "USMLE/Cardiology/ECGs/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Cardiology/ECGs/index.html",
+        "url": "USMLE/Cardiology/ECGs/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Cardiology/Fibrinous pericarditis.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Cardiology/Fibrinous pericarditis.md",
+        "name": "Fibrinous pericarditis",
+        "dest_uri": "USMLE/Cardiology/Fibrinous pericarditis/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Cardiology/Fibrinous pericarditis/index.html",
+        "url": "USMLE/Cardiology/Fibrinous%20pericarditis/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Cardiology/Hypercalcemia.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Cardiology/Hypercalcemia.md",
+        "name": "Hypercalcemia",
+        "dest_uri": "USMLE/Cardiology/Hypercalcemia/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Cardiology/Hypercalcemia/index.html",
+        "url": "USMLE/Cardiology/Hypercalcemia/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Cardiology/Infective endocarditis.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Cardiology/Infective endocarditis.md",
+        "name": "Infective endocarditis",
+        "dest_uri": "USMLE/Cardiology/Infective endocarditis/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Cardiology/Infective endocarditis/index.html",
+        "url": "USMLE/Cardiology/Infective%20endocarditis/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Cardiology/Long QT syndromes.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Cardiology/Long QT syndromes.md",
+        "name": "Long QT syndromes",
+        "dest_uri": "USMLE/Cardiology/Long QT syndromes/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Cardiology/Long QT syndromes/index.html",
+        "url": "USMLE/Cardiology/Long%20QT%20syndromes/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Cardiology/Rheumatic heart disease.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Cardiology/Rheumatic heart disease.md",
+        "name": "Rheumatic heart disease",
+        "dest_uri": "USMLE/Cardiology/Rheumatic heart disease/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Cardiology/Rheumatic heart disease/index.html",
+        "url": "USMLE/Cardiology/Rheumatic%20heart%20disease/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Cardiology/Supraventricular tachycardia.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Cardiology/Supraventricular tachycardia.md",
+        "name": "Supraventricular tachycardia",
+        "dest_uri": "USMLE/Cardiology/Supraventricular tachycardia/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Cardiology/Supraventricular tachycardia/index.html",
+        "url": "USMLE/Cardiology/Supraventricular%20tachycardia/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Cardiology/Thiazides.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Cardiology/Thiazides.md",
+        "name": "Thiazides",
+        "dest_uri": "USMLE/Cardiology/Thiazides/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Cardiology/Thiazides/index.html",
+        "url": "USMLE/Cardiology/Thiazides/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Cardiology/Vagal maneuver.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Cardiology/Vagal maneuver.md",
+        "name": "Vagal maneuver",
+        "dest_uri": "USMLE/Cardiology/Vagal maneuver/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Cardiology/Vagal maneuver/index.html",
+        "url": "USMLE/Cardiology/Vagal%20maneuver/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Cardiology/ectopic atrial rhythm.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Cardiology/ectopic atrial rhythm.md",
+        "name": "ectopic atrial rhythm",
+        "dest_uri": "USMLE/Cardiology/ectopic atrial rhythm/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Cardiology/ectopic atrial rhythm/index.html",
+        "url": "USMLE/Cardiology/ectopic%20atrial%20rhythm/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/GI/Absorption.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/GI/Absorption.md",
+        "name": "Absorption",
+        "dest_uri": "USMLE/GI/Absorption/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/GI/Absorption/index.html",
+        "url": "USMLE/GI/Absorption/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/GI/Pancreatic cancer.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/GI/Pancreatic cancer.md",
+        "name": "Pancreatic cancer",
+        "dest_uri": "USMLE/GI/Pancreatic cancer/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/GI/Pancreatic cancer/index.html",
+        "url": "USMLE/GI/Pancreatic%20cancer/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Infective disease/Legionnaires' disease.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Infective disease/Legionnaires' disease.md",
+        "name": "Legionnaires' disease",
+        "dest_uri": "USMLE/Infective disease/Legionnaires' disease/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Infective disease/Legionnaires' disease/index.html",
+        "url": "USMLE/Infective%20disease/Legionnaires%27%20disease/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Infective disease/Mycobacteria.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Infective disease/Mycobacteria.md",
+        "name": "Mycobacteria",
+        "dest_uri": "USMLE/Infective disease/Mycobacteria/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Infective disease/Mycobacteria/index.html",
+        "url": "USMLE/Infective%20disease/Mycobacteria/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
+        "name": "Antiphospholipid syndrome",
+        "dest_uri": "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome/index.html",
+        "url": "USMLE/Muscle%2C%20skin%2C%20and%20connective%20tissue/Antiphospholipid%20syndrome/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
+        "name": "Myasthenia gravis",
+        "dest_uri": "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Muscle, skin, and connective tissue/Myasthenia gravis/index.html",
+        "url": "USMLE/Muscle%2C%20skin%2C%20and%20connective%20tissue/Myasthenia%20gravis/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Muscle, skin, and connective tissue/Thymoma.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Muscle, skin, and connective tissue/Thymoma.md",
+        "name": "Thymoma",
+        "dest_uri": "USMLE/Muscle, skin, and connective tissue/Thymoma/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Muscle, skin, and connective tissue/Thymoma/index.html",
+        "url": "USMLE/Muscle%2C%20skin%2C%20and%20connective%20tissue/Thymoma/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Neurology/Headaches.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Neurology/Headaches.md",
+        "name": "Headaches",
+        "dest_uri": "USMLE/Neurology/Headaches/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Neurology/Headaches/index.html",
+        "url": "USMLE/Neurology/Headaches/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
+        "name": "Neonatal respiratory distress syndrome",
+        "dest_uri": "USMLE/Respiratory/Neonatal respiratory distress syndrome/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Respiratory/Neonatal respiratory distress syndrome/index.html",
+        "url": "USMLE/Respiratory/Neonatal%20respiratory%20distress%20syndrome/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Respiratory/Pneumonia.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Respiratory/Pneumonia.md",
+        "name": "Pneumonia",
+        "dest_uri": "USMLE/Respiratory/Pneumonia/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Respiratory/Pneumonia/index.html",
+        "url": "USMLE/Respiratory/Pneumonia/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Respiratory/Pulmonary embolism.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Respiratory/Pulmonary embolism.md",
+        "name": "Pulmonary embolism",
+        "dest_uri": "USMLE/Respiratory/Pulmonary embolism/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Respiratory/Pulmonary embolism/index.html",
+        "url": "USMLE/Respiratory/Pulmonary%20embolism/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Ultrasound/index.md",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/USMLE/Ultrasound/index.md",
+        "name": "index",
+        "dest_uri": "USMLE/Ultrasound/index.html",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/USMLE/Ultrasound/index.html",
+        "url": "USMLE/Ultrasound/"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/css/admonition.css",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/css/admonition.css",
+        "name": "admonition",
+        "dest_uri": "assets/css/admonition.css",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/css/admonition.css",
+        "url": "assets/css/admonition.css"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/css/custom_attributes.css",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/css/custom_attributes.css",
+        "name": "custom_attributes",
+        "dest_uri": "assets/css/custom_attributes.css",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/css/custom_attributes.css",
+        "url": "assets/css/custom_attributes.css"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/css/customization.css",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/css/customization.css",
+        "name": "customization",
+        "dest_uri": "assets/css/customization.css",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/css/customization.css",
+        "url": "assets/css/customization.css"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/127701f042d46e7958a823fce6249be.jpg",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/127701f042d46e7958a823fce6249be.jpg",
+        "name": "127701f042d46e7958a823fce6249be",
+        "dest_uri": "assets/img/127701f042d46e7958a823fce6249be.jpg",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/127701f042d46e7958a823fce6249be.jpg",
+        "url": "assets/img/127701f042d46e7958a823fce6249be.jpg"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230617214946.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230617214946.png",
+        "name": "Pasted image 20230617214946",
+        "dest_uri": "assets/img/Pasted image 20230617214946.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230617214946.png",
+        "url": "assets/img/Pasted%20image%2020230617214946.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230618204845.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230618204845.png",
+        "name": "Pasted image 20230618204845",
+        "dest_uri": "assets/img/Pasted image 20230618204845.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230618204845.png",
+        "url": "assets/img/Pasted%20image%2020230618204845.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230618205433.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230618205433.png",
+        "name": "Pasted image 20230618205433",
+        "dest_uri": "assets/img/Pasted image 20230618205433.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230618205433.png",
+        "url": "assets/img/Pasted%20image%2020230618205433.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230618214752.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230618214752.png",
+        "name": "Pasted image 20230618214752",
+        "dest_uri": "assets/img/Pasted image 20230618214752.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230618214752.png",
+        "url": "assets/img/Pasted%20image%2020230618214752.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230619221102.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230619221102.png",
+        "name": "Pasted image 20230619221102",
+        "dest_uri": "assets/img/Pasted image 20230619221102.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230619221102.png",
+        "url": "assets/img/Pasted%20image%2020230619221102.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230619221837.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230619221837.png",
+        "name": "Pasted image 20230619221837",
+        "dest_uri": "assets/img/Pasted image 20230619221837.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230619221837.png",
+        "url": "assets/img/Pasted%20image%2020230619221837.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230620211202.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230620211202.png",
+        "name": "Pasted image 20230620211202",
+        "dest_uri": "assets/img/Pasted image 20230620211202.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230620211202.png",
+        "url": "assets/img/Pasted%20image%2020230620211202.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230620213926.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230620213926.png",
+        "name": "Pasted image 20230620213926",
+        "dest_uri": "assets/img/Pasted image 20230620213926.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230620213926.png",
+        "url": "assets/img/Pasted%20image%2020230620213926.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230622145302.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230622145302.png",
+        "name": "Pasted image 20230622145302",
+        "dest_uri": "assets/img/Pasted image 20230622145302.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230622145302.png",
+        "url": "assets/img/Pasted%20image%2020230622145302.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230622205511.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230622205511.png",
+        "name": "Pasted image 20230622205511",
+        "dest_uri": "assets/img/Pasted image 20230622205511.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230622205511.png",
+        "url": "assets/img/Pasted%20image%2020230622205511.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230622220505.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230622220505.png",
+        "name": "Pasted image 20230622220505",
+        "dest_uri": "assets/img/Pasted image 20230622220505.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230622220505.png",
+        "url": "assets/img/Pasted%20image%2020230622220505.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230622223520.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230622223520.png",
+        "name": "Pasted image 20230622223520",
+        "dest_uri": "assets/img/Pasted image 20230622223520.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230622223520.png",
+        "url": "assets/img/Pasted%20image%2020230622223520.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230622223723.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230622223723.png",
+        "name": "Pasted image 20230622223723",
+        "dest_uri": "assets/img/Pasted image 20230622223723.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230622223723.png",
+        "url": "assets/img/Pasted%20image%2020230622223723.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230623160626.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230623160626.png",
+        "name": "Pasted image 20230623160626",
+        "dest_uri": "assets/img/Pasted image 20230623160626.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230623160626.png",
+        "url": "assets/img/Pasted%20image%2020230623160626.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230623172022.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230623172022.png",
+        "name": "Pasted image 20230623172022",
+        "dest_uri": "assets/img/Pasted image 20230623172022.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230623172022.png",
+        "url": "assets/img/Pasted%20image%2020230623172022.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230623214843.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230623214843.png",
+        "name": "Pasted image 20230623214843",
+        "dest_uri": "assets/img/Pasted image 20230623214843.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230623214843.png",
+        "url": "assets/img/Pasted%20image%2020230623214843.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230623220754.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230623220754.png",
+        "name": "Pasted image 20230623220754",
+        "dest_uri": "assets/img/Pasted image 20230623220754.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230623220754.png",
+        "url": "assets/img/Pasted%20image%2020230623220754.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230623224624.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230623224624.png",
+        "name": "Pasted image 20230623224624",
+        "dest_uri": "assets/img/Pasted image 20230623224624.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230623224624.png",
+        "url": "assets/img/Pasted%20image%2020230623224624.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230624132724.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230624132724.png",
+        "name": "Pasted image 20230624132724",
+        "dest_uri": "assets/img/Pasted image 20230624132724.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230624132724.png",
+        "url": "assets/img/Pasted%20image%2020230624132724.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230624133437.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230624133437.png",
+        "name": "Pasted image 20230624133437",
+        "dest_uri": "assets/img/Pasted image 20230624133437.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230624133437.png",
+        "url": "assets/img/Pasted%20image%2020230624133437.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230628215011.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230628215011.png",
+        "name": "Pasted image 20230628215011",
+        "dest_uri": "assets/img/Pasted image 20230628215011.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230628215011.png",
+        "url": "assets/img/Pasted%20image%2020230628215011.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230628215219.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230628215219.png",
+        "name": "Pasted image 20230628215219",
+        "dest_uri": "assets/img/Pasted image 20230628215219.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230628215219.png",
+        "url": "assets/img/Pasted%20image%2020230628215219.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230628223422.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230628223422.png",
+        "name": "Pasted image 20230628223422",
+        "dest_uri": "assets/img/Pasted image 20230628223422.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230628223422.png",
+        "url": "assets/img/Pasted%20image%2020230628223422.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230701151905.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230701151905.png",
+        "name": "Pasted image 20230701151905",
+        "dest_uri": "assets/img/Pasted image 20230701151905.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230701151905.png",
+        "url": "assets/img/Pasted%20image%2020230701151905.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230702142057.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/Pasted image 20230702142057.png",
+        "name": "Pasted image 20230702142057",
+        "dest_uri": "assets/img/Pasted image 20230702142057.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/Pasted image 20230702142057.png",
+        "url": "assets/img/Pasted%20image%2020230702142057.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/foo.jpg",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/img/foo.jpg",
+        "name": "foo",
+        "dest_uri": "assets/img/foo.jpg",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/img/foo.jpg",
+        "url": "assets/img/foo.jpg"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/meta/favicons.png",
+        "abs_src_path": "/data/data/com.termux/files/home/Notes-blog/docs/assets/meta/favicons.png",
+        "name": "favicons",
+        "dest_uri": "assets/meta/favicons.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/meta/favicons.png",
+        "url": "assets/meta/favicons.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/images/favicon.png",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/images/favicon.png",
+        "name": "favicon",
+        "dest_uri": "assets/images/favicon.png",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/images/favicon.png",
+        "url": "assets/images/favicon.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/bundle.b425cdc4.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/bundle.b425cdc4.min.js",
+        "name": "bundle.b425cdc4.min",
+        "dest_uri": "assets/javascripts/bundle.b425cdc4.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/bundle.b425cdc4.min.js",
+        "url": "assets/javascripts/bundle.b425cdc4.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/bundle.b425cdc4.min.js.map",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/bundle.b425cdc4.min.js.map",
+        "name": "bundle.b425cdc4.min.js",
+        "dest_uri": "assets/javascripts/bundle.b425cdc4.min.js.map",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/bundle.b425cdc4.min.js.map",
+        "url": "assets/javascripts/bundle.b425cdc4.min.js.map"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.ar.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.ar.min.js",
+        "name": "lunr.ar.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.ar.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.ar.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.ar.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.da.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.da.min.js",
+        "name": "lunr.da.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.da.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.da.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.da.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.de.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.de.min.js",
+        "name": "lunr.de.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.de.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.de.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.de.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.du.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.du.min.js",
+        "name": "lunr.du.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.du.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.du.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.du.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.es.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.es.min.js",
+        "name": "lunr.es.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.es.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.es.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.es.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.fi.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.fi.min.js",
+        "name": "lunr.fi.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.fi.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.fi.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.fi.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.fr.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.fr.min.js",
+        "name": "lunr.fr.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.fr.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.fr.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.fr.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.hi.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.hi.min.js",
+        "name": "lunr.hi.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.hi.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.hi.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.hi.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.hu.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.hu.min.js",
+        "name": "lunr.hu.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.hu.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.hu.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.hu.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.hy.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.hy.min.js",
+        "name": "lunr.hy.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.hy.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.hy.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.hy.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.it.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.it.min.js",
+        "name": "lunr.it.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.it.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.it.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.it.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.ja.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.ja.min.js",
+        "name": "lunr.ja.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.ja.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.ja.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.ja.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.jp.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.jp.min.js",
+        "name": "lunr.jp.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.jp.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.jp.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.jp.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.kn.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.kn.min.js",
+        "name": "lunr.kn.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.kn.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.kn.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.kn.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.ko.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.ko.min.js",
+        "name": "lunr.ko.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.ko.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.ko.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.ko.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.multi.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.multi.min.js",
+        "name": "lunr.multi.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.multi.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.multi.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.multi.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.nl.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.nl.min.js",
+        "name": "lunr.nl.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.nl.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.nl.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.nl.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.no.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.no.min.js",
+        "name": "lunr.no.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.no.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.no.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.no.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.pt.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.pt.min.js",
+        "name": "lunr.pt.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.pt.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.pt.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.pt.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.ro.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.ro.min.js",
+        "name": "lunr.ro.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.ro.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.ro.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.ro.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.ru.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.ru.min.js",
+        "name": "lunr.ru.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.ru.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.ru.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.ru.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.sa.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.sa.min.js",
+        "name": "lunr.sa.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.sa.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.sa.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.sa.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.stemmer.support.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.stemmer.support.min.js",
+        "name": "lunr.stemmer.support.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.stemmer.support.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.stemmer.support.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.stemmer.support.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.sv.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.sv.min.js",
+        "name": "lunr.sv.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.sv.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.sv.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.sv.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.ta.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.ta.min.js",
+        "name": "lunr.ta.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.ta.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.ta.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.ta.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.te.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.te.min.js",
+        "name": "lunr.te.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.te.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.te.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.te.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.th.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.th.min.js",
+        "name": "lunr.th.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.th.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.th.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.th.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.tr.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.tr.min.js",
+        "name": "lunr.tr.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.tr.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.tr.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.tr.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.vi.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.vi.min.js",
+        "name": "lunr.vi.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.vi.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.vi.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.vi.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/min/lunr.zh.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/min/lunr.zh.min.js",
+        "name": "lunr.zh.min",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.zh.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/min/lunr.zh.min.js",
+        "url": "assets/javascripts/lunr/min/lunr.zh.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/tinyseg.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/tinyseg.js",
+        "name": "tinyseg",
+        "dest_uri": "assets/javascripts/lunr/tinyseg.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/tinyseg.js",
+        "url": "assets/javascripts/lunr/tinyseg.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/lunr/wordcut.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/lunr/wordcut.js",
+        "name": "wordcut",
+        "dest_uri": "assets/javascripts/lunr/wordcut.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/lunr/wordcut.js",
+        "url": "assets/javascripts/lunr/wordcut.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/workers/search.208ed371.min.js",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/workers/search.208ed371.min.js",
+        "name": "search.208ed371.min",
+        "dest_uri": "assets/javascripts/workers/search.208ed371.min.js",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/workers/search.208ed371.min.js",
+        "url": "assets/javascripts/workers/search.208ed371.min.js"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/javascripts/workers/search.208ed371.min.js.map",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/javascripts/workers/search.208ed371.min.js.map",
+        "name": "search.208ed371.min.js",
+        "dest_uri": "assets/javascripts/workers/search.208ed371.min.js.map",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/javascripts/workers/search.208ed371.min.js.map",
+        "url": "assets/javascripts/workers/search.208ed371.min.js.map"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/stylesheets/main.26e3688c.min.css",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/stylesheets/main.26e3688c.min.css",
+        "name": "main.26e3688c.min",
+        "dest_uri": "assets/stylesheets/main.26e3688c.min.css",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/stylesheets/main.26e3688c.min.css",
+        "url": "assets/stylesheets/main.26e3688c.min.css"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/stylesheets/main.26e3688c.min.css.map",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/stylesheets/main.26e3688c.min.css.map",
+        "name": "main.26e3688c.min.css",
+        "dest_uri": "assets/stylesheets/main.26e3688c.min.css.map",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/stylesheets/main.26e3688c.min.css.map",
+        "url": "assets/stylesheets/main.26e3688c.min.css.map"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/stylesheets/palette.ecc896b0.min.css",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/stylesheets/palette.ecc896b0.min.css",
+        "name": "palette.ecc896b0.min",
+        "dest_uri": "assets/stylesheets/palette.ecc896b0.min.css",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/stylesheets/palette.ecc896b0.min.css",
+        "url": "assets/stylesheets/palette.ecc896b0.min.css"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/stylesheets/palette.ecc896b0.min.css.map",
+        "abs_src_path": "/data/data/com.termux/files/usr/lib/python3.11/site-packages/material/assets/stylesheets/palette.ecc896b0.min.css.map",
+        "name": "palette.ecc896b0.min.css",
+        "dest_uri": "assets/stylesheets/palette.ecc896b0.min.css.map",
+        "abs_dest_path": "/data/data/com.termux/files/home/Notes-blog/site/assets/stylesheets/palette.ecc896b0.min.css.map",
+        "url": "assets/stylesheets/palette.ecc896b0.min.css.map"
+    }
+]
