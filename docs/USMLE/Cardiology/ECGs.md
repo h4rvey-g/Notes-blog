@@ -31,6 +31,7 @@ on the LEFT, the T wave repolarization looks like a continuation of the S wave. 
 |       传导↓        |       传导↓        |
 |       自律↓        |       自律↑        |
 |       收缩↓        |     收缩↑（↓）     |
+
 - Mild hyperkalemia: 5.5–6.4 mEq/L 
     - <mark style="background: #FFF3A3A6;">Tall, peaked </mark>[T waves](https://next.amboss.com/us/article/pl0LBT#Z59877cde7bf58740a01493e8f3817758) (膜对K<sup>+</sup>通透性增过，复极化3期加速，反映为3期复极T波狭窄而高耸)
 - Moderate hyperkalemia: 6.5–8.0 mEq/L 
