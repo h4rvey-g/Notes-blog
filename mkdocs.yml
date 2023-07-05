@@ -1,7 +1,7 @@
 site_name: Harvey's Blog # Change this to your site name
 site_description: My personal blog sharing study notes!
 site_author: Harvey # Change this to your name
-site_url: https://www.guolab.live/ # Change this to your site URL
+site_url: https://www.h4rvey.com/ # Change this to your site URL
 repo_url: https://github.com/babaolanqiu/Notes-blog # Change this to your repo URL
 
 theme:
