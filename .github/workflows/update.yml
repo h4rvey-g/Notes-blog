@@ -8,5 +8,6 @@ jobs:
     uses: ObsidianPublisher/actions/.github/workflows/update.yml@main
     with:
       AUTO_MERGE: true
+      EXCLUDED-FILES: 'overrides/partials/comments.html'
     secrets:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
