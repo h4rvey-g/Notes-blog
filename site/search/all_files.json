@@ -1,6 +1,15 @@
 [
     {
         "page": null,
+        "src_uri": "index.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/index.md",
+        "name": "index",
+        "dest_uri": "index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/index.html",
+        "url": "./"
+    },
+    {
+        "page": null,
         "src_uri": "CNAME",
         "abs_src_path": "/home/howie/Notes-blog/docs/CNAME",
         "name": "CNAME",
@@ -19,12 +28,39 @@
     },
     {
         "page": null,
+        "src_uri": "Bioinformatics/Linux tricks/Untitled.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/Bioinformatics/Linux tricks/Untitled.md",
+        "name": "Untitled",
+        "dest_uri": "Bioinformatics/Linux tricks/Untitled/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/Bioinformatics/Linux tricks/Untitled/index.html",
+        "url": "Bioinformatics/Linux%20tricks/Untitled/"
+    },
+    {
+        "page": null,
+        "src_uri": "Bioinformatics/hmm/Cardio.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/Bioinformatics/hmm/Cardio.md",
+        "name": "Cardio",
+        "dest_uri": "Bioinformatics/hmm/Cardio/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/Bioinformatics/hmm/Cardio/index.html",
+        "url": "Bioinformatics/hmm/Cardio/"
+    },
+    {
+        "page": null,
         "src_uri": "USMLE/Questions.md",
         "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Questions.md",
         "name": "Questions",
         "dest_uri": "USMLE/Questions/index.html",
         "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Questions/index.html",
         "url": "USMLE/Questions/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Table of Contents.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Table of Contents.md",
+        "name": "Table of Contents",
+        "dest_uri": "USMLE/Table of Contents/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Table of Contents/index.html",
+        "url": "USMLE/Table%20of%20Contents/"
     },
     {
         "page": null,
@@ -154,6 +190,15 @@
     },
     {
         "page": null,
+        "src_uri": "USMLE/Blood/Table of Contents.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Blood/Table of Contents.md",
+        "name": "Table of Contents",
+        "dest_uri": "USMLE/Blood/Table of Contents/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Blood/Table of Contents/index.html",
+        "url": "USMLE/Blood/Table%20of%20Contents/"
+    },
+    {
+        "page": null,
         "src_uri": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
         "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
         "name": "Thrombotic thrombocytopenic purpura (TTP)",
@@ -172,6 +217,15 @@
     },
     {
         "page": null,
+        "src_uri": "USMLE/Blood/Untitled.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Blood/Untitled.md",
+        "name": "Untitled",
+        "dest_uri": "USMLE/Blood/Untitled/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Blood/Untitled/index.html",
+        "url": "USMLE/Blood/Untitled/"
+    },
+    {
+        "page": null,
         "src_uri": "USMLE/Blood/Von Willebrand disease.md",
         "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Blood/Von Willebrand disease.md",
         "name": "Von Willebrand disease",
@@ -187,6 +241,15 @@
         "dest_uri": "USMLE/Books/Radiology book/index.html",
         "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Books/Radiology book/index.html",
         "url": "USMLE/Books/Radiology%20book/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Books/Table of Contents.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Books/Table of Contents.md",
+        "name": "Table of Contents",
+        "dest_uri": "USMLE/Books/Table of Contents/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Books/Table of Contents/index.html",
+        "url": "USMLE/Books/Table%20of%20Contents/"
     },
     {
         "page": null,
@@ -214,6 +277,15 @@
         "dest_uri": "USMLE/Cardiology/index.html",
         "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Cardiology/index.html",
         "url": "USMLE/Cardiology/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Cardiology/Acute coronary syndrome.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Cardiology/Acute coronary syndrome.md",
+        "name": "Acute coronary syndrome",
+        "dest_uri": "USMLE/Cardiology/Acute coronary syndrome/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Cardiology/Acute coronary syndrome/index.html",
+        "url": "USMLE/Cardiology/Acute%20coronary%20syndrome/"
     },
     {
         "page": null,
@@ -325,12 +397,30 @@
     },
     {
         "page": null,
+        "src_uri": "USMLE/Cardiology/Table of Contents.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Cardiology/Table of Contents.md",
+        "name": "Table of Contents",
+        "dest_uri": "USMLE/Cardiology/Table of Contents/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Cardiology/Table of Contents/index.html",
+        "url": "USMLE/Cardiology/Table%20of%20Contents/"
+    },
+    {
+        "page": null,
         "src_uri": "USMLE/Cardiology/Thiazides.md",
         "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Cardiology/Thiazides.md",
         "name": "Thiazides",
         "dest_uri": "USMLE/Cardiology/Thiazides/index.html",
         "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Cardiology/Thiazides/index.html",
         "url": "USMLE/Cardiology/Thiazides/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Cardiology/Untitled.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Cardiology/Untitled.md",
+        "name": "Untitled",
+        "dest_uri": "USMLE/Cardiology/Untitled/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Cardiology/Untitled/index.html",
+        "url": "USMLE/Cardiology/Untitled/"
     },
     {
         "page": null,
@@ -370,6 +460,15 @@
     },
     {
         "page": null,
+        "src_uri": "USMLE/GI/Table of Contents.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/GI/Table of Contents.md",
+        "name": "Table of Contents",
+        "dest_uri": "USMLE/GI/Table of Contents/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/GI/Table of Contents/index.html",
+        "url": "USMLE/GI/Table%20of%20Contents/"
+    },
+    {
+        "page": null,
         "src_uri": "USMLE/Infective disease/Legionnaires' disease.md",
         "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Infective disease/Legionnaires' disease.md",
         "name": "Legionnaires' disease",
@@ -385,6 +484,15 @@
         "dest_uri": "USMLE/Infective disease/Mycobacteria/index.html",
         "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Infective disease/Mycobacteria/index.html",
         "url": "USMLE/Infective%20disease/Mycobacteria/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Infective disease/Table of Contents.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Infective disease/Table of Contents.md",
+        "name": "Table of Contents",
+        "dest_uri": "USMLE/Infective disease/Table of Contents/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Infective disease/Table of Contents/index.html",
+        "url": "USMLE/Infective%20disease/Table%20of%20Contents/"
     },
     {
         "page": null,
@@ -406,6 +514,15 @@
     },
     {
         "page": null,
+        "src_uri": "USMLE/Muscle, skin, and connective tissue/Table of Contents.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Muscle, skin, and connective tissue/Table of Contents.md",
+        "name": "Table of Contents",
+        "dest_uri": "USMLE/Muscle, skin, and connective tissue/Table of Contents/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Muscle, skin, and connective tissue/Table of Contents/index.html",
+        "url": "USMLE/Muscle%2C%20skin%2C%20and%20connective%20tissue/Table%20of%20Contents/"
+    },
+    {
+        "page": null,
         "src_uri": "USMLE/Muscle, skin, and connective tissue/Thymoma.md",
         "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Muscle, skin, and connective tissue/Thymoma.md",
         "name": "Thymoma",
@@ -424,12 +541,39 @@
     },
     {
         "page": null,
+        "src_uri": "USMLE/Neurology/Table of Contents.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Neurology/Table of Contents.md",
+        "name": "Table of Contents",
+        "dest_uri": "USMLE/Neurology/Table of Contents/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Neurology/Table of Contents/index.html",
+        "url": "USMLE/Neurology/Table%20of%20Contents/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Respiratory/Lung cancer.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Respiratory/Lung cancer.md",
+        "name": "Lung cancer",
+        "dest_uri": "USMLE/Respiratory/Lung cancer/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Respiratory/Lung cancer/index.html",
+        "url": "USMLE/Respiratory/Lung%20cancer/"
+    },
+    {
+        "page": null,
         "src_uri": "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
         "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
         "name": "Neonatal respiratory distress syndrome",
         "dest_uri": "USMLE/Respiratory/Neonatal respiratory distress syndrome/index.html",
         "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Respiratory/Neonatal respiratory distress syndrome/index.html",
         "url": "USMLE/Respiratory/Neonatal%20respiratory%20distress%20syndrome/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Respiratory/Paraneoplastic syndromes.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Respiratory/Paraneoplastic syndromes.md",
+        "name": "Paraneoplastic syndromes",
+        "dest_uri": "USMLE/Respiratory/Paraneoplastic syndromes/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Respiratory/Paraneoplastic syndromes/index.html",
+        "url": "USMLE/Respiratory/Paraneoplastic%20syndromes/"
     },
     {
         "page": null,
@@ -451,12 +595,48 @@
     },
     {
         "page": null,
+        "src_uri": "USMLE/Respiratory/Sarcoidosis.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Respiratory/Sarcoidosis.md",
+        "name": "Sarcoidosis",
+        "dest_uri": "USMLE/Respiratory/Sarcoidosis/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Respiratory/Sarcoidosis/index.html",
+        "url": "USMLE/Respiratory/Sarcoidosis/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Respiratory/Table of Contents.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Respiratory/Table of Contents.md",
+        "name": "Table of Contents",
+        "dest_uri": "USMLE/Respiratory/Table of Contents/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Respiratory/Table of Contents/index.html",
+        "url": "USMLE/Respiratory/Table%20of%20Contents/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Respiratory/Untitled.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Respiratory/Untitled.md",
+        "name": "Untitled",
+        "dest_uri": "USMLE/Respiratory/Untitled/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Respiratory/Untitled/index.html",
+        "url": "USMLE/Respiratory/Untitled/"
+    },
+    {
+        "page": null,
         "src_uri": "USMLE/Ultrasound/index.md",
         "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Ultrasound/index.md",
         "name": "index",
         "dest_uri": "USMLE/Ultrasound/index.html",
         "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Ultrasound/index.html",
         "url": "USMLE/Ultrasound/"
+    },
+    {
+        "page": null,
+        "src_uri": "USMLE/Ultrasound/Table of Contents.md",
+        "abs_src_path": "/home/howie/Notes-blog/docs/USMLE/Ultrasound/Table of Contents.md",
+        "name": "Table of Contents",
+        "dest_uri": "USMLE/Ultrasound/Table of Contents/index.html",
+        "abs_dest_path": "/home/howie/Notes-blog/site/USMLE/Ultrasound/Table of Contents/index.html",
+        "url": "USMLE/Ultrasound/Table%20of%20Contents/"
     },
     {
         "page": null,
@@ -721,6 +901,69 @@
     },
     {
         "page": null,
+        "src_uri": "assets/img/Pasted image 20230716173649.png",
+        "abs_src_path": "/home/howie/Notes-blog/docs/assets/img/Pasted image 20230716173649.png",
+        "name": "Pasted image 20230716173649",
+        "dest_uri": "assets/img/Pasted image 20230716173649.png",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/img/Pasted image 20230716173649.png",
+        "url": "assets/img/Pasted%20image%2020230716173649.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230720153101.png",
+        "abs_src_path": "/home/howie/Notes-blog/docs/assets/img/Pasted image 20230720153101.png",
+        "name": "Pasted image 20230720153101",
+        "dest_uri": "assets/img/Pasted image 20230720153101.png",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/img/Pasted image 20230720153101.png",
+        "url": "assets/img/Pasted%20image%2020230720153101.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230722174657.png",
+        "abs_src_path": "/home/howie/Notes-blog/docs/assets/img/Pasted image 20230722174657.png",
+        "name": "Pasted image 20230722174657",
+        "dest_uri": "assets/img/Pasted image 20230722174657.png",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/img/Pasted image 20230722174657.png",
+        "url": "assets/img/Pasted%20image%2020230722174657.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230723153231.png",
+        "abs_src_path": "/home/howie/Notes-blog/docs/assets/img/Pasted image 20230723153231.png",
+        "name": "Pasted image 20230723153231",
+        "dest_uri": "assets/img/Pasted image 20230723153231.png",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/img/Pasted image 20230723153231.png",
+        "url": "assets/img/Pasted%20image%2020230723153231.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230723153407.png",
+        "abs_src_path": "/home/howie/Notes-blog/docs/assets/img/Pasted image 20230723153407.png",
+        "name": "Pasted image 20230723153407",
+        "dest_uri": "assets/img/Pasted image 20230723153407.png",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/img/Pasted image 20230723153407.png",
+        "url": "assets/img/Pasted%20image%2020230723153407.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230723154313.png",
+        "abs_src_path": "/home/howie/Notes-blog/docs/assets/img/Pasted image 20230723154313.png",
+        "name": "Pasted image 20230723154313",
+        "dest_uri": "assets/img/Pasted image 20230723154313.png",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/img/Pasted image 20230723154313.png",
+        "url": "assets/img/Pasted%20image%2020230723154313.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/img/Pasted image 20230723155339.png",
+        "abs_src_path": "/home/howie/Notes-blog/docs/assets/img/Pasted image 20230723155339.png",
+        "name": "Pasted image 20230723155339",
+        "dest_uri": "assets/img/Pasted image 20230723155339.png",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/img/Pasted image 20230723155339.png",
+        "url": "assets/img/Pasted%20image%2020230723155339.png"
+    },
+    {
+        "page": null,
         "src_uri": "assets/img/foo.jpg",
         "abs_src_path": "/home/howie/Notes-blog/docs/assets/img/foo.jpg",
         "name": "foo",
@@ -736,6 +979,15 @@
         "dest_uri": "assets/meta/favicons.png",
         "abs_dest_path": "/home/howie/Notes-blog/site/assets/meta/favicons.png",
         "url": "assets/meta/favicons.png"
+    },
+    {
+        "page": null,
+        "src_uri": "assets/meta/logo_name.png",
+        "abs_src_path": "/home/howie/Notes-blog/docs/assets/meta/logo_name.png",
+        "name": "logo_name",
+        "dest_uri": "assets/meta/logo_name.png",
+        "abs_dest_path": "/home/howie/Notes-blog/site/assets/meta/logo_name.png",
+        "url": "assets/meta/logo_name.png"
     },
     {
         "page": null,
