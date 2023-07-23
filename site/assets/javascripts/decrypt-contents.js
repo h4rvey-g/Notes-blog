@@ -122,7 +122,7 @@ function decrypt_action(password_input, encrypted_content, decrypted_content) {
 function decryptor_reaction(content_decrypted, password_input, fallback_used, set_global, save_cookie) {
     let location_path;
     if (set_global) {
-        location_path = "/Notes-blog/"; //global password decrypts at "/{site_path}"
+        location_path = "/"; //global password decrypts at "/{site_path}"
     } else {
         location_path = encryptcontent_path;
     }
