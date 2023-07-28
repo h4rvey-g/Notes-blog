@@ -2,7 +2,7 @@ site_name: Harvey's Blog # Change this to your site name
 site_description: My personal blog sharing study notes!
 site_author: Harvey # Change this to your name
 site_url: https://www.h4rvey.com/ # Change this to your site URL
-repo_url: https://github.com/babaolanqiu/Notes-blog # Change this to your repo URL
+repo_url: https://github.com/h4rvey-g/Notes-blog # Change this to your repo URL
 
 theme:
     name: 'material'
@@ -139,6 +139,6 @@ extra:
     fix_heading: true
   social:
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/babaolanqiu
+      link: https://twitter.com/h4rvey-g
     - icon: fontawesome/brands/github
-      link: https://github.com/babaolanqiu
+      link: https://github.com/h4rvey-g
