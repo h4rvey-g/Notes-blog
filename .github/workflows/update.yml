@@ -2,7 +2,7 @@ name: Get latest release from template
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 */7 * *"
 jobs:
   update:
     uses: ObsidianPublisher/actions/.github/workflows/update.yml@main
