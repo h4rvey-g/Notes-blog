@@ -1,3 +1,155 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ccc33436a080d2025f3fb21da89c44044d32f4a6ec4a2ce0a74b1180c6777f15
-size 15309
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 750px;
+                 height: 750px;
+                 background-color: transparent;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Immune thrombocytopenia (ITP)", "label": "Immune thrombocytopenia (ITP)", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "../Muscle, skin, and connective tissue/Antiphospholipid syndrome", "label": "../Muscle, skin, and connective tissue/Antiphospholipid syndrome", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "./Splenomegaly", "label": "./Splenomegaly", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Leukocyte alkaline phosphatase", "label": "Leukocyte alkaline phosphatase", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "./Alkaline phosphatase", "label": "./Alkaline phosphatase", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Transfusion", "label": "Transfusion", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "0", "label": "0", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "7", "label": "7", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "The Only EKG book", "label": "The Only EKG book", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Ultrasound", "label": "Ultrasound", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "ECGs", "label": "ECGs", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "lead reversal", "label": "lead reversal", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "./ectopic atrial rhythm", "label": "./ectopic atrial rhythm", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "./Atrioventricular block Atrioventricular block", "label": "./Atrioventricular block Atrioventricular block", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "./Hypercalcemia", "label": "./Hypercalcemia", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "./Long QT syndromes", "label": "./Long QT syndromes", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Hypocalcemia", "label": "Hypocalcemia", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Fibrinous pericarditis", "label": "Fibrinous pericarditis", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "uremia", "label": "uremia", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Hypercalcemia", "label": "Hypercalcemia", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "./Thiazides", "label": "./Thiazides", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Supraventricular tachycardia", "label": "Supraventricular tachycardia", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "./Vagal maneuver", "label": "./Vagal maneuver", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Thiazides", "label": "Thiazides", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Legionnaires\u0027 disease", "label": "Legionnaires\u0027 disease", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "../Respiratory/Pneumonia", "label": "../Respiratory/Pneumonia", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Myasthenia gravis", "label": "Myasthenia gravis", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "./Thymoma", "label": "./Thymoma", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Thymoma", "label": "Thymoma", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "./Myasthenia gravis", "label": "./Myasthenia gravis", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Pneumonia", "label": "Pneumonia", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "../Blood/Anemia", "label": "../Blood/Anemia", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "tags", "label": "tags", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Questions", "label": "Questions", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "\u5355\u6297\u8bb0\u5fc6", "label": "\u5355\u6297\u8bb0\u5fc6", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Alkaline phosphatase", "label": "Alkaline phosphatase", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Anemia", "label": "Anemia", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Anticoagulants", "label": "Anticoagulants", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Autoimmune hemolytic anemia", "label": "Autoimmune hemolytic anemia", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Erythrocyte morphology and hemoglobin", "label": "Erythrocyte morphology and hemoglobin", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Hemophilia", "label": "Hemophilia", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Jaundice and cholestasis", "label": "Jaundice and cholestasis", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Macrocytic anemias", "label": "Macrocytic anemias", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Nucleated red blood cells", "label": "Nucleated red blood cells", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Splenomegaly", "label": "Splenomegaly", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Thrombotic thrombocytopenic purpura (TTP)", "label": "Thrombotic thrombocytopenic purpura (TTP)", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Von Willebrand disease", "label": "Von Willebrand disease", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "USMLE/Blood/index", "label": "USMLE/Blood/index", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Radiology book", "label": "Radiology book", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Acute pericarditis", "label": "Acute pericarditis", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Arteriolosclerosis", "label": "Arteriolosclerosis", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Atrioventricular block", "label": "Atrioventricular block", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Cardiac transplatation", "label": "Cardiac transplatation", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Cardiovascular examination", "label": "Cardiovascular examination", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Infective endocarditis", "label": "Infective endocarditis", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Long QT syndromes", "label": "Long QT syndromes", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Rheumatic heart disease", "label": "Rheumatic heart disease", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Vagal maneuver", "label": "Vagal maneuver", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "ectopic atrial rhythm", "label": "ectopic atrial rhythm", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "USMLE/Cardiology/index", "label": "USMLE/Cardiology/index", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Absorption", "label": "Absorption", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Pancreatic cancer", "label": "Pancreatic cancer", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Mycobacteria", "label": "Mycobacteria", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Antiphospholipid syndrome", "label": "Antiphospholipid syndrome", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Headaches", "label": "Headaches", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Neonatal respiratory distress syndrome", "label": "Neonatal respiratory distress syndrome", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Pulmonary embolism", "label": "Pulmonary embolism", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "USMLE/Ultrasound/index", "label": "USMLE/Ultrasound/index", "shape": "dot", "size": 10}]);
+                  edges = new vis.DataSet([{"from": "Immune thrombocytopenia (ITP)", "to": "../Muscle, skin, and connective tissue/Antiphospholipid syndrome", "width": 1}, {"from": "Immune thrombocytopenia (ITP)", "to": "./Splenomegaly", "width": 1}, {"from": "Leukocyte alkaline phosphatase", "to": "./Alkaline phosphatase", "width": 1}, {"from": "Transfusion", "to": "0", "width": 1}, {"from": "Transfusion", "to": "7", "width": 1}, {"from": "The Only EKG book", "to": "The Only EKG book", "width": 1}, {"from": "Ultrasound", "to": "Ultrasound", "width": 1}, {"from": "ECGs", "to": "lead reversal", "width": 1}, {"from": "ECGs", "to": "./ectopic atrial rhythm", "width": 1}, {"from": "ECGs", "to": "./Atrioventricular block Atrioventricular block", "width": 1}, {"from": "ECGs", "to": "./Hypercalcemia", "width": 1}, {"from": "ECGs", "to": "./Long QT syndromes", "width": 1}, {"from": "ECGs", "to": "Hypocalcemia", "width": 1}, {"from": "Fibrinous pericarditis", "to": "uremia", "width": 1}, {"from": "Hypercalcemia", "to": "./Thiazides", "width": 1}, {"from": "Supraventricular tachycardia", "to": "./Vagal maneuver", "width": 1}, {"from": "Thiazides", "to": "./Hypercalcemia", "width": 1}, {"from": "Legionnaires\u0027 disease", "to": "../Respiratory/Pneumonia", "width": 1}, {"from": "Myasthenia gravis", "to": "./Thymoma", "width": 1}, {"from": "Thymoma", "to": "./Myasthenia gravis", "width": 1}, {"from": "Pneumonia", "to": "Pneumonia", "width": 1}, {"from": "Pneumonia", "to": "../Blood/Anemia", "width": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
