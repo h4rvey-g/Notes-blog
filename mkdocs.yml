@@ -10,8 +10,8 @@ theme:
     favicon: assets/meta/favicons.png
     custom_dir: overrides
     font:
-        text: Ubuntu
-        code: Ubuntu Mono
+        text: Roboto
+        code: Roboto Mono
     language: en
     palette:
 
