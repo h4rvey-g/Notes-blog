@@ -20,17 +20,22 @@ function proxy(){
  https_proxy = http://your.proxy
  use_proxy = on
  " > ~/.wgetrc
+ echo "[https]
+ 	proxy = http://your.proxy
+ [http]
+ 	proxy = http://your.proxy" >> ~/.gitconfig
 }
 
 function noproxy(){
  unset {HTTP,HTTPS}_PROXY
  echo "" > ~/.wgetrc
+ sed -i '/\[https\]/,+3d' ~/.gitconfig
 }
 ```
 
 Explanation:
-- The `proxy()` function sets the HTTP_PROXY and HTTPS_PROXY environment variables to the desired proxy server address. It also updates the ~/.wgetrc file with the proxy settings.
-- The `noproxy()` function unsets the HTTP_PROXY and HTTPS_PROXY environment variables and clears the ~/.wgetrc file.
+- The `proxy()` function sets the HTTP_PROXY and HTTPS_PROXY environment variables to the desired proxy server address. It also updates the ~/.wgetrc file  and ~/.gitconfig file with the proxy settings.
+- The `noproxy()` function unsets the HTTP_PROXY and HTTPS_PROXY environment variables and clears the ~/.wgetrc file and ~/.gitconfig file .
 
 Save the .bashrc file and exit the text editor.
 
