@@ -52,14 +52,21 @@ share: true
 
 ---
 # Clinical features
-<% tp.file.cursor() %>
+
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+## Overview of pharmacotherapy
+![[../../assets/img/Pasted image 20230813144806.png|Pasted image 20230813144806.png]]
+![[../../assets/img/Pasted image 20230813145615.png|Pasted image 20230813145615.png]]
+>[!warning] 
+>The use of muscarinic agonists may lead to urinary urgency, while the use of sympathomimetics or muscarinic antagonists may lead to urinary retention, especially if there is an untreated outlet obstruction.
+
+>[!tip] 
+>No pharmacological therapies are FDA-approved for stress incontinence; treatment is primarily conservative with surgery.
 
 ---
