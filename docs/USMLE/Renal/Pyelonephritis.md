@@ -27,7 +27,11 @@ share: true
 	- Positive nitrites on dipstick test indicate bacteria that convert nitrates to nitrites.
 	- Hematuria (including microhematuria)
 - Other findings
-WBC casts: rare finding, but considered to be a strong indicator for pyelonephriti
+	- WBC casts: rare finding, but considered to be a strong indicator for pyelonephritis
+
+---
+# Differential diagnosis
+Pyelonephritis vs Cystitis![[../../assets/img/Pasted image 20230811161233.png|Pasted image 20230811161233.png]]
 
 ---
 # Treatment
