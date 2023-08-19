@@ -11,4 +11,4 @@ Hi👋 My name is Harvey Guo. I am passionate about both medicine and bioinforma
 
 If you have any questions, comments, or suggestions, please feel free to reach out to me. You can contact me at howieguo8@outlook.com.
 
-Happy reading and learning!
+Happy reading and learning😊!
