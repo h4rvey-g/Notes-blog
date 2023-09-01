@@ -22,7 +22,7 @@ The differential diagnosis of a regular narrow tachycardia in general includes 5
 ![Multifocal Atrial Tachycardia (MAT) • At least 3 different ... | GrepMed](https://img.grepmed.com/uploads/5407/multifocal-tachycardia-ecg-cardiology-diagnosis-original.png)
 **Differentiate from <mark style="background: #FFF3A34A;">[[./ectopic atrial rhythm|ectopic atrial rhythm]]</mark>.** In [[./ectopic atrial rhythm|ectopic atrial rhythm]], the P-wave morphology remains consistent as the PACs originate from a single ectopic focus. In contrast, multifocal atrial rhythm shows varying P-wave morphologies from beat to beat, reflecting the random discharge of multiple ectopic atrial foci [4].
 #  Early repolarization
-![[../../assets/img/Pasted image 20230617214946.png|Pasted image 20230617214946]]
+![[../../assets/img/Pasted image 20230617214946.png|Pasted image 20230617214946.png]]
 on the LEFT, the T wave repolarization looks like a continuation of the S wave. This is not ST elevation and is seen often in young adults. It is called benign early repolarization. On the right, you clearly see the completion of the S wave and a clear ST Segment which allows you to do an accurate ST Elevation measurement.
 # Premature Atrial Complex (PAC)
 A premature atrial complex (PAC) is a <mark style="background: #FFF3A34A;">premature beat arising from ectopic pacemaking tissue within the atria</mark>. There is an abnormal P wave, usually followed by a normal QRS complex. AKA: Atrial ectopics, atrial extrasystoles, atrial premature beats, atrial premature depolarisations.
@@ -33,6 +33,15 @@ A premature atrial complex (PAC) is a <mark style="background: #FFF3A34A;">prema
 >	- The abnormal P wave may be hidden in the preceding T wave, producing a “peaked” or “camel hump” appearance
 >- Post-extrasystolic pauses may be present — PACs that reach the SA node may depolarise it, causing the SA node to be “reset”, with a longer-than-normal interval before the next sinus beat arrives
 >- PACs may also be conducted aberrantly (usually RBBB morphology), or not conducted at all. P waves will still be visible in both cases
+
+# Premature Ventricular Complex (PVC)
+- Broad QRS complex (≥ 120 ms) with abnormal morphology
+- Premature — i.e. occurs earlier than would be expected for the next sinus impulse
+- Discordant ST segment and T wave changes.
+	-  ST segment and T wave are directed opposite to the main vector of the QRS complex
+- Usually followed by a full compensatory pause
+- Retrograde capture of the atria may or may not occur
+![[../../assets/img/Pasted image 20230822211003.png|Pasted image 20230822211003.png]]
 # Hyperkalemia
 | 高钾血症：三低一高 | 低钾血症：三高一低 |
 |:------------------:|:------------------:|
@@ -96,6 +105,17 @@ Characteristic findings include:
 - Right ventricular hypertrophy (e.g., right axis deviation, dominant R wave in lead V1) 
 ![[../../assets/img/Pasted image 20230622223520.png|Pasted image 20230622223520.png]]
 ![[../../assets/img/Pasted image 20230622223723.png|Pasted image 20230622223723.png]]
+# Accelerated Idioventricular Rhythm
+AIVR, also known as Accelerated Ventricular Rhythm, results when the <span style="background:rgba(240, 200, 0, 0.2)">rate of an ectopic ventricular pacemaker exceeds that of the sinus node</span>. Often associated with <span style="background:rgba(240, 200, 0, 0.2)">increased vagal tone and decreased sympathetic tone</span>.
+## Features
+- Regular rhythm
+- Rate typically 50-120 bpm
+- Three or more ventricular complexes; QRS duration > 120ms
+- Fusion and capture beats
+## Pathophysiology
+- Proposed mechanism is <span style="background:rgba(240, 200, 0, 0.2)">enhanced automaticity of ventricular pacemaker</span>, although triggered activity may play a role, particularly in ischemia and digoxin toxicity
+- <span style="background:rgba(240, 200, 0, 0.2)">AIVR is classically seen in the reperfusion phase of an acute STEMI, e.g. post thrombolysis</span>
+- Usually a well-tolerated, benign, self-limiting arrhythmia
 # STEMI
 ![[../../assets/img/Pasted image 20230623220754.png|Pasted image 20230623220754.png]]
 Timeline of ECG changes in STEMI
@@ -105,6 +125,8 @@ The sequence of ECG changes over several hours to days: hyperacute T wave → ST
 Top: normal Q wave  
 Bottom: pathological Q wave with a duration ≥0.04 s and depth >¼ of R wave amplitude (red and green overlays)
 ![[../../assets/img/Pasted image 20230628215219.png|Pasted image 20230628215219.png]]
+## Ventricular aneurysm
+The pattern of <span style="background:rgba(240, 200, 0, 0.2)">persistent anterior ST elevation (> 2 weeks after STEMI)</span> plus <span style="background:rgba(240, 200, 0, 0.2)">pathological Q waves</span> has a sensitivity of 38% and a specificity of 84% for the diagnosis of ventricular aneurysm.![[../../assets/img/Pasted image 20230827215152.png|Pasted image 20230827215152.png]]
 # ECG Motion Artefacts
 ## **Parkinsonian tremor:**
 ![[../../assets/img/Pasted image 20230722214804.png|Pasted image 20230722214804.png]]
@@ -145,7 +167,7 @@ Depression: ≥ 0.05 mV (or 0.5 mm) in leads V2 and V3 or ≥ 0.1 mV in all 
 	- Prinzmetal angina
 - T wave inversion (inverted T wave)
 	- May be a normal finding in:
-		- Leads III, aVR, or V1
+		- Leads III, aVR, or <span style="background:rgba(240, 200, 0, 0.2)">V1</span>
 		- Children
 	- <mark style="background: #FFF3A34A;">Coronary artery disease (myocardial ischemia)</mark>
 	- Bundle branch blocks
@@ -164,4 +186,5 @@ Prolonged QT: Congenital [[./Long QT syndromes|Long QT syndromes]], Drug side ef
 - [[./Atrial flutter|Atrial flutter]]: 250-300/min -- about 1 small block
 - [[./Atrial fibrillation|Atrial fibrillation]]: 350-400/min -- less than 1 small block
 - Atrial tachycardia, AVNRT: 130-240 -- 1-2 small block
+- Ventricular tachycardia: >100 -- less than 3 small blocks
 
