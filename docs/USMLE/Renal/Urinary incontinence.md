@@ -6,8 +6,8 @@ aliases: Untitled
 share: true
 ---
 # Epidemiology
-- Stress incontinence and mixed incontinence are the most common types of incontinence in female patients.
-- Urge incontinence is the most common type in male patients.
+- [[./Stress incontinence|Stress incontinence]] and mixed incontinence are the most common types of incontinence in female patients.
+- [[./Urge incontinence|Urge incontinence]] is the most common type in male patients.
 
 ---
 # Etiology
@@ -24,15 +24,15 @@ share: true
 	- Pelvic floor weakness
 - Transient causes of urinary incontinence
 	- Drugs (e.g., diuretics)
-	- Urinary tract infections
+	- [[./Urinary tract infections|Urinary tract infections]]
 	- Postmenopausal atrophic urethritis
 	- Psychiatric causes (especially depression, delirium/confused state)
 	- Excessive urinary output (in conditions like hyperglycemia, [[../Cardiology/Hypercalcemia|hypercalcemia]], CHF)
 	- Stool impaction
 - General risk factors
-	- Recurrent urinary tract infections
+	- Recurrent [[./Urinary tract infections|urinary tract infections]]
  >[!Mnemonic] 
->To remember the reversible causes of acute urinary incontinence, think DIAPPERS: Delirium/confusion, Infection, Atrophic urethritis/vaginitis, Pharmaceutical, Psychiatric causes (especially depression), Excessive urinary output (hyperglycemia, hypercalcemia, CHF), Restricted mobility, Stool impaction.
+>To remember the reversible causes of acute urinary incontinence, think DIAPPERS: Delirium/confusion, Infection, Atrophic urethritis/vaginitis, Pharmaceutical, Psychiatric causes (especially depression), Excessive urinary output (hyperglycemia, [[../Cardiology/Hypercalcemia|hypercalcemia]], CHF), Restricted mobility, Stool impaction.
 
 ---
 # Classifications
@@ -48,6 +48,18 @@ share: true
 ### Treatment
 - [[./Intermittent catheterization|Intermittent catheterization]]: for scheduled bladder emptying
 	- Intermittent -> prevention of catheter-associated UTIs and is favored by most patients; indwelling catheters may be considered if necessary.
+## ![[./Stress incontinence|Stress incontinence]]
+## ![[./Urge incontinence|Urge incontinence]]
+## Neurogenic bladder dysfunction
+### Mechanism
+detrusor sphincter dyssynergia
+- <span style="background:rgba(240, 200, 0, 0.2)">Simultaneous contractions of the detrusor muscle and involuntary activation of the urethral sphincter → blockage of bladder outlet</span> → small amounts of urine are pressed through the contracted sphincter muscle → high intravesical pressure along with inappropriate contraction of the urethral sphincter
+- Commonly seen in <span style="background:rgba(240, 200, 0, 0.2)">multiple sclerosis and spinal cord injury </span>
+### Clinical features
+- Voiding and/or storage dysfunction, intermittent voiding, urinary retention
+- Irregular, small volume incontinence without an associated urge to void (sometimes referred to as reflex incontinence)
+## Total incontinence
+<span style="background:rgba(240, 200, 0, 0.2)">Complete loss of sphincter function (due to previous surgery, nerve damage, metastasis) → Urinary leakage occurs at all times</span>
 
 
 ---
@@ -67,6 +79,6 @@ share: true
 >The use of muscarinic agonists may lead to urinary urgency, while the use of sympathomimetics or muscarinic antagonists may lead to urinary retention, especially if there is an untreated outlet obstruction.
 
 >[!tip] 
->No pharmacological therapies are FDA-approved for stress incontinence; treatment is primarily conservative with surgery.
+>No pharmacological therapies are FDA-approved for [[./Stress incontinence|stress incontinence]]; treatment is primarily conservative with surgery.
 
 ---
