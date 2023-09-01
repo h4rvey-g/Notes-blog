@@ -7,6 +7,8 @@ aliases: <% tp.file.title %>
 share: true
 ---
 - [[./Antiphospholipid syndrome|Antiphospholipid syndrome]]
+- [[./Atopic dermatitis|Atopic dermatitis]]
 - [[./Myasthenia gravis|Myasthenia gravis]]
+- [[./Polymyalgia rheumatica|Polymyalgia rheumatica]]
 - [[./Thymoma|Thymoma]]
 
