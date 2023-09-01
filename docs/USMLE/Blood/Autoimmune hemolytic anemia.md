@@ -3,13 +3,12 @@ title: Autoimmune hemolytic anemia
 author: Harvey Guo
 created: <% tp.file.creation_date() %>
 modified: <% tp.file.last_modified_date() %>
-aliases: <% tp.file.title %>
+aliases: AIHA
 share: true
 ---
 
-<mark style="background: #FFF3A34A;">In warm AIHA - we have IgG which is much better fits for splenic macrophage FC receptor - so it causes more extravascular hemolysis.
-
-In cold AIHA IgM is much better activates complement in the blood - intravascular hemolysis.</mark>
+- In warm AIHA - we have IgG which is much better fits for splenic macrophage FC receptor - so it causes more extravascular hemolysis.
+- In cold AIHA IgM is much better activates complement in the blood - intravascular hemolysis.
 
 But basically they all cause some degree of both intra and extravascular hemolysis
 

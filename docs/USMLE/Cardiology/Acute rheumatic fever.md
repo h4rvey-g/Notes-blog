@@ -45,10 +45,10 @@ share: true
 	- ECG features of pericarditis
 
 >[!tip] 
->Whenever you see marked left atrial abnormality or [[./Atrial fibrillation|atrial fibrillation]] in the presence of right ventricular hypertrophy signs, always think about rheumatic mitral valve disease. Mitral stenosis is the only single lesion that can readily account for the combination of left atrial enlargement and right ventricular hypertrophy.
+>Whenever you see marked <span style="background:rgba(240, 200, 0, 0.2)">left atrial abnormality or [[./Atrial fibrillation|atrial fibrillation]] in the presence of right ventricular hypertrophy signs</span>, always think about rheumatic mitral valve disease. Mitral stenosis is the only single lesion that can readily account for the combination of left atrial enlargement and right ventricular hypertrophy.
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---

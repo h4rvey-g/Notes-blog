@@ -21,7 +21,6 @@ share: true
 # Pathophysiology
 ### Common underlying pathophysiology
 Asthma is an inflammatory disease driven by [T-helper](https://next.amboss.com/us/article/x50Emg#Z6a2460ca0dfc90387c336ab076439b5c) type 2 cells ([Th2-cell](https://next.amboss.com/us/article/x50Emg#Z59080180352611810fa453a84c8c48cd)) that manifests in individuals with a genetic predisposition. It consists of the following three pathophysiologic processes:
-
 1. Bronchial hyperresponsiveness
 2. Bronchial inflammation
 3. Endobronchial obstruction caused by:

@@ -24,7 +24,7 @@ share: true
 - Wide QRS complex may be seen in some situations:
 	- Aberrant conduction, e.g., bundle branch block or preexcitation (as seen in Afib with WPW)
 	- Complete AV block with a ventricular escape rhythm
-	- [[./Ashman phenomenon|Ashman phenomenon]]: intermittent aberrant ventricular conduction results in isolated or short runs of wide QRS complexes
+	- [[./Ashman phenomenon|Ashman phenomenon]]: intermittent aberrant ventricular conduction results in isolated or short runs of wide QRS complexes![[../../assets/img/Pasted image 20230825210145.png|Pasted image 20230825210145.png]]
 
 >[!warning] 
 >Wide QRS complex may indicate preexcited Afib or aberrant conduction.

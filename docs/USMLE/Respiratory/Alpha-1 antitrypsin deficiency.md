@@ -27,7 +27,7 @@ mutations in SERPINA1 gene
 - Hepatic manifestations
 	- Prolonged neonatal jaundice
 	- Hepatitis
-	- Cirrhosis
+	- <mark style="background: #FFF3A34A;">Cirrhosis</mark>
 	- Increased risk of hepatocellular carcinoma (HCC)
 		- Patients with AAT deficiency are at risk of developing liver cirrhosis with subsequent HCC. HCC can also develop in the absence of cirrhosis.
 

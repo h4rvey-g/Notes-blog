@@ -13,7 +13,7 @@ Definition: percentage of the glomerular filtered sodium (Na<sub>Filtered</sub>)
 $$Fe_{Na}=Na_{Excreted}/Na_{Filtered}$$
 $$Fe_{Na}=\frac{Na_{Urine}}{Cr_{Urine}} \div \frac{Na_{Plasma}}{Cr_{Plasma}}=\frac{Na_{Urine}\times Cr_{Plasma}}{Na_{Plasma}\times Cr_{Urine}}$$
 # Interpretation
-- In acute kidney injury
+- In [[./Acute kidney injury|acute kidney injury]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Low FeNa (&lt; 1%): indicates a prerenal cause (renal hypoperfusion)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">High FeNa (> 2%): indicates an intrarenal etiology (e.g., acute tubular necrosis)</span>
 	- Inconclusive FeNa (1–2%): can be seen with either disorder

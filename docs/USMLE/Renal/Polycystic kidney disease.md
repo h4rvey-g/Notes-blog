@@ -24,8 +24,9 @@ formation and expansion of cysts in the renal cortex and medulla → <span style
 	- <span style="background:rgba(240, 200, 0, 0.2)">Cysts develop over many years</span>.
 - Renal manifestations
 	- <span style="background:rgba(240, 200, 0, 0.2)">Gross hematuria</span>
-	- Flank or abdominal pain
-	- Recurrent [[./Urinary tract infections|urinary tract infections]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Flank or abdominal pain</span>
+		- The pain is often dull and persistent and is thought to be caused by stretching of the wall of a cyst or pressure on other organs when the kidneys and/or liver are very large.
+	- <span style="background:rgba(240, 200, 0, 0.2)">Recurrent [[./Urinary tract infections|urinary tract infections]]</span>
 	- [[./Nephrolithiasis|Nephrolithiasis]]
 	- Kidneys might be palpable and enlarged on abdominal exam (they are usually normal at birth)
 	- Signs of chronic kidney disease (e.g., hypertension, fluid overload, uremia)
