@@ -18,7 +18,7 @@ share: true
 - Hemoptysis
 - Cough
 - Dyspnea
-- Nephritic syndrome
+- [[./Nephritic syndrome|Nephritic syndrome]]
 	- Usually presents as [[./Rapidly progressive glomerulonephritis|RPGN]] type 1
 	- Proliferative glomerulonephritis
 
