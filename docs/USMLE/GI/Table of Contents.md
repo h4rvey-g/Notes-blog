@@ -7,5 +7,6 @@ aliases: <% tp.file.title %>
 share: true
 ---
 - [[./Absorption|Absorption]]
+- [[./Celiac disease|Celiac disease]]
 - [[./Pancreatic cancer|Pancreatic cancer]]
 
