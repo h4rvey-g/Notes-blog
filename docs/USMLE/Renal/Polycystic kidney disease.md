@@ -2,7 +2,7 @@
 author: Harvey Guo
 created: 2023-08-24 15:19
 modified: 2023-08-24 15:19
-aliases: Untitled
+aliases: PKD
 share: true
 ---
 It is classified into two distinct disorders: autosomal recessive PKD (ARPKD) and autosomal dominant PKD (ADPKD).
@@ -11,7 +11,14 @@ ADPKD: The most common inherited cause of chronic kidney disease
 
 ---
 # Etiology
-
+- ADPKD
+	- PKD1 on chromosome 16 (85% of cases)
+	- PKD2 on chromosome 4 (15% of cases)
+ - ARPKD
+	 - Mutation in PKHD1 gene on chromosome 6
+  
+>[!Mnemonic] 
+>Polycystic Kidney = 16 letters! = Chromosome 16
 
 ---
 # Pathophysiology

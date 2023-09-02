@@ -42,6 +42,22 @@ A premature atrial complex (PAC) is a <mark style="background: #FFF3A34A;">prema
 - Usually followed by a full compensatory pause
 - Retrograde capture of the atria may or may not occur
 ![[../../assets/img/Pasted image 20230822211003.png|Pasted image 20230822211003.png]]
+# Junctional Escape Rhythm
+- Junctional rhythm with a rate of 40-60 bpm
+- QRS complexes are typically narrow (< 120 ms)
+- No relationship between the QRS complexes and any preceding atrial activity (e.g. P-waves, flutter waves, fibrillatory waves)![[../../assets/img/Pasted image 20230901211330.png|Pasted image 20230901211330.png]]
+## Mechanism
+Pacemaker cells are found at various sites throughout the conducting system, with each site capable of independently sustaining the heart rhythm. The rate of spontaneous depolarization of pacemaker cells decreases down the conducting system:
+- SA node (60-100 bpm)
+- Atria (< 60 bpm)
+- AV node (40-60 bpm)
+- Ventricles (20-40 bpm)
+Under normal conditions, subsidiary pacemakers are suppressed by the more rapid impulses from above (i.e. sinus rhythm). <span style="background:rgba(240, 200, 0, 0.2)">Junctional and ventricular escape rhythms arise when the rate of supraventricular impulses arriving at the AV node or ventricle is less than the intrinsic rate of the ectopic pacemaker.</span>
+>[!tip] Terminology
+>- **Junctional bradycardia** = junctional rhythm at a rate of < 40 bpm
+>- **Junctional escape rhythm** = junctional rhythm at a rate of 40-60 bpm
+>- **Accelerated junctional rhythm** = junctional rhythm at 60-100 bpm
+>- **Junctional tachycardia** = junctional rhythm at > 100 bpm
 # Hyperkalemia
 | 高钾血症：三低一高 | 低钾血症：三高一低 |
 |:------------------:|:------------------:|
