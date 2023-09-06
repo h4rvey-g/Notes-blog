@@ -5,14 +5,14 @@ modified: 2023-08-24 16:39
 aliases: Untitled
 share: true
 ---
-# Nephrotic syndrome
+# [[./Nephrotic syndrome|Nephrotic syndrome]]
 ## [[./Membranous nephropathy|Membranous nephropathy]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Subepithelial (aka on basement membrane)</span> deposits of IgG and C3 (dense deposits) → spike and dome appearance
 - ![[../../assets/img/Pasted image 20230825144153.png|Pasted image 20230825144153.png]]![[../../assets/img/Pasted image 20230825151926.png|Pasted image 20230825151926.png]]
 - ![[../../assets/img/Pasted image 20230824164048.png|Pasted image 20230824164048.png]]
 
 ---
-# Nephritic syndrome
+# [[./Nephritic syndrome|Nephritic syndrome]]
 ## [[./Poststreptococcal glomerulonephritis|Poststreptococcal glomerulonephritis]]
 Characteristic by granular (​ lumpy-bumpy​ ) pattern of staining of the GBM![[../../assets/img/Pasted image 20230826151448.png|Pasted image 20230826151448.png]]![[../../assets/img/Pasted image 20230826154120.png|Pasted image 20230826154120.png]]
 ## [[./Membranoproliferative glomerulonephritis|Membranoproliferative glomerulonephritis]]
@@ -27,3 +27,5 @@ Characteristic by granular (​ lumpy-bumpy​ ) pattern of staining of the GBM!
 - C3 can also be identified in mesangium in the ring shaped aggregates
 # [[./IgA nephropathy|IgA nephropathy]]
 Note that the pattern is that of mesangial deposition in the glomerulus.![[../../assets/img/Pasted image 20230826155137.png|Pasted image 20230826155137.png]]
+# [[./Goodpasture syndrome|Goodpasture syndrome]]
+This immunofluorescence pattern shows positivity with antibody to IgG and has a <span style="background:rgba(240, 200, 0, 0.2)">smooth, diffuse, linear pattern</span> that is characteristic for deposition of glomerular basement membrane antibody with Goodpasture syndrome. Serologic testing for anti-GBM in patient serum is often positive.![[../../assets/img/Pasted image 20230902153858.png|Pasted image 20230902153858.png]]
