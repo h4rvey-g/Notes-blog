@@ -8,7 +8,7 @@ share: true
 >[!Mnemonic] Remember these alphabetically 
 >![[../../assets/img/Pasted image 20230829160609.png|Pasted image 20230829160609.png]]
 # Etiology
-
+- Drugs: acetazolamide
 
 ---
 # Pathophysiology
@@ -22,6 +22,10 @@ Type 2 renal tubular acidosis is characterized by a dysfunctional <span style="b
 ---
 # Diagnostics
 <% tp.file.cursor() %>
+
+---
+# Differential diagnosis
+![[../../assets/img/Pasted image 20230904152706.png|Pasted image 20230904152706.png]]
 
 ---
 # Treatment
