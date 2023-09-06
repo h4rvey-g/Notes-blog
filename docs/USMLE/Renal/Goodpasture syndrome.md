@@ -10,7 +10,7 @@ share: true
 
 ---
 # Pathophysiology
-- Auto-antibodies against collagen type IV in the renal and pulmonary capillary basement membrane
+- <span style="background:rgba(240, 200, 0, 0.2)">Auto-antibodies against collagen type IV</span> in the renal and pulmonary capillary basement membrane
 - Possibly triggered by viral infections, lymphoma
 
 ---
@@ -30,6 +30,6 @@ share: true
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
