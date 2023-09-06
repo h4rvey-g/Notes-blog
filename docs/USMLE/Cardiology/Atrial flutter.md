@@ -20,7 +20,7 @@ share: true
 - Narrow complex tachycardia
 - Regular atrial activity at ~300 bpm
 - Loss of the isoelectric baseline
-- “Saw-tooth” pattern of **inverted flutter** waves in leads II, III, aVF
+- <span style="background:rgba(240, 200, 0, 0.2)">“Saw-tooth” pattern of **inverted flutter** waves in leads II, III, aVF</span>![[../../assets/img/Pasted image 20230904205051.png|Pasted image 20230904205051.png]]
 	- **_Anticlockwise Reentry:_** Commonest form of atrial flutter (90% of cases). Retrograde atrial conduction produces
 		- Inverted flutter waves in leads II,III, aVF
 		- Positive flutter waves in V1 — may resemble upright P waves
@@ -35,10 +35,10 @@ share: true
 ### RR intervals
 - In atrial flutter with variable block the R-R intervals will be multiples of the P-P interval — e.g. assuming an atrial rate of 300bpm (P-P interval of 200 ms), the R-R interval would be 400 ms with 2:1 block, 600 ms with 3:1 block, and 800 ms with 4:1 block
 - Look for identical R-R intervals occurring sporadically along the rhythm strip; then look to see whether there is a mathematical relationship between the various R-R intervals on the ECG
-- In contrast, atrial fibrillation will be completely irregular, with no patterns to be discerned within the R-R intervals
+- In contrast, [[./Atrial fibrillation|atrial fibrillation]] will be completely irregular, with no patterns to be discerned within the R-R intervals
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
