@@ -34,12 +34,13 @@ Peak incidence: <span style="background:rgba(240, 200, 0, 0.2)">20-30 years old<
 	- Complement levels (e.g., C3 level) are generally normal.
 
  >[!tip] 
-><span style="background:rgba(240, 200, 0, 0.2)">C3 levels help rule out [[./Poststreptococcal glomerulonephritis|poststreptococcal glomerulonephritis]], membranoproliferative glomerulonephritis, and lupus nephritis.</span>
+><span style="background:rgba(240, 200, 0, 0.2)">C3 levels help rule out [[./Poststreptococcal glomerulonephritis|poststreptococcal glomerulonephritis]], [[./Membranoproliferative glomerulonephritis|membranoproliferative glomerulonephritis]], and lupus nephritis.</span>
 - Renal biopsy
 	- Light microscopy: mesangial proliferation![[../../assets/img/Pasted image 20230818161650.png|Pasted image 20230818161650.png]]
 	- Immunofluorescent microscopy: mesangial IgA deposits
 	- Electron microscopy: mesangial immune complex deposits
-
+# Differential diagnosis
+![[../../assets/img/Pasted image 20230902154239.png|Pasted image 20230902154239.png]]
 
 ---
 # Treatment

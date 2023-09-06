@@ -61,6 +61,18 @@ Urine concentrating capacity is assessed during a period of dehydration; desmopr
 
 ---
 # Treatment
-
+Encourage adequate fluid intake and a low-sodium, low-protein diet.
+## Central diabetes insipidus
+- Desmopressin (preferred): synthetic ADH analogue without vasoconstrictive effects 
+	- Intranasal administration is preferred.
+ - Chlorpropamide
+## Nephrogenic diabetes insipidus [2]
+- Treat the underlying cause, if applicable, e.g.:
+	- Discontinue the causative agent (e.g., lithium, demeclocycline).
+- Thiazide diuretics
+	- Lead to sodium depletion, which increases sodium and water reabsorption in the proximal tubules
+	- As a result, less water reaches the distal collecting tubules and urine volume decreases.
+- NSAIDs (e.g., indomethacin) 
+- Amiloride
 
 ---
