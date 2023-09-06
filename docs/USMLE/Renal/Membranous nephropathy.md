@@ -14,12 +14,12 @@ share: true
 - Secondary:
 	- <span style="background:rgba(240, 200, 0, 0.2)">Infections (HBV, HCV, malaria</span>, syphilis)
 	- Autoimmune diseases (e.g., <span style="background:rgba(240, 200, 0, 0.2)">SLE</span>)
-	- Tumors (e.g., lung cancer, prostate cancer)
+	- Tumors (e.g., [[../Respiratory/Lung cancer|lung cancer]], prostate cancer)
 	- Medications (e.g., NSAIDs, penicillamine, gold)
 
 ---
 # Pathophysiology
-
+Anti-phospholipase A2 receptor antibodies (anti-PLA2R antibodies) bind to PLA2R (an autoantigen in glomerular podocytes) and thereby form immune complexes that activate the complement system, leading to podocyte injury.
 
 ---
 # Clinical features
