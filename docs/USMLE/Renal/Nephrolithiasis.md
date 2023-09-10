@@ -22,11 +22,12 @@ share: true
 - Hyperoxaluria
 	- Increased intestinal absorption of oxalate, e.g., due to fatty acid malabsorption (e.g., Crohn disease, ulcerative colitis, short bowel syndrome)
 	 - [[../Biochemistry/Vitamin C# Vitamin C toxicity|Vitamin C >  Vitamin C toxicity]]
-		 - [[../Biochemistry/Vitamin C|Vitamin C]] is metabolized to oxalate
+		 - <span style="background:rgba(240, 200, 0, 0.2)">[[../Biochemistry/Vitamin C|Vitamin C]] is metabolized to oxalate</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Hypocitraturia</span>
 	- Citrate inhibits stone formation by <span style="background:rgba(240, 200, 0, 0.2)">forming a soluble complex with calcium in the renal tubule, which reduces the amount of free calcium in the urine to bind with oxalate or phosphate.</span> Citrate excretion in the kidney is strongly influenced by pH (systemic, tubular, and intracellular). Alkalosis increases renal citrate excretion, whereas acidosis decreases it.
 ### Diagnosis
-- Urine microscopy: dumbbell-shaped or octahedron-shaped crystals ![[../../assets/img/Pasted image 20230817154316.png|Pasted image 20230817154316.png]]
+- Urine microscopy: <span style="background:rgba(240, 200, 0, 0.2)">dumbbell-shaped</span> or octahedron-shaped crystals ![[../../assets/img/Pasted image 20230817154316.png|Pasted image 20230817154316.png]]
+	- The monohydrate calcium oxalate crystal is described as the “picket fence” form. These dumbbells shaped crystals are common in ethylene glycol toxicity. The dihydrate form is octahedral or “envelope” shaped.![[../../assets/img/Pasted image 20230909155554.png|Pasted image 20230909155554.png]]
 - X-ray (or CT): radiopaque stones
 >[!tip] 
 >Serum calcium can be normal or elevated.
