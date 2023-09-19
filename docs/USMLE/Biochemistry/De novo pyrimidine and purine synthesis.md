@@ -8,4 +8,5 @@ share: true
 # Purine synthesis
 ![[../../assets/img/De Novo Purine Synthesis - OG copy.png|De Novo Purine Synthesis - OG copy.png]]
 # Pyrimidine synthesis
+![[../../assets/img/Pasted image 20230912144319.png|Pasted image 20230912144319.png]]
 ![[../../assets/img/Pasted image 20230910173723.png|Pasted image 20230910173723.png]]
