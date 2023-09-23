@@ -5,7 +5,7 @@ modified: 2023-09-07 16:46
 aliases: Untitled
 share: true
 ---
-Multiple sclerosis (MS) is a chronic degenerative disease of the CNS characterized by demyelination and axonal degeneration in the brain and spinal cord, which are caused by an immune-mediated inflammatory process.
+Multiple sclerosis (MS) is a <span style="background:rgba(240, 200, 0, 0.2)">chronic degenerative disease of the CNS characterized by demyelination and axonal degeneration in the brain and spinal cord, which are caused by an immune-mediated inflammatory process.</span>
 # Epidemiology
 - Sex: ♀ > ♂ (3:1) [1]
 - Age of onset: 20–40 years of age [2]
@@ -32,6 +32,7 @@ The etiology of multiple sclerosis is unclear; it is believed to develop in gene
 
 ---
 # Clinical features
+![[../../assets/img/Pasted image 20230923161821.png|Pasted image 20230923161821.png]]
 - Optic neuritis
 	- Most often the earliest manifestation
 	- Typically unilateral
@@ -64,10 +65,13 @@ The etiology of multiple sclerosis is unclear; it is believed to develop in gene
 
 ---
 # Diagnostics
-
+- Diagnosis of MS depends on <span style="background:rgba(240, 200, 0, 0.2)">a combination of clinical findings (e.g., optic neuritis, Lhermitte sign, sensory abnormalities, cerebellar signs), imaging, and laboratory results.</span>
+- The McDonald Criteria for both DIT and DIS must both be met to confirm a diagnosis of MS: 
+	- Dissemination in time (DIT): the appearance of new CNS lesions over time that can be confirmed clinically, with imaging, or with CSF analysis
+	- Dissemination in space (DIS): the presence of lesions in different regions of the CNS that can be confirmed clinically or in MRI
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
