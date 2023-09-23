@@ -6,16 +6,19 @@ aliases: Untitled
 share: true
 ---
 # Etiology
-Bronchiectasis requires the <span style="background:rgba(240, 200, 0, 0.2)">combination of two important processes</span> taking place in the bronchi: 
-- either <span style="background:rgba(240, 200, 0, 0.2)">local infection</span> 
-- or<span style="background:rgba(240, 200, 0, 0.2)"> inflammation along with either inadequate clearance of secretions, airway obstruction, or impaired host defenses</span>. 
-These processes result in the permanent dilation of airways.
+>[!tip] 
+>
+> Bronchiectasis requires the <span style="background:rgba(240, 200, 0, 0.2)">combination of two important processes</span> taking place in the bronchi: 
+> - either <span style="background:rgba(240, 200, 0, 0.2)">local infection</span> 
+> - or<span style="background:rgba(240, 200, 0, 0.2)"> inflammation along with either inadequate clearance of secretions, airway obstruction, or impaired host defenses</span>. 
+> 
+> These processes result in the permanent dilation of airways.
 - Pulmonary infections (i.e., bacterial, viral, fungal), especially severe or chronic infections 
 - Disorders of secretion clearance or mucous plugging
 	- [[../Biochemistry/Cystic fibrosis|Cystic fibrosis]] (CF)  (Most common congenital cause of bronchiectasis)
-	- Primary ciliary dyskinesia (PCD)
+	- [[../Biochemistry/Primary ciliary dyskinesia|Primary ciliary dyskinesia]] (PCD)
 	- Allergic bronchopulmonary [[./Aspergillosis|aspergillosis]] (ABPA)
-	- Kartagener syndrome
+	- [[../Biochemistry/Primary ciliary dyskinesia|Kartagener syndrome]]
 	- Smoking: associated with poor ciliary motility
 - Bronchial narrowing or other forms of obstruction
 	- COPD

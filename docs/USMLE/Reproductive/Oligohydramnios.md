@@ -11,8 +11,8 @@ share: true
 ---
 # Etiology
 - Fetal anomalies
-	- Urethral obstruction (e.g., posterior urethral valves)
-	- Bilateral renal agenesis
+	- <span style="background:rgba(240, 200, 0, 0.2)">Urethral obstruction (e.g., posterior urethral valves)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Bilateral renal agenesis</span>
 - Maternal conditions
 	- Placental insufficiency
 	- Late or postterm pregnancies (> 42 weeks of gestation)

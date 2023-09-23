@@ -30,8 +30,7 @@ Sarcoidosis is a systemic disorder characterized by widespread, immune-mediated 
 ## Pulmonary sarcoidosis
 - Lungs are the most commonly affected organ (90% of affected individuals).
 - Often asymptomatic in the early stages
-- Classic finding is hilar lymphadenopathy
-	- ![[../../assets/img/Pasted image 20230803213638.png|Pasted image 20230803213638.png]]
+- Classic finding is hilar lymphadenopathy![[../../assets/img/Pasted image 20230803213638.png|Pasted image 20230803213638.png]]
 - Interstitial fibrosis
 	- Cough, exertional dyspnea, chest pain
 	- Mild rales on pulmonary auscultation
@@ -40,7 +39,9 @@ Sarcoidosis is a systemic disorder characterized by widespread, immune-mediated 
 ![[../../assets/img/Pasted image 20230720153101.png|Pasted image 20230720153101.png]]
 - Lupus pernio
 	- A pathognomonic manifestation of sarcoidosis characterized by extensive, violaceous skin plaques (i.e., epithelioid granulomas of the dermis) on the nose, cheeks, chin, and/or ears 
+
 Butterfly rash as seen in systemic lupus erythematosus
+
 ---
 # Diagnostics
 

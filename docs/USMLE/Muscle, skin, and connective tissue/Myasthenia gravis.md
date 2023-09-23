@@ -17,3 +17,9 @@ Associated with [[./Thymoma|Thymoma]].
     - Seropositive MG (80–90% of cases): positive assays for [antibodies](https://next.amboss.com/us/article/x50Emg#Zcafc1c81671c54115ab5d77c08d696a0) (in blood) against the acetylcholine receptor ([AChR-Ab](https://next.amboss.com/us/article/DR016f#Z642e66e911b1990368ae56b2e38c6893))
     - Seronegative MG (10–20% of cases): negative for [AChR antibodies](https://next.amboss.com/us/article/DR016f#Z642e66e911b1990368ae56b2e38c6893), but may be positive for muscle-specific tyrosine kinase antibodies (MuSK antibodies)
 	![[../../assets/img/Pasted image 20230622145302.png|Pasted image 20230622145302.png]]
+# Comparison of Myasthenia gravis and LEMS
+![[../../assets/img/Pasted image 20230921164528.png|Pasted image 20230921164528.png]]
+>[!tip] 
+> 1. Extraocular muscles: move frequently, so they are first affected.
+> 2. MG: Repeated nerve stimulation → ↓ ACh release → improved symptoms
+> 3. LEMS: More depolarization → more ACh release → improved symptoms
