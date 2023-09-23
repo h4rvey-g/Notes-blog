@@ -34,12 +34,12 @@ share: true
 # Complications
 ## 2 weeks to months post-infarction
 ### Postmyocardial infarction syndrome (<span style="background:rgba(240, 200, 0, 0.2)">Dressler syndrome</span>)
-**Pericarditis** occurring 2–10 weeks post-MI without an infective cause 
+<span style="background:rgba(240, 200, 0, 0.2)">**Pericarditis**</span> occurring 2–10 weeks post-MI without an infective cause 
 - Pathophysiology: thought to be due to circulating antibodies against cardiac muscle cells (autoimmune etiology) → immune complex deposition → inflammation
 - Clinical features
 	- <span style="background:rgba(240, 200, 0, 0.2)">Signs of [[./Acute pericarditis|acute pericarditis]]: pleuritic chest pain</span> , dry cough , friction rub
 	- Fever
 	- Laboratory findings: leukocytosis, ↑ serum troponin levels
 	- ECG: diffuse ST elevations
-- Treatment: <span style="background:rgba(240, 200, 0, 0.2)">NSAIDs (e.g., aspirin)</span>, colchicine
+- Treatment: <span style="background:rgba(240, 200, 0, 0.2)">NSAIDs (e.g., aspirin)</span>,<span style="background:rgba(240, 200, 0, 0.2)"> colchicine</span>
 - Complications (rare): hemopericardium
