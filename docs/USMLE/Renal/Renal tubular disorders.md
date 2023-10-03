@@ -10,5 +10,6 @@ share: true
 - Renal tubular acidosis is caused by defects in the tubular transport of HCO3- and/or H+.
 - Most forms of RTA are asymptomatic; rarely, life-threatening electrolyte imbalances may occur.
 
-![[./Proximal renal tubular acidosis (type 2)|Proximal renal tubular acidosis (type 2)]]
-![[./Distal renal tubular acidosis (type 1)|Distal renal tubular acidosis (type 1)]]
+# ![[./Proximal renal tubular acidosis (type 2)|Proximal renal tubular acidosis (type 2)]]
+# ![[./Distal renal tubular acidosis (type 1)|Distal renal tubular acidosis (type 1)]]
+# ![[./Liddle syndrome|Liddle syndrome]]
