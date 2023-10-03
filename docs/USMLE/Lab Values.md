@@ -36,7 +36,7 @@ A normal glucose level is 70-100 mg/dL.
 The Trick:
 When you think of glucose, think of energy.
 Our energy starts to decline during our elderly years, especially when we are 70-100 years old.
-This will help you remember the normal range for glucose is 70-100 mg/dL.
+This will help you remember the normal range for glucose is 70-100 [[./Muscle, skin, and connective tissue/Myasthenia gravis|mg]]/dL.
 
 ---
 # PTH
