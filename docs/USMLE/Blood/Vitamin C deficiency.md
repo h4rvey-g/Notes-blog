@@ -14,7 +14,11 @@ severe malnutrition (e.g., due to alcoholism, illicit drug use, and/or psychiatr
 
 ---
 # Pathophysiology
-
+## Vitamin C functions
+- Hydrophilic antioxidant
+- Conversion of dopamine to norepinephrine: coenzyme in dopamine β-hydroxylase
+- Collagen synthesis: coenzyme in hydroxylation reaction of proline and lysine
+- Facilitates iron absorption (keeps iron in Fe2+reduced state)
 
 ---
 # Clinical features
