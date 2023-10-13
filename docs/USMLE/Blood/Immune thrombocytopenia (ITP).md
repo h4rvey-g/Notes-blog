@@ -11,7 +11,7 @@ share: true
 # Etiology
 - Primary ITP: idiopathic (most common)  [6]
 - Secondary ITP associated with:
-	- Autoimmune disorders: SLE, [[../Muscle, skin, and connective tissue/Antiphospholipid syndrome|antiphospholipid syndrome]]
+	- Autoimmune disorders: SLE, [[../MSK/Antiphospholipid syndrome|Antiphospholipid syndrome]]
 	- Malignancy: lymphoma, leukemia (particularly CLL)
 	- Infection: HIV, HCV
 	- Drugs: e.g., quinine, beta-lactam antibiotics, carbamazepine, heparin, vaccines, linezolid, sulfonamides, vancomycin, TMP-SMX, antiepileptics  [7]
