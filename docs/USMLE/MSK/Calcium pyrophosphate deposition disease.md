@@ -13,7 +13,7 @@ share: true
 # Etiology
 - The primary (idiopathic) form is most common, with age as a major risk factor.
 - Secondary forms
-	- Joint trauma/damage: including joint surgery, previous juvenile idiopathic arthritis, and [[./Osteoarthritis|osteoarthritis]]
+	- Joint trauma/damage: including joint surgery, previous juvenile idiopathic arthritis, and [[./Osteoarthritis|Osteoarthritis]]
 	- Metabolic disorders: including hyperparathyroidism, hemochromatosis, hypomagnesemia, hypophosphatasia, and possibly gout
 	- Familial chondrocalcinosis: due to mutations in the CCAL1 or CCAL2 genes
 
@@ -29,10 +29,10 @@ Deposition of calcium pyrophosphate dihydrate (CPP or CPPD) crystals in articula
 	- <span style="background:rgba(240, 200, 0, 0.2)">Monoarthritis</span> (occasionally oligoarthritis)
 	- Most commonly affects the knee and wrist; can also affect other large joints (e.g., hips, ankles)
 	- Typically self-limited
-- Features that differ from acute gout
-	- Longer duration of acute attacks 
+- <span style="background:rgba(240, 200, 0, 0.2)">Features that differ from acute gout</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Longer duration of acute attacks </span>
 		- Up to several months
-	- Possible systemic symptoms
+	- <span style="background:rgba(240, 200, 0, 0.2)">Possible systemic symptoms</span>
 		- E.g., fever, chills, altered mental status in the elderly
 ## Chronic CPP crystal arthritis
 - [[./Osteoarthritis|Osteoarthritis]]-like presentation (osteoarthritis with CPPD; pseudo-osteoarthritis)
@@ -47,7 +47,7 @@ Deposition of calcium pyrophosphate dihydrate (CPP or CPPD) crystals in articula
 # Diagnostics
 ## Arthrocentesis and synovial fluid analysis (SFA)
 - Polarized light microscopy (with a red filter) appearance of CPP crystals
-	- Rhomboid-shaped crystals that are weakly positively birefringent
+	- <span style="background:rgba(240, 200, 0, 0.2)">Rhomboid-shaped crystals that are weakly positively birefringent</span>
 	- Crystals appear blue when their optical axis is oriented parallel to the polarizer.
 	- Crystals appear yellow when their axis is perpendicular to the polarizer. 
 - Cell count: WBC > 2000/μL with > 50% neutrophils
@@ -57,6 +57,6 @@ Deposition of calcium pyrophosphate dihydrate (CPP or CPPD) crystals in articula
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---

@@ -30,7 +30,7 @@ share: true
 ## Large cell carcinoma
 - Location: Peripheral
 - Characteristics
-	- Strong association with smoking
+	- <span style="background:rgba(240, 200, 0, 0.2)">Strong association with smoking</span>
 	- Poor response to chemotherapy
 	- Early metastases
 	- Poor prognosis
@@ -40,7 +40,7 @@ share: true
 	- Strong association with <mark style="background: #FFF3A34A;">smoking</mark>
 ## Bronchial carcinoid tumor
 - Location: Central or peripheral
-- A rare type of neuroendocrine lung tumor that consists predominantly of neuroendocrine Kulchitsky cells
+	- A rare type of neuroendocrine lung tumor that consists predominantly of neuroendocrine Kulchitsky cells
 - Neuroendocrine Kulchitsky cells [18]
 	- Rapid growth pattern
 	- Expressed tumor markers
