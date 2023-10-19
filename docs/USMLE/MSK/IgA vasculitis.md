@@ -8,13 +8,13 @@ share: true
 ---
 # Epidemiology
 - Sex: ♂ > ♀
-- Age: more common in children
+- Age: <span style="background:rgba(240, 200, 0, 0.2)">more common in children</span>
 	- 90% of affected individuals < 10 years
 
 ---
 # Etiology
 - Preceding infection
-	- Up to 90% of cases are preceded by viral or bacterial infection 1–3 weeks prior. [3]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Up to 90% of cases are preceded by viral or bacterial infection 1–3 weeks prior.</span> [3]
 	- Most commonly an upper respiratory tract infection caused by group A Streptococcus
 	- [[../Renal/IgA nephropathy|IgA nephropathy]]
 	- Drugs
@@ -50,6 +50,10 @@ An upper respiratory tract infection often precedes symptom onset by 1–3 weeks
 ## Biopsy
 IgA and C3 complex deposition (hallmark) in small vessels of the superficial dermis
 
+---
+# Differential Diagnosis
+See [[./Purpura differential diagnosis|Purpura differential diagnosis]]
+![[../../assets/img/Pasted image 20231015163602.png|Pasted image 20231015163602.png]]
 ---
 # Treatment
 
