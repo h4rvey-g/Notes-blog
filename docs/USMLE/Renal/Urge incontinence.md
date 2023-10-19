@@ -30,6 +30,6 @@ The condition is caused by sensory or motor dysfunction.
 ---
 # Treatment
 >[!Mnemonic] 
->Oxybutynin treats Overactive bladder.
+> Oxybutynin treats Overactive bladder.
 
 ---
