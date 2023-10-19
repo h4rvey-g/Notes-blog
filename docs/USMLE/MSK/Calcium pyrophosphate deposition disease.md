@@ -4,6 +4,7 @@ created: 2023-09-29 16:17
 modified: 2023-09-29 16:17
 aliases:
   - pseudogout
+  - CPDD
 share: true
 ---
 # Epidemiology
@@ -14,7 +15,7 @@ share: true
 - The primary (idiopathic) form is most common, with age as a major risk factor.
 - Secondary forms
 	- Joint trauma/damage: including joint surgery, previous juvenile idiopathic arthritis, and [[./Osteoarthritis|Osteoarthritis]]
-	- Metabolic disorders: including hyperparathyroidism, hemochromatosis, hypomagnesemia, hypophosphatasia, and possibly gout
+	- Metabolic disorders: including [[../Endocrine/Hyperparathyroidism|hyperparathyroidism]], hemochromatosis, hypomagnesemia, hypophosphatasia, and possibly gout
 	- Familial chondrocalcinosis: due to mutations in the CCAL1 or CCAL2 genes
 
 ---
@@ -35,7 +36,7 @@ Deposition of calcium pyrophosphate dihydrate (CPP or CPPD) crystals in articula
 	- <span style="background:rgba(240, 200, 0, 0.2)">Possible systemic symptoms</span>
 		- E.g., fever, chills, altered mental status in the elderly
 ## Chronic CPP crystal arthritis
-- [[./Osteoarthritis|Osteoarthritis]]-like presentation (osteoarthritis with CPPD; pseudo-osteoarthritis)
+- <span style="background:rgba(240, 200, 0, 0.2)">[[./Osteoarthritis|Osteoarthritis]]-like presentation (osteoarthritis with CPPD; pseudo-osteoarthritis)</span>
 	- Most common form of CPPD disease
 	- Characterized by progressive joint degeneration
 		- Usually polyarticular; can occur in joints not typically affected by OA 
@@ -45,7 +46,7 @@ Deposition of calcium pyrophosphate dihydrate (CPP or CPPD) crystals in articula
 
 ---
 # Diagnostics
-## Arthrocentesis and synovial fluid analysis (SFA)
+## [[./Arthrocentesis|Arthrocentesis]] and synovial fluid analysis (SFA)
 - Polarized light microscopy (with a red filter) appearance of CPP crystals
 	- <span style="background:rgba(240, 200, 0, 0.2)">Rhomboid-shaped crystals that are weakly positively birefringent</span>
 	- Crystals appear blue when their optical axis is oriented parallel to the polarizer.

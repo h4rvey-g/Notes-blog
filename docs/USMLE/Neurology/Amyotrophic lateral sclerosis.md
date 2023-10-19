@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-09-23 14:44
 modified: 2023-09-23 14:44
-aliases: Untitled
+aliases:
+  - ALS
 share: true
 ---
 a neurodegenerative disease with upper and lower motor neuron dysfunction.
@@ -20,7 +21,7 @@ Classically affects the entire motor neuron system at two or more levels (both u
 ---
 # Clinical features
 ## General disease characteristics
-- <span style="background:rgba(240, 200, 0, 0.2)">Both upper motor neuron (UMN) and lower motor neuron (LMN) signs are present</span> (see Upper motor neuron injury vs. lower motor neuron injury)
+- <span style="background:rgba(240, 200, 0, 0.2)">Both upper motor neuron (UMN) and lower motor neuron (LMN) signs are present</span> (see [[./Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury|Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury]])
 - <span style="background:rgba(240, 200, 0, 0.2)">Constant disease progression</span>: it usually starts in one arm and/or leg then progresses to the <span style="background:rgba(240, 200, 0, 0.2)">contralateral side</span>
 ## Early symptoms
 - Symptoms are highly variable and potentially non-specific (e.g., subtle vocal changes or difficulties grasping objects)
@@ -43,10 +44,9 @@ Classically affects the entire motor neuron system at two or more levels (both u
 	- Denervation: fibrillations, positive sharp waves, and large amplitudes
 	- Fasciculations
 # Differential Diagnosis
-- [[../Muscle, skin, and connective tissue/Myasthenia gravis|Myasthenia gravis]]
+- [[../MSK/Myasthenia gravis|Myasthenia gravis]]
 	- Weakness improves with acetylcholinesterase inhibitors
-	- No UMN or LMN signs
-
+	- <span style="background:rgba(240, 200, 0, 0.2)">No UMN or LMN signs</span>
 
 ---
 # Treatment

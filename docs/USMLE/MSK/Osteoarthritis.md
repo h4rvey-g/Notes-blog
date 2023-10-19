@@ -10,6 +10,7 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Obesity</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Excessive joint loading or overuse (mechanical stress)</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Age (> 55 years)</span>
+- [[./Calcium pyrophosphate deposition disease#Chronic CPP crystal arthritis|Calcium pyrophosphate deposition disease > Chronic CPP crystal arthritis]]
 - Family history
 - History of joint injury (especially anterior cruciate ligament injury), trauma, and/or surgery
 # Differential diagnosis
