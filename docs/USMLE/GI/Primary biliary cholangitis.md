@@ -16,4 +16,4 @@ share: true
 - First-line: ursodeoxycholic acid (UDCA, ursodiol): a hydrophilic, nontoxic bile acid with immunomodulatory, anti-inflammatory, choleretic, and cytoprotective effects
 	- <span style="background:rgba(240, 200, 0, 0.2)">Slows disease progression</span> and development of complications (e.g., esophageal varices)
 	- Prolongs transplant-free and overall survival
-	- Also used in primary sclerosing cholangitis, cholestasis of pregnancy, and small cholesterol stones
+	- Also used in [[./Primary sclerosing cholangitis|primary sclerosing cholangitis]], cholestasis of pregnancy, and small cholesterol stones
