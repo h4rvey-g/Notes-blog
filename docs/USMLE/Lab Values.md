@@ -36,7 +36,7 @@ A normal glucose level is 70-100 mg/dL.
 The Trick:
 When you think of glucose, think of energy.
 Our energy starts to decline during our elderly years, especially when we are 70-100 years old.
-This will help you remember the normal range for glucose is 70-100 [[./Muscle, skin, and connective tissue/Myasthenia gravis|mg]]/dL.
+This will help you remember the normal range for glucose is 70-100 [[./MSK/Myasthenia gravis|mg]]/dL.
 
 ---
 # PTH
@@ -46,3 +46,6 @@ This will help you remember the normal range for glucose is 70-100 [[./Muscle, s
 - GFR: **90 to 120 mL/min/1.73 m<sup>2</sup>**
 - FF: 20%
 - RRF: GFR × FF
+---
+# Comprehensive metabolic panel
+![[../assets/img/Pasted image 20231022111024.png|Pasted image 20231022111024.png]]
