@@ -11,7 +11,7 @@ share: true
 ---
 # Etiology
 - Bacterial: C. difficile (pseudomembranous colitis), Salmonella, Shigella, Campylobacter infections
-- Inflammatory colitis: Ulcerative colitis, Crohn disease
+- Inflammatory colitis: [[./Ulcerative colitis|Ulcerative colitis]], Crohn disease
 
 ---
 # Pathophysiology
