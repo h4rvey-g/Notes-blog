@@ -22,7 +22,7 @@ The two major contributing factors to the development of PUD are gastrointestina
 - Shared risk factors for PUD, GERD and gastritis (i.e., smoking, heavy alcohol use, glucocorticoids, caffeine)
 ## Rare causes of PUD
 - Acid hypersecretory states
-	- Zollinger-Ellison syndrome
+	- [[./Gastrinoma|Zollinger-Ellison syndrome]]
 
 ---
 # Pathophysiology
