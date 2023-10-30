@@ -37,7 +37,7 @@ Progressive chronic inflammation of <span style="background:rgba(240, 200, 0, 0.
 	- Pale stool, dark urine
 	- Fatigue
 	- Can lead to acute cholangitis (fever, chills, right upper quadrant pain)
-- Later stages: signs of cirrhosis
+- Later stages: signs of [[./Cirrhosis|cirrhosis]]
 	- Hepatosplenomegaly
 	- Portal hypertension
 	- Liver failure
@@ -53,7 +53,7 @@ Progressive chronic inflammation of <span style="background:rgba(240, 200, 0, 0.
 - Lipid profile: ↑ total cholesterol
 
 >[!Mnemonic] 
->Suspect PSC in patients with a history of inflammatory bowel disease and elevated cholestatic enzymes (ALP, GGT, and conjugated bilirubin).
+>Suspect PSC in patients with a history of inflammatory bowel disease and elevated cholestatic enzymes ([[../Blood/Alkaline phosphatase|ALP]], GGT, and conjugated bilirubin).
 
 - Typical perinuclear anti-neutrophil cytoplasmic antibodies (<span style="background:rgba(240, 200, 0, 0.2)">pANCA</span>): present in up to 80% of patients with PSC.
 ## Magnetic resonance cholangiopancreatography 
