@@ -21,13 +21,13 @@ CF is a hereditary autosomal recessive disorder caused by defective <mark style=
 ---
 # Clinical features
 ## GI
-- Meconium ileus (in newborns)
+- <span style="background:rgba(240, 200, 0, 0.2)">Meconium ileus (in newborns)</span>
 - Failure to thrive (due to malabsorption)
 - <span style="background:rgba(240, 200, 0, 0.2)">Pancreatic disease (obstruction of pancreatic ducts)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Autopsy revealed pancreas develops cysts and became scarred, that's how it's named cystic fibrosis</span>
 	- Pancreatitis
 	- Exocrine pancreatic insufficiency 
-		- <span style="background:rgba(240, 200, 0, 0.2)">Foul-smelling steatorrhea</span> (fatty stools) may occur.
+		- <span style="background:rgba(240, 200, 0, 0.2)">Foul-smelling [[steatorrhea]]</span> (fatty stools) may occur.
 		- <span style="background:rgba(240, 200, 0, 0.2)">Malabsorption</span>
 		- Abdominal distention 
 		- Diarrhea
@@ -43,7 +43,7 @@ CF is a hereditary autosomal recessive disorder caused by defective <mark style=
 
 ## Respiratory
 - Chronic obstructive lung disease with [[../Respiratory/Bronchiectasis|bronchiectasis]]
-- <span style="background:rgba(240, 200, 0, 0.2)">Chronic sinusitis: nasal polyps may eventually develop </span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Chronic [[sinusitis]]: nasal polyps may eventually develop </span>
 - Recurrent or chronic productive cough and pulmonary infections
 	- S. aureus is the most common cause of recurrent pulmonary infection in infancy and childhood.
 	- P. aeruginosa is the most common cause of recurrent pulmonary infections in adulthood.
@@ -62,6 +62,19 @@ CF is a hereditary autosomal recessive disorder caused by defective <mark style=
 
 ---
 # Diagnostics
+## Confirmatory tests
+- Sweat test (quantitative pilocarpine iontophoresis)
+	- Indications: preferred initial test in all patients with suspected CF
+## Newborn screening
+Newborn screening (NBS) for CF is essential for early detection and treatment, which can improve health outcomes. In many countries, including the US, it is mandatory to screen for CF.
+- Sample collection: newborn blood spot test, performed via heel prick blood sampling in the first 24 and 48 hours of life
+- Screening tests
+	- <span style="background:rgba(240, 200, 0, 0.2)">Immunoreactive trypsinogen (IRT</span>) : initial screening test
+		- <span style="background:rgba(240, 200, 0, 0.2)">IRT levels are thought to become elevated due to mucus plugs</span>, which cause pancreatic duct obstruction, preventing the conversion of trypsinogen to trypsin. This can occur in neonates with or without pancreatic insufficiency.
+		- An immunofluorescence assay that measures levels of IRT
+		- Normal IRT levels: CF unlikely
+		- Elevated IRT levels: CF possible; additional screening tests required
+	- CFTR mutation testing (DNA testing): second-tier screening test
 
 
 ---
