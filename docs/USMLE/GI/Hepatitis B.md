@@ -39,10 +39,16 @@ share: true
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
+# Prevention
+## Perinatal Hep B
+![[../../assets/img/Pasted image 20231029112500.png|Pasted image 20231029112500.png]]
+- Breastfeeding may be started immediately if there are no contraindications (e.g., cracked or bleeding nipples), regardless of whether individuals:
+	- Have HBsAg positive or unknown status [5]
+	- Are receiving antiviral therapy
