@@ -53,7 +53,7 @@ The pelvis, skull, vertebral column, and long bones of the lower extremities are
 ---
 # Treatment
 ## Bisphosphonates
-- <span style="background:rgba(240, 200, 0, 0.2)">First-line therapy for patients with bone pain and those at risk of bone complications</span>  [9]
+- <span style="background:rgba(240, 200, 0, 0.2)">First-line therapy for patients with bone pain and those at risk of bone complications</span>
 - Mechanism: <span style="background:rgba(240, 200, 0, 0.2)">induce apoptosis of osteoclasts</span>
 - Used to treat [[../Cardiology/Hypercalcemia|hypercalcemia]] and bone metabolism disorders (e.g., osteoporosis or tumor-induced osteolysis).
 - Examples include zoledronic acid, pamidronate, etidronate, and alendronate.
