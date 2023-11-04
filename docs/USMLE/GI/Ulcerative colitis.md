@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-09-18 17:05
 modified: 2023-09-18 17:05
-aliases: Untitled
+aliases:
+  - UC
 share: true
 ---
 # Epidemiology
@@ -15,7 +16,7 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Genetic predisposition (e.g., HLA-B27 association)</span>
 - Ethnicity (White populations, individuals of Ashkenazi Jewish descent)
 - <span style="background:rgba(240, 200, 0, 0.2)">Protective factors: smoking</span>
-	- The pathophysiology is not fully understood, as smoking has negative effects on other inflammatory diseases (e.g., Crohn disease). 
+	- The pathophysiology is not fully understood, as smoking has negative effects on other inflammatory diseases (e.g., [[./Crohn disease|Crohn disease]]). 
 
 ---
 # Pathophysiology
@@ -28,7 +29,7 @@ share: true
 	- Inflammation is limited to the mucosa and submucosa.
  
  >[!tip] 
->Unlike ulcerative colitis, Crohn disease is characterized by transmural inflammation.
+>Unlike ulcerative colitis, [[./Crohn disease|Crohn disease]] is characterized by transmural inflammation.
 
 >[!tip] 
 >The rectum is always involved in ulcerative colitis.
@@ -46,7 +47,7 @@ share: true
 	- Ocular: uveitis, episcleritis, iritis
 	- Biliary: <span style="background:rgba(240, 200, 0, 0.2)">[[./Primary sclerosing cholangitis|primary sclerosing cholangitis]] (it is rare for patients with ulcerative colitis to develop [[./Primary sclerosing cholangitis|PSC]], but up to 90% of all patients with [[./Primary sclerosing cholangitis|PSC]] will also have ulcerative colitis)</span>
 	- Cutaneous
-		- Erythema nodosum
+		- [[../MSK/Erythema nodosum|Erythema nodosum]]
 		- Pyoderma gangrenosum
 		- Aphthous stomatitis
 
@@ -58,6 +59,17 @@ share: true
 ---
 # Diagnostics
 ![[../../assets/img/Pasted image 20231023204135.png|Pasted image 20231023204135.png]]
+## Ileocolonoscopy
+Recommended method for diagnosis and disease monitoring
+### Early stages
+- Inflamed, erythematous, edematous mucosa![[../../assets/img/Pasted image 20231101152337.png|Pasted image 20231101152337.png]] 
+- Friable mucosa with bleeding on contact with endoscope ![[../../assets/img/Pasted image 20231101152435.png|Pasted image 20231101152435.png]]A fibrin-covered ulceration (blue overlay) and several pseudopolyps (indicated by dashed lines) are visible.![[../../assets/img/Pasted image 20231101152442.png|Pasted image 20231101152442.png]]
+- Fibrin-covered ulcers![[../../assets/img/Pasted image 20231101152523.png|Pasted image 20231101152523.png]]
+### Chronic disease
+- Loss of haustra
+- Pseudopolyps 
+	- Raised areas of normal mucosal tissue that result from repeated cycles of ulceration and healing
+	- Ulceration → formation of granulation tissue → deposition of granulation tissue → epithelialization![[../../assets/img/Pasted image 20231101152902.png|Pasted image 20231101152902.png]]
 
 ---
 # Treatment

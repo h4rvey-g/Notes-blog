@@ -4,6 +4,7 @@ created: 2023-10-10 16:37
 modified: 2023-10-10 16:37
 aliases:
   - Henoch-Schonlein purpura
+  - HSP
 share: true
 ---
 # Epidemiology
@@ -21,7 +22,7 @@ share: true
 
 ---
 # Pathophysiology
-Hypothesized pathophysiological mechanism: exposure to allergen/antigen (e.g., infection, drugs) → stimulation of IgA production → <span style="background:rgba(240, 200, 0, 0.2)">deposition of IgA immune complexes in vascular walls (e.g., in the skin, GI tract, joints, kidneys) → activation of complement → vascular inflammation and damage</span>
+Hypothesized pathophysiological mechanism: exposure to allergen/antigen (e.g., infection, drugs) → stimulation of IgA production → <span style="background:rgba(240, 200, 0, 0.2)">deposition of IgA immune complexes in vascular walls (e.g., in the skin, GI tract, joints, kidneys) → activation of complement → vascular inflammation and damage</span>![[../../assets/img/Pasted image 20231029162851.png|Pasted image 20231029162851.png]]
 
 ---
 # Clinical features

@@ -20,6 +20,7 @@ See [[./Polyarteritis nodosa|Polyarteritis nodosa]]
 ---
 # Small-vessel vasculitis
 ## ANCA-associated small-vessel vasculitis
+![[../../assets/img/Pasted image 20231029162243.png|Pasted image 20231029162243.png]]
 ![[../../assets/img/Pasted image 20230920170116.png|Pasted image 20230920170116.png]]
 >[!Mnemonic] Granulomatosis with polyangiitis (Wegener granulomatosis)
 >![[../../assets/img/Pasted image 20230920170030.png|Pasted image 20230920170030.png]]

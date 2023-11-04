@@ -34,7 +34,22 @@ mutations in SERPINA1 gene
 
 ---
 # Diagnostics
+- Serum: decreased antitrypsin protein levels
+- Electrophoresis: decreased alpha-1 peak  [5]
+- Chest x-ray 
+	- Low and flat diaphragm
+	- Widened intercostal spaces
+	- Hyperinflation and increased basilar radiolucency of both lungs with rarification of peripheral pulmonary vessels
+- Chest CT [6]
+	- Panacinar emphysema (in contrast to centriacinar emphysema in smoking-related emphysema)
+	- Bronchiectasis
+	- Bullae
+- Liver biopsy
+	- <span style="background:rgba(240, 200, 0, 0.2)">PAS-positive</span>, spherical inclusion bodies in periportal hepatocytes![[../../assets/img/Pasted image 20231029101651.png|Pasted image 20231029101651.png]]
+	- Signs of cirrhosis  [7]
 
+>[!tip] 
+>[[../Blood/Hemochromatosis|Hemochromatosis]] is diagnosed with Prussian blue staining![[../../assets/img/Pasted image 20231029102123.png|Pasted image 20231029102123.png]]
 
 ---
 # Treatment
