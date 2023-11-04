@@ -29,11 +29,11 @@ share: true
 
 ---
 # Clinical features
-## Constitutional symptoms [6]
+## Constitutional symptoms
 - Low-grade fever
 - Weight loss
 - Fatigue
-## Gastrointestinal symptoms [6]
+## Gastrointestinal symptoms
 CD most <span style="background:rgba(240, 200, 0, 0.2)">commonly affects the terminal ileum and colon</span>, but involvement of any part of the GI tract (from mouth to anus) is possible. In contrast to [[./Ulcerative colitis|ulcerative colitis]], <span style="background:rgba(240, 200, 0, 0.2)">rectal involvement is uncommon</span>. 
 - Chronic diarrhea
 - Lower gastrointestinal bleeding (uncommon)
@@ -55,7 +55,7 @@ CD most <span style="background:rgba(240, 200, 0, 0.2)">commonly affects the ter
 	- Oral aphthae
 	- Pyostomatitis vegetans
 - Skin
-	- Erythema nodosum
+	- <span style="background:rgba(240, 200, 0, 0.2)">Erythema nodosum</span>
 	- Acrodermatitis enteropathica
 	- Pyoderma gangrenosum: a neutrophilic dermatosis![[../../assets/img/Pasted image 20231026110846.png|Pasted image 20231026110846.png]]
 		- Associated with various conditions (e.g., IBD, [[../MSK/Rheumatoid arthritis|rheumatoid arthritis]], and trauma)
