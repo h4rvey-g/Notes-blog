@@ -21,11 +21,11 @@ Peak incidence: <span style="background:rgba(240, 200, 0, 0.2)">20-30 years old<
 	- Low-grade fever
 	- And/or [[./Nephritic syndrome|nephritic syndrome]] (including hypertension)
 	- Usually during or immediately following a respiratory or gastrointestinal infection [6] 
-- Can progress to [[./Rapidly progressive glomerulonephritis|RPGN]] and/or nephrotic syndrome (< 10% of patients)
+- Can progress to [[./Rapidly progressive glomerulonephritis|RPGN]] and/or [[./Nephrotic syndrome|nephrotic syndrome]] (< 10% of patients)
 - Up to 50% of patients progress to end-stage renal disease within 20–25 years.
 
 >[!tip] 
->IgA nephropathy and IgA vasculitis are both IgA-mediated vasculitides triggered by a mucosal infection. IgA vasculitis most commonly occurs in children < 10 years of age and affects multiple organ systems (palpable purpura, abdominal pain, arthralgia). IgA nephropathy is limited to the kidneys and typically affects adults.
+>IgA nephropathy and [[../MSK/IgA vasculitis|IgA vasculitis]] are both IgA-mediated [[../MSK/Vasculitides|vasculitides]] triggered by a mucosal infection. [[../MSK/IgA vasculitis|IgA vasculitis]] most commonly occurs in children < 10 years of age and affects multiple organ systems (palpable purpura, abdominal pain, arthralgia). IgA nephropathy is limited to the kidneys and typically affects adults.
 
 ---
 # Diagnostics
