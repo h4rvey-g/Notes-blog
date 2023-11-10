@@ -9,6 +9,6 @@ share: true
 - Nausea, vomiting
 - Diarrhea, bloating
 - Fatigue
-- <span style="background:rgba(240, 200, 0, 0.2)">↑ Risk of iron toxicity in [[../Blood/Transfusion|transfusion]] patients and hereditary hemochromatosis</span> due to increased absorption of dietary iron 
+- <span style="background:rgba(240, 200, 0, 0.2)">↑ Risk of iron toxicity in [[../Blood/Transfusion|transfusion]] patients and hereditary [[../Blood/Hemochromatosis|hemochromatosis]]</span> due to increased absorption of dietary iron 
 - <span style="background:rgba(240, 200, 0, 0.2)">[[../Renal/Nephrolithiasis|Nephrolithiasis]] due to ↑ calcium oxalate formation</span>
 	- excess oxalate from vitamin C metabolism
