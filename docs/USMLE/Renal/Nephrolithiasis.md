@@ -20,7 +20,7 @@ share: true
 ### Etiology
 - Hypercalciuria
 - Hyperoxaluria
-	- Increased intestinal absorption of oxalate, e.g., due to fatty acid malabsorption (e.g., Crohn disease, ulcerative colitis, short bowel syndrome)
+	- Increased intestinal absorption of oxalate, e.g., due to fatty acid malabsorption (e.g., [[../GI/Crohn disease|Crohn disease]], [[../GI/Ulcerative colitis|ulcerative colitis]], short bowel syndrome)
 	 - [[../Biochemistry/Vitamin C# Vitamin C toxicity|Vitamin C >  Vitamin C toxicity]]
 		 - <span style="background:rgba(240, 200, 0, 0.2)">[[../Biochemistry/Vitamin C|Vitamin C]] is metabolized to oxalate</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Hypocitraturia</span>
@@ -42,7 +42,7 @@ share: true
 - Possibly citrate supplementation
 ## Calcium phosphate stones
 ### Etiology
-- Hyperparathyroidism (brushite)
+- [[../Endocrine/Hyperparathyroidism|Hyperparathyroidism]] (brushite)
 - Type 1 renal tubular acidosis (brushite)
 - Develop in persistently alkalic urine
 ### Diagnosis
@@ -81,15 +81,15 @@ share: true
 ### Clinical features
 <span style="background:rgba(240, 200, 0, 0.2)">Recurrent kidney stones (manifesting with e.g., flank pain) starting <u>in childhood</u></span>
 ### Diagnosis
-- Urine microscopy: hexagonal crystals 
+- <span style="background:rgba(240, 200, 0, 0.2)">Urine microscopy: hexagonal crystals</span> ![[../../assets/img/Pasted image 20231106145828.png|Pasted image 20231106145828.png]]
 - X-ray (or CT)
 	- Weakly radiopaque stones
 	- Possibly staghorn calculi
 - Positive cyanide nitroprusside test
 ## Struvite stones (magnesium ammonium phosphate stones)
 ### Etiology
-- Upper UTI with urease-producing bacteria such as Proteus mirabilis, Klebsiella, Staphylococcus saprophyticus, and/or Pseudomonas
-	- These bacteria convert urea to ammonia → elevated ammonia causing alkaline urine → precipitation of the ammonium magnesium phosphate salt → crystal and stone formation
+- <span style="background:rgba(240, 200, 0, 0.2)">Upper UTI with urease-producing bacteria</span> such as Proteus mirabilis, Klebsiella, Staphylococcus saprophyticus, and/or Pseudomonas
+	- <span style="background:rgba(240, 200, 0, 0.2)">These bacteria convert urea to ammonia → elevated ammonia causing alkaline urine → precipitation of the ammonium magnesium phosphate salt → crystal and stone formation</span>
 ### Treatment
 - Antibiotic treatment of [[./Urinary tract infections|urinary tract infections]]
 - Hydration
