@@ -19,9 +19,11 @@ share: true
 
 ---
 # Clinical features
+>[!tip] 
+>Cardiac symptoms,  Arthralgias, and Neurologic symptoms are common.
 - Intestinal manifestations
 	- Abdominal pain
-	- Malabsorption syndrome (including diarrhea and/or steatorrhea): commonly occurs later in the disease progression 
+	- Malabsorption syndrome (including diarrhea and/or [[./Steatorrhea|steatorrhea]]): commonly occurs later in the disease progression
 	- Extraintestinal manifestations
 - Enteropathic arthritis (60% of cases) 
 	- Migrating arthralgias and arthritis, especially sacroiliitis (40% of cases)

@@ -49,3 +49,7 @@ This will help you remember the normal range for glucose is 70-100 [[./MSK/Myast
 ---
 # Comprehensive metabolic panel
 ![[../assets/img/Pasted image 20231022111024.png|Pasted image 20231022111024.png]]
+
+---
+# Coagulation studies
+![[../assets/img/Pasted image 20231115161844.png|Pasted image 20231115161844.png]]

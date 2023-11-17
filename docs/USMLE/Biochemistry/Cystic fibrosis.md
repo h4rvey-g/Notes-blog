@@ -27,7 +27,7 @@ CF is a hereditary autosomal recessive disorder caused by defective <mark style=
 	- <span style="background:rgba(240, 200, 0, 0.2)">Autopsy revealed pancreas develops cysts and became scarred, that's how it's named cystic fibrosis</span>
 	- Pancreatitis
 	- Exocrine pancreatic insufficiency 
-		- <span style="background:rgba(240, 200, 0, 0.2)">Foul-smelling [[steatorrhea]]</span> (fatty stools) may occur.
+		- <span style="background:rgba(240, 200, 0, 0.2)">Foul-smelling [[../GI/Steatorrhea|steatorrhea]]</span> (fatty stools) may occur.
 		- <span style="background:rgba(240, 200, 0, 0.2)">Malabsorption</span>
 		- Abdominal distention 
 		- Diarrhea
@@ -43,7 +43,7 @@ CF is a hereditary autosomal recessive disorder caused by defective <mark style=
 
 ## Respiratory
 - Chronic obstructive lung disease with [[../Respiratory/Bronchiectasis|bronchiectasis]]
-- <span style="background:rgba(240, 200, 0, 0.2)">Chronic [[sinusitis]]: nasal polyps may eventually develop </span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Chronic [[../Respiratory/Sinusitis|sinusitis]]: nasal polyps may eventually develop </span>
 - Recurrent or chronic productive cough and pulmonary infections
 	- S. aureus is the most common cause of recurrent pulmonary infection in infancy and childhood.
 	- P. aeruginosa is the most common cause of recurrent pulmonary infections in adulthood.

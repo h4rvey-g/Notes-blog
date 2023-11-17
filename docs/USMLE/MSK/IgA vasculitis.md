@@ -49,7 +49,8 @@ An upper respiratory tract infection often precedes symptom onset by 1–3 weeks
 ---
 # Diagnostics
 ## Biopsy
-IgA and C3 complex deposition (hallmark) in small vessels of the superficial dermis
+- IgA and C3 complex deposition (hallmark) in small vessels of the superficial dermis
+- ANCA negative vasculitis
 
 ---
 # Differential Diagnosis
