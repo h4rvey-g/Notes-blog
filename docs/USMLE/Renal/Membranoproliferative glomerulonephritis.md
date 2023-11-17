@@ -10,5 +10,5 @@ share: true
 - Primary disease occurs mainly in children
 # Classifications
 - Immunoglobulin (IG)-mediated membranoproliferative glomerulonephritis (type 1 MPGN)
-	- Associated with SLE, monoclonal gammopathy
+	- Associated with [[../Immunology/Systemic lupus erythematosus|SLE]], monoclonal gammopathy
 - Complement-mediated membranoproliferative glomerulonephritis (type 2 MPGN: associated with dense deposit disease (IgG antibodies that stabilize C3 convertase, i.e., C3 nephritic factor, cause a persistent complement activation, leading to a depletion of C3)
