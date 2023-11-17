@@ -9,7 +9,7 @@ share: true
 - Risk factors for asthma include:
     - Family history of asthma
     - Past history of allergies
-    - [[../Muscle, skin, and connective tissue/Atopic dermatitis|Atopic dermatitis]]
+    - [[../MSK/Atopic dermatitis|Atopic dermatitis]]
     - Low socioeconomic status
 - Allergic asthma (extrinsic asthma) vs Nonallergic asthma (intrinsic asthma)
 	-  ![[../../assets/img/Pasted image 20230803144309.png|Pasted image 20230803144309.png]]
