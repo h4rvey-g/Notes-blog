@@ -22,7 +22,7 @@ The differential diagnosis of a regular narrow tachycardia in general includes 5
 ![Multifocal Atrial Tachycardia (MAT) • At least 3 different ... | GrepMed](https://img.grepmed.com/uploads/5407/multifocal-tachycardia-ecg-cardiology-diagnosis-original.png)
 **Differentiate from <mark style="background: #FFF3A34A;">[[./ectopic atrial rhythm|ectopic atrial rhythm]]</mark>.** In [[./ectopic atrial rhythm|ectopic atrial rhythm]], the P-wave morphology remains consistent as the PACs originate from a single ectopic focus. In contrast, multifocal atrial rhythm shows varying P-wave morphologies from beat to beat, reflecting the random discharge of multiple ectopic atrial foci [4].
 #  Early repolarization
-![[../../assets/img/Pasted image 20230617214946.png|Pasted image 20230617214946.png]]
+![[../../assets/img/Pasted image 20230617214946.png|Pasted image 20230617214946]]
 on the LEFT, the T wave repolarization looks like a continuation of the S wave. This is not ST elevation and is seen often in young adults. It is called benign early repolarization. On the right, you clearly see the completion of the S wave and a clear ST Segment which allows you to do an accurate ST Elevation measurement.
 # Premature Atrial Complex (PAC)
 A premature atrial complex (PAC) is a <mark style="background: #FFF3A34A;">premature beat arising from ectopic pacemaking tissue within the atria</mark>. There is an abnormal P wave, usually followed by a normal QRS complex. AKA: Atrial ectopics, atrial extrasystoles, atrial premature beats, atrial premature depolarisations.
