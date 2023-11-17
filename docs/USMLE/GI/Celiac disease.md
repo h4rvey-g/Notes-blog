@@ -22,12 +22,12 @@ share: true
 ---
 # Clinical features
 ## Gastrointestinal symptoms
-- <span style="background:rgba(240, 200, 0, 0.2)">Chronic or recurring diarrhea: [[steatorrhea]]</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Chronic or recurring diarrhea: [[./Steatorrhea|steatorrhea]]</span>
 - Flatulence, abdominal bloating, and pain
 ## Extraintestinal symptoms and associations
 - **Malabsorption symptoms**: fatigue, weight loss, vitamin deficiency, iron deficiency [[../Blood/Anemia|anemia]], osteoporosis, hypocalcemia
 - In children: failure to thrive, growth failure, delayed puberty, secondary [[../Endocrine/Hyperparathyroidism|hyperparathyroidism]]
-- Dermatologic associations: **[[dermatitis herpetiformis]]**
+- Dermatologic associations: **[[../MSK/Dermatitis herpetiformis|dermatitis herpetiformis]]**
 - Neuropsychiatric symptoms: peripheral neuropathies (numbness, burning and tingling of the hands and feet) , headache, ataxia, depression, irritability
 
 ---
