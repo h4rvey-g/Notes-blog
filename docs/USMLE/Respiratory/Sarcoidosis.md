@@ -51,6 +51,8 @@ Butterfly rash as seen in systemic lupus erythematosus
 - Chest x-ray
 	- Preferred initial test for all patients with suspected sarcoidosis
 	- Classic findings: bilateral hilar lymphadenopathy with or without pulmonary infiltrates (i.e., reticular and/or ground glass opacities)
+## Biopsy
+- Schaumann bodies: cellular inclusion bodies consisting of intracytoplasmic calcium and protein with laminar stratification (e.g., sarcoidosis, tuberculosis, Crohn disease, berylliosis)![[../../assets/img/Pasted image 20231103144254.png|Pasted image 20231103144254.png]] 
 
 ---
 # Treatment

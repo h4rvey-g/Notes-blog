@@ -52,7 +52,7 @@ In most cases, there are no early symptoms suggestive of pancreatic cancer.
 - Pancreatic body and tail: 15% of cases
 - Diffuse: 20% of cases
 ## Cell origin
-- Pancreatic exocrine tumors: originate from pancreatic acini and ducts [30]
+- Pancreatic exocrine tumors: originate from pancreatic acini and ducts
 	- Most common: ductal adenocarcinoma (95%) 
 		- Altered ductal structures
 		- Cellular infiltration
