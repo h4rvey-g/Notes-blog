@@ -41,7 +41,7 @@ Definition: a group of inherited genetic disorders characterized by impaired hom
 	- Hyperlaxity of joints and hyperelasticity of the skin
  
 >[!tip] 
->Marfan syndrome and homocystinuria both present with marfanoid habitus. Distinguishing features include intellectual disability, which is only seen in homocystinuria, and the direction of lens dislocation (downwards in homocystinuria and upwards in Marfan syndrome).
+>Marfan syndrome and homocystinuria both present with marfanoid habitus. <span style="background:rgba(240, 200, 0, 0.2)">Distinguishing features include intellectual disability, which is only seen in homocystinuria, and the direction of lens dislocation (downwards in homocystinuria and upwards in Marfan syndrome).</span>
 - Osteoporosis
 - Cardiovascular complications like thromboembolism, premature arteriosclerosis, and coronary heart disease increase the risk of myocardial infarction and stroke
 
