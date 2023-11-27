@@ -5,6 +5,7 @@ modified: 2023-11-04 10:34
 aliases:
   - niacin
   - nicotinic acid
+  - Hartnup disease
 share: true
 ---
 # Function
