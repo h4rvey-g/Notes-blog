@@ -5,6 +5,7 @@ modified: 2023-08-13 17:24
 aliases: RPGN
 share: true
 ---
+
 # Etiology
 - Type I: anti-GBM glomerulonephritis: anti-glomerular basement membrane antibody disease ([[./Goodpasture syndrome|Goodpasture syndrome]])
 - Type II: immune complex-mediated glomerulonephritis
