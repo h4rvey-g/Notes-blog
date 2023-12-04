@@ -6,6 +6,7 @@ aliases:
   - ADA
 share: true
 ---
+
 Definition: inherited genetic disorder characterized by the <span style="background:rgba(240, 200, 0, 0.2)">impaired metabolism of deoxyadenosine during DNA breakdown</span>
 # Epidemiology
 
