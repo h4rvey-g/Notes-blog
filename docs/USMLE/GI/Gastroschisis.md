@@ -5,6 +5,7 @@ modified: 2023-10-19 21:23
 aliases: Untitled
 share: true
 ---
+
 ![[../../assets/img/Pasted image 20231019212359.png|Pasted image 20231019212359.png]]
 >[!tip] 
 >Unlike in cases of omphalocele, gastroschisis does not manifest with a hernia sac.
