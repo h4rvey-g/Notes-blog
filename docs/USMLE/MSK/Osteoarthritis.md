@@ -6,6 +6,7 @@ aliases:
   - OA
 share: true
 ---
+
 # Etiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Obesity</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Excessive joint loading or overuse (mechanical stress)</span>
