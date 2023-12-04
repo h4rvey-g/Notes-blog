@@ -8,6 +8,7 @@ aliases:
   - NASH
 share: true
 ---
+
 - Descriptions
 	- NAFLD: non-alcohol related accumulation of fat in the liver cells
 	- NASH: NAFLD with chronic inflammation and damage of liver cells
