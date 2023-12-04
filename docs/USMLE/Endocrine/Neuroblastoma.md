@@ -5,6 +5,7 @@ modified: 2023-10-06 15:11
 aliases: Untitled
 share: true
 ---
+
 # Epidemiology
 - Most common malignancy of the adrenal medulla in infants
 - Mean age at diagnosis: 1–2 years
