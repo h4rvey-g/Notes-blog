@@ -6,6 +6,7 @@ aliases:
   - PAN
 share: true
 ---
+
 # Definition
 - Systemic vasculitis of medium-sized vessels and small muscular arteries, leading to tissue ischemia
 - Most commonly involves the skin, peripheral nerves, muscles, joints, gastrointestinal tract, and kidneys
