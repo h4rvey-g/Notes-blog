@@ -5,6 +5,7 @@ modified: 2023-10-05 10:59
 aliases: Untitled
 share: true
 ---
+
 # Clinical features
 - Tense, grouped subepidermal vesicles, papules, and/or bullae (herpetiform appearance) 
 - Intense pruritus
