@@ -5,6 +5,7 @@ modified: 2023-07-19 21:03
 aliases: Untitled
 share: true
 ---
+
 # Etiology
 - Congenital [[./Long QT syndromes|Long QT syndromes]]
 - Acquired LQTS (e.g., drug-induced LQTS, electrolyte abnormalities, heart disease)
