@@ -5,6 +5,7 @@ modified: 2023-07-07 16:21
 aliases: Untitled
 share: true
 ---
+
 # Etiology
 
 
@@ -26,7 +27,7 @@ share: true
 ---
 # Treatment
 ## Arrythmia 
-**[[Class IB antiarrhythmics]]** treat ventricular arrhythmias, especially in ischemic tissue (e.g. **post-MI**)
+**[[Class IB antiarrhythmics|Class IB antiarrhythmics]]** treat ventricular arrhythmias, especially in ischemic tissue (e.g. **post-MI**)
 >[!note] 
 >**Ischemia leads to slow cellular depolarization that inactivates sodium channels, and therefore enhanced binding of IB drugs**.
 
