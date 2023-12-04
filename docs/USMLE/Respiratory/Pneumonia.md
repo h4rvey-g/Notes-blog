@@ -7,6 +7,7 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
+
 # Clinical features
 ## Typical pneumonia
 Typical pneumonia is characterized by a sudden onset of symptoms caused by lobar infiltration.
