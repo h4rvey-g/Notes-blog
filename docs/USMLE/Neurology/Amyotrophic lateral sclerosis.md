@@ -6,6 +6,7 @@ aliases:
   - ALS
 share: true
 ---
+
 a neurodegenerative disease with upper and lower motor neuron dysfunction.
 # Epidemiology
 - Mean age of onset is 65 years.
