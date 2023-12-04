@@ -6,6 +6,7 @@ aliases:
   - Behcet syndrome
 share: true
 ---
+
 # Epidemiology
 - Most commonly affects individuals from the Mediterranean region to eastern Asia, with the highest prevalence observed in Turkey and Japan
 
