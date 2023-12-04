@@ -5,6 +5,7 @@ modified: 2023-09-29 14:36
 aliases: Untitled
 share: true
 ---
+
 A genetic disorder characterized by impaired osteogenesis that results in skeletal deformities and brittle bones that fracture easily
 # Epidemiology
 - Various genetic defects; <span style="background:rgba(240, 200, 0, 0.2)">most commonly autosomal dominant mutations</span> in COL1A1 or COL1A2 genes
