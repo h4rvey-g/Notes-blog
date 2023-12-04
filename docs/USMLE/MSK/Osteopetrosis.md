@@ -6,6 +6,7 @@ aliases:
   - marble bone disease
 share: true
 ---
+
 - Definition: an inherited, diffuse bone disease that results in sclerotic thickening of the skeleton on radiological examination
 - Etiology: infancy or early childhood
 - Pathophysiology: gene mutations → <span style="background:rgba(240, 200, 0, 0.2)">inability of osteoclasts to generate acidic environment in the bone matrix → bone resorption with preserved osteoblastic function → overgrowth of bone with pathological bone composition </span>
