@@ -5,6 +5,7 @@ modified: 2023-09-28 17:22
 aliases: Untitled
 share: true
 ---
+
 # Epidemiology
 - Most common type of skeletal dysplasia
 - Most common cause of disproportionate short stature
