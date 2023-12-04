@@ -5,6 +5,7 @@ modified: 2023-10-02 10:23
 aliases: Untitled
 share: true
 ---
+
 Definition: head trauma through strong rotational and shearing force
 # Epidemiology
 high mortality and a significant cause of death
