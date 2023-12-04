@@ -5,6 +5,7 @@ modified: 2023-08-11 16:16
 aliases: Untitled
 share: true
 ---
+
 # Definition
 A <mark style="background: #FFF3A34A;">potentially life-threatening oncologic emergency</mark> resulting from the rapid destruction of tumor cells, which leads to a massive release of intracellular components, e.g., potassium (K+), phosphate (PO43-), and uric acid, that can damage the **kidneys** and cause renal failure.
 
