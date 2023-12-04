@@ -5,6 +5,7 @@ modified: 2023-07-29 15:30
 aliases: Untitled
 share: true
 ---
+
 # Epidemiology
 - Onset of symptoms usually occurs at 3–6 months of age. 
 - Disease often improves with age.
