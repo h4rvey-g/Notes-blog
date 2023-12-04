@@ -5,6 +5,7 @@ modified: 2023-08-06 13:26
 aliases: Untitled
 share: true
 ---
+
 # Etiology
 >[!Mnemonic] 
 >“PLEASe Help!”: Causes of restrictive cardiomyopathy include Postradiation/Postsurgery fibrosis, [[./Löffler endocarditis|Löffler endocarditis]], Endocardial fibroelastosis, [[../Pathology/Amyloidosis|Amyloidosis]], [[../Respiratory/Sarcoidosis|Sarcoidosis]], and Hemochromatosis.
