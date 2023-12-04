@@ -5,6 +5,7 @@ modified: 2023-08-31 13:30
 aliases: ARDS
 share: true
 ---
+
 ARDS is a clinical syndrome of acute respiratory failure characterized by hypoxemia and bilateral pulmonary infiltrates that cannot be fully accounted for by heart failure or fluid overload.
 # Epidemiology
 
