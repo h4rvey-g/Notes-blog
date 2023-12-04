@@ -6,6 +6,7 @@ aliases:
   - Esophageal pouches
 share: true
 ---
+
 # Epidemiology
 - Peak incidence: older male individuals (70-80 y)
 - Zenker diverticulum is the most common type.
