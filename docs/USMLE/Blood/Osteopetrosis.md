@@ -5,6 +5,7 @@ modified: 2023-10-02 08:46
 aliases: Untitled
 share: true
 ---
+
 # Definition
 an inherited, diffuse bone disease that results in sclerotic thickening of the skeleton on radiological examination
 
