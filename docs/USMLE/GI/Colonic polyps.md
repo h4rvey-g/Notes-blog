@@ -6,6 +6,7 @@ aliases:
   - Colon polyps
 share: true
 ---
+
 # Adenomatous polyps
 - High malignant potential
 	- Tubular adenoma: < 5%![[../../assets/img/Pasted image 20231031135152.png|Pasted image 20231031135152.png]]
