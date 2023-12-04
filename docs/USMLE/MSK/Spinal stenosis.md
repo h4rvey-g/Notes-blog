@@ -5,6 +5,7 @@ modified: 2023-10-15 15:46
 aliases: Untitled
 share: true
 ---
+
 Spinal stenosis is characterized by the narrowing of the central spinal canal, intervertebral foramen, and/or lateral recess within the cervical spine, thoracic spine, or lumbar spine, resulting in progressive nerve root compression.
 # Epidemiology
 
