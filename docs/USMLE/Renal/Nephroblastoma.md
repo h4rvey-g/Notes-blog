@@ -5,6 +5,7 @@ modified: 2023-08-31 21:06
 aliases: Wilms tumor
 share: true
 ---
+
 # Epidemiology
 - Peak incidence: between 2 and 5 years 
 - Most common malignant neoplasm of the kidney in children
