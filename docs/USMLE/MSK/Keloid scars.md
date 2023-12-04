@@ -5,6 +5,7 @@ modified: 2023-10-20 11:33
 aliases: Untitled
 share: true
 ---
+
 - Definition: <span style="background:rgba(240, 200, 0, 0.2)">skin lesions caused by high fibroblast proliferation and collagen production as excessive tissue response to, typically small, skin injuries</span>
 - Etiology: imbalance in wound healing processes due to local factors and genetics
 - Pathophysiology
