@@ -6,6 +6,7 @@ aliases:
   - Kartagener syndrome
 share: true
 ---
+
 # Definition
 Rare autosomal recessive disorder characterized by absent or dysmotile cilia caused by a defect in the dynein arm of microtubules.
 
