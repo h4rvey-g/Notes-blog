@@ -5,6 +5,7 @@ modified: 2023-10-23 10:49
 aliases: Untitled
 share: true
 ---
+
 - Description: a rare type of <span style="background:rgba(240, 200, 0, 0.2)">hepatic encephalopathy</span> that is associated with <span style="background:rgba(240, 200, 0, 0.2)">aspirin use for viral illness in children</span> < 19 years ![[../../assets/img/Pasted image 20231023105815.png|Pasted image 20231023105815.png]]
 - Etiology: aspirin use in individuals < 19 years of age with a febrile illness  [14][15]
 - Pathophysiology [16]

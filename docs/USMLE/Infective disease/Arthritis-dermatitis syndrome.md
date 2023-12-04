@@ -5,6 +5,7 @@ modified: 2023-10-01 09:33
 aliases: Untitled
 share: true
 ---
+
 Disseminated gonococcal infection
 - Polyarthralgias: migratory, asymmetric arthritis that may become purulent
 - Tenosynovitis: simultaneous inflammation of several tendons

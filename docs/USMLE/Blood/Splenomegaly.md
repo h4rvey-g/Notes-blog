@@ -7,5 +7,6 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
+
 # Etiology
 ![[../../assets/img/Pasted image 20230623172022.png|Pasted image 20230623172022.png]]

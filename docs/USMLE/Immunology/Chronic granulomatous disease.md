@@ -5,6 +5,7 @@ modified: 2023-08-05 17:57
 aliases: Untitled
 share: true
 ---
+
 Definition: deficiency of superoxide production by polymorphonuclear neutrophils and macrophages
 # Etiology
 X-linked recessive or autosomal recessive inheritance (2:1)

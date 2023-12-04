@@ -7,6 +7,7 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
+
 # Mobitz type II [2]
 ## Description
 Single or intermittent nonconducted P waves without QRS complexes

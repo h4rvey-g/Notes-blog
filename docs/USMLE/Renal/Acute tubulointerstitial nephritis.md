@@ -5,6 +5,7 @@ modified: 2023-08-18 15:32
 aliases: ATIN
 share: true
 ---
+
 # Definition
 Acute tubulointerstitial nephritis (ATIN) is an acute inflammation of the renal interstitium and tubules that causes a decline in renal function over a period of days to weeks.
 

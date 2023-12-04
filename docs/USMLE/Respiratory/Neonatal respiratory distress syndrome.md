@@ -7,6 +7,7 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
+
 # Etiology
 - <mark style="background: #FFF3A34A;">Premature birth</mark>
 - <mark style="background: #FFF3A34A;">Maternal diabetes mellitus: leads to ↑ fetal insulin, which inhibits surfactant synthesis</mark>

@@ -5,6 +5,7 @@ modified: 2023-09-20 16:23
 aliases: Untitled
 share: true
 ---
+
 ![[../../assets/img/Pasted image 20230920172031.png|Pasted image 20230920172031.png]]
 # Large-vessel vasculitis
 ![[../../assets/img/Pasted image 20230920162430.png|Pasted image 20230920162430.png]]

@@ -5,6 +5,7 @@ modified: 2023-10-08 08:52
 aliases: Untitled
 share: true
 ---
+
 # Epidemiology
 - More common in adults than children
 	- > Since introduction of the Hib vaccine, incidence in children has significantly decreased and incidence in adults has risen via other causal pathogens.

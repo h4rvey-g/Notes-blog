@@ -5,6 +5,7 @@ modified: 2023-08-12 14:53
 aliases: Untitled
 share: true
 ---
+
 # Epidemiology
 - [[./Stress incontinence|Stress incontinence]] and mixed incontinence are the most common types of incontinence in female patients.
 - [[./Urge incontinence|Urge incontinence]] is the most common type in male patients.

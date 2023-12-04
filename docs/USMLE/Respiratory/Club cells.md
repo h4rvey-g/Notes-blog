@@ -5,6 +5,7 @@ modified: 2023-08-02 16:00
 aliases: Untitled
 share: true
 ---
+
  (formerly known as Clara cells)
 - Maintain the integrity of the respiratory epithelium by secreting specialized immunomodulatory proteins, glycoproteins, and lipids.
 - Cytochrome P450-dependent degradation of toxins

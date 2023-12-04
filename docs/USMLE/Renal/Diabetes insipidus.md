@@ -5,6 +5,7 @@ modified: 2023-08-31 16:40
 aliases: DI
 share: true
 ---
+
 # Epidemiology
 
 
@@ -47,7 +48,7 @@ share: true
 - Normal values: diagnosis unclear; obtain subsequent studies to differentiate between polyuria-polydipsia syndromes.
 - <span style="background:rgba(240, 200, 0, 0.2)">↑ Na+ and/ or ↑ plasma osmolality: Diabetes insipidus likely</span>; obtain subsequent studies to differentiate between CDI and NDI.
 ## Water deprivation test (indirect assessment of ADH activity)
-Urine concentrating capacity is assessed during a period of dehydration; desmopressin is then administered to assess response to a synthetic ADH analogue.
+Urine concentrating capacity is assessed during a period of dehydration; desmopressin is then administered to assess response to a synthetic ADH analogue.![[../../assets/img/Pasted image 20231204113426.png|Pasted image 20231204113426.png]]
 - Interpretation after period of water deprivation
 	- [[./Urine osmolality|Urine osmolality]] increases to > 800 mOsm/kg: Primary polydipsia is confirmed.
 	- [[./Urine osmolality|Urine osmolality]] remains ≤ 800 mOsm/kg: Administer desmopressin (a synthetic ADH analogue). 

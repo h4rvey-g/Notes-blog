@@ -5,6 +5,7 @@ modified: 2023-08-12 20:07
 aliases: Untitled
 share: true
 ---
+
 Introduction:
 In today's fast-paced digital world, efficient internet connectivity is crucial for smooth workflow and seamless browsing. However, there are times when we need to switch between using a proxy server and connecting directly to the internet. To simplify this process, we can create a bash tool in the .bashrc file. This tool allows us to easily turn on and off the proxy settings with just a few simple commands. In this blog post, we will guide you through the process of creating and using this bash tool.
 

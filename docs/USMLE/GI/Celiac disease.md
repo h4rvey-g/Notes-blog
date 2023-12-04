@@ -7,6 +7,7 @@ aliases:
   - gluten-sensitive enteropathy
 share: true
 ---
+
 # Etiology
 - Genetic predisposition with association to HLA antigens [3]
 	- HLA-DQ2 in 90–95% of patients

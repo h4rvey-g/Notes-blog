@@ -7,6 +7,7 @@ aliases:
   - Osteitis deformans
 share: true
 ---
+
 # Epidemiology
 - Prevalence: <span style="background:rgba(240, 200, 0, 0.2)">second most prevalent skeletal disease after osteoporosis in individuals > 50 years of age</span>
 

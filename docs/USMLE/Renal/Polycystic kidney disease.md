@@ -5,6 +5,7 @@ modified: 2023-08-24 15:19
 aliases: PKD
 share: true
 ---
+
 It is classified into two distinct disorders: autosomal recessive PKD (ARPKD) and autosomal dominant PKD (ADPKD).
 # Epidemiology
 ADPKD: The most common inherited cause of chronic kidney disease

@@ -5,6 +5,7 @@ modified: 2023-07-31 17:28
 aliases: Untitled
 share: true
 ---
+
 # Epidemiology
 - Sex: ♀ > ♂ (3:1) [1]
 - Age of onset: >70 years (rarely seen in patients < 50 years) [2]

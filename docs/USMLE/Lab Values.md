@@ -5,6 +5,7 @@ modified: 2023-08-13 15:28
 aliases: Untitled
 share: true
 ---
+
 # Basic metabolic panel
 [Tricks to Remember Normal Lab Values: Nursing Chart, NCLEX, USMLE Cheat Sheet — EZmed (ezmedlearning.com)](https://www.ezmedlearning.com/blog/lab-value-nursing-chart-nclex)
 ![[../assets/img/Pasted image 20230813153046.png|Pasted image 20230813153046.png]]

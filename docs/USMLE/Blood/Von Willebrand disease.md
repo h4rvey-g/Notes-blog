@@ -7,6 +7,7 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
+
 **Mixed platelet and coagulation disorders**
 # Epidemiology
 Most common congenital bleeding disorder.

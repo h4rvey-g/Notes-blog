@@ -5,6 +5,7 @@ modified: 2023-08-23 16:25
 aliases: PSGN
 share: true
 ---
+
 # Epidemiology
 <span style="background:rgba(240, 200, 0, 0.2)">Bimodal age distribution; mostly affects children (between the ages of 3–12 years) and patients > 60 years of age</span>
 

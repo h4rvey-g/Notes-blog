@@ -6,6 +6,7 @@ aliases:
   - PSC
 share: true
 ---
+
 ![[../../assets/img/Pasted image 20231016163207.png|Pasted image 20231016163207.png]]
 # Epidemiology
 - Sex: ♂ > ♀ (2:1)

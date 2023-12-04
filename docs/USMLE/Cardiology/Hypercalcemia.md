@@ -7,6 +7,7 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
+
 Hypercalcemia is a total serum calcium concentration of > 10.5 mg/dL (> 2.62 mmol/L) or ionized (free) calcium concentration of > 5.25 mg/dL (> 1.31 mmol/L).
 >[!tip] 
 >- Total protein normal level **6.0 to 8.3 g/dL** (60 to 83 g/L)

@@ -5,6 +5,7 @@ modified: 2023-10-13 20:45
 aliases: Untitled
 share: true
 ---
+
 # Zinc function
 - Protein structure
 	- Forms bonds between cysteine and histidine

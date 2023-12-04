@@ -6,6 +6,7 @@ aliases: Untitled
 share: true
 ---
 
+
 ![[../../assets/img/Pasted image 20231113173155.png|Pasted image 20231113173155.png]]![[../../assets/img/Pasted image 20231107143619.png|Pasted image 20231107143619.png]]
 # Alkaptonuria
 - [[../Renal/Urine color|Dark urine]]

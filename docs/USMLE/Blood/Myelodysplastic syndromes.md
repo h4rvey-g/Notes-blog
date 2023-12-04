@@ -5,6 +5,7 @@ modified: 2023-08-22 13:38
 aliases: Myelodysplastic syndrome
 share: true
 ---
+
 # Etiology
 - Primary MDS (90% of cases) [1]
 	- Tends to occur in elderly patients

@@ -7,6 +7,7 @@ aliases:
   - Laryngotracheobronchitis
 share: true
 ---
+
 # Epidemiology
 - Peak incidence: 6 months to 3 years
 - Most common in fall and winter

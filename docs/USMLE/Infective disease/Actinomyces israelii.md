@@ -5,6 +5,7 @@ modified: 2023-08-07 15:11
 aliases: Untitled
 share: true
 ---
+
 ![[../../assets/img/Pasted image 20230807151234.png|Pasted image 20230807151234.png]]
 
 ---

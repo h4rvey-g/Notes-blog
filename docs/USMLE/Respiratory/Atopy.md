@@ -5,6 +5,7 @@ modified: 2023-07-29 15:26
 aliases: Untitled
 share: true
 ---
+
 - Genetic predisposition to producing IgE antibodies against certain harmless environmental allergens (e.g., pollen, mites, molds, certain foods)
 - Atopic triad:
 	- atopic dermatitis (i.e., eczema)

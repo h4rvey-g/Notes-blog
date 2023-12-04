@@ -5,6 +5,7 @@ modified: 2023-08-08 14:34
 aliases: Untitled
 share: true
 ---
+
 # Etiology
 - Obstructive atelectasis (most common): airway obstruction (e.g., by a foreign body, mucus plug, malignancy) → nonventilated alveoli → reabsorption of gas in the poststenotic space → lung collapse 
 - Nonobstructive atelectasis

@@ -7,6 +7,7 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
+
 # Tachycardia DDx
 ![[../../assets/img/Pasted image 20230620213926.png|800]]
 The differential diagnosis of a regular narrow tachycardia in general includes 5 major mechanisms: 
@@ -17,7 +18,7 @@ The differential diagnosis of a regular narrow tachycardia in general includes 5
 - [[./Atrial flutter|Atrial flutter]] with 2:1 block
 # Bradycardia DDx
 ![[../../assets/img/Pasted image 20230623214843.png|Pasted image 20230623214843.png]]
-#  Whenever you see a negative P wave and QRS complex in lead I the likely diagnosis is limb [[lead reversal]].
+#  Whenever you see a negative P wave and QRS complex in lead I the likely diagnosis is limb [[lead reversal|lead reversal]].
 # Multifocal atrial rhythm
 ![Multifocal Atrial Tachycardia (MAT) • At least 3 different ... | GrepMed](https://img.grepmed.com/uploads/5407/multifocal-tachycardia-ecg-cardiology-diagnosis-original.png)
 **Differentiate from <mark style="background: #FFF3A34A;">[[./ectopic atrial rhythm|ectopic atrial rhythm]]</mark>.** In [[./ectopic atrial rhythm|ectopic atrial rhythm]], the P-wave morphology remains consistent as the PACs originate from a single ectopic focus. In contrast, multifocal atrial rhythm shows varying P-wave morphologies from beat to beat, reflecting the random discharge of multiple ectopic atrial foci [4].
@@ -197,7 +198,7 @@ Depression: ≥ 0.05 mV (or 0.5 mm) in leads V2 and V3 or ≥ 0.1 mV in all 
 ## QT interval
 The QT interval includes the QRS complex, the ST segment, and the T wave.
 The two chief causes of a short QT are <mark style="background: #FFF3A34A;">[[./Hypercalcemia|hypercalcemia]]</mark> and <mark style="background: #FFF3A34A;">digoxin therapy</mark> (associated with characteristic "scooping" of the ST-T complex). A third and relatively rare cause is <mark style="background: #FFF3A34A;">hereditary short QT</mark> ("channelopathy"-related) that may be associated with ventricular arrhythmia and sudden cardiac arrest.
-Prolonged QT: Congenital [[./Long QT syndromes|Long QT syndromes]], Drug side effects (e.g., antiarrhythmic agents, antidepressants, antipsychotics, phenothiazines, 1st-generation antihistamines, some antibiotics), Electrolyte disturbances (e.g., <mark style="background: #FFF3A34A;">[[Hypocalcemia]], hypokalemia, hypomagnesemia</mark>), Cardiac abnormalities (e.g., inflammatory heart diseases, bradycardia, myocardial ischemia), Arsenic poisoning
+Prolonged QT: Congenital [[./Long QT syndromes|Long QT syndromes]], Drug side effects (e.g., antiarrhythmic agents, antidepressants, antipsychotics, phenothiazines, 1st-generation antihistamines, some antibiotics), Electrolyte disturbances (e.g., <mark style="background: #FFF3A34A;">[[Hypocalcemia|Hypocalcemia]], hypokalemia, hypomagnesemia</mark>), Cardiac abnormalities (e.g., inflammatory heart diseases, bradycardia, myocardial ischemia), Arsenic poisoning
 ## Rates
 - [[./Atrial flutter|Atrial flutter]]: 250-300/min -- about 1 small block
 - [[./Atrial fibrillation|Atrial fibrillation]]: 350-400/min -- less than 1 small block

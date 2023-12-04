@@ -5,6 +5,7 @@ modified: 2023-08-14 15:55
 aliases: FeNa
 share: true
 ---
+
 Definition: percentage of the glomerular filtered sodium (Na<sub>Filtered</sub>) that is eventually excreted in the urine (Na<sub>Excreted</sub>)
 # Usage
 - Can help establish the <span style="background:rgba(240, 200, 0, 0.2)">cause of [[./Acute kidney injury|acute kidney injury]]</span> 

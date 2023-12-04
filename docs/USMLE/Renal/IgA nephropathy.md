@@ -5,6 +5,7 @@ modified: 2023-08-18 15:53
 aliases: Berger disease
 share: true
 ---
+
 # Etiology
 IgA nephropathy is the <span style="background:rgba(240, 200, 0, 0.2)">most common primary glomerulonephritis in adults.</span>
 Peak incidence: <span style="background:rgba(240, 200, 0, 0.2)">20-30 years old</span>

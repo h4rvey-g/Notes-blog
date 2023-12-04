@@ -5,6 +5,7 @@ modified: 2023-09-06 20:42
 aliases: Untitled
 share: true
 ---
+
 An acquired genetic defect of the hematopoietic stem cell characterized by <span style="background:rgba(240, 200, 0, 0.2)">a triad of hemolytic [[./Anemia|anemia]], pancytopenia, and thrombosis</span>
 # Epidemiology
 

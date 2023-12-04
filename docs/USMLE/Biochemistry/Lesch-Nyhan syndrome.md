@@ -5,6 +5,7 @@ modified: 2023-11-13 16:58
 aliases: Untitled
 share: true
 ---
+
 Definition: inherited genetic disorder characterized by <span style="background:rgba(240, 200, 0, 0.2)">impaired purine salvage pathway, resulting in an overproduction of uric acid</span>
 # Epidemiology
 

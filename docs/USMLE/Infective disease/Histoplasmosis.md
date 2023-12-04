@@ -5,6 +5,7 @@ modified: 2023-07-31 18:07
 aliases: Untitled
 share: true
 ---
+
 # Diagnose
 - Best initial: positive urine and serum polysaccharide antigen test
 - Silver stain of biopsy or bronchoalveolar lavage showing

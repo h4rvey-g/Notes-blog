@@ -5,6 +5,7 @@ modified: 2023-08-11 16:00
 aliases: Untitled
 share: true
 ---
+
 <span style="background:rgba(240, 200, 0, 0.2)">Neutrophils infiltrate renal interstitium. Affects cortex with relative sparing of glomeruli/vessels.</span>
 # Etiology
 - Usually caused by an ascending bacterial infection of the bladder (cystitis)

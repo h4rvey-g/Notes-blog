@@ -5,6 +5,7 @@ modified: 2023-09-02 22:34
 aliases: Myelofibrosis
 share: true
 ---
+
 Description: any MPN leading to <span style="background:rgba(240, 200, 0, 0.2)">bone marrow fibrosis, extramedullary hematopoiesis, and [[./Splenomegaly|splenomegaly]]</span>
 # Epidemiology
 Peak incidence is between <span style="background:rgba(240, 200, 0, 0.2)">50 and 74 years of age.</span>

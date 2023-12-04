@@ -6,15 +6,17 @@ modified: <% tp.file.last_modified_date() %>
 aliases: <% tp.file.title %>
 share: true
 ---
-- [[./Arthritis-dermatitis syndrome|Arthritis-dermatitis syndrome]]
-- [[./Corynebacterium diphtheriae|Corynebacterium diphtheriae]]
-- [[./Bacillus anthracis|Bacillus anthracis]]
+
 - [[./Actinomyces israelii|Actinomyces israelii]]
-- [[./Histoplasmosis|Histoplasmosis]]
+- [[./Arthritis-dermatitis syndrome|Arthritis-dermatitis syndrome]]
+- [[./Bacillus anthracis|Bacillus anthracis]]
+- [[./Corynebacterium diphtheriae|Corynebacterium diphtheriae]]
 - [[./Eaton agar|Eaton agar]]
-- [[./IgA protease|IgA protease]]
 - [[./Eosin methylene blue agar|Eosin methylene blue agar]]
+- [[./Histoplasmosis|Histoplasmosis]]
+- [[./IgA protease|IgA protease]]
 - [[./Legionnaires' disease|Legionnaires' disease]]
 - [[./Mumps|Mumps]]
 - [[./Mycobacteria|Mycobacteria]]
+- [[./Schistosomiasis|Schistosomiasis]]
 

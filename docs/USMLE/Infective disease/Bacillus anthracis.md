@@ -5,6 +5,7 @@ modified: 2023-08-07 17:05
 aliases: Untitled
 share: true
 ---
+
 ![[../../assets/img/Pasted image 20230807170545.png|Pasted image 20230807170545.png]]
 # Virulence factors
 - Antiphagocytic capsule

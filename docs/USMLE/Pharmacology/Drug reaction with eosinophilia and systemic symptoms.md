@@ -6,6 +6,7 @@ aliases:
   - DRESS syndrome
 share: true
 ---
+
 # Epidemiology
 
 

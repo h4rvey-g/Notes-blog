@@ -5,6 +5,7 @@ modified: 2023-08-24 16:39
 aliases: Untitled
 share: true
 ---
+
 # [[./Nephrotic syndrome|Nephrotic syndrome]]
 ## [[./Membranous nephropathy|Membranous nephropathy]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Subepithelial (aka on basement membrane)</span> deposits of IgG and C3 (dense deposits) → spike and dome appearance

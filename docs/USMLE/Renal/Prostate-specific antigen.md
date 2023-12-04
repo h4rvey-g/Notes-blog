@@ -6,6 +6,7 @@ aliases:
   - PSA
 share: true
 ---
+
 PSA is a serine protease produced only in the prostate gland and, therefore, is an organ-specific marker. <span style="background:rgba(240, 200, 0, 0.2)">It is not cancer-specific however, as levels may also be elevated in benign conditions.</span>
 - Indications
 	- Suspected prostate cancer

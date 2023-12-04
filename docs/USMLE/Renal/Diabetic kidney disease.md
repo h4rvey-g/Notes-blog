@@ -5,6 +5,7 @@ modified: 2023-08-22 15:52
 aliases: Diabetic nephropathy
 share: true
 ---
+
 # Epidemiology
 major cause of ESRD
 - Type 1 DM: Diabetic kidney disease usually occurs approx. 10 years after diagnosis.

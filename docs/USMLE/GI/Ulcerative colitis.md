@@ -6,6 +6,7 @@ aliases:
   - UC
 share: true
 ---
+
 # Epidemiology
 - Higher in White populations than in Black, Hispanic, or Asian populations
 - Highest among individuals of Ashkenazi Jewish descent

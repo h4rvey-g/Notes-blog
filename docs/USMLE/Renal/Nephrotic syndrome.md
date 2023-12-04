@@ -6,6 +6,7 @@ aliases: Untitled
 share: true
 ---
 
+
 # Immune deposition
 >[!Mnemonic] 
 >1. [[./Membranous nephropathy|Membranous nephropathy]]: subepithelial & 'spike and dome' 

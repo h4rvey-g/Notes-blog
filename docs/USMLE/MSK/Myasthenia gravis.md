@@ -8,6 +8,7 @@ aliases:
 share: true
 ---
 
+
 Associated with [[./Thymoma|Thymoma]].
 # Pathophysiology
 ## [Thymus](https://next.amboss.com/us/article/960NMS#Z2280a528c47a8e93bb70fb96d798d351) involvement

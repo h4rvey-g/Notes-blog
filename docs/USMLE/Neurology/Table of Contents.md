@@ -6,6 +6,7 @@ modified: <% tp.file.last_modified_date() %>
 aliases: <% tp.file.title %>
 share: true
 ---
+
 - [[./Amyotrophic lateral sclerosis|Amyotrophic lateral sclerosis]]
 - [[./Essential tremor|Essential tremor]]
 - [[./Headaches|Headaches]]

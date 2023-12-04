@@ -5,6 +5,7 @@ modified: 2023-08-23 15:40
 aliases: FSGC
 share: true
 ---
+
 # Epidemiology
 <span style="background:rgba(240, 200, 0, 0.2)">Most common cause of [[./Nephrotic syndrome|nephrotic syndrome]] in adults, especially in African American and Hispanic populations</span>
 

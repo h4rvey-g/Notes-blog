@@ -7,6 +7,7 @@ aliases:
   - ALP
 share: true
 ---
+
 A group of enzymes found throughout the body but produced predominantly in the liver, bones, placenta, and small intestine. Common causes of elevated serum ALP include cholestasis, bone disease (e.g., <mark style="background: #FFF3A34A;">bone metastases</mark>, [[../MSK/Paget disease|Paget's disease]], [[../Endocrine/Hyperparathyroidism|hyperparathyroidism]]), and pregnancy. The normal reference range is 40-120 U/L.
 # Common causes of elevation
 - <span style="background:rgba(240, 200, 0, 0.2)">Cholestasis (obstructive or nonobstructive)</span>

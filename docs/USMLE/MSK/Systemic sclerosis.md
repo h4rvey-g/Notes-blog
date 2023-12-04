@@ -6,6 +6,7 @@ aliases:
   - Scleroderma
 share: true
 ---
+
 # Epidemiology
 - ♀ > ♂ (∼ 5:1)  [1][2]
 - Peak incidence: 30–50 years

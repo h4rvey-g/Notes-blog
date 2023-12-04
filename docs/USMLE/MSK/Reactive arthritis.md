@@ -6,6 +6,7 @@ aliases:
   - RA
 share: true
 ---
+
 # Epidemiology
 - Genetic predisposition and association with HLA-B27 (see “Seronegative spondyloarthritis”)
 - Commonly affects young men

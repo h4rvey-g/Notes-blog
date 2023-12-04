@@ -5,6 +5,7 @@ modified: 2023-11-14 17:12
 aliases: Untitled
 share: true
 ---
+
 ![[../../assets/img/Pasted image 20231114172757.png|Pasted image 20231114172757.png]]
 ![[../../assets/img/Pasted image 20231114171252.png|Pasted image 20231114171252.png]]
 ![[../../assets/img/Pasted image 20231114172027.png|Pasted image 20231114172027.png]]Abnormal glycogen branch like coral.

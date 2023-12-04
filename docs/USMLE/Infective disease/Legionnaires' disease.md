@@ -7,6 +7,7 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
+
 # Definition
 - Legionellosis: an infection caused by Legionella spp.
 - Legionnaires' disease: a type of legionellosis that manifests as [[../Respiratory/Pneumonia#Atypical pneumonia|Pneumonia > Atypical pneumonia]]
