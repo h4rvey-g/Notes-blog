@@ -5,6 +5,7 @@ modified: 2023-10-12 11:34
 aliases: Untitled
 share: true
 ---
+
 # Statins
 ![[../../assets/img/Pasted image 20231012113514.png|Pasted image 20231012113514.png]]
 # Ezetimibe
