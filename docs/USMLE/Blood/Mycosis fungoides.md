@@ -5,6 +5,7 @@ modified: 2023-08-24 13:58
 aliases: Untitled
 share: true
 ---
+
 Mycosis fungoides is an indolent, CD4+ cutaneous T-cell lymphoma that presents on the skin.
 # Epidemiology
 - Incidence [1][2]
