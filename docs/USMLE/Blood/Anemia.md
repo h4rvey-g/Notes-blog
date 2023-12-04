@@ -7,6 +7,7 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
+
 # Aplastic anemia
 - Description
     - [Pancytopenia](https://next.amboss.com/us/article/Ln0wFg#Z8e20b73baa901db582feedc7c8a267df) caused by bone marrow insufficiency [20]
