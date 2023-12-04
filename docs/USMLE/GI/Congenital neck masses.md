@@ -5,6 +5,7 @@ modified: 2023-10-15 11:07
 aliases: Untitled
 share: true
 ---
+
 ![[../../assets/img/Pasted image 20231015111723.png|Pasted image 20231015111723.png]]
 # Thyroglossal duct cyst
 - Painless, firm, <span style="background:rgba(240, 200, 0, 0.2)">midline</span> neck mass that elevates with swallowing and tongue protrusion
