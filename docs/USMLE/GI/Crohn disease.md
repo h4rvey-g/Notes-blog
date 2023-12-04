@@ -6,6 +6,7 @@ aliases:
   - CD
 share: true
 ---
+
 # Epidemiology
 - Typical age of onset: bimodal distribution with one peak at 15–35 years and another one at 55–70 years
 - Populations with higher prevalence
