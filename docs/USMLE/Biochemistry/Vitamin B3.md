@@ -8,6 +8,7 @@ aliases:
   - Hartnup disease
 share: true
 ---
+
 # Function
 >[!Mnemonic] 
 >Active forms of <font color="#ffc000">N</font>iacin are <font color="#ffc000">N</font>AD+ and <font color="#ffc000">N</font>ADP+.
