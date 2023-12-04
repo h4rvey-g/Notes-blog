@@ -5,6 +5,7 @@ modified: 2023-09-06 14:47
 aliases: Untitled
 share: true
 ---
+
 Definition: a type of kidney injury that is triggered by crystal deposition and may lead to crystal-induced AKI, crystal-induced CKD, or urolithiasis
 # Epidemiology
 
