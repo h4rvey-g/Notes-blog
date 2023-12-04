@@ -5,6 +5,7 @@ modified: 2023-11-11 10:46
 aliases: Untitled
 share: true
 ---
+
 Definition: a group of inherited genetic disorders characterized by impaired homocysteine metabolism![[../../assets/img/Pasted image 20231111104739.png|Pasted image 20231111104739.png]]
 # Epidemiology
 
