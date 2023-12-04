@@ -6,6 +6,7 @@ aliases:
   - Thiamine
 share: true
 ---
+
 # Functions
 Active form: thiamine pyrophosphate (TPP)
 In thiamine pyrophosphate (TPP), <span style="background:rgba(240, 200, 0, 0.2)">a cofactor for several dehydrogenase enzyme reactions</span> (<font color="#ffc000">B</font>e <font color="#ffc000">APT</font>):
