@@ -5,6 +5,7 @@ modified: 2023-09-07 16:46
 aliases: Untitled
 share: true
 ---
+
 Multiple sclerosis (MS) is a <span style="background:rgba(240, 200, 0, 0.2)">chronic degenerative disease of the CNS characterized by demyelination and axonal degeneration in the brain and spinal cord, which are caused by an immune-mediated inflammatory process.</span>
 # Epidemiology
 - Sex: ♀ > ♂ (3:1) [1]
