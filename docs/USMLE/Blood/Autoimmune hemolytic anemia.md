@@ -7,6 +7,7 @@ aliases: AIHA
 share: true
 ---
 
+
 - In warm AIHA - we have IgG which is much better fits for splenic macrophage FC receptor - so it causes more extravascular hemolysis.
 - In cold AIHA IgM is much better activates complement in the blood - intravascular hemolysis.
 
