@@ -5,6 +5,7 @@ modified: 2023-08-07 17:34
 aliases: Untitled
 share: true
 ---
+
 ![[../../assets/img/Pasted image 20230807173432.png|Pasted image 20230807173432.png]]
 - A flow-volume loop is most commonly used as a graphical representation of spirometry testing. It plots inspiratory and expiratory flow (y-axis) against lung volume (x-axis) during a maximal forced expiration and a maximal inspiration.
 - A (normal): At the beginning of the test, the patient has inhaled to total lung capacity of approx. 6.25 L (normal adult range: 6–6.5 L), and there is no flow. As the patient forcefully exhales, the flow quickly reaches a peak at approx. 10 L/s (normal adult range: 6–12.5 L/s) and then declines almost linearly until flow is zero at the residual volume of just over 1 L (normal adult range: 1–1.5 L). The patient then takes a full inspiration to return to total lung capacity.
