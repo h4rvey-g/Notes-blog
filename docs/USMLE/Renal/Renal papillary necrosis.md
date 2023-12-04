@@ -5,6 +5,7 @@ modified: 2023-09-05 16:54
 aliases: Untitled
 share: true
 ---
+
 Renal papillary necrosis is ischemic, coagulative necrosis of the renal medullary pyramids and papillae and is a feature of various conditions.
 # Epidemiology
 
