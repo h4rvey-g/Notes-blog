@@ -6,6 +6,7 @@ aliases:
   - CF
 share: true
 ---
+
 # Etiology
 CF is a hereditary autosomal recessive disorder caused by defective <mark style="background: #FFF3A34A;">CFTR</mark> (cystic fibrosis transmembrane conductance regulator) protein due to mutation in the CFTR gene located on the long arm of chromosome 7.
 
