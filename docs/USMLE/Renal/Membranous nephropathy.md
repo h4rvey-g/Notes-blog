@@ -5,6 +5,7 @@ modified: 2023-08-24 16:50
 aliases: Untitled
 share: true
 ---
+
 # Epidemiology
 <span style="background:rgba(240, 200, 0, 0.2)">Most common cause of [[./Nephrotic syndrome|nephrotic syndrome]] in adults of European, Middle Eastern, or North African descent</span>
 
