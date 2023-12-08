@@ -50,7 +50,7 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Pregnancy test: to rule out pregnancy as a cause of amenorrhea</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Prolactin: elevated in hyperprolactinemia</span>
 - LH: elevated in POI
-- <span style="background:rgba(240, 200, 0, 0.2)">TSH: Both hypothyroidism and [[../Endocrine/Hyperthyroidism|hyperthyroidism]] can cause menstrual irregularities.</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">TSH: Both [[../Biochemistry/Hypothyroidism|hypothyroidism]] and [[../Endocrine/Hyperthyroidism|hyperthyroidism]] can cause menstrual irregularities.</span>
 
 ---
 # Treatment
