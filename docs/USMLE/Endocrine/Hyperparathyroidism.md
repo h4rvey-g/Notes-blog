@@ -7,6 +7,8 @@ share: true
 ---
 
 # Primary hyperparathyroidism
+## Etiology
+- Parathyroid gland adenoma (∼ 85%): benign tumor of the parathyroid glands
 ## Complications
 ### Osteitis fibrosa cystica (OFC)
 - A rare skeletal disorder seen in advanced hyperparathyroidism characterized by <span style="background:rgba(240, 200, 0, 0.2)">replacement of calcified bone with fibrous tissue</span>
