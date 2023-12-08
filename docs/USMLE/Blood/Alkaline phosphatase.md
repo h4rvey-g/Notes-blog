@@ -21,9 +21,19 @@ A group of enzymes found throughout the body but produced predominantly in the l
 # Differential Diagnosis Based on Elevated LFTs
 
 ## Hepatocellular pattern: Elevated aminotransferases out of proportion to alkaline phosphatase
-
-- **ALT-predominant**:  Acute or chronic viral hepatitis, steatohepatitis, acute Budd-Chiari syndrome, ischemic hepatitis, autoimmune, [[./Hemochromatosis|hemochromatosis]], medications/toxins, autoimmune, alpha1-antitrypsin deficiency, [[../GI/Wilson disease|Wilson disease]], [[../GI/Celiac disease|Celiac disease]]
-- **AST-predominant**: Alcohol-related, steatohepatitis, [[../GI/Cirrhosis|cirrhosis]], non-hepatic (hemolysis, myopathy, thyroid disease, exercise)
+- AST/ALT < 1 (AST < ALT) (Also called <font color="#ffc000">inflammatory type hepatocellular injury</font>)
+	- Uncomplicated viral hepatitis
+	- Minor fatty liver disease
+	- Extrahepatic cholestasis
+- AST/ALT ≥ 1 (AST > ALT) (Also called <font color="#ffc000">necrotic type hepatocellular injury</font>)
+	- [[../GI/Alcoholic hepatitis|Alcoholic hepatitis]]
+		- Typically AST/ALT > 2
+		- AST usually does not exceed 500 U/L in [[../GI/Alcoholic hepatitis|alcoholic hepatitis]].
+	- Fulminant, necrotic hepatitis
+	- (Decompensated) [[../GI/Cirrhosis|cirrhosis]]: The AST/ALT ratio can increase as fibrosis advances.
+	- Hepatocellular carcinoma, liver metastases
+	- Muscle damage 
+	- Myocardial infarction
 ## Cholestatic pattern: Elevated alkaline phosphatase +gamma glutamyl transferase + bilirubin out of proportion to AST and ALT
 
 - **Hepatobiliary causes**: Bile duct obstruction, [[../GI/Primary biliary cholangitis|primary biliary cirrhosis]], [[../GI/Primary sclerosing cholangitis|primary sclerosing cholangitis]], medication-induced, infiltrating diseases of the liver ([[../Respiratory/Sarcoidosis|sarcoidosis]], [[../Pathology/Amyloidosis|amyloidosis]], lymphoma, among others), [[../Biochemistry/Cystic fibrosis|cystic fibrosis]], hepatic metastasis, cholestasis

@@ -23,7 +23,7 @@ share: true
 ## Distal convoluted tubule (DCT)
 1. Magnesium and Calcium are reabsorbed paracellularly.
 2. Ca2+ is reabsorbed using Ca2+ channels on the luminal surface and Na+/Ca2+ antiporters (exchangers) on the basolateral surface.![[../../assets/img/Pasted image 20230829155253.png|Pasted image 20230829155253.png]]
-	1. PTH up-regulates the Ca2+/Na+ antiporter resulting in increased reabsorption of Ca2+.
+	1. PTH up-regulates the Ca<sup>2+</sup>/Na<sup>+</sup> antiporter resulting in increased reabsorption of Ca2+.
 ## Collecting duct
 1. Principal cells
 	1. Reabsorb Na+ and H2O, but secrete K+

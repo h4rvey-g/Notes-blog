@@ -29,7 +29,7 @@ share: true
 - Both AST and ALT: < 400 IU/L
 - <span style="background:rgba(240, 200, 0, 0.2)">AST:ALT ratio: > 1.5</span>
 - GGT: > 100 IU/L
-- ALP: ↑
+- [[../Blood/Alkaline phosphatase|ALP]]: ↑
 >[!Mnemonic] 
 >AST > ALT in alcoholic hepatitis: Remember “make a toAST with alcohol!”
 

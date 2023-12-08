@@ -8,4 +8,4 @@ share: true
 
 Measures the ratio of urine density over pure water density (normally 1.005–1.030) 
 - High urine specific gravity: volume loss, heart failure, presence of large molecules (e.g., glucose, radiocontrast media) 
-- Low urine specific gravity: renal failure, diabetes insipidus
+- Low urine specific gravity: renal failure, [[./Diabetes insipidus|diabetes insipidus]]
