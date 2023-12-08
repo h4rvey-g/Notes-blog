@@ -67,7 +67,7 @@ Encourage adequate fluid intake and a low-sodium, low-protein diet.
 - Desmopressin (preferred): synthetic ADH analogue without vasoconstrictive effects 
 	- Intranasal administration is preferred.
  - Chlorpropamide
-## Nephrogenic diabetes insipidus [2]
+## Nephrogenic diabetes insipidus
 - Treat the underlying cause, if applicable, e.g.:
 	- Discontinue the causative agent (e.g., lithium, demeclocycline).
 - Thiazide diuretics
