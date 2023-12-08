@@ -44,7 +44,7 @@ share: true
 	- Growth retardation in children and adolescents
 - Skin and hair	
 	- Dry skin
-	- Wound healing disorders [19]
+	- Wound healing disorders
 	- Hair loss
 	- Lanugo body hair
 
