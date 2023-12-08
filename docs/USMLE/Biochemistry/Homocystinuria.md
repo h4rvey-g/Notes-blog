@@ -14,8 +14,8 @@ Definition: a group of inherited genetic disorders characterized by impaired hom
 # Etiology
 - Autosomal recessive
 - Cause deficiencies in one or more of the following enzymes
-	- Methionine synthase
-	- Cystathionine synthase: an enzyme that catalyzes the conversion of homocysteine and serine to cystathionine, using [[./Vitamin B6|vitamin B6]] as a cofactor.
+	- <span style="background:rgba(240, 200, 0, 0.2)">Methionine synthase</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Cystathionine synthase</span>: an enzyme that catalyzes the conversion of homocysteine and serine to cystathionine, using [[./Vitamin B6|vitamin B6]] as a cofactor.
 	- Methylenetetrahydrofolate reductase (MTHFR): an enzyme involved in folate metabolism that reduces N5,10-methylenetetrahydrofolate to methyltetrahydrofolate.
 - Impaired affinity of cystathionine synthase for pyridoxal phosphate
 
@@ -43,7 +43,7 @@ Definition: a group of inherited genetic disorders characterized by impaired hom
  
 >[!tip] 
 >Marfan syndrome and homocystinuria both present with marfanoid habitus. <span style="background:rgba(240, 200, 0, 0.2)">Distinguishing features include intellectual disability, which is only seen in homocystinuria, and the direction of lens dislocation (downwards in homocystinuria and upwards in Marfan syndrome).</span>
-- Osteoporosis
+- [[../MSK/Osteoporosis|Osteoporosis]]
 - Cardiovascular complications like thromboembolism, premature arteriosclerosis, and coronary heart disease increase the risk of myocardial infarction and stroke
 
 ---
@@ -60,7 +60,7 @@ Definition: a group of inherited genetic disorders characterized by impaired hom
 - Methionine synthase deficiency: high-methionine diet
 - Cystathionine synthase deficiency
 	- Low-methionine, high-cysteine diet
-	- Supplementation of vitamin B12 and folate
+	- Supplementation of [[./Vitamin B12|vitamin B12]] and folate
 - Impaired affinity of cystathionine synthase for pyridoxal phosphate: high-cysteine diet
 - MTHFR deficiency: supplementation of folate
 
