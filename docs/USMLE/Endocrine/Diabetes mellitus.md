@@ -61,10 +61,62 @@ share: true
 
 ---
 # Diagnostics
-
+![[../../assets/img/Pasted image 20231210111903.png|Pasted image 20231210111903.png]]
 
 ---
 # Treatment
+![[../../assets/img/Pasted image 20231209143656.png|Pasted image 20231209143656.png]]
+## T1DM
+- Insulin![[../../assets/img/Pasted image 20231209112442.png|Pasted image 20231209112442.png]]
+>[!Mnemonic] 
+>- glu<font color="#ffc000">LI</font>sine <font color="#ffc000">Little</font> Short acting (Also use the LI to remember LIspro)
+>- g<font color="#ffc000">LARGE</font>ne <font color="#ffc000">LARGEine</font> Long acting
+## T2DM
+- Metformin![[../../assets/img/Pasted image 20231209113337.png|Pasted image 20231209113337.png]]
+>[!Mnemonic] 
+><font color="#ffc000">Met</font>formin accumulation will cause <font color="#ffc000">met</font>abolic acidosis (lactic acidosis), so stop it before contrast CT scan.
+- Sulfonylureas
+	- Close K+ channels in pancreatic B cell membrane → cell depolarizes → <span style="background:rgba(240, 200, 0, 0.2)">insulin release via ↑ Ca2+ influx.</span>![[../../assets/img/Pasted image 20231209134835.png|Pasted image 20231209134835.png]]
 
+>[!Mnemonic] 
+>G (Gee), IDE take your sulfonylurea.
+>The G is because all sulfonylureas start with G. 
+>This helps to separate the sulfonylureas from the meglitinides since they also end with IDE
+
+- Meglitinides
+	- ![[../../assets/img/Pasted image 20231209135739.png|Pasted image 20231209135739.png]]
+- DPP-4 inhibitor and GLP-1 analogs
+	- ![[../../assets/img/Pasted image 20231209140221.png|Pasted image 20231209140221.png]]
+	- ![[../../assets/img/Pasted image 20231209140759.png|Pasted image 20231209140759.png]]
+
+>[!Mnemonic] 
+>- <font color="#ffc000">Gulf</font>ing down tide pods -> <font color="#ffc000">GL</font>P-1 agonist![[../../assets/img/Pasted image 20231209141619.png|Pasted image 20231209141619.png]] 
+>- Liptin makes you <font color="#ffc000">pee (PP4)</font> more times
+- SGLT-2 inhibitors
+	- ![[../../assets/img/Pasted image 20231209142321.png|Pasted image 20231209142321.png]]
+- α-glucosidase inhibitors
+	- ![[../../assets/img/Pasted image 20231209142546.png|Pasted image 20231209142546.png]]
+- Pioglitazone
+	- Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">activation of the transcription factor PPARγ</span> (peroxisome proliferator-activated receptor of gamma type in the nucleus) → ↑ transcription of genes involved in glucose and lipid metabolism → ↑ levels of adipokines such as adiponectin and insulin sensitivity → <span style="background:rgba(240, 200, 0, 0.2)">↑ storage of fatty acids in adipocytes</span>, ↓ products of lipid metabolism (e.g., free fatty acids) → ↓ free fatty acids in circulation → <span style="background:rgba(240, 200, 0, 0.2)">↑ glucose utilization and ↓ hepatic glucose productio</span>n
+	- Clinical characteristics
+		- Glycemic efficacy: lowers HbA1c by 1% in 3 months
+		- Favorable effect on lipid metabolism: ↓ triglyceride, ↓ LDL, ↑ HDL
+		- No risk of hypoglycemia
+		- <span style="background:rgba(240, 200, 0, 0.2)">Onset of action is delayed by several weeks. </span>
+			- because it acts at the level of transcription
+	- Important side effects
+		- ↑ Risk of heart failure
+		- ↑ Risk of bone fractures ([[../MSK/Osteoporosis|osteoporosis]])
+		- Fluid retention and edema
+		- <span style="background:rgba(240, 200, 0, 0.2)">Weight gain</span>
+	- ![[../../assets/img/Pasted image 20231209142943.png|Pasted image 20231209142943.png]]
+
+>[!Mnemonic] 
+>glita <- glitter
+- Amylin analogs (Pramlintide)
+	- Works with insulin to ↓ glucagon release, ↓ gastric emptying.
+
+>[!Mnemonic] 
+>Amy<font color="#ffc000">lin</font> analogs (Pram<font color="#ffc000">lin</font>tide) works with insu<font color="#ffc000">lin</font>.
 
 ---
