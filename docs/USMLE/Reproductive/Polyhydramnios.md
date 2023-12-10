@@ -11,14 +11,14 @@ share: true
 
 ---
 # Etiology
-- Typically idiopathic (∼ 70% of cases) [18]
+- Typically idiopathic (∼ 70% of cases) 
 - Fetal anomalies
 	- Gastrointestinal (e.g., esophageal atresia, duodenal atresia and stenosis): reduced swallowing and absorption of amniotic fluid
-	- CNS: anencephaly (leads to impaired swallowing of amniotic fluid, leakage of cerebrospinal fluid, and increased urination due to lack of fetal ADH), meningomyelocele (due to leakage of cerebrospinal fluid) [19]
+	- CNS: anencephaly (leads to impaired swallowing of amniotic fluid, leakage of cerebrospinal fluid, and increased urination due to lack of fetal ADH), meningomyelocele (due to leakage of cerebrospinal fluid)
 	- Pulmonary: cystic lung malformations
-	- Multiple pregnancy: twin-to-twin transfusion syndrome 
+	- Multiple pregnancy: twin-to-twin [[../Blood/Transfusion|transfusion]] syndrome 
 - Maternal conditions
-	- <span style="background:rgba(240, 200, 0, 0.2)">Diabetes mellitus </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[../Endocrine/Diabetes mellitus|Diabetes mellitus]] </span>
 		- Increased maternal glucose levels increase fetal glucose levels as well, resulting in polyuria.
 	- Rh incompatibility
 
