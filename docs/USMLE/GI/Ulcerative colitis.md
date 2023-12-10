@@ -10,7 +10,9 @@ share: true
 # Epidemiology
 - Higher in White populations than in Black, Hispanic, or Asian populations
 - Highest among individuals of Ashkenazi Jewish descent
-- 15–35 years of age
+- <span style="background:rgba(240, 200, 0, 0.2)">15–35 years of age</span>
+>[!tip] 
+>Compared with [[./Crohn disease|Crohn disease]], which is bimodal distribution with one peak at 15–35 years and another one at 55–70 years
 
 ---
 # Etiology

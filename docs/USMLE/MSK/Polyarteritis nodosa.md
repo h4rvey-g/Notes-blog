@@ -18,7 +18,7 @@ share: true
 
 ---
 # Etiology
-- Hepatitis B
+- [[../GI/Hepatitis B|Hepatitis B]]
 
 ---
 # Pathophysiology
@@ -26,7 +26,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Fever, weight loss, malaise</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Muscle and joint pain</span>
 - Organ involvement
-	- <span style="background:rgba(240, 200, 0, 0.2)">Renal involvement (∼ 60%): hypertension, renal impairment</span> [2][3]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Renal involvement (∼ 60%): hypertension, renal impairment</span> 
 	- Coronary artery involvement (∼ 35%); <span style="background:rgba(240, 200, 0, 0.2)">↑ risk of myocardial infarction</span>
 	- Skin involvement (∼ 40%): rash, ulcerations, nodules
 	- Neurological involvement: polyneuropathy (mononeuritis multiplex), <span style="background:rgba(240, 200, 0, 0.2)">stroke</span>
@@ -35,7 +35,7 @@ share: true
 		- Helps differentiate PAN from other forms of vasculitis
 
 >[!Mnemonic] 
->In PAN, the Pulmonary Artery is Not involved, PANmural inflammation of the arterial wall is present, and PAN may be associated with hePAtitis B.
+>In PAN, the Pulmonary Artery is Not involved, PANmural inflammation of the arterial wall is present, and PAN may be associated with [[../GI/Hepatitis B|hePAtitis B]].
 
 
 >[!tip] 

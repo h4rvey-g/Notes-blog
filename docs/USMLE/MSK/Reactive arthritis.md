@@ -13,7 +13,7 @@ share: true
 
 ---
 # Etiology
-<span style="background:rgba(240, 200, 0, 0.2)">Postinfectious autoimmune disorder</span>  [4]
+<span style="background:rgba(240, 200, 0, 0.2)">Postinfectious autoimmune disorder</span>  
 - Posturethritis: after infection with <span style="background:rgba(240, 200, 0, 0.2)">Chlamydia (common)</span> or Ureaplasma urealyticum
 - Postenteritis: after infection with Shigella, Yersinia, Salmonella, or Campylobacter
 
@@ -38,7 +38,7 @@ share: true
 	- Keratoderma blenorrhagicum: hyperkeratinization of the palms and soles 
 	- Urethritis
 - Symptoms from preceding infection 
-	- Diarrhea
+	- [[../GI/Diarrhea|Diarrhea]]
 	- Urogenital tract symptoms (dysuria, pelvic pain, prostatitis)
 
 >[!Mnemonic] 
@@ -46,7 +46,7 @@ share: true
 
 ---
 # Differential Diagnostics
-![[../../assets/img/Pasted image 20230928150707.png|Pasted image 20230928150707.png]]
+![[../../assets/img/Pasted image 20231210165709.png|Pasted image 20231210165709.png]]
 ![[../../assets/img/Pasted image 20230928151636.png|Pasted image 20230928151636.png]]
 ![[../../assets/img/Pasted image 20230928151653.png|Pasted image 20230928151653.png]]
 

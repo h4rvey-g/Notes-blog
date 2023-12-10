@@ -12,7 +12,9 @@ share: true
 
 ---
 # Etiology
-
+- Strong association with <span style="background:rgba(240, 200, 0, 0.2)">Epstein-Barr virus (EBV) </span>
+- Immunodeficiency: e.g., organ or cell transplantation, immunosuppressants, HIV infection , chemotherapy
+- Autoimmune diseases (e.g., [[../MSK/Rheumatoid arthritis|rheumatoid arthritis]], [[../Respiratory/Sarcoidosis|sarcoidosis]])
 
 ---
 # Pathophysiology
@@ -20,7 +22,7 @@ share: true
 
 ---
 # Clinical features
-
+- <span style="background:rgba(240, 200, 0, 0.2)">Alcohol-induced pain</span>: Pain in involved lymph nodes after ingestion of alcohol. Relatively rare but highly specific for HL.
 
 ---
 # Diagnostics

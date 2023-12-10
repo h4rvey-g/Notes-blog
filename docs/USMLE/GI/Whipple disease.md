@@ -25,15 +25,15 @@ share: true
 - Intestinal manifestations
 	- Abdominal pain
 	- Malabsorption syndrome (including diarrhea and/or [[./Steatorrhea|steatorrhea]]): commonly occurs later in the disease progression
-	- Extraintestinal manifestations
-- Enteropathic arthritis (60% of cases) 
+- Extraintestinal manifestations
+	- <span style="background:rgba(240, 200, 0, 0.2)">Enteropathic arthritis</span> (60% of cases) 
 	- Migrating arthralgias and arthritis, especially sacroiliitis (40% of cases)
 	- Fever
 	- Hyperpigmentation affecting sun-exposed areas
 	- Polyserositis
 	- Lymphadenopathy
-	- Cardiac symptoms (e.g., valve insufficiencies)
-	- Neurological symptoms (e.g., myoclonia, ataxia, impairment of oculomotor function)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Cardiac symptoms</span> (e.g., valve insufficiencies)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Neurological symptoms</span> (e.g., myoclonia, ataxia, impairment of oculomotor function)
 
 ---
 # Diagnostics
@@ -42,6 +42,6 @@ share: true
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---

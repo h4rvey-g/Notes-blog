@@ -7,7 +7,6 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
-
 # Bohr effect 
 <mark style="background: #FFF3A34A;">The O2 affinity of Hb is inversely proportional to the CO2 content and H+ concentration of blood.</mark>
 High CO2 and H+ concentrations (from tissue metabolism) cause decreased affinity for O2 → O2 that is bound to Hb is released to tissue (the O2-Hb dissociation curve is shifted to the right).

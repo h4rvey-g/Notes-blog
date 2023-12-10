@@ -12,8 +12,8 @@ share: true
 ---
 # Etiology
 - Idiopathic inflammatory autoimmune disorder of unknown etiology
-- Risk factors include: [5]
-	- Genetic disposition: associated with HLA-DR4 and HLA-DR1 [6]
+- Risk factors include:
+	- Genetic disposition: associated with HLA-DR4 and HLA-DR1
 	- Environmental factors (e.g., smoking)
 	- Hormonal factors (premenopausal women are at the highest risk, suggesting a predisposing role of female sex hormones)
 
