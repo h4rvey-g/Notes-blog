@@ -29,8 +29,8 @@ share: true
 - Ocular disease (50–80%) 
 	- Uveitis (iridocyclitis, chorioretinitis), keratitis, and/or retinal vasculitis
 - Skin lesions (35–85%)
-	- Erythema nodosum
-	- Positive pathergy skin test: the appearance of an erythematous papule or pustule 48 hours after a 5 mm skin prick with a 20-gauge needle (usually on the forearm)
+	- [[./Erythema nodosum|Erythema nodosum]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Positive pathergy skin test</span>: the appearance of an erythematous papule or pustule 48 hours after a 5 mm skin prick with a 20-gauge needle (usually on the forearm)
 		- The main reason is subcutaneous vasculitis and high sensitivity reaction of the skin.
 - Arthritis (30–70%)
 
