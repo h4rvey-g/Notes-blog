@@ -16,7 +16,7 @@ share: true
 ---
 # Etiology
 - Preceding infection
-	- <span style="background:rgba(240, 200, 0, 0.2)">Up to 90% of cases are preceded by viral or bacterial infection 1–3 weeks prior.</span> [3]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Up to 90% of cases are preceded by viral or bacterial infection 1–3 weeks prior.</span>
 	- Most commonly an upper respiratory tract infection caused by group A Streptococcus
 	- [[../Renal/IgA nephropathy|IgA nephropathy]]
 	- Drugs
@@ -30,18 +30,18 @@ Hypothesized pathophysiological mechanism: exposure to allergen/antigen (e.g., i
 An upper respiratory tract infection often precedes symptom onset by 1–3 weeks.
 - Skin (∼ 100% of cases)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Symmetrically distributed erythematous papules or urticarial lesions that coalesce into palpable purpura</span>![[../../assets/img/Pasted image 20231010165500.png|Pasted image 20231010165500.png]]
-	- Bullae, pustules, and necrotic or hemorrhagic purpura (more common in adults) [5]
+	- Bullae, pustules, and necrotic or hemorrhagic purpura (more common in adults)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Most commonly in the lower extremities, buttocks, and other areas of pressure or constraint (e.g., from clothing)</span>
-- Joints (∼ 75% of cases) [7]
+- Joints (∼ 75% of cases)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Arthritis/arthralgia </span>
 		- Usually bilateral, self-limited, and nondestructive; children may present with a limp.
 	- Most commonly in the ankles and knees
-- Gastrointestinal tract (∼ 60% of cases) [7]
+- Gastrointestinal tract (∼ 60% of cases)
 	- Colicky abdominal pain 
 	- Intussusception 
 	- Hematochezia or melena
 	- Nausea and/or vomiting
-- Kidneys: IgAV nephritis (20–50% of children; 50–80% of adults)  [8]
+- Kidneys: IgA nephritis (20–50% of children; 50–80% of adults)
 	- [[../Renal/Nephritic syndrome|Nephritic syndrome]]
 
 >[!tip] 
