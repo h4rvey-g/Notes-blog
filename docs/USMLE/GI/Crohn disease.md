@@ -8,20 +8,23 @@ share: true
 ---
 
 # Epidemiology
-- Typical age of onset: bimodal distribution with one peak at 15–35 years and another one at 55–70 years
+- <span style="background:rgba(240, 200, 0, 0.2)">Typical age of onset: bimodal distribution with one peak at 15–35 years and another one at 55–70 years</span>
+>[!tip] 
+>Compared with [[./Ulcerative colitis|Ulcerative colitis]], which peaks at 15-35 y/o.
 - Populations with higher prevalence
 	- Individuals of Northern European descent
 	- Individuals of Ashkenazi Jewish descent
 
 ---
 # Etiology
-- Risk factors [4]
+- Risk factors
 	- Familial aggregation
 	- Genetic predisposition (e.g., mutation of the NOD2 gene, <span style="background:rgba(240, 200, 0, 0.2)">HLA-B27 association</span>)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Tobacco smoke</span>
 
 >[!tip] 
->Nicotine consumption is the only (known) controllable risk factor for CD. Therefore, smoking cessation is especially important in patients with CD.
+>- Nicotine consumption is the only (known) controllable risk factor for CD. Therefore, smoking cessation is especially important in patients with CD.
+>- While smoking is a protective factor in [[./Ulcerative colitis|Ulcerative colitis]]
 
 ---
 # Pathology
@@ -36,15 +39,19 @@ share: true
 - Fatigue
 ## Gastrointestinal symptoms
 CD most <span style="background:rgba(240, 200, 0, 0.2)">commonly affects the terminal ileum and colon</span>, but involvement of any part of the GI tract (from mouth to anus) is possible. In contrast to [[./Ulcerative colitis|ulcerative colitis]], <span style="background:rgba(240, 200, 0, 0.2)">rectal involvement is uncommon</span>. 
-- Chronic diarrhea
+- <span style="background:rgba(240, 200, 0, 0.2)">Chronic diarrhea, typically nonbloody, watery</span>
 - Lower gastrointestinal bleeding (uncommon)
 	- microscopic (i.e., identified only on stool analysis) or overt
 - Abdominal pain, typically in the RLQ
-- Palpable abdominal mass  in the RLQ  
+- <span style="background:rgba(240, 200, 0, 0.2)">Palpable abdominal mass  in the RLQ  </span>
 	- Due to adhesions within the intestine caused by inflammation![[../../assets/img/Pasted image 20231026105145.png|Pasted image 20231026105145.png]]
 - Features of CD complications
-	- Malabsorption (e.g., weight loss, [[../Blood/Anemia|anemia]], failure to thrive)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Malabsorption (e.g., weight loss, [[../Blood/Anemia|anemia]], failure to thrive)</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Since [[./Ulcerative colitis|ulcerative colitis]] does not affect the small intestine, [[./Absorption|absorption]] of nutrients is not impaired.</span> However, loss of appetite, poor tolerance of or avoidance of certain foods, and adjustment of diet without medical consultation can lead to malnutrition already in nonsevere disease.
 	- Enterocutaneous or perianal fistulas, often associated with abscess formation
+
+>[!tip] 
+>Anemia in CD may result from chronic disease, iron deficiency, and/or [[../Biochemistry/Vitamin B12|vitamin B12]] deficiency.
 ## Extraintestinal symptoms
 - Joints
 	- Enteropathic arthritis
@@ -53,10 +60,10 @@ CD most <span style="background:rgba(240, 200, 0, 0.2)">commonly affects the ter
 	- Iritis
 	- Episcleritis
 - Oral mucosa
-	- Oral aphthae
+	- <span style="background:rgba(240, 200, 0, 0.2)">Oral aphthae</span>
 	- Pyostomatitis vegetans
 - Skin
-	- <span style="background:rgba(240, 200, 0, 0.2)">Erythema nodosum</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[../MSK/Erythema nodosum|Erythema nodosum]]</span>
 	- Acrodermatitis enteropathica
 	- Pyoderma gangrenosum: a neutrophilic dermatosis![[../../assets/img/Pasted image 20231026110846.png|Pasted image 20231026110846.png]]
 		- Associated with various conditions (e.g., IBD, [[../MSK/Rheumatoid arthritis|rheumatoid arthritis]], and trauma)
@@ -96,7 +103,7 @@ CD most <span style="background:rgba(240, 200, 0, 0.2)">commonly affects the ter
 - [[./Primary sclerosing cholangitis|Primary sclerosing cholangitis]]
 - Impaired bile acid reabsorption
 	- Bile acid diarrhea 
-	- Bile acid malabsorption → steatorrhea and deficiencies in fat-soluble vitamins 
+	- Bile acid malabsorption → [[./Steatorrhea|steatorrhea]] and deficiencies in fat-soluble vitamins 
 - Abscess formation/phlegmons
 ## Systemic complications
 - Signs of malabsorption syndrome
@@ -105,5 +112,5 @@ CD most <span style="background:rgba(240, 200, 0, 0.2)">commonly affects the ter
 	- [[../Blood/Anemia|Anemia]]
 		- Iron deficiency anemia
 			- Caused by intestinal blood loss
-		- Megaloblastic anemia (vitamin B12 deficiency due to impaired absorption in the chronically inflamed ileum)![[../../assets/img/Pasted image 20231026112938.png|Pasted image 20231026112938.png]]
-	- Osteoporosis
+		- Megaloblastic [[../Blood/Anemia|anemia]] ([[../Biochemistry/Vitamin B12|vitamin B12]] deficiency due to impaired [[./Absorption|absorption]] in the chronically inflamed ileum)![[../../assets/img/Pasted image 20231026112938.png|Pasted image 20231026112938.png]]
+	- [[../MSK/Osteoporosis|Osteoporosis]]
