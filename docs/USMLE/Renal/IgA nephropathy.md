@@ -12,7 +12,7 @@ Peak incidence: <span style="background:rgba(240, 200, 0, 0.2)">20-30 years old<
 
 ---
 # Pathophysiology
-<span style="background:rgba(240, 200, 0, 0.2)">An increased number of defective, circulating IgA antibodies are synthesized</span> (often triggered by mucosal infections, i.e., upper respiratory tract and gastrointestinal infections) → <span style="background:rgba(240, 200, 0, 0.2)">IgA antibodies form immune complexes that deposit in the renal mesangium</span> → mesangial cell and complement system activation → glomerulonephritis (<span style="background:rgba(240, 200, 0, 0.2)">type III hypersensitivity reaction</span>)
+<span style="background:rgba(240, 200, 0, 0.2)">An increased number of defective, circulating IgA antibodies are synthesized</span> <span style="background:rgba(240, 200, 0, 0.2)">(often triggered by mucosal infections, i.e., upper respiratory tract and gastrointestinal infections)</span> → <span style="background:rgba(240, 200, 0, 0.2)">IgA antibodies form immune complexes that deposit in the renal mesangium</span> → mesangial cell and complement system activation → glomerulonephritis (<span style="background:rgba(240, 200, 0, 0.2)">type III hypersensitivity reaction</span>)
 
 ---
 # Clinical features
@@ -21,7 +21,7 @@ Peak incidence: <span style="background:rgba(240, 200, 0, 0.2)">20-30 years old<
 	- Flank pain
 	- Low-grade fever
 	- And/or [[./Nephritic syndrome|nephritic syndrome]] (including hypertension)
-	- Usually during or immediately following a respiratory or gastrointestinal infection [6] 
+	- Usually during or immediately following a respiratory or gastrointestinal infection
 - Can progress to [[./Rapidly progressive glomerulonephritis|RPGN]] and/or [[./Nephrotic syndrome|nephrotic syndrome]] (< 10% of patients)
 - Up to 50% of patients progress to end-stage renal disease within 20–25 years.
 
