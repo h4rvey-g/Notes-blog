@@ -12,7 +12,7 @@ share: true
 - Hepatoblastoma
 - Yolk sac tumor (endodermal sinus tumor)
 - Mixed germ cell tumor
-- Ataxia-telangiectasia
+- <span style="background:rgba(240, 200, 0, 0.2)">Ataxia-telangiectasia</span>
 >[!tip] 
 >- AFP is normally produced by the fetus → transient elevation of maternal AFP levels
 >- ↑ AFP: abdominal wall defects, neural tube defects
