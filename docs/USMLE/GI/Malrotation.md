@@ -31,6 +31,9 @@ share: true
 ---
 # Diagnostics
 ![[../../assets/img/Pasted image 20231012173759.png|Pasted image 20231012173759.png]]
+- Midgut volvulus: corkscrew appearance![[../../assets/img/Pasted image 20231211115053.png|Pasted image 20231211115053.png]]![[../../assets/img/Pasted image 20231211115119.png|Pasted image 20231211115119.png]]
+# Differential diagnostics
+![[./Intestinal atresia#Differential diagnostics|Intestinal atresia > Differential diagnostics]]
 
 ---
 # Treatment
