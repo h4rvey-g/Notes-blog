@@ -53,7 +53,7 @@ share: true
 	- Severe symptomatic anemia
 	- History of severe and/or recurrent acute chest syndrome
 #### Mechanism of action
-Stimulation of erythropoiesis and increased fetal [[./Hemoglobin variants|hemoglobin]]
+<span style="background:rgba(240, 200, 0, 0.2)">Stimulation of erythropoiesis and increased fetal [[./Hemoglobin variants|hemoglobin]]</span>
 
 ---
 # Complications
