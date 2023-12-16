@@ -8,12 +8,17 @@ share: true
 ---
 
 # Adenomatous polyps
-- High malignant potential
+- High malignant potential![[../../assets/img/Pasted image 20231215205130.png|Pasted image 20231215205130.png]]
 	- Tubular adenoma: < 5%![[../../assets/img/Pasted image 20231031135152.png|Pasted image 20231031135152.png]]
 	- Tubulovillous adenoma: ∼ 20%
 	- <span style="background:rgba(240, 200, 0, 0.2)">Villous adenoma: ∼ 50%</span>![[../../assets/img/Pasted image 20231031112847.png|Pasted image 20231031112847.png]]
+ 
 >[!Mnemonic] 
 ><span style="background:rgba(240, 200, 0, 0.2)">Vill</span>ous adenomas are <span style="background:rgba(240, 200, 0, 0.2)">vill</span>ains because they have the highest malignant potential.
+# Hyperplastic polyps
+- <span style="background:rgba(240, 200, 0, 0.2)">Most common type of nonneoplastic polyp among those with low malignant potential</span>
+- Histology: hyperplasia of normal cellular components with a sawtooth/serrated pattern of crypt epithelium
+	- <span style="background:rgba(240, 200, 0, 0.2)">No dysplasia</span>, see [[../Pathology/Cellular adaptations|Cellular adaptations]]![[../../assets/img/Pasted image 20231215205043.png|Pasted image 20231215205043.png]]
 # Hamartomatous polyposis syndromes
 ## Peutz-Jeghers syndrome (PJS)
 - Inheritance: autosomal dominant

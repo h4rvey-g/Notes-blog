@@ -12,14 +12,14 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Definition: rare neuroendocrine tumor of the pancreatic α-cells that secretes glucagon</span>
 - Clinical features
 	- <span style="background:rgba(240, 200, 0, 0.2)">Weight loss</span>
-	- Impaired glucose tolerance or diabetes mellitus
+	- Impaired glucose tolerance or [[./Diabetes mellitus|diabetes mellitus]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Necrolytic migratory erythema</span>
 		- A cutaneous paraneoplastic syndrome
 		- multiple areas of centrifugally spreading erythema, located predominantly on the face, perineum, and lower extremities
 		- painful and pruritic crusty patches with central areas of bronze-colored induration
 		- resolve and reappear in a different location
 		- Skin biopsy shows epidermal necrosis![[../../assets/img/Pasted image 20231127144838.png|Pasted image 20231127144838.png]]
-	- Chronic diarrhea
+	- Chronic [[../GI/Diarrhea|diarrhea]]
 	- Deep vein thrombosis
 	- Depression
 - Diagnostics: requires a high index of suspicion to make the diagnosis
@@ -43,7 +43,7 @@ share: true
 		- Gastric inhibitory peptide
 - Clinical features
 	- Classic triad
-		- Glucose intolerance/diabetes
+		- Glucose intolerance/[[./Diabetes mellitus|diabetes]]
 		- [[../GI/Cholelithiasis|Cholelithiasis]]
 		- [[../GI/Steatorrhea|Steatorrhea]]
 	- Achlorhydria
@@ -57,10 +57,10 @@ share: true
 # VIPoma
 - Definition: neuroendocrine tumor that secretes VIP (vasoactive intestinal polypeptide)
 - Pathophysiology
-	- <span style="background:rgba(240, 200, 0, 0.2)">Excess VIP → ↑ relaxation of gastric and intestinal smooth muscles and cAMP activity (similar to cholera toxin) → secretory diarrhea and inhibition of gastric acid production</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Excess VIP → ↑ relaxation of gastric and intestinal smooth muscles and cAMP activity (similar to cholera toxin) → secretory [[../GI/Diarrhea|diarrhea]] and inhibition of gastric acid production</span>
 - Tumor location: The primary tumor is most frequently found in the pancreas.
 - Clinical features
-	- <span style="background:rgba(240, 200, 0, 0.2)">WDHA syndrome (watery diarrhea, hypokalemia, achlorhydria): tea-colored watery diarrhea (> 700 mL/day) → dehydration</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">WDHA syndrome (watery [[../GI/Diarrhea|diarrhea]], hypokalemia, achlorhydria): tea-colored watery [[../GI/Diarrhea|diarrhea]] (> 700 mL/day) → dehydration</span>
 - Diagnostics
 	- ↑ Serum VIP concentration
 	- Hypokalemia

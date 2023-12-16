@@ -12,4 +12,7 @@ share: true
 ![[./Crystalline nephropathies|Crystalline nephropathies]]
 
 ---
+![[./Chronic tubulointerstitial nephritis|Chronic tubulointerstitial nephritis]]
+
+---
 ![[./Renal papillary necrosis|Renal papillary necrosis]]

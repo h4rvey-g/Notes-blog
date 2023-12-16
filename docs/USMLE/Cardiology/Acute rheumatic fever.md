@@ -2,16 +2,20 @@
 author: Harvey Guo
 created: 2023-08-13 21:24
 modified: 2023-08-13 21:24
-aliases: ARF
+aliases:
+  - ARF
+  - rheumatic fever
 share: true
 ---
 
 # Etiology
-
+- Previous infection with group A β-hemolytic streptococcus (GAS), also referred to as [[../Infective disease/Streptococcus pyogenes|Streptococcus pyogenes]]
+	- Usually acute tonsillitis or pharyngitis (“strep throat”)
+	- GAS infections of the skin (e.g., erysipelas, impetigo, cellulitis) tend to be complicated by [[../Renal/Poststreptococcal glomerulonephritis|poststreptococcal glomerulonephritis]] rather than rheumatic fever.
 
 ---
 # Pathophysiology
-
+- Most commonly accepted mechanism involves the following: acute tonsillitis/pharyngitis caused by GAS without antibiotic treatment → <span style="background:rgba(240, 200, 0, 0.2)">development of antibodies against streptococcal M protein → cross-reaction of antibodies with nerve and myocardial proteins (most commonly myosins)</span> due to molecular mimicry → <span style="background:rgba(240, 200, 0, 0.2)">type II hypersensitivity reaction</span> → acute inflammatory sequela
 
 ---
 # Clinical features

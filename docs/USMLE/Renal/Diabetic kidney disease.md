@@ -8,8 +8,8 @@ share: true
 
 # Epidemiology
 major cause of ESRD
-- Type 1 DM: Diabetic kidney disease usually occurs approx. 10 years after diagnosis.
-- Type 2 DM: may be present at the time of diagnosis
+- Type 1 [[../Endocrine/Diabetes mellitus|DM]]: Diabetic kidney disease usually occurs approx. 10 years after diagnosis.
+- Type 2 [[../Endocrine/Diabetes mellitus|DM]]: may be present at the time of diagnosis
 
 ---
 # Etiology

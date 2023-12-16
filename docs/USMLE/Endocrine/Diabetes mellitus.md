@@ -17,7 +17,19 @@ share: true
 
 ---
 # Pathophysiology
-
+## Normal insulin physiology
+- Secretion: Insulin is synthesized in the β cells of the islets of Langerhans. The <span style="background:rgba(240, 200, 0, 0.2)">cleavage of proinsulin (precursor molecule of insulin)</span> produces C-peptide (connecting peptide) and insulin, which consists of two peptide chains (A and B chains).
+## Type 2 diabetes
+- Mechanisms
+	- Peripheral insulin resistance
+		- Numerous genetic and environmental factors
+			- Central obesity → <span style="background:rgba(240, 200, 0, 0.2)">increased plasma levels of free fatty acids → impaired insulin-dependent glucose uptake</span> into hepatocytes, myocytes, and adipocytes 
+			- Increased serine kinase activity in fat and skeletal muscle cells → phosphorylation of insulin receptor substrate (IRS)-1 → decreased affinity of IRS-1 for PI3K → <span style="background:rgba(240, 200, 0, 0.2)">decreased expression of GLUT4 channels → decreased cellular glucose uptake</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Pancreatic β cell dysfunction: accumulation of pro-amylin (islet amyloid polypeptide) in the pancreas  → decreased endogenous insulin production</span>
+- Progression
+	- Initially, insulin resistance is compensated by increased insulin and amylin secretion. 
+	- Over the course of the disease, insulin resistance progresses, while insulin secretion capacity declines.
+	- After a period of impaired glucose tolerance with isolated postprandial hyperglycemia, diabetes manifests with [[../Biochemistry/Metabolic fuel use|fasting]] hyperglycemia.
 
 ---
 # Clinical features
@@ -62,6 +74,10 @@ share: true
 ---
 # Diagnostics
 ![[../../assets/img/Pasted image 20231210111903.png|Pasted image 20231210111903.png]]
+## Additional studies
+- <span style="background:rgba(240, 200, 0, 0.2)">C-peptide</span>: can help differentiate between types of diabetes![[../../assets/img/Pasted image 20231215112826.png|Pasted image 20231215112826.png]]
+	- ↑ C-peptide levels may indicate insulin resistance and hyperinsulinemia → T2DM
+	- ↓ C-peptide levels indicate an absolute insulin deficiency → T1DM
 
 ---
 # Treatment

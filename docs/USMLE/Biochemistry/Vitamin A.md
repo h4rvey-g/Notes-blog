@@ -19,8 +19,8 @@ share: true
 - Antioxidant
 # Vitamin A deficiency
 ## Causes
-- <span style="background:rgba(240, 200, 0, 0.2)">Disorders associated with fat malabsorption: inflammatory bowel disease (e.g., [[../GI/Crohn disease|Crohn disease]]), [[../GI/Celiac disease|celiac disease]], [[./Cystic fibrosis|cystic fibrosis]], pancreatic insufficiency</span>
-	- Exocrine pancreatic insufficiency → lack of digestive enzymes → malabsorption of carbohydrates, proteins, fats, fat-soluble vitamins (A, D, E, K), and [[./Vitamin B12|vitamin B12]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Disorders associated with fat [[../GI/Malabsorption|malabsorption]]: inflammatory bowel disease (e.g., [[../GI/Crohn disease|Crohn disease]]), [[../GI/Celiac disease|celiac disease]], [[./Cystic fibrosis|cystic fibrosis]], pancreatic insufficiency</span>
+	- Exocrine pancreatic insufficiency → lack of digestive enzymes → [[../GI/Malabsorption|malabsorption]] of carbohydrates, proteins, fats, fat-soluble vitamins (A, D, E, K), and [[./Vitamin B12|vitamin B12]]
 ## Clinical features
 - Ocular manifestations
 	- Night blindness (nyctalopia)

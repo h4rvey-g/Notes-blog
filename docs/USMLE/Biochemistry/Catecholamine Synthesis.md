@@ -18,7 +18,7 @@ share: true
 - Decreased PRODUCTION of Melanin
 - ![[../../assets/img/Pasted image 20231107150236.png|Pasted image 20231107150236.png]]
 ![[../../assets/img/Pasted image 20231107144232.png|Pasted image 20231107144232.png]]
-# Phenylketonuria
+# [[./Phenylketonuria|Phenylketonuria]]
 ![[../../assets/img/Pasted image 20231113173304.png|Pasted image 20231113173304.png]]
 ![[../../assets/img/Pasted image 20231107144314.png|Pasted image 20231107144314.png]]
 >[!Mnemonic] 
