@@ -2,7 +2,9 @@
 author: Harvey Guo
 created: 2023-09-23 16:42
 modified: 2023-09-23 16:42
-aliases: Untitled
+aliases:
+  - Dermatomyositis
+  - Polymyositis
 share: true
 ---
 
@@ -26,10 +28,14 @@ share: true
 ---
 # Clinical features
 ![[../../assets/img/Pasted image 20230923164647.png|Pasted image 20230923164647.png]]
+>[!tip] 
+>The clinical features of PM is similar to DM except no cutaneous features.
 
 ---
 # Diagnostics
-
+↑ CK
+Antinuclear antibodies (ANAs)
+Myositis-specific antibodies
 
 ---
 # Treatment
