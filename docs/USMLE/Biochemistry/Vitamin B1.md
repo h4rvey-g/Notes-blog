@@ -20,8 +20,8 @@ In thiamine pyrophosphate (TPP), <span style="background:rgba(240, 200, 0, 0.2)"
 ---
 # Etiology
 - Heavy drinking
-- Malnutrition, starvation
-- Malabsorption
+- Malnutrition, [[./Metabolic fuel use|starvation]]
+- [[../GI/Malabsorption|Malabsorption]]
 - Malignancy
 
 ---
@@ -32,7 +32,7 @@ In thiamine pyrophosphate (TPP), <span style="background:rgba(240, 200, 0, 0.2)"
 
 ---
 # Clinical features
-- Beriberi: inadequate thiamine uptake due to malnutrition, heavy drinking, or increased demand (e.g., hyperthyroidism, pregnancy) 
+- Beriberi: inadequate thiamine uptake due to malnutrition, heavy drinking, or increased demand (e.g., [[../Endocrine/Hyperthyroidism|hyperthyroidism]], pregnancy) 
 	- Dry beriberi
 		- Symmetrical peripheral neuropathy (sensory and motor)
 		- Progressive muscle wasting
