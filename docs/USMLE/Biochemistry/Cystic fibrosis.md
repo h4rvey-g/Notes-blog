@@ -8,7 +8,7 @@ share: true
 ---
 
 # Etiology
-CF is a hereditary autosomal recessive disorder caused by defective <mark style="background: #FFF3A34A;">CFTR</mark> (cystic fibrosis transmembrane conductance regulator) protein due to mutation in the CFTR gene located on the long arm of chromosome 7.
+CF is a hereditary autosomal recessive disorder caused by defective <mark style="background: #FFF3A34A;">CFTR</mark> (cystic fibrosis transmembrane conductance regulator) protein due to <span style="background:rgba(240, 200, 0, 0.2)">mutation in the CFTR gene located on the long arm of chromosome 7</span>.
 
 ---
 # Pathophysiology
@@ -23,18 +23,18 @@ CF is a hereditary autosomal recessive disorder caused by defective <mark style=
 # Clinical features
 ## GI
 - <span style="background:rgba(240, 200, 0, 0.2)">Meconium ileus (in newborns)</span>
-- Failure to thrive (due to malabsorption)
+- Failure to thrive (due to [[../GI/Malabsorption|malabsorption]])
 - <span style="background:rgba(240, 200, 0, 0.2)">Pancreatic disease (obstruction of pancreatic ducts)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Autopsy revealed pancreas develops cysts and became scarred, that's how it's named cystic fibrosis</span>
 	- Pancreatitis
 	- Exocrine pancreatic insufficiency 
 		- <span style="background:rgba(240, 200, 0, 0.2)">Foul-smelling [[../GI/Steatorrhea|steatorrhea]]</span> (fatty stools) may occur.
-		- <span style="background:rgba(240, 200, 0, 0.2)">Malabsorption</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[../GI/Malabsorption|Malabsorption]]</span>
 		- Abdominal distention 
-		- Diarrhea
+		- [[../GI/Diarrhea|Diarrhea]]
 		- Hypoproteinemia
 		- Deficiency of fat-soluble vitamins
-- CF-related diabetes mellitus (CFRD)  [12]
+- CF-related [[../Endocrine/Diabetes mellitus|diabetes mellitus]] (CFRD)
 - Liver and bile duct abnormalities
 	- Biliary [[../GI/Cirrhosis|cirrhosis]] with portal hypertension, jaundice, and/or esophageal varices
 - Intestinal obstruction: abdominal distention, pain, and a palpable mass
