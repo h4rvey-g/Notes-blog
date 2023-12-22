@@ -22,6 +22,9 @@ share: true
 
 ---
 # Clinical features
+- <span style="background:rgba(240, 200, 0, 0.2)">B symptoms</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Night sweats, weight loss > 10% in the past 6 months, fever > 38°C (100.4°F)</span>
+- Pel-Ebstein fever: Intermittent fever with periods of high temperature for 1–2 weeks, followed by afebrile periods for 1–2 weeks. Relatively rare but very specific for HL.
 - <span style="background:rgba(240, 200, 0, 0.2)">Alcohol-induced pain</span>: Pain in involved lymph nodes after ingestion of alcohol. Relatively rare but highly specific for HL.
 
 ---
