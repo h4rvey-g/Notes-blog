@@ -32,7 +32,7 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Pretibial myxedema: dermal fibroblast stimulation and deposition of glycosaminoglycans in connective tissue</span>
 ![[../../assets/img/Pasted image 20231127214913.png|Pasted image 20231127214913.png]]
 >[!tip] 
->Although the majority of symptoms are due to increased thyroid hormone levels, <span style="background:rgba(240, 200, 0, 0.2)">myxedema (nonpitting edema) and exophthalmos</span> in patients with Graves disease are instead due to autoantibody-mediated activation of TSH receptors on peripheral tissue. <span style="background:rgba(240, 200, 0, 0.2)">Therefore they are not seen on other [[./Hyperthyroidism|Hyperthyroidism]] diseases.</span>
+>Although the majority of symptoms are due to increased thyroid hormone levels, <span style="background:rgba(240, 200, 0, 0.2)">myxedema ([[./Nonpitting edema|nonpitting edema]]) and exophthalmos</span> in patients with Graves disease are instead due to autoantibody-mediated activation of TSH receptors on peripheral tissue. <span style="background:rgba(240, 200, 0, 0.2)">Therefore they are not seen on other [[./Hyperthyroidism|Hyperthyroidism]] diseases.</span>
 
 ---
 # Clinical features
@@ -41,6 +41,11 @@ share: true
 ---
 # Diagnostics
 
+# Pathology
+- Microscopic: histological features of an overactive gland
+	- <span style="background:rgba(240, 200, 0, 0.2)">Diffuse hyperplasia of thyroid follicles</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Tall, hyperplastic and hypertrophic follicular cells</span>
+	- Colloid reabsorption with peripheral scalloping
 
 ---
 # Treatment
