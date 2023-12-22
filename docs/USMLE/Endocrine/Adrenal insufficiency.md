@@ -11,6 +11,26 @@ share: true
 
 ---
 # Etiology
+## Primary adrenal insufficiency (Addison disease)
+- <span style="background:rgba(240, 200, 0, 0.2)">Autoimmune adrenalitis</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Most common cause in the US</span> (∼ 80–90% of all cases of primary adrenal insufficiency)
+	- Caused by autoimmune destruction of both adrenal cortices
+	- Associated with other autoimmune endocrinopathies
+- Infectious adrenalitis
+	- Tuberculosis: most common cause worldwide, but rare in the US
+	- CMV disease in immunosuppressed states (especially AIDS)
+	- Histoplasmosis
+- Adrenal hemorrhage 
+	- Sepsis: especially meningococcal sepsis (endotoxic shock) → hemorrhagic necrosis (Waterhouse-Friderichsen syndrome)
+	- Disseminated intravascular coagulation (DIC)
+- Infiltration of the adrenal glands
+	- Tumors (adrenocortical tumors, lymphomas, metastatic carcinoma)
+	- Amyloidosis
+	- Hemochromatosis
+- Adrenalectomy
+- Impaired activity of enzymes that are responsible for cortisol synthesis
+	- Cortisol synthesis inhibitors (e.g., rifampin, fluconazole, phenytoin, ketoconazole): drug-induced adrenal insufficiency
+	- 21β-hydroxylase deficiency
 ## Tertiary adrenal insufficiency
 Tertiary adrenal insufficiency is caused by conditions that <span style="background:rgba(240, 200, 0, 0.2)">decrease CRH production.</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">The most common cause is sudden discontinuation of chronic glucocorticoid therapy.</span>
@@ -23,7 +43,7 @@ Tertiary adrenal insufficiency is caused by conditions that <span style="backgro
 ---
 # Clinical features
 ## Hypocortisolism
-- Weight loss, anorexia
+- <span style="background:rgba(240, 200, 0, 0.2)">Weight loss</span>, anorexia
 - Fatigue, lethargy, depression
 - Muscle aches
 - Weakness
@@ -36,13 +56,13 @@ Tertiary adrenal insufficiency is caused by conditions that <span style="backgro
 	- Glucocorticoids inhibit peripheral glucose utilization and increase [[../Biochemistry/Gluconeogenesis|gluconeogenesis]].
 - <span style="background:rgba(240, 200, 0, 0.2)">Hyponatremia</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Glucocorticoids inhibit ADH secretion and thereby prevent excessive water retention. With adrenal insufficiency, ADH secretion is disinhibited causing increased reabsorption of free water with subsequent dilution hyponatremia.</span>
-## Hypoandrogenism
+## <span style="background:rgba(240, 200, 0, 0.2)">Hypoandrogenism</span>
 - Loss of libido
-- Loss of axillary and pubic hair
+- <span style="background:rgba(240, 200, 0, 0.2)">Loss of axillary and pubic hair</span>
 ### Lab findings
 - ↓ DHEA-S
 ## Elevated ACTH
-- Hyperpigmentation of areas that are not normally exposed to sunlight (e.g., palmar creases, mucous membrane of the oral cavity)
+- <span style="background:rgba(240, 200, 0, 0.2)">Hyperpigmentation of areas that are not normally exposed to sunlight (e.g., palmar creases, mucous membrane of the oral cavity)</span> → tanned skin![[../../assets/img/Pasted image 20231222100938.png|Pasted image 20231222100938.png]]
 	- caused by increased production of MSH, which is cleaved from the same precursor peptide (POMC) as ACTH.
 
 ---
