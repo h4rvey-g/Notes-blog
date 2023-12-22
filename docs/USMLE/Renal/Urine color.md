@@ -13,7 +13,7 @@ share: true
 	- Toxins: lead, mercury 
 	- Conditions: [[./Urinary tract infections|urinary tract infections]], [[./Nephrolithiasis|nephrolithiasis]], porphyria, hemoglobinuria (rhabdomyolysis); see Question 7 
 - Orange 
-	- Foods: [[../Biochemistry/Vitamin C|vitamin C]], carrots 
+	- Foods: [[../Blood/Vitamin C|vitamin C]], carrots 
 	- Medications: rifampin, phenazopyridine 
 - Green 
 	- Foods: asparagus 
