@@ -7,19 +7,19 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
-- [[./Acute respiratory distress syndrome|Acute respiratory distress syndrome]]
-- [[./Alpha-1 antitrypsin deficiency|Alpha-1 antitrypsin deficiency]]
 - [[./Aspergillosis|Aspergillosis]]
+- [[./Alpha-1 antitrypsin deficiency|Alpha-1 antitrypsin deficiency]]
 - [[./Asthma|Asthma]]
 - [[./Atelectasis|Atelectasis]]
-- [[./Atopy|Atopy]]
-- [[./Bronchiectasis|Bronchiectasis]]
-- [[./Chronic obstructive pulmonary disease|Chronic obstructive pulmonary disease]]
+- [[./Acute respiratory distress syndrome|Acute respiratory distress syndrome]]
 - [[./Club cells|Club cells]]
-- [[./Croup|Croup]]
+- [[./Atopy|Atopy]]
 - [[./DLCO|DLCO]]
 - [[./Epiglottitis|Epiglottitis]]
+- [[./Chronic obstructive pulmonary disease|Chronic obstructive pulmonary disease]]
+- [[./Bronchiectasis|Bronchiectasis]]
 - [[./flow-volume loop|flow-volume loop]]
+- [[./Croup|Croup]]
 - [[./Lung cancer|Lung cancer]]
 - [[../../../Mesothelioma|Mesothelioma]]
 - [[./Miscellaneous|Miscellaneous]]
@@ -29,6 +29,6 @@ share: true
 - [[./Pneumoconioses|Pneumoconioses]]
 - [[./Pneumonia|Pneumonia]]
 - [[./Pulmonary embolism|Pulmonary embolism]]
-- [[./Sarcoidosis|Sarcoidosis]]
 - [[./Sinusitis|Sinusitis]]
+- [[./Sarcoidosis|Sarcoidosis]]
 
