@@ -15,7 +15,7 @@ Autoimmune thyroiditis
 
 ---
 # Pathophysiology
-- Conversion of regular thyroid parenchyma to diffuse fibrous growth that may extend into the surrounding tissue.
+- <span style="background:rgba(240, 200, 0, 0.2)">Conversion of regular thyroid parenchyma to diffuse fibrous growth that may extend into the surrounding tissue.</span>
 - Associated with other IgG4-related systemic diseases.
 ## Pathology
 - Dense and white fibrotic tissue
