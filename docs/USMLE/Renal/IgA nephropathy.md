@@ -42,6 +42,9 @@ Peak incidence: <span style="background:rgba(240, 200, 0, 0.2)">20-30 years old<
 	- Electron microscopy: mesangial immune complex deposits
 # Differential diagnosis
 ![[../../assets/img/Pasted image 20230902154239.png|Pasted image 20230902154239.png]]
+>[!tip] 
+>1. IgA nephropathy typically occurs <span style="background:rgba(240, 200, 0, 0.2)">immediately following or during a mucosal infection</span> (e.g., upper respiratory tract and gastrointestinal infections), <span style="background:rgba(240, 200, 0, 0.2)">not several weeks after a skin infection in [[./Poststreptococcal glomerulonephritis|PSGN]]</span>. 
+>2. Most patients also have flank pain and a low-grade fever, which are absent in [[./Poststreptococcal glomerulonephritis|PSGN]].
 
 ---
 # Treatment
