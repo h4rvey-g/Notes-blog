@@ -22,8 +22,8 @@ share: true
 - Hypercalciuria
 - Hyperoxaluria
 	- Increased intestinal absorption of oxalate, e.g., due to fatty acid malabsorption (e.g., [[../GI/Crohn disease|Crohn disease]], [[../GI/Ulcerative colitis|ulcerative colitis]], short bowel syndrome)
-	 - [[../Biochemistry/Vitamin C# Vitamin C toxicity|Vitamin C >  Vitamin C toxicity]]
-		 - <span style="background:rgba(240, 200, 0, 0.2)">[[../Biochemistry/Vitamin C|Vitamin C]] is metabolized to oxalate</span>
+	 - [[../Blood/Vitamin C# Vitamin C toxicity|Vitamin C >  Vitamin C toxicity]]
+		 - <span style="background:rgba(240, 200, 0, 0.2)">[[../Blood/Vitamin C|Vitamin C]] is metabolized to oxalate</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Hypocitraturia</span>
 	- Citrate inhibits stone formation by <span style="background:rgba(240, 200, 0, 0.2)">forming a soluble complex with calcium in the renal tubule, which reduces the amount of free calcium in the urine to bind with oxalate or phosphate.</span> Citrate excretion in the kidney is strongly influenced by pH (systemic, tubular, and intracellular). Alkalosis increases renal citrate excretion, whereas acidosis decreases it.
 ### Diagnosis
@@ -36,7 +36,7 @@ share: true
 - Hydration
 - Dietary modification
 	- Reduced intake of salt (mainly sodium) and animal protein *(Low sodium enhances renal tubular reabsorption of sodium and calcium, decreasing urinary calcium levels. Animal protein consumption increases calcium excretion in urine.)*
-	- Reduced intake of oxalate-rich foods and supplemental [[../Biochemistry/Vitamin C|vitamin C]]
+	- Reduced intake of oxalate-rich foods and supplemental [[../Blood/Vitamin C|vitamin C]]
 	- Calcium intake should not be restricted (restriction increases risk of hyperoxaluria, and thereby, the risk for osteoporosis) 
 - <span style="background:rgba(240, 200, 0, 0.2)">Thiazide diuretics</span> for recurrent calcium-containing stones with idiopathic hypercalciuria (i.e., no [[../Cardiology/Hypercalcemia|hypercalcemia]])
 - Urine alkalinization (e.g., with potassium citrate)
