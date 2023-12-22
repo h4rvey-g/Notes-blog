@@ -6,6 +6,11 @@ modified: 2023-07-21 17:31
 share: true
 ---
 
+# Neuromuscular
+- Lambert-Eaton syndrome
+	- Small cell [[./Lung cancer|lung cancer]] (SCLC)
+- [[../MSK/Myasthenia gravis|Myasthenia gravis]]
+	- [[../MSK/Thymoma|Thymoma]]
 # Endocrine
 ## [[../Cardiology/Hypercalcemia|Hypercalcemia]] of malignancy
 - Etiology

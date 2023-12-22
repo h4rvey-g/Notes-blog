@@ -7,5 +7,5 @@ share: true
 ---
 
 
-A hormone produced by parafollicular cells (C cells) in the thyroid gland that inhibits osteoclast activity and renal reabsorption of calcium and phosphate to reduce serum calcium; it may be used therapeutically, e.g., in osteoporosis, or diagnostically, as it is often elevated in medullary thyroid cancer.
+A hormone produced by parafollicular cells (C cells) in the thyroid gland that inhibits osteoclast activity and renal reabsorption of calcium and phosphate to reduce serum calcium; it may be used therapeutically, e.g., in [[../MSK/Osteoporosis|osteoporosis]], or diagnostically, as it is often elevated in medullary [[./Thyroid cancer|thyroid cancer]].
 ![[../../assets/img/Pasted image 20231126161246.png|Pasted image 20231126161246.png]]

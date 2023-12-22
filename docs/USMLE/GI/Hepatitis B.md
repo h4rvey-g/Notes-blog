@@ -4,6 +4,7 @@ created: 2023-10-17 21:38
 modified: 2023-10-17 21:38
 aliases:
   - Hepatitis B infection
+  - HBV
 share: true
 ---
 
@@ -32,7 +33,14 @@ share: true
 
 ---
 # Pathophysiology
-
+## Replication cycle of HBV
+HBV carries a DNA polymerase with both DNA and RNA-dependent functions, also known as reverse transcriptase (RT).![[../../assets/img/Pasted image 20231217151303.png|Pasted image 20231217151303.png]]
+1. After entering the host cell's nucleus, reverse transcriptase completes the positive strand of the virus's partially double-stranded relaxed circular DNA (rcDNA).
+2. <span style="background:rgba(240, 200, 0, 0.2)">The rcDNA is converted to covalently closed circular DNA (cccDNA)</span> primarily by host enzymes in a process that is not entirely understood.
+3. The cccDNA is then transcribed into viral mRNA by host RNA polymerase.
+4. <span style="background:rgba(240, 200, 0, 0.2)">The viral mRNA leaves the nucleus and is translated into HBV core proteins and new reverse transcriptase in the cytoplasm.</span>
+5. Viral mRNA and reverse transcriptase are packaged into a capsid, where viral mRNA is then reverse-transcribed into viral rcDNA.
+6. New viral DNA genomes are enveloped and leave the cell as progeny virions.
 
 ---
 # Clinical features

@@ -18,7 +18,7 @@ share: true
 
 ---
 # Etiology
-- Malabsorption
+- [[../GI/Malabsorption|Malabsorption]]
 	- ↓ Intrinsic factor (IF)
 		- Atrophic gastritis due to
 			- Autoimmune atrophic gastritis: most common cause of vitamin B12 deficiency
@@ -72,7 +72,10 @@ share: true
 
 ---
 # Diagnostics
-
+- If vitamin B12 serum levels are normal:
+	- Measure homocysteine: elevated in both vitamin B12 deficiency and folate deficiency
+	- <span style="background:rgba(240, 200, 0, 0.2)">Measure methylmalonic acid (MMA) to help rule out folate deficiency (MMA is normal in folate deficiency and elevated in vitamin B12 deficiency )</span>
+		- Without vitamin B12, methylmalonyl CoA mutase cannot break down methylmalonyl CoA, which leads to the accumulation of MMA.
 
 ---
 # Treatment

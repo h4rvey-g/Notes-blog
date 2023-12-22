@@ -17,7 +17,7 @@ share: true
 	- Blood [[../Blood/Transfusion|transfusion]]
 	- Dialysis
 - Organ transplantation
-- Sexual: rare (in contrast to HBV and HIV)
+- Sexual: rare (in contrast to [[./Hepatitis B|HBV]] and HIV)
 
 ---
 # Pathophysiology
@@ -56,7 +56,7 @@ share: true
 ---
 # Treatment
 ## Antiviral therapy
-- Direct-acting antivirals (DAAs)
+- <span style="background:rgba(240, 200, 0, 0.2)">Direct-acting antivirals (DAAs)</span>
 	- Antivirals target and inhibit HCV-encoded proteins that are essential for the HCV replication cycle.
 	- Example regimens
 		- Glecaprevir PLUS pibrentasvir (all 6 genotypes)
@@ -66,6 +66,13 @@ share: true
 	- Was the preferred treatment before the development of DAAs
 	- <span style="background:rgba(240, 200, 0, 0.2)">Associated with severe adverse effects</span> (e.g., arthralgias, thrombocytopenia, leukopenia, depression, anemia) and teratogenicity
 	- Contraindicated in patients with decompensated [[./Cirrhosis|cirrhosis]] (high risk of worsening [[./Cirrhosis|cirrhosis]] decompensation)
+	- Ribavirin
+		- Mechanism of action
+			- Guanosine analogue (nucleoside inhibitor)
+			- Competitive inhibition of IMP dehydrogenase → <span style="background:rgba(240, 200, 0, 0.2)">prevention of guanine nucleosides synthesis</span>
+		- Adverse effects
+			- <span style="background:rgba(240, 200, 0, 0.2)">Hemolytic anemia</span>
+			- Highly teratogenic
 
 >[!tip] 
 >DAAs have superior efficacy and safety profiles compared with interferon or ribavirin-based regimens and are thus preferred.

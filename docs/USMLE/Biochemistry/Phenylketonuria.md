@@ -26,6 +26,8 @@ share: true
 ---
 # Clinical features
 ![[./Catecholamine Synthesis#Phenylketonuria|Catecholamine Synthesis > Phenylketonuria]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Blue eyes, light skin, pale hair</span>
+	- Due to a lack of melanin
 
 ---
 # Diagnostics

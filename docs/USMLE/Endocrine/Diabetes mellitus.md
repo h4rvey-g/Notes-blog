@@ -9,11 +9,22 @@ share: true
 ---
 
 # Epidemiology
-
+## Type 2 DM
+- Age
+	- Adult onset typically > 40 years
+	- Mean age of onset is decreasing
+- Race: highest prevalence in <span style="background:rgba(240, 200, 0, 0.2)">Native Americans</span>, Hispanics, African Americans, and Asian non-Hispanic Americans
 
 ---
 # Etiology
-
+## Type 1 DM
+- Autoimmune destruction of pancreatic β cells in genetically susceptible individuals
+- HLA association: HLA-DR3 and HLA-DR4 positive patients are at increased risk of developing T1DM. 
+- Associated with other autoimmune conditions
+	- [[./Hashimoto thyroiditis|Hashimoto thyroiditis]]
+	- Type A gastritis
+	- [[../GI/Celiac disease|Celiac disease]]
+	- Primary [[./Adrenal insufficiency|adrenal insufficiency]]
 
 ---
 # Pathophysiology
@@ -100,7 +111,7 @@ share: true
 >This helps to separate the sulfonylureas from the meglitinides since they also end with IDE
 
 - Meglitinides
-	- ![[../../assets/img/Pasted image 20231209135739.png|Pasted image 20231209135739.png]]
+	- Same with Sulfonylureas![[../../assets/img/Pasted image 20231209135739.png|Pasted image 20231209135739.png]]
 - DPP-4 inhibitor and GLP-1 analogs
 	- ![[../../assets/img/Pasted image 20231209140221.png|Pasted image 20231209140221.png]]
 	- ![[../../assets/img/Pasted image 20231209140759.png|Pasted image 20231209140759.png]]
@@ -128,7 +139,8 @@ share: true
 	- ![[../../assets/img/Pasted image 20231209142943.png|Pasted image 20231209142943.png]]
 
 >[!Mnemonic] 
->glita <- glitter
+>- glita <- glitter
+>- Eat in the party will make you <font color="#ffc000">gain weight</font>.
 - Amylin analogs (Pramlintide)
 	- Works with insulin to ↓ glucagon release, ↓ gastric emptying.
 
@@ -136,3 +148,8 @@ share: true
 >Amy<font color="#ffc000">lin</font> analogs (Pram<font color="#ffc000">lin</font>tide) works with insu<font color="#ffc000">lin</font>.
 
 ---
+# Screening
+- All individuals ≥ 35 years of age
+- Patients < 35 years of age who: 
+	- Are overweight or obese AND have ≥ 1 additional risk factor for T2DM
+		- BMI of ≥ 23 kg/m<sup>2</sup> in Asian American individuals or a BMI of ≥ 25 kg/m<sup>2</sup> in all other individuals

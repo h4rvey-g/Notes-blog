@@ -39,11 +39,11 @@ share: true
 	- Characteristic dermatitis
 		- <span style="background:rgba(240, 200, 0, 0.2)">Circular broad collar rash on the neck (Casal necklace); affects dermatomes C3 and C4</span>![[../../assets/img/Pasted image 20231104103708.png|Pasted image 20231104103708.png]]
 		- Hyperpigmented skin lesions in sun-exposed areas (especially on the limbs) 
-	- Diarrhea and vomiting
+	- [[../GI/Diarrhea|Diarrhea]] and vomiting
 	- Neurologic symptoms (e.g, dementia, hallucinations, anxiety, insomnia, encephalopathy)
 
 >[!Mnemonic] 
->3 typical features of severe vitamin B<sub>3</sub> Deficiency: Dermatitis, Diarrhea, and Dementia.
+>3 typical features of severe vitamin B<sub>3</sub> Deficiency: Dermatitis, [[../GI/Diarrhea|Diarrhea]], and Dementia.
 
 ---
 ## Diagnostics
@@ -57,5 +57,5 @@ share: true
 # Vitamin B3 toxicity
 - <span style="background:rgba(240, 200, 0, 0.2)">Facial flushing: due to prostaglandin release and NOT due to histamine (typically seen when niacin therapy is started, can be avoided by coadministration of <font color="#ffc000">aspirin</font>)</span>
 - Hyperuricemia, podagra 
-	- Niacin decreases renal uric acid excretion.
+	- <span style="background:rgba(240, 200, 0, 0.2)">Niacin decreases renal uric acid excretion.</span>
 - Hyperglycemia

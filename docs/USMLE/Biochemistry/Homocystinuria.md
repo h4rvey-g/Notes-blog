@@ -49,7 +49,7 @@ Definition: a group of inherited genetic disorders characterized by impaired hom
 ---
 # Diagnostics
 - ↑ Homocysteine in urine and serum
-- Urine sodium nitroprusside test: Urine changes color to an intense red in the presence of homocysteine.
+- Urine [[../Blood/Cyanide poisoning|sodium nitroprusside]] test: Urine changes color to an intense red in the presence of homocysteine.
 - Serum methionine levels
 	- Increased in cystathionine synthase deficiency
 	- Decreased in methionine synthase deficiency and methylenetetrahydrofolate reductase deficiency

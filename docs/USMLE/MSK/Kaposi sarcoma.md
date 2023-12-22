@@ -12,7 +12,7 @@ share: true
 ---
 # Etiology
 - Caused by human herpesvirus 8 (HHV8), a large DNA gamma herpes virus
-- Routes of transmission include [2]
+- Routes of transmission include
 	- Saliva
 	- <span style="background:rgba(240, 200, 0, 0.2)">Sexual contact</span>
 	- Potentially via blood transfusion and IV drug use 

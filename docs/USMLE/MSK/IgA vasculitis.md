@@ -12,6 +12,7 @@ share: true
 - Sex: ♂ > ♀
 - Age: <span style="background:rgba(240, 200, 0, 0.2)">more common in children</span>
 	- 90% of affected individuals < 10 years
+	- <span style="background:rgba(240, 200, 0, 0.2)">Other small vessel vasculitides mainly affect adults</span>
 
 ---
 # Etiology
@@ -34,7 +35,7 @@ An upper respiratory tract infection often precedes symptom onset by 1–3 weeks
 	- <span style="background:rgba(240, 200, 0, 0.2)">Most commonly in the lower extremities, buttocks, and other areas of pressure or constraint (e.g., from clothing)</span>
 - Joints (∼ 75% of cases)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Arthritis/arthralgia </span>
-		- Usually bilateral, self-limited, and nondestructive; children may present with a limp.
+		- Usually bilateral, self-limited, and nondestructive; <span style="background:rgba(240, 200, 0, 0.2)">children may present with a limp.</span>
 	- Most commonly in the ankles and knees
 - Gastrointestinal tract (∼ 60% of cases)
 	- Colicky abdominal pain 
