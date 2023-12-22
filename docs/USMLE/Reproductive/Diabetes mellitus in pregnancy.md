@@ -7,6 +7,19 @@ aliases:
 share: true
 ---
 
+# Pathophysiology
+- Human placental lactogen (HPL, aka human chorionic somatomammotropin): a hormone synthesized by syncytiotrophoblasts of the placenta, which promotes the production of insulin-like growth factors.
+	- <span style="background:rgba(240, 200, 0, 0.2)">Causes insulin resistance to supply growing fetus with glucose and amino acids.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Concurrently increases insulin levels; inability to overcome insulin resistance → gestational diabetes.</span>
+# Treatment
+- Glycemic control
+	- Dietary modifications and regular exercise (walking)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Strict blood glucose monitoring (4x daily)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Insulin therapy if glycemic control is insufficient with dietary modifications </span>
+		- Fasting blood glucose level > 95 mg/dL or one-hour postprandial blood glucose level > 140 mg/dL or 2-hour postprandial blood glucose level > 120 mg/dL
+	- Metformin and glyburide in patients who are unwilling or unable to use insulin
+- Regular ultrasound to evaluate fetal development
+- Consider inducing delivery at week 39–40, if glycemic control is poor or if complications occur
 # Complications
 ## Diabetic fetopathy
 - Definition: any anomaly in a fetus associated with maternal [[../Endocrine/Diabetes mellitus|diabetes]], caused by fetal hyperinsulinemia during gestation
