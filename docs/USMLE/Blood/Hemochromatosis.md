@@ -15,7 +15,7 @@ share: true
 
 ---
 # Pathophysiology
-HFE gene defect (homozygous) → defective binding of transferrin to its receptor → ↓ hepcidin synthesis by the liver → unregulated ferroportin activity in enterocytes → ↑ intestinal iron absorption → iron accumulation throughout the body → damage to the affected organs![[../../assets/img/Pasted image 20231029090123.png|Pasted image 20231029090123.png]]
+HFE gene defect (homozygous) → defective binding of transferrin to its receptor → ↓ hepcidin synthesis by the liver → unregulated ferroportin activity in enterocytes → ↑ intestinal iron [[../GI/Absorption|absorption]] → iron accumulation throughout the body → damage to the affected organs![[../../assets/img/Pasted image 20231029090123.png|Pasted image 20231029090123.png]]
 
 ---
 # Clinical features
@@ -24,12 +24,15 @@ HFE gene defect (homozygous) → defective binding of transferrin to its recepto
 	- Hepatomegaly
 	- [[../GI/Cirrhosis|Cirrhosis]]
 	- Increased risk of hepatocellular carcinoma (common cause of death)  [8]
-- Pancreas: signs of <span style="background:rgba(240, 200, 0, 0.2)">diabetes mellitus (polydipsia, polyuria)</span>
+- Pancreas: signs of <span style="background:rgba(240, 200, 0, 0.2)">[[../Endocrine/Diabetes mellitus|diabetes mellitus]] (polydipsia, polyuria)</span>
 - Skin: hyperpigmentation, <span style="background:rgba(240, 200, 0, 0.2)">bronze skin</span> 
 - Pituitary gland: hypogonadism, erectile dysfunction, testicular atrophy, loss of libido, amenorrhea  [9]
 - Joints: arthralgia (typically symmetrical arthropathy of the MCP joints II and III), chondrocalcinosis (accumulation of calcium pyrophosphate)
 - Heart
 	- Cardiomyopathy due to cardiac siderosis
+
+>[!tip] 
+>Classic triad of [[../GI/Cirrhosis|cirrhosis]], [[../Endocrine/Diabetes mellitus|diabetes mellitus]], skin pigmentation (“bronze [[../Endocrine/Diabetes mellitus|diabetes]]”).
 
 ---
 # Diagnostics
