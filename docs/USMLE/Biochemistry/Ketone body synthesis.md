@@ -12,8 +12,8 @@ Rate-determining enzymes![[../../assets/img/Pasted image 20231123220153.png|Past
 >[!tip] 
 >Liver cells lack β ketoacyl-CoA transferase → cannot use ketone bodies as fuel.
 - Regulation:
-	- In prolonged fasting and diabetic ketoacidosis
-		- <span style="background:rgba(240, 200, 0, 0.2)">Oxaloacetate is depleted for gluconeogenesis.</span>
+	- In prolonged [[./Metabolic fuel use|fasting]] and diabetic ketoacidosis
+		- <span style="background:rgba(240, 200, 0, 0.2)">Oxaloacetate is depleted for [[./Gluconeogenesis|gluconeogenesis]].</span>
 		- This results in a <span style="background:rgba(240, 200, 0, 0.2)">buildup of acetyl-CoA molecules → shunts the pathway toward the production of ketone bodies.</span>
 	- In alcoholism
 		- <span style="background:rgba(240, 200, 0, 0.2)">Excess NADH shunts oxaloacetate to malate.</span>
