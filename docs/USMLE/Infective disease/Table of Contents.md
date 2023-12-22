@@ -7,16 +7,22 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
-- [[./Actinomyces israelii|Actinomyces israelii]]
+- [[./AIDS-defining conditions|AIDS-defining conditions]]
 - [[./Arthritis-dermatitis syndrome|Arthritis-dermatitis syndrome]]
-- [[./Bacillus anthracis|Bacillus anthracis]]
+- [[./Actinomyces israelii|Actinomyces israelii]]
 - [[./Corynebacterium diphtheriae|Corynebacterium diphtheriae]]
 - [[./Eaton agar|Eaton agar]]
-- [[./Eosin methylene blue agar|Eosin methylene blue agar]]
 - [[./Histoplasmosis|Histoplasmosis]]
+- [[./Bacillus anthracis|Bacillus anthracis]]
+- [[./HIV therapy|HIV therapy]]
 - [[./IgA protease|IgA protease]]
 - [[./Legionnaires' disease|Legionnaires' disease]]
+- [[./Eosin methylene blue agar|Eosin methylene blue agar]]
+- [[./Malaria|Malaria]]
 - [[./Mumps|Mumps]]
+- [[./Streptococcus pyogenes|Streptococcus pyogenes]]
 - [[./Mycobacteria|Mycobacteria]]
 - [[./Schistosomiasis|Schistosomiasis]]
+- [[./Antiviral therapy|Antiviral therapy]]
+- [[./Genital ulcers|Genital ulcers]]
 
