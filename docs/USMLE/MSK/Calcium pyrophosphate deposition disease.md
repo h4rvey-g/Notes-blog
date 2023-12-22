@@ -16,7 +16,7 @@ share: true
 - The primary (idiopathic) form is most common, with age as a major risk factor.
 - Secondary forms
 	- Joint trauma/damage: including joint surgery, previous juvenile idiopathic arthritis, and [[./Osteoarthritis|Osteoarthritis]]
-	- Metabolic disorders: including [[../Endocrine/Hyperparathyroidism|hyperparathyroidism]], hemochromatosis, hypomagnesemia, hypophosphatasia, and possibly gout
+	- Metabolic disorders: including [[../Endocrine/Hyperparathyroidism|hyperparathyroidism]], [[../Blood/Hemochromatosis|hemochromatosis]], hypomagnesemia, hypophosphatasia, and possibly gout
 	- Familial chondrocalcinosis: due to mutations in the CCAL1 or CCAL2 genes
 
 ---
@@ -37,11 +37,11 @@ Deposition of calcium pyrophosphate dihydrate (CPP or CPPD) crystals in articula
 	- <span style="background:rgba(240, 200, 0, 0.2)">Possible systemic symptoms</span>
 		- E.g., fever, chills, altered mental status in the elderly
 ## Chronic CPP crystal arthritis
-- <span style="background:rgba(240, 200, 0, 0.2)">[[./Osteoarthritis|Osteoarthritis]]-like presentation (osteoarthritis with CPPD; pseudo-osteoarthritis)</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[./Osteoarthritis|Osteoarthritis]]-like presentation ([[./Osteoarthritis|osteoarthritis]] with CPPD; pseudo-[[./Osteoarthritis|osteoarthritis]])</span>
 	- Most common form of CPPD disease
 	- Characterized by progressive joint degeneration
-		- Usually polyarticular; can occur in joints not typically affected by OA 
-		- More severe than typical OA
+		- Usually polyarticular; can occur in joints not typically affected by [[./Osteoarthritis|OA]] 
+		- More severe than typical [[./Osteoarthritis|OA]]
 		- Often associated with pseudogout-like flares of acute inflammatory arthritis
 
 
