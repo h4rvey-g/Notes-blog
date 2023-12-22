@@ -18,8 +18,10 @@ share: true
 ![[../../assets/img/Pasted image 20231212150949.png|Pasted image 20231212150949.png]]
 >[!tip] 
 >- Heparin: also affects VIII and IX -> intrinsic pathway -> PTT
->- Warfarin: affects both intrinsic and extrinsic pathway, but VII has shorter half life -> extrinsic pathway -> PT
+>- Warfarin: affects both intrinsic and extrinsic pathway, <span style="background:rgba(240, 200, 0, 0.2)">but VII has shorter half life -> extrinsic pathway -> PT</span>
 >	- The half-lives of the procoagulants are ∼ 2–4 days (except for factor VII, which has a short half-life), while the anticoagulants only have half-lives of 6–10 hours.
 >	- Intrinsic pathway remains active another 2–3 days, while extrinsic pathway and protein C are already inactive.
 
- 
+- Direct thrombin inhibitors: <span style="background:rgba(240, 200, 0, 0.2)">prolonged thrombin time (TT), no change to PTT or PT (not routinely monitored)</span>
+- Direct factor Xa inhibitors: <span style="background:rgba(240, 200, 0, 0.2)">prolonged PT and PTT, unchanged thrombin time (not routinely monitored)
+ </span>
