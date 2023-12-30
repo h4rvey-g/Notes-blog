@@ -45,10 +45,13 @@ share: true
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+>[!tip] 
+>Some subtypes (<span style="background:rgba(240, 200, 0, 0.2)">especially M3, or APL</span>) exhibit Auer rods 
+>- Pink-red, rod-shaped granular cytoplasmic inclusion bodies in malignant immature myeloblasts or promyelocytes
+>- Myeloperoxidase (MPO) positive
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---

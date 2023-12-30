@@ -9,8 +9,8 @@ share: true
 
 # Functions
 - Cofactor for enzymes:
-	- Methionine synthase: Methylcobalamin is required for the transfer of methyl groups (e.g., in DNA synthesis).
-	- Methylmalonyl-CoA mutase (e.g., in odd-chain fatty acid metabolism)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Methionine synthase: Methylcobalamin is required for the transfer of methyl groups (e.g., in DNA synthesis).</span>![[../../assets/img/Pasted image 20231225210715.png|Pasted image 20231225210715.png]]
+	- Methylmalonyl-CoA mutase (e.g., in odd-chain fatty acid metabolism)![[../../assets/img/Pasted image 20231225210648.png|Pasted image 20231225210648.png]]
 
 ---
 # Epidemiology
@@ -44,7 +44,7 @@ share: true
 # Pathophysiology
 - Dysfunctional methionine synthase (normally converts homocysteine to methionine, thereby demethylating N5-methyl-THF to THF) 
 	- ↓ Tetrahydrofolate (THF; cofactor in purine synthesis) → ↓ DNA synthesis → large, nucleated hematopoietic cells, including megaloblasts  → megaloblastic precursors undergo apoptosis or are phagocytosed by macrophages → pancytopenia (including megaloblastic anemia)
-	- <span style="background:rgba(240, 200, 0, 0.2)">↓ Methionine → neuropathy</span>  [2]
+	- <span style="background:rgba(240, 200, 0, 0.2)">↓ Methionine → neuropathy</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Homocysteine</span> → endothelial damage → predisposes to cardiovascular disease
 	- Can also cause secondary folate deficiency
 - Dysfunctional methylmalonyl CoA mutase
@@ -75,7 +75,7 @@ share: true
 - If vitamin B12 serum levels are normal:
 	- Measure homocysteine: elevated in both vitamin B12 deficiency and folate deficiency
 	- <span style="background:rgba(240, 200, 0, 0.2)">Measure methylmalonic acid (MMA) to help rule out folate deficiency (MMA is normal in folate deficiency and elevated in vitamin B12 deficiency )</span>
-		- Without vitamin B12, methylmalonyl CoA mutase cannot break down methylmalonyl CoA, which leads to the accumulation of MMA.
+		- Without vitamin B12, methylmalonyl CoA mutase cannot break down methylmalonyl CoA, which leads to the accumulation of MMA.![[../../assets/img/Pasted image 20231225210648.png|Pasted image 20231225210648.png]]
 
 ---
 # Treatment

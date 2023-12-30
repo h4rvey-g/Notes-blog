@@ -13,3 +13,5 @@ share: true
 	- Patients with febrile neutropenia who are at high risk for complications 
 	- Prophylaxis in certain patients receiving cancer treatment 
 - Antimicrobial prophylaxis (e.g., trimethoprim/sulfamethoxazole against Pneumocystis jirovecii pneumonia, fluconazole against invasive candidiasis) is limited to high-risk patients under specialist guidance.
+>[!Mnemonic] 
+>Fil<font color="#ffc000">g</font>rastim (<font color="#ffc000">G</font>-CSF), Sar<font color="#ffc000">g</font>ra<font color="#ffc000">m</font>ostim (<font color="#ffc000">GM</font>-CSF)

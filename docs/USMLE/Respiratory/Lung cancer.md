@@ -24,7 +24,7 @@ share: true
 		- ALK gene 
 		- KRAS gene
 	- <mark style="background: #FFF3A34A;">Common finding: hypertrophic osteoarthropathy (digital clubbing)</mark>
-	- Most common type of lung cancer that originates in pulmonary scars [10]
+	- Most common type of lung cancer that originates in pulmonary scars 
 	- Prognosis is usually better than in other types of lung cancer
  >[!note] 
  >“**A**denocarcinoma of **L**ung **K**inase”: Cancer (adenocarcinoma of lung) and the gene product (tyrosine kinase) are associated with ALK mutations.
@@ -39,10 +39,10 @@ share: true
 - Location: Peripheral
 - Characteristics
 	- Strong association with <mark style="background: #FFF3A34A;">smoking</mark>
-## Bronchial carcinoid tumor
+## Bronchial [[../Endocrine/Carcinoid tumor|carcinoid tumor]]
 - Location: Central or peripheral
 	- A rare type of neuroendocrine lung tumor that consists predominantly of neuroendocrine Kulchitsky cells
-- Neuroendocrine Kulchitsky cells [18]
+- Neuroendocrine Kulchitsky cells
 	- Rapid growth pattern
 	- Expressed tumor markers
 		- Chromogranin A
@@ -84,7 +84,7 @@ composed of columnar cells that proliferate along the framework of alveolar sept
 - Undifferentiated
 - Large tumor cells
 ### Small cell carcinoma
-![[../../assets/img/Pasted image 20230723154313.png|Pasted image 20230723154313.png]]
+![[../../assets/img/Pasted image 20231230144704.png|Pasted image 20231230144704.png]]
 This is the microscopic pattern of a small cell anaplastic (oat cell) carcinoma in which small dark blue cells with minimal cytoplasm are packed together in sheets.
 ### Hamartoma
 ![[../../assets/img/Pasted image 20230723155339.png|Pasted image 20230723155339.png]]

@@ -8,20 +8,20 @@ share: true
 
 Multiple sclerosis (MS) is a <span style="background:rgba(240, 200, 0, 0.2)">chronic degenerative disease of the CNS characterized by demyelination and axonal degeneration in the brain and spinal cord, which are caused by an immune-mediated inflammatory process.</span>
 # Epidemiology
-- Sex: ♀ > ♂ (3:1) [1]
-- Age of onset: 20–40 years of age [2]
-- Ethnicity: ↑ prevalence among the white and black population [3]
+- Sex: ♀ > ♂ (3:1)
+- Age of onset: 20–40 years of age
+- Ethnicity: ↑ prevalence among the white and black population
 - Prevalence: 50-300 per 100 000 people (greater among people who live further from the equator)
 
 ---
 # Etiology
 The etiology of multiple sclerosis is unclear; it is believed to develop in genetically predisposed people who have been exposed to certain environmental factors.
-- Environmental risk factors [2][6]
+- Environmental risk factors
 	- Low vitamin D levels (insufficient intake, decreased exposure to UV radiation)
 
 ---
 # Pathophysiology
-- Pathophysiology of MS is characterized by autoimmune inflammation, demyelination, and axonal degeneration.
+- <span style="background:rgba(240, 200, 0, 0.2)">Pathophysiology of MS is characterized by autoimmune inflammation, demyelination, and axonal degeneration.</span>![[../../assets/img/Pasted image 20231223165929.png|Pasted image 20231223165929.png]]
 - Most commonly accepted theory: Activation of autoreactive T-lymphocytes  → inflammatory processes → focal demyelination with partial preservation of axons (acute plaques) → loss of axons and atrophy of oligodendrocytes (chronic plaques) → gliosis  → inadequate remyelination
 - B-[[../Blood/Lymphocyte|lymphocyte]] dysfunction: The following suggests that B-lymphocytes play a role in the pathogenesis of MS, although the exact mechanism of their involvement is unclear.
 	- Anti-CD20 agents (ocrelizumab, ofatumumab, rituximab) are effective in preventing exacerbations. 
@@ -34,7 +34,7 @@ The etiology of multiple sclerosis is unclear; it is believed to develop in gene
 ---
 # Clinical features
 ![[../../assets/img/Pasted image 20230923161821.png|Pasted image 20230923161821.png]]
-- Optic neuritis
+- <span style="background:rgba(240, 200, 0, 0.2)">Optic neuritis</span>
 	- Most often the earliest manifestation
 	- Typically unilateral
 	- Can be painful
@@ -54,7 +54,7 @@ The etiology of multiple sclerosis is unclear; it is believed to develop in gene
 - Transverse myelitis
 	- Asymmetric paraplegia, unilateral sensory loss, bladder dysfunction
 	- Partial transverse myelitis is a common early manifestation of MS, causing asymmetric neurologic dysfunction below the lesion.
-- Cranial nerve palsies: diplopia, facial palsy, trigeminal neuralgia (can be bilateral)  [20][21]
+- Cranial nerve palsies: diplopia, facial palsy, trigeminal neuralgia (can be bilateral)
 	- Trigeminal neuralgia (TN) typically manifests unilaterally.
 	- Bilateral TN should raise concern for MS, especially in younger patients. 
 - Autonomic dysfunction: bowel and bladder neurogenic disorders (e.g., [[../Renal/Urinary incontinence|urinary incontinence]]), impaired sexual function 
@@ -73,6 +73,9 @@ The etiology of multiple sclerosis is unclear; it is believed to develop in gene
 
 ---
 # Treatment
-
+- Alemtuzumab
+	- A monoclonal antibody against the superficial antigen CD52; found on the surface of lymphocytes and monocytes
+	- Depletes B and T lymphocytes
+	- See [[../单抗记忆|单抗记忆]]
 
 ---

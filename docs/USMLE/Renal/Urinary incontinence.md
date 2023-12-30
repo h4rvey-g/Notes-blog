@@ -13,7 +13,7 @@ share: true
 ---
 # Etiology
 - Neurological causes
-	- Multiple sclerosis
+	- [[../Neurology/Multiple sclerosis|Multiple sclerosis]]
 	- Spinal injury
 	- Normal-pressure hydrocephalus
 - Genitourinary causes
@@ -32,6 +32,7 @@ share: true
 	- Stool impaction
 - General risk factors
 	- Recurrent [[./Urinary tract infections|urinary tract infections]]
+
  >[!Mnemonic] 
 >To remember the reversible causes of acute urinary incontinence, think DIAPPERS: Delirium/confusion, Infection, Atrophic urethritis/vaginitis, Pharmaceutical, Psychiatric causes (especially depression), Excessive urinary output (hyperglycemia, [[../Cardiology/Hypercalcemia|hypercalcemia]], CHF), Restricted mobility, Stool impaction.
 
@@ -55,7 +56,7 @@ share: true
 ### Mechanism
 detrusor sphincter dyssynergia
 - <span style="background:rgba(240, 200, 0, 0.2)">Simultaneous contractions of the detrusor muscle and involuntary activation of the urethral sphincter → blockage of bladder outlet</span> → small amounts of urine are pressed through the contracted sphincter muscle → high intravesical pressure along with inappropriate contraction of the urethral sphincter
-- Commonly seen in <span style="background:rgba(240, 200, 0, 0.2)">multiple sclerosis and spinal cord injury </span>
+- Commonly seen in <span style="background:rgba(240, 200, 0, 0.2)">[[../Neurology/Multiple sclerosis|multiple sclerosis]] and spinal cord injury </span>
 ### Clinical features
 - Voiding and/or storage dysfunction, intermittent voiding, urinary retention
 - Irregular, small volume incontinence without an associated urge to void (sometimes referred to as reflex incontinence)
@@ -77,7 +78,7 @@ detrusor sphincter dyssynergia
 ![[../../assets/img/Pasted image 20230813144806.png|Pasted image 20230813144806.png]]
 ![[../../assets/img/Pasted image 20230813145615.png|Pasted image 20230813145615.png]]
 >[!warning] 
->The use of muscarinic agonists may lead to urinary urgency, while the use of sympathomimetics or muscarinic antagonists may lead to urinary retention, especially if there is an untreated outlet obstruction.
+>The use of muscarinic agonists may lead to urinary urgency, while the use of sympathomimetics or [[../Pharmacology/Muscarinic antagonists|muscarinic antagonists]] may lead to urinary retention, especially if there is an untreated outlet obstruction.
 
 >[!tip] 
 >No pharmacological therapies are FDA-approved for [[./Stress incontinence|stress incontinence]]; treatment is primarily conservative with surgery.

@@ -39,6 +39,8 @@ APS usually manifests with <span style="background:rgba(240, 200, 0, 0.2)">recur
 - <span style="background:rgba(240, 200, 0, 0.2)">Pregnancy-related: recurrent miscarriages and premature births </span>
 	- Caused by thrombosis of placental vessels and possible subsequent placental infarction
 # Diagnose
+>[!tip] 
+>Thrombosis in APS is typically unprovoked (e.g., unprovoked DVT), recurrent, and/or manifests in unusual sites (e.g., kidneys, liver, retina). It is most commonly seen in younger individuals (< 50 years of age) and in individuals with comorbid autoimmune diseases (e.g., [[../Immunology/Systemic lupus erythematosus|SLE]]).
 ## Antiphospholipid antibodies
 - <span style="background:rgba(240, 200, 0, 0.2)">Lupus anticoagulant (LA)</span>: antibodies against certain phospholipids in cellular membranes; detection involves a three-step procedure
 	- <span style="background:rgba(240, 200, 0, 0.2)">These antibodies inhibit coagulation and therefore prolong aPTT in vitro, but have a procoagulatory effect in vivo.</span>

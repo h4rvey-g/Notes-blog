@@ -43,7 +43,7 @@ PTH-mediated or non-PTH-mediated causes
 - Neuropsychiatric symptoms such as anxiety, depression, fatigue, and cognitive dysfunction
 - Diminished muscle excitability
 	- Cardiac arrhythmias
-		- ECG: Shorten QT interval
+		- <span style="background:rgba(240, 200, 0, 0.2)">ECG: Shorten QT interval</span>, see [[./ECGs#QT interval|ECGs > QT interval]]
 	- Muscle weakness, paresis
 - <span style="background:rgba(240, 200, 0, 0.2)">Polyuria and dehydration</span>
 	- Due to acquired renal ADH resistance. Although ADH is being secreted, the kidneys no longer respond to it adequately (nephrogenic [[../Renal/Diabetes insipidus|diabetes insipidus]]).

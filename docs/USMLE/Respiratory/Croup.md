@@ -20,13 +20,13 @@ share: true
 
 ---
 # Pathophysiology
-Viral infection → inflammation of the upper airway with edema formation and infiltration of inflammatory cells → narrowing of subglottic airway (inspiratory stridor) and increased work of breathing
+Viral infection → inflammation of the upper airway with edema formation and infiltration of inflammatory cells → <span style="background:rgba(240, 200, 0, 0.2)">narrowing of subglottic airway</span> (inspiratory stridor) and increased work of breathing![[../../assets/img/Pasted image 20231225203056.png|Pasted image 20231225203056.png]]
 
 ---
 # Clinical features
-- Prodromal phase: 1–2 days of upper respiratory tract infection symptoms (rhinitis, low-grade fever, sore throat)
+- <span style="background:rgba(240, 200, 0, 0.2)">Prodromal phase: 1–2 days of upper respiratory tract infection symptoms (rhinitis, low-grade fever, sore throat)</span>
 - Symptoms of croup last 2–7 days and typically manifest in the late evening/night.
-- Characteristic features include<span style="background:rgba(240, 200, 0, 0.2)"> seal-like barking cough</span>, hoarseness, and inspiratory stridor due to subglottic narrowing.<iframe  src="https://www.youtube.com/embed/Qbn1Zw5CTbA" title="baby with Croup Stridor Barking Cough visual &amp; audio sound - When to Hospitalize." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- Characteristic features include<span style="background:rgba(240, 200, 0, 0.2)"> seal-like barking cough, hoarseness, and inspiratory stridor due to subglottic narrowing.</span><iframe  src="https://www.youtube.com/embed/Qbn1Zw5CTbA" title="baby with Croup Stridor Barking Cough visual &amp; audio sound - When to Hospitalize." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 # Diagnostics

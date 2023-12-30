@@ -7,7 +7,6 @@ aliases:
 share: true
 ---
 
-
 # Purpose
 Used to distinguish between sensory and cerebellar ataxia
 # Examination

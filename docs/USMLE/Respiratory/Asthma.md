@@ -58,7 +58,7 @@ Asthma is an inflammatory disease driven by [T-helper](https://next.amboss.com/
 	- Prevent leukotrienes from binding to their receptors (CysLT1)→ ↓ bronchoconstriction and inflammation
 	- Asthma aspirin-induced asthma
 	- Long-term maintenance treatment (particularly in children)
-## Long-acting muscarinic antagonists (LAMA)
+## Long-acting [[../Pharmacology/Muscarinic antagonists|muscarinic antagonists]] (LAMA)
 - Tiotropium bromide（噻托溴铵）
 - Long-term maintenance treatment
 ## Leukotriene pathway modifiers
