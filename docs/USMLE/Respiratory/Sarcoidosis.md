@@ -58,6 +58,6 @@ Butterfly rash as seen in [[../Immunology/Systemic lupus erythematosus|systemic 
 ---
 # Treatment
 - Steroids
-- Other immunosuppressants
+- Other [[../Immunology/Immunosuppressants|immunosuppressants]]
 
 ---
