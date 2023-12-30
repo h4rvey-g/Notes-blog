@@ -192,13 +192,13 @@ Depression: ≥ 0.05 mV (or 0.5 mm) in leads V2 and V3 or ≥ 0.1 mV in all 
 	- <mark style="background: #FFF3A34A;">Perimyocarditis </mark>
 	- <mark style="background: #FFF3A34A;">Ventricular hypertrophy</mark>
 	- Digoxin
-	- Intracranial hemorrhage  
+	- [[../Neurology/Intracranial hemorrhage|Intracranial hemorrhage]]  
 	- Persistent juvenile T-wave pattern
 	- Wellens syndrome
 ## QT interval
 The QT interval includes the QRS complex, the ST segment, and the T wave.
-The two chief causes of a short QT are <mark style="background: #FFF3A34A;">[[./Hypercalcemia|hypercalcemia]]</mark> and <mark style="background: #FFF3A34A;">digoxin therapy</mark> (associated with characteristic "scooping" of the ST-T complex). A third and relatively rare cause is <mark style="background: #FFF3A34A;">hereditary short QT</mark> ("channelopathy"-related) that may be associated with ventricular arrhythmia and sudden cardiac arrest.
-Prolonged QT: Congenital [[./Long QT syndromes|Long QT syndromes]], Drug side effects (e.g., antiarrhythmic agents, antidepressants, antipsychotics, phenothiazines, 1st-generation antihistamines, some antibiotics), Electrolyte disturbances (e.g., <mark style="background: #FFF3A34A;">[[Hypocalcemia|Hypocalcemia]], hypokalemia, hypomagnesemia</mark>), Cardiac abnormalities (e.g., inflammatory heart diseases, bradycardia, myocardial ischemia), Arsenic poisoning
+- The two chief causes of a short QT are <mark style="background: #FFF3A34A;">[[./Hypercalcemia|hypercalcemia]]</mark> and <mark style="background: #FFF3A34A;">digoxin therapy</mark> (associated with characteristic "scooping" of the ST-T complex). A third and relatively rare cause is <mark style="background: #FFF3A34A;">hereditary short QT</mark> ("channelopathy"-related) that may be associated with ventricular arrhythmia and sudden cardiac arrest.
+- Prolonged QT: Congenital [[./Long QT syndromes|Long QT syndromes]], Drug side effects (e.g., antiarrhythmic agents, antidepressants, antipsychotics, phenothiazines, 1st-generation antihistamines, some antibiotics), Electrolyte disturbances (e.g., <mark style="background: #FFF3A34A;">[[Hypocalcemia|Hypocalcemia]], hypokalemia, hypomagnesemia</mark>), Cardiac abnormalities (e.g., inflammatory heart diseases, bradycardia, myocardial ischemia), Arsenic poisoning
 ## Rates
 - [[./Atrial flutter|Atrial flutter]]: 250-300/min -- about 1 small block
 - [[./Atrial fibrillation|Atrial fibrillation]]: 350-400/min -- less than 1 small block
