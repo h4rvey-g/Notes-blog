@@ -10,7 +10,7 @@ share: true
 - Obstructive atelectasis (most common): airway obstruction (e.g., by a foreign body, mucus plug, malignancy) → nonventilated alveoli → reabsorption of gas in the poststenotic space → lung collapse 
 - Nonobstructive atelectasis
 	- Compression atelectasis: external space-occupying lesion (e.g., [[../Blood/Pleural effusion|pleural effusion]]) that compresses the lung → forcefully pushes air out of the alveoli
-	- Adhesive atelectasis: surfactant deficiency or dysfunction → increases surface tension of alveoli → instability and collapse (e.g., acute respiratory distress syndrome (ARDS) in adults, respiratory distress syndrome in premature infants)
+	- Adhesive atelectasis: surfactant deficiency or dysfunction → increases surface tension of alveoli → instability and collapse (e.g., [[./Acute respiratory distress syndrome|acute respiratory distress syndrome]] ([[./Acute respiratory distress syndrome|ARDS]]) in adults, [[./Neonatal respiratory distress syndrome|neonatal respiratory distress syndrome]] in premature infants)
 	- Cicatrization (contraction) atelectasis: parenchymal scarring that leads to contraction of the lung (due to chronic destructive lung processes such as tuberculosis, [[./Sarcoidosis|sarcoidosis]], and fibrosis, e.g., secondary to radiation therapy)
 	- Relaxation atelectasis: loss of contact between parietal and visceral tissue (e.g., pneumothorax, [[../Blood/Pleural effusion|pleural effusion]])
  - Postoperative atelectasis: one of the most common post-operative complications (especially after chest or abdominal surgery); often occurs within 72 hours of surgery
