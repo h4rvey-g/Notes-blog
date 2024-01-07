@@ -58,11 +58,11 @@ share: true
 	- Peripheral neuropathy: tingling, numbness, pins-and-needles sensation, coldness (especially in the lower extremities)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Subacute combined degeneration of spinal cord: symmetrical demyelination of the spinal cord tracts occurs in vitamin B12 deficiency due to insufficient vitamin B12-dependent fatty acid synthesis and production/maintenance of myelin</span>
 		- It manifests with the following symptoms:
-			- Paresthesia, impaired proprioception, loss of vibratory sensation, tactile sensation, and position discrimination due to demyelination of the dorsal columns
+			- Paresthesia, impaired proprioception, loss of vibratory sensation, tactile sensation, and position discrimination due to <span style="background:rgba(240, 200, 0, 0.2)">demyelination of the dorsal columns</span>
 			- Spastic paresis due to demyelination of the lateral corticospinal tracts (axons of upper motor neurons)
-			- Gait abnormalities (spinal ataxia) resulting from the damage of spinocerebellar tracts and dorsal columns
+			- [[../Neurology/Gait|Gait]] abnormalities (spinal ataxia) resulting from the damage of spinocerebellar tracts and dorsal columns
 		- Long-term deficiency can lead to irreversible neurological damage.
-	- <span style="background:rgba(240, 200, 0, 0.2)">Neuropsychiatric disease</span> (e.g.,<span style="background:rgba(240, 200, 0, 0.2)"> reversible dementia</span>, depression, paranoia) [3]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Neuropsychiatric disease</span> (e.g.,<span style="background:rgba(240, 200, 0, 0.2)"> reversible dementia</span>, depression, paranoia)
 	- Worsening vision 
 	- Autonomic dysfunction: impotence and incontinence
 - Glossitis
