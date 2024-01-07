@@ -40,17 +40,17 @@ The etiology of multiple sclerosis is unclear; it is believed to develop in gene
 	- Can be painful
 	- Impaired vision and color blindness
 	- Relative afferent pupillary defect (Marcus Gunn pupil)
-- Internuclear ophthalmoplegia (INO) as a result of a lesion in the medial longitudinal fasciculus (MLF) 
+- <span style="background:rgba(240, 200, 0, 0.2)">[[./Internuclear ophthalmoplegia|Internuclear ophthalmoplegia]] (INO) as a result of a lesion in the medial longitudinal fasciculus (MLF) </span>
 	- Ipsilateral medial rectus weakness but an intact convergence reflex
 	- Disconjugate, lateral gaze nystagmus in the contralateral eye
 	- More frequently bilateral than unilateral
 - Demyelination of spinal cord tracts
 	- Lhermitte sign: a shooting electric sensation that travels down the spine upon flexion of the neck 
-	- Pyramidal tract lesion: upper motor neuron weakness, spasticity, hyperreflexia, positive Babinski sign, impaired gait
+	- Pyramidal tract lesion: upper motor neuron weakness, spasticity, hyperreflexia, positive Babinski sign, impaired [[./Gait|gait]]
 	- Dorsal spinal column lesion: loss of vibration and fine-touch sensation, numbness, paresthesias, sensory ataxia usually involving the trunk or one or more limbs 
 	- Neuropathic pain
 	- Absent abdominal reflex
-- Cerebellar involvement: poor postural control, imbalance, gait dysfunction, Charcot neurological triad of scanning speech, nystagmus, and intention tremors 
+- Cerebellar involvement: poor postural control, imbalance, [[./Gait|gait]] dysfunction, Charcot neurological triad of scanning speech, nystagmus, and intention tremors 
 - Transverse myelitis
 	- Asymmetric paraplegia, unilateral sensory loss, bladder dysfunction
 	- Partial transverse myelitis is a common early manifestation of MS, causing asymmetric neurologic dysfunction below the lesion.
@@ -70,6 +70,7 @@ The etiology of multiple sclerosis is unclear; it is believed to develop in gene
 - The McDonald Criteria for both DIT and DIS must both be met to confirm a diagnosis of MS: 
 	- Dissemination in time (DIT): the appearance of new CNS lesions over time that can be confirmed clinically, with imaging, or with CSF analysis
 	- Dissemination in space (DIS): the presence of lesions in different regions of the CNS that can be confirmed clinically or in MRI
+- MRI:<span style="background:rgba(240, 200, 0, 0.2)"> Multiple sclerotic plaques (most commonly found in the periventricular white matter)</span> with finger-like radial extensions (Dawson fingers) related to demyelination and reactive gliosis![[../../assets/img/Pasted image 20231231095808.png|Pasted image 20231231095808.png]]![[../../assets/img/Pasted image 20231231095812.png|Pasted image 20231231095812.png]]There are extensive demyelinating lesions (plaques) bilaterally, appearing as hyperintensities in the periventricular white matter (green overlay). The finger-like radial extensions of these lesions are called “Dawson fingers.”
 
 ---
 # Treatment
