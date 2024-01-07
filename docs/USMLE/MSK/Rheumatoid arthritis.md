@@ -27,14 +27,22 @@ share: true
 
 ---
 # Clinical features
-<% tp.file.cursor() %>
+
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+## Acute antiinflammatory treatment
+- <span style="background:rgba(240, 200, 0, 0.2)">Glucocorticoids</span>
+	- Systemic prednisone
+		- Longer-term therapy: Only use in patients with highly active RA
+- NSAIDs and selective COX-2 inhibitors: relieve symptoms, but do not improve the prognosis
+## Long-term pharmacological treatment
+### Disease-modifying antirheumatic drugs (DMARDs)
+- <span style="background:rgba(240, 200, 0, 0.2)">Methotrexate (MTX): first-line treatment in patients with moderate to high disease activity</span>
+	- To minimize adverse effects, administer folic acid.
 
 ---
