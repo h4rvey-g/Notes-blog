@@ -11,5 +11,6 @@ share: true
 
 - ![[./Meningioma|Meningioma]]
 - ![[./Medulloblastoma|Medulloblastoma]]
+- Schwannoma![[./Acoustic neuroma|Schwannoma]]
 
 
