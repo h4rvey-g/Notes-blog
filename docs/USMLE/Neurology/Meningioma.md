@@ -7,7 +7,7 @@ share: true
 ---
 
 # Epidemiology
-- <span style="background:rgba(240, 200, 0, 0.2)">Most common benign primary brain tumor in adults</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Most common benign primary [[./Brain tumors|brain tumor]] in adults</span>
 
 ---
 # Etiology
