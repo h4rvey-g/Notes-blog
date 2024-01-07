@@ -4,6 +4,7 @@ created: 2023-12-10 15:17
 modified: 2023-12-10 15:17
 aliases:
   - gestational diabetes
+  - Maternal diabetes
 share: true
 ---
 
