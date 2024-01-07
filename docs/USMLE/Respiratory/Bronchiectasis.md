@@ -33,8 +33,8 @@ share: true
 
 ---
 # Clinical features
-- Chronic productive cough (lasting months to years) with copious mucopurulent sputum
-> The sputum may be green or yellow in color.
+- Chronic productive cough (lasting months to years) with copious mucop<span style="background:rgba(240, 200, 0, 0.2)"></span>urulent sputum
+	- The sputum may be green or yellow in color.
 - Auscultation
 	- Crackles and rhonchi
 	- Wheezing
@@ -48,7 +48,7 @@ share: true
         - Low-grade fever
 
 > [!NOTE] Note
-> Bronchiectasis should be suspected in patients with a chronic cough that produces large amounts of sputum.
+> <span style="background:rgba(240, 200, 0, 0.2)">Bronchiectasis should be suspected in patients with a chronic cough that produces large amounts of sputum.</span>
 
 ---
 # Diagnostics
