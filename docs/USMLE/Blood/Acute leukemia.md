@@ -31,7 +31,7 @@ share: true
 # Etiology
 ## Acute lymphoblastic leukemia (ALL)
 - Genetic or chromosomal factors
-	- <span style="background:rgba(240, 200, 0, 0.2)">Down syndrome: Risk of ALL is, like that of AML, 10–20 times higher in patients with Down syndrome compared to the general population.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[../Biochemistry/Down syndrome|Down syndrome]]: Risk of ALL is, like that of AML, 10–20 times higher in patients with [[../Biochemistry/Down syndrome|Down syndrome]] compared to the general population.</span>
 	- Neurofibromatosis type 1
 	- Ataxia telangiectasia
 
