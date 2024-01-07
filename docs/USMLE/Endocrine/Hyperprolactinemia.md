@@ -12,14 +12,14 @@ share: true
 ---
 # Etiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Prolactin-secreting [[./Pituitary adenoma|pituitary adenoma]] (prolactinomas) </span>
-- <span style="background:rgba(240, 200, 0, 0.2)">Damage to the hypothalamus and/or infundibular stalk</span>
-	- They compress the infundibular stalk and result in an interruption of the tonic inhibitory effect of hypothalamic dopamine on the secretion of prolactin![[../../assets/img/Pasted image 20231216164848.png|Pasted image 20231216164848.png]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Damage to the [[../Neurology/Hypothalamus|hypothalamus]] and/or infundibular stalk</span>
+	- They compress the infundibular stalk and result in an interruption of the tonic inhibitory effect of hypothalamic [[../Neurology/Neurotransmitters|dopamine]] on the secretion of prolactin![[../../assets/img/Pasted image 20231216164848.png|Pasted image 20231216164848.png]]
 - Severe primary [[../Biochemistry/Hypothyroidism|hypothyroidism]]: ↓ T3/T4 → ↑ TRH → ↑ prolactin
 - Drugs
-	- Dopamine antagonists: 
+	- [[../Neurology/Neurotransmitters|Dopamine]] antagonists: 
 		- Antiemetics: metoclopramide, domperidone 
 		- Antipsychotics (e.g., haloperidol, risperidone)
-	- Certain tricyclic antidepressants: e.g., clomipramine
+	- Certain tricyclic [[../Psychiatry/Antidepressants|antidepressants]]: e.g., clomipramine
 - Physiological causes: stress, pregnancy, lactation, nipple stimulation, crying baby, sexual orgasm, sleep, exercise
 
 ---
