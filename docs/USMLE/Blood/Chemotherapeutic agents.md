@@ -49,5 +49,5 @@ See [[../Biochemistry/De novo pyrimidine and purine synthesis|De novo pyrimidine
 >- Mnemo I use for Doxorubicin /Daunorubicin:
 > 	- They both end in -rubicin -> ruby (= red) -> the heart is red -> cardiotoxicity
 > 	- Dilated cardiomyopathy because it starts with D like Doxorubicin
-> 	- Dexrazoxane used to prevent it -> also starts with D and sounds like Roxane ('Roxane, you don't have to put on the red light', song by the police) -> again red for RUBYcin and heart
+> 	- Dexrazoxane used to prevent it -> also starts with D and sounds like Roxane ('Roxane, you don't have to put on the red light', song by the police) -> again red for RUBYcin and heart.
 > - Bleomycin: **b**leo -> fi**b**ro

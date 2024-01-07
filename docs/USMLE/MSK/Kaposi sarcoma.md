@@ -15,7 +15,7 @@ share: true
 - Routes of transmission include
 	- Saliva
 	- <span style="background:rgba(240, 200, 0, 0.2)">Sexual contact</span>
-	- Potentially via blood transfusion and IV drug use 
+	- Potentially via blood [[../Blood/Transfusion|transfusion]] and IV drug use 
 
 ---
 # Pathophysiology
@@ -31,7 +31,7 @@ Patients typically present with multiple cutaneous or visceral elevated tumors w
 	- Solitary, darkly pigmented plaques, which can evolve into nodular, bluish, submucosal, and painful skin changes
 	- Lesions resemble those of bacillary angiomatosis.
 - Progression: may disseminate to the organs, particularly the gastrointestinal tract, respiratory tract, and lymph nodes.
-	- Gastrointestinal tract involvement: abdominal pain and diarrhea; hemorrhage and bowel obstruction in severe cases 
+	- Gastrointestinal tract involvement: abdominal pain and [[../GI/Diarrhea|diarrhea]]; hemorrhage and bowel obstruction in severe cases 
 	- Pulmonary involvement: Lesions cause dyspnea, cough, and/or hemoptysis.
 
 ---
