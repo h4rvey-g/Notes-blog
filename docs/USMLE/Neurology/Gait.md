@@ -13,8 +13,8 @@ share: true
 - Staggering gait
 - Inability to walk from heel to toe or in a straight line
 ### Causes
-- Cerebellar diseases 
-- Acute alcohol intoxication
+- <span style="background:rgba(240, 200, 0, 0.2)">Cerebellar diseases </span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Acute alcohol intoxication</span>
 ## Sensory ataxic gait
 - Stooped, stomping gait 
 - Gait is exacerbated when patients cannot see their feet (e.g., in the dark)
