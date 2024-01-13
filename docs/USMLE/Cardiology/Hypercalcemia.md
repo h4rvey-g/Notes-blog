@@ -47,4 +47,5 @@ PTH-mediated or non-PTH-mediated causes
 	- Muscle weakness, paresis
 - <span style="background:rgba(240, 200, 0, 0.2)">Polyuria and dehydration</span>
 	- Due to acquired renal ADH resistance. Although ADH is being secreted, the kidneys no longer respond to it adequately (nephrogenic [[../Renal/Diabetes insipidus|diabetes insipidus]]).
+
 ![[../../assets/img/Pasted image 20230622205511.png|Pasted image 20230622205511.png]]
