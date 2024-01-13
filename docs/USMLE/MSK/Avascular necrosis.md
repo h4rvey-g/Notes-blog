@@ -11,7 +11,7 @@ share: true
 - Trauma (e.g., proximal scaphoid fractures)
 - Cellular toxicity (e.g., chemotherapy, radiotherapy, thermal injury, smoking, alcohol)
 - Medication (e.g., corticosteroids)
-- <span style="background:rgba(240, 200, 0, 0.2)">Congenital disease (e.g., [[../Blood/Sickle cell disease|sickle cell disease]], Gaucher disease)</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Congenital disease (e.g., [[../Blood/Sickle cell disease|sickle cell disease]], [[../Biochemistry/Lysosomal Storage Diseases|Gaucher disease]])</span>
 - Orthopedic conditions (e.g., slipped capital femoral epiphysis, developmental dysplasia of the hip)
 
 ---
