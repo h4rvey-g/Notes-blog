@@ -4,6 +4,7 @@ created: 2023-12-30 17:20
 modified: 2023-12-30 17:20
 aliases:
   - INO
+  - nystagmus
 share: true
 ---
 

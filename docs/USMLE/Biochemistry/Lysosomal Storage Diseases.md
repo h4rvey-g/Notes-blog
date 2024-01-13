@@ -2,7 +2,14 @@
 author: Harvey Guo
 created: 2023-11-10 17:01
 modified: 2023-11-10 17:01
-aliases: Untitled
+aliases:
+  - Tay-Sachs disease
+  - Fabry disease
+  - Krabbe disease
+  - Gaucher disease
+  - Niemann-Pick disease
+  - Hurler syndrome
+  - Hunter syndrome
 share: true
 ---
 

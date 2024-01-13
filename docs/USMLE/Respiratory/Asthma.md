@@ -51,22 +51,31 @@ Asthma is an inflammatory disease driven by [T-helper](https://next.amboss.com/
 
 ---
 # Treatment
-## Leukotriene receptor antagonists (LTRAs)
+## Antileukotrienes
+### Leukotriene receptor antagonists (LTRAs)
 - Montelukast, Zafirlukast
 - Uses
 	- Exercise-induced
 	- Prevent leukotrienes from binding to their receptors (CysLT1)→ ↓ bronchoconstriction and inflammation
 	- Asthma aspirin-induced asthma
 	- Long-term maintenance treatment (particularly in children)
-## Long-acting [[../Pharmacology/Muscarinic antagonists|muscarinic antagonists]] (LAMA)
-- Tiotropium bromide（噻托溴铵）
-- Long-term maintenance treatment
-## Leukotriene pathway modifiers
+### Leukotriene pathway modifiers
 - Zileuton
-- Inhibit 5-lipoxygenase → ↓ production of leukotrienes → ↓ bronchoconstriction and inflammation
+- <span style="background:rgba(240, 200, 0, 0.2)">Inhibit 5-lipoxygenase</span> → ↓ production of leukotrienes → ↓ bronchoconstriction and inflammation
 - Uses
 	- Exercise-induced asthma
 	- Aspirin-induced asthma
+
+>[!Mnemonic] 
+>Anti<font color="#ffc000">leu</font>kotrienes -> Monte<font color="#ffc000">lu</font>kast, zafir<font color="#ffc000">lu</font>kast, zi<font color="#ffc000">leu</font>ton
+## Long-acting [[../Pharmacology/Muscarinic antagonists|muscarinic antagonists]] (LAMA)
+- Tiotropium bromide（噻托溴铵）
+- Long-term maintenance treatment
+## Mast cell stabilizers (chromones)
+- <span style="background:rgba(240, 200, 0, 0.2)">Cromolyn</span>
+- Prevent release of inflammatory mediators from mast cells
+- Uses
+	- Preventive treatment prior to exercise
 ## Biologics
 ### Anti-IgE antibodies
 - Omalizumab [[../单抗记忆|单抗记忆]]

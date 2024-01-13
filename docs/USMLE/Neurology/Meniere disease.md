@@ -4,7 +4,7 @@ created: 2023-12-07 11:22
 modified: 2023-12-07 11:22
 aliases:
   - Meniere syndrome
-  - Idiopathic endolymphatic hydrops
+  - endolymphatic hydrops
 share: true
 ---
 
@@ -17,7 +17,7 @@ share: true
 
 ---
 # Pathophysiology
-All patients with Meniere disease have impaired endolymph resorption that results in endolymph hydrops.
+All patients with Meniere disease have <span style="background:rgba(240, 200, 0, 0.2)">impaired endolymph resorption that results in endolymph hydrops.</span>
 - Endolymph hydrops: accumulation of fluid in the endolymphatic sac.
 - Rupture theory: fluid accumulation in the endolymphatic sac → tear in the Reissner membrane  → increased perilymphatic potassium → depolarization of the afferent acoustic nerve fibers → symptom onset
 - Compression theory: impaired endolymph resorption → compression of the semicircular canals  → symptom onset
@@ -25,10 +25,10 @@ All patients with Meniere disease have impaired endolymph resorption that result
 ---
 # Clinical features
 Meniere disease characteristically manifests as<span style="background:rgba(240, 200, 0, 0.2)"> recurrent episodes of acute, unilateral symptoms that last from minutes to hours.</span>
-## Meniere triad
-- Peripheral vertigo
-- Tinnitus
-- Asymmetric fluctuating sensorineural hearing loss (SNHL
+## <span style="background:rgba(240, 200, 0, 0.2)">Meniere triad</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Peripheral vertigo</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Tinnitus</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Asymmetric fluctuating sensorineural [[./Hearing loss|hearing loss]]</span> (SNHL)
 
 ---
 # Diagnostics
@@ -36,6 +36,6 @@ Meniere disease characteristically manifests as<span style="background:rgba(240,
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---

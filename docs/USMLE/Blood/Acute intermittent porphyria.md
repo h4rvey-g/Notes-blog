@@ -18,7 +18,7 @@ share: true
 ## Triggers
 <span style="background:rgba(240, 200, 0, 0.2)">Most triggers increase the demand for hepatic heme</span>, thereby stimulating heme biosynthesis, which, in the setting of an AIP enzyme mutation, results in the accumulation of heme intermediates.
 - Medications (<span style="background:rgba(240, 200, 0, 0.2)">especially inducers of hepatic cytochrome P450 enzymes</span>, which are used in the biosynthesis of heme), including:
-	- Anticonvulsants (e.g., barbiturates, phenytoin)
+	- [[../Neurology/Anticonvulsant drugs|Anticonvulsants]] (e.g., barbiturates, phenytoin)
 	- Sulfonamides
 	- Anesthetics
 	- Hormone therapy

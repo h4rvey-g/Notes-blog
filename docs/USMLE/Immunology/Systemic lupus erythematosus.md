@@ -66,7 +66,7 @@ share: true
 		- Positive in < 30% of patients, but highly specific for SLE
 - Antiphospholipid antibodies: Screen all patients for [[../MSK/Antiphospholipid syndrome|antiphospholipid syndrome]].
 ## Skin biopsy
-- Lupus band test (LBT): a direct immunofluorescence staining technique used to detect immunoglobulin and complement component deposits along the dermoepidermal junction in affected and unaffected skin in patients with SLE![[../../assets/img/Pasted image 20231029092317.png|Pasted image 20231029092317.png]]
+- Lupus band test (LBT): a direct [[../Renal/Immunofluorescence|immunofluorescence]] staining technique used to detect immunoglobulin and complement component deposits along the dermoepidermal junction in affected and unaffected skin in patients with SLE![[../../assets/img/Pasted image 20231029092317.png|Pasted image 20231029092317.png]]
 
 ---
 # Treatment

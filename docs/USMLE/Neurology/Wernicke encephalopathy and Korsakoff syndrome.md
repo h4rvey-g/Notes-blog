@@ -17,7 +17,7 @@ share: true
 
 ---
 # Pathophysiology
-- [[../Biochemistry/Vitamin B1|Thiamine]] deficiency → decreased cerebral glucose metabolism and mitochondrial dysfunction → <span style="background:rgba(240, 200, 0, 0.2)">depleted ATP and increased free radicals → injury of neuronal elements</span> (e.g., myelin sheaths, blood-brain-barrier, decreased neurotransmitters, etc.) → impaired axonal conduction → symptoms of Wernicke encephalopathy and Korsakoff syndrome
+- [[../Biochemistry/Vitamin B1|Thiamine]] deficiency → decreased cerebral glucose metabolism and mitochondrial dysfunction → <span style="background:rgba(240, 200, 0, 0.2)">depleted ATP and increased free radicals → injury of neuronal elements</span> (e.g., myelin sheaths, blood-brain-barrier, decreased [[./Neurotransmitters|neurotransmitters]], etc.) → impaired axonal conduction → symptoms of Wernicke encephalopathy and Korsakoff syndrome
 - In patients with Korsakoff syndrome: long term [[../Biochemistry/Vitamin B1|thiamine]] deficiency → permanent damage to components of the limbic system (e.g., mammillary bodies, anterior thalamic nuclei) → atrophy of these components → memory loss, apathy, and disrupted emotional processing
 
 ---
@@ -27,7 +27,7 @@ share: true
 	1. <span style="background:rgba(240, 200, 0, 0.2)">Confusion (most common) </span>
 		- Disorientation, impaired vigilance, and cognitive deficits
 	2. Oculomotor dysfunction 
-		- Due to involvement of the CN III, CN IV, and CN VI nuclei
+		- Due to involvement of the [[./Oculomotor nerve palsy (III)|CN III]], CN IV, and CN VI nuclei
 		- <span style="background:rgba(240, 200, 0, 0.2)">Gaze-induced horizontal/vertical nystagmus (most common)</span>
 		- Diplopia 
 		- Conjugate gaze palsy
