@@ -23,7 +23,7 @@ Delayed hypersensitivity reaction (type IV HSR) to drug metabolites
 
 ---
 # Clinical features
-- Systemic symptoms [4][6]
+- Systemic symptom
 	- Fever, typically high (> 38.5°C/101.3°F) and spiking
 - Diffuse rash
 	- Typical manifestation: generalized morbilliform pruritic rash
