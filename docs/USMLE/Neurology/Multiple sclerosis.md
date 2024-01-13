@@ -22,12 +22,12 @@ The etiology of multiple sclerosis is unclear; it is believed to develop in gene
 ---
 # Pathophysiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Pathophysiology of MS is characterized by autoimmune inflammation, demyelination, and axonal degeneration.</span>![[../../assets/img/Pasted image 20231223165929.png|Pasted image 20231223165929.png]]
-- Most commonly accepted theory: Activation of autoreactive T-lymphocytes  → inflammatory processes → focal demyelination with partial preservation of axons (acute plaques) → loss of axons and atrophy of oligodendrocytes (chronic plaques) → gliosis  → inadequate remyelination
+- Most commonly accepted theory: Activation of autoreactive T-lymphocytes  → inflammatory processes → <span style="background:rgba(240, 200, 0, 0.2)">focal demyelination</span> with partial preservation of axons (acute plaques) → <span style="background:rgba(240, 200, 0, 0.2)">loss of axons and atrophy of oligodendrocytes (chronic plaques) → gliosis</span>  → inadequate remyelination
 - B-[[../Blood/Lymphocyte|lymphocyte]] dysfunction: The following suggests that B-lymphocytes play a role in the pathogenesis of MS, although the exact mechanism of their involvement is unclear.
 	- Anti-CD20 agents (ocrelizumab, ofatumumab, rituximab) are effective in preventing exacerbations. 
-	- Presence of tertiary lymphoid organs in the meninges of individuals with secondary progressive MS  [14]
+	- Presence of tertiary lymphoid organs in the meninges of individuals with secondary progressive MS
 	- Intrathecal synthesis of IgG (oligoclonal bands; see “Diagnostics” section for more information)
-- Progressive phenotypes (forms) of MS are characterized by [15]
+- Progressive phenotypes (forms) of MS are characterized by
 	- Chronic inflammation that occurs with an intact blood-brain barrier and is driven by immune cells compartmentalized in the leptomeninges and perivascular spaces
 	- Accelerated compared to relapsing-remitting phenotype brain atrophy
 
@@ -46,8 +46,8 @@ The etiology of multiple sclerosis is unclear; it is believed to develop in gene
 	- More frequently bilateral than unilateral
 - Demyelination of spinal cord tracts
 	- Lhermitte sign: a shooting electric sensation that travels down the spine upon flexion of the neck 
-	- Pyramidal tract lesion: upper motor neuron weakness, spasticity, hyperreflexia, positive Babinski sign, impaired [[./Gait|gait]]
-	- Dorsal spinal column lesion: loss of vibration and fine-touch sensation, numbness, paresthesias, sensory ataxia usually involving the trunk or one or more limbs 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Pyramidal tract lesion: upper motor neuron weakness, spasticity, hyperreflexia, positive Babinski sign, impaired [[./Gait|gait]]</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Dorsal spinal column lesion</span>: loss of vibration and fine-touch sensation, numbness, paresthesias, [[./Gait|sensory ataxia]] usually involving the trunk or one or more limbs 
 	- Neuropathic pain
 	- Absent abdominal reflex
 - Cerebellar involvement: poor postural control, imbalance, [[./Gait|gait]] dysfunction, Charcot neurological triad of scanning speech, nystagmus, and intention tremors 
@@ -57,9 +57,10 @@ The etiology of multiple sclerosis is unclear; it is believed to develop in gene
 - Cranial nerve palsies: diplopia, facial palsy, trigeminal neuralgia (can be bilateral)
 	- Trigeminal neuralgia (TN) typically manifests unilaterally.
 	- Bilateral TN should raise concern for MS, especially in younger patients. 
-- Autonomic dysfunction: bowel and bladder neurogenic disorders (e.g., [[../Renal/Urinary incontinence|urinary incontinence]]), impaired sexual function 
+- Autonomic dysfunction: bowel and <span style="background:rgba(240, 200, 0, 0.2)">bladder neurogenic disorders</span> (e.g., [[../Renal/Urinary incontinence|urinary incontinence]]), impaired sexual function 
 - Changes in mental state: depression, emotional changes, memory deficits, impaired concentration 
-- Uhthoff phenomenon: a reversible exacerbation of neurological symptoms following an increase in body temperature, e.g., physical exertion, a warm bath, or fever
+- <span style="background:rgba(240, 200, 0, 0.2)">Uhthoff phenomenon: a reversible exacerbation of neurological symptoms following an increase in body temperature</span>, e.g., physical exertion, a <span style="background:rgba(240, 200, 0, 0.2)">warm bath</span>, or fever
+	- Impulse conduction is dependent on temperature. <span style="background:rgba(240, 200, 0, 0.2)">An increase in body temperature presumably worsens impulse conduction in demyelinated nerves.</span>
 
 >[!tip] 
 >MS is a chronic condition that typically manifests in a relapsing-remitting form characterized by episodic CNS dysfunction (exacerbations) with at least partial recovery between episodes.
@@ -70,7 +71,16 @@ The etiology of multiple sclerosis is unclear; it is believed to develop in gene
 - The McDonald Criteria for both DIT and DIS must both be met to confirm a diagnosis of MS: 
 	- Dissemination in time (DIT): the appearance of new CNS lesions over time that can be confirmed clinically, with imaging, or with CSF analysis
 	- Dissemination in space (DIS): the presence of lesions in different regions of the CNS that can be confirmed clinically or in MRI
+## Imaging
 - MRI:<span style="background:rgba(240, 200, 0, 0.2)"> Multiple sclerotic plaques (most commonly found in the periventricular white matter)</span> with finger-like radial extensions (Dawson fingers) related to demyelination and reactive gliosis![[../../assets/img/Pasted image 20231231095808.png|Pasted image 20231231095808.png]]![[../../assets/img/Pasted image 20231231095812.png|Pasted image 20231231095812.png]]There are extensive demyelinating lesions (plaques) bilaterally, appearing as hyperintensities in the periventricular white matter (green overlay). The finger-like radial extensions of these lesions are called “Dawson fingers.”
+## Additional studies
+- CSF examination
+	- <span style="background:rgba(240, 200, 0, 0.2)">Oligoclonal bands</span>
+		- Oligoclonal bands manifest <span style="background:rgba(240, 200, 0, 0.2)">due to increased production of multiple nonspecific IgG sub-fractions in the CSF, which are caused by intrathecal inflammation.</span>
+	- Other common findings: moderate <span style="background:rgba(240, 200, 0, 0.2)">lymphocytic pleocytosis, increased myelin basic protein</span>
+
+>[!tip] 
+>The presence of multiple oligoclonal bands in CSF and their absence in the blood is highly suggestive of MS.
 
 ---
 # Treatment
