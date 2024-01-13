@@ -4,6 +4,8 @@ created: 2023-11-19 11:09
 modified: 2023-11-19 11:09
 aliases:
   - cobalamin
+  - Vitamin B12 deficiency
+  - subacute combined degeneration
 share: true
 ---
 
@@ -60,7 +62,7 @@ share: true
 		- It manifests with the following symptoms:
 			- Paresthesia, impaired proprioception, loss of vibratory sensation, tactile sensation, and position discrimination due to <span style="background:rgba(240, 200, 0, 0.2)">demyelination of the dorsal columns</span>
 			- Spastic paresis due to demyelination of the lateral corticospinal tracts (axons of upper motor neurons)
-			- [[../Neurology/Gait|Gait]] abnormalities (spinal ataxia) resulting from the damage of spinocerebellar tracts and dorsal columns
+			- [[../Neurology/Gait|Gait]] abnormalities (spinal ataxia) resulting from the damage of spinocerebellar tracts and dorsal columns, [[../Neurology/Romberg test|Romberg test]] (+)
 		- Long-term deficiency can lead to irreversible neurological damage.
 	- <span style="background:rgba(240, 200, 0, 0.2)">Neuropsychiatric disease</span> (e.g.,<span style="background:rgba(240, 200, 0, 0.2)"> reversible dementia</span>, depression, paranoia)
 	- Worsening vision 
