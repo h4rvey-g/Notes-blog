@@ -8,7 +8,7 @@ share: true
 ---
 
 # Epidemiology
-
+- Commonly located within the internal acoustic canal and can extend into the <span style="background:rgba(240, 200, 0, 0.2)">cerebellopontine angle</span> (most common tumor of the cerebellopontine angle)
 
 ---
 # Etiology
