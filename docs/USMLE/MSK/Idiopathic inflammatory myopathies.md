@@ -19,7 +19,7 @@ share: true
 ---
 # Etiology
 - Polymyositis (PM): <span style="background:rgba(240, 200, 0, 0.2)">cell-mediated cytotoxicity</span> against unidentified skeletal muscle antigens, chiefly affecting the endomysium
-- Dermatomyositis (DM): idiopathic or paraneoplastic <span style="background:rgba(240, 200, 0, 0.2)">antibody-mediated </span>vasculopathy, associated with malignancies (non-Hodgkin lymphoma; lung, stomach, colorectal, or ovarian cancer )
+- Dermatomyositis (DM): idiopathic or paraneoplastic <span style="background:rgba(240, 200, 0, 0.2)">antibody-mediated </span>vasculopathy, associated with malignancies ([[../Blood/Non-Hodgkin lymphomas|non-Hodgkin lymphoma]]; lung, stomach, colorectal, or ovarian cancer )
 
 ---
 # Pathophysiology
