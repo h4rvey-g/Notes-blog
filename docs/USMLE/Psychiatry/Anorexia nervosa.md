@@ -36,7 +36,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Stress hormones: ↑ cortisol, ↑ adrenaline</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Thyroid: [[../Endocrine/Euthyroid sick syndrome|euthyroid sick syndrome]]</span>
 	- Secondary amenorrhea (severe weight loss suppresses the hypothalamic-pituitary-gonadal axis → hypogonadotropic hypogonadism)
-	- <span style="background:rgba(240, 200, 0, 0.2)">Impaired glucose tolerance, hypoglycemia</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Impaired glucose tolerance, [[../Endocrine/Hypoglycemia|hypoglycemia]]</span>
 - Musculoskeletal	
 	- Muscle weakness
 	- Secondary [[../MSK/Osteoporosis|osteoporosis]]
