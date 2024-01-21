@@ -30,7 +30,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Aggregates of misfolded α-synuclein and other proteins</span>, such as ubiquitin and neurofilament protein within the neural cell bodies
 	- Appear histologically as <span style="background:rgba(240, 200, 0, 0.2)">intracellular hyaline eosinophilic globules</span>
 	- May be found in brainstem, substantia nigra, and cortex
-	- Also seen in Lewy body dementia
+	- Also seen in Lewy body [[./Dementia|dementia]]
 
 ![[../../assets/img/Pasted image 20231230173438.png|Pasted image 20231230173438.png]]![[../../assets/img/Pasted image 20231230173444.png|Pasted image 20231230173444.png]]
 - Image A: An eosinophilic cytoplasmic inclusion (Lewy body; blue overlay) is visible inside a neuron. There is a large accumulation of neuromelanin (brown granules; green overlay).
