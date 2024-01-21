@@ -13,14 +13,14 @@ share: true
 ---
 # Etiology
 ## Common causes of PUD
-The two major contributing factors to the development of PUD are gastrointestinal infection with H. pylori and nonsteroidal anti-inflammatory drug (NSAID) use.
+The <span style="background:rgba(240, 200, 0, 0.2)">two major contributing factors</span> to the development of PUD are gastrointestinal infection with H. pylori and nonsteroidal anti-inflammatory drug (NSAID) use.
 - <span style="background:rgba(240, 200, 0, 0.2)">Helicobacter pylori infection</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Associated with 40–70% of duodenal ulcers and 25–50% of gastric ulcers</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Chronic NSAID use</span>
 >[!tip] 
 >Unlike aspirin and other NSAIDS, acetaminophen is believed to be safe for people with ulcers. It is inactivated peripherally. Since it doesn't thin the blood, it doesn't increase the risk of bleeding either.
 ## Associated risk factors
-- Shared risk factors for PUD, GERD and gastritis (i.e., smoking, heavy alcohol use, glucocorticoids, caffeine)
+- Shared risk factors for PUD, [[./Gastroesophageal reflux disease|GERD]] and gastritis (i.e., smoking, heavy alcohol use, glucocorticoids, caffeine)
 ## Rare causes of PUD
 - Acid hypersecretory states
 	- [[./Gastrinoma|Zollinger-Ellison syndrome]]
@@ -31,12 +31,12 @@ The two major contributing factors to the development of PUD are gastrointestina
 
 ---
 # Clinical features
-![[../../assets/img/Pasted image 20231017172222.png|Pasted image 20231017172222.png]]
+![[../../assets/img/Pasted image 20240120095442.png|Pasted image 20240120095442.png]]
 
 ---
 # Diagnostics
 ### Indications for biopsy
-- Gastric ulcers [20]
+- Gastric ulcers
 	- Biopsies are recommended in most cases. 
 	- Multiple biopsies are recommended.
 	- <span style="background:rgba(240, 200, 0, 0.2)">From the edge and base of the ulcer</span> (essential to rule out malignancy, which is not uncommon in gastric ulcers)
