@@ -17,7 +17,9 @@ a neurodegenerative disease with upper and lower motor neuron dysfunction.
 
 ---
 # Pathophysiology
-Classically affects the entire motor neuron system at two or more levels (both upper and lower motor neuron degeneration).
+- Classically affects the entire motor neuron system at two or more levels (both upper and lower motor neuron degeneration).
+	- Upper motor neurons in the precentral gyrus and, frequently, prefrontal cortex
+	- Lower motor neurons in the anterior horn of the spinal cord and brainstem
 
 ---
 # Clinical features
@@ -33,7 +35,7 @@ Classically affects the entire motor neuron system at two or more levels (both u
 - Weight loss
 - Split hand sign: a wasting pattern in which the muscles of the thenar eminence atrophy due to degeneration of the lateral portion of the anterior horn of the spinal cord
 ## Late symptoms
-- Cognitive impairment (approx. 15% of ALS patients meet the criteria for frontotemporal dementia)
+- Cognitive impairment (approx. 15% of ALS patients meet the criteria for [[./Frontotemporal dementia|frontotemporal dementia]])
 - Autonomic symptoms (e.g., constipation, bladder dysfunction) may develop; the mechanism of development is unclear. [1]
 - Life-threatening symptoms
 	- Respiratory failure due to paralysis of respiratory muscles
@@ -51,9 +53,9 @@ Classically affects the entire motor neuron system at two or more levels (both u
 
 ---
 # Treatment
-- Riluzole
-	- A sodium-channel blocker that inhibits glutamate release in the CNS and decreases glutamate excitotoxicity
-	- Prolongs survival and slows functional decline in patients with ALS (on average, for 3 months) [1]
+- <span style="background:rgba(240, 200, 0, 0.2)">Riluzole</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">A sodium-channel blocker that inhibits glutamate release in the CNS and decreases glutamate excitotoxicity</span>
+	- Prolongs survival and slows functional decline in patients with ALS (on average, for 3 months)
 - Edaravone
 	- A free radical scavenger 
 	- Has been shown to slow functional decline in some patients with ALS
