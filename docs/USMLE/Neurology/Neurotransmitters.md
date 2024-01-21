@@ -37,6 +37,7 @@ share: true
 - Serotonin
 	- <span style="background:rgba(240, 200, 0, 0.2)">Satiety, Tranquilty, Peace</span>
 	- Increased levels
+		- [[./Serotonin syndrome|Serotonin syndrome]]
 	- Decreased levels
 		- Anxiety
 		- Depression

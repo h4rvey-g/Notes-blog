@@ -35,12 +35,12 @@ share: true
 	- Emergency treatment in severe ACTH-dependent hypercortisolism that cannot be controlled pharmacologically
 	- Symptomatic treatment for metastatic or occult ectopic tumors
 - Complication: <span style="background:rgba(240, 200, 0, 0.2)">Nelson syndrome (post adrenalectomy syndrome)</span>
-	- Etiology: <span style="background:rgba(240, 200, 0, 0.2)">bilateral adrenalectomy in patients with a previously undetected pituitary adenoma </span>
-	- Pathophysiology: bilateral adrenalectomy → no endogenous cortisol production → no negative feedback from cortisol on the hypothalamus → ↑ CRH production → <span style="background:rgba(240, 200, 0, 0.2)">uncontrolled enlargement of preexisting but undetected ACTH-secreting pituitary adenoma → ↑ secretion of ACTH and MSH</span> → manifestation of symptoms due to pituitary adenoma and ↑ MSH
+	- Etiology: <span style="background:rgba(240, 200, 0, 0.2)">bilateral adrenalectomy in patients with a previously undetected [[./Pituitary adenoma|pituitary adenoma]] </span>
+	- Pathophysiology: bilateral adrenalectomy → no endogenous cortisol production → no negative feedback from cortisol on the [[../Neurology/Hypothalamus|hypothalamus]] → ↑ CRH production → <span style="background:rgba(240, 200, 0, 0.2)">uncontrolled enlargement of preexisting but undetected ACTH-secreting [[./Pituitary adenoma|pituitary adenoma]] → ↑ secretion of ACTH and MSH</span> → manifestation of symptoms due to [[./Pituitary adenoma|pituitary adenoma]] and ↑ MSH
 	- Clinical features: <span style="background:rgba(240, 200, 0, 0.2)">headache, bitemporal hemianopia (mass effect), cutaneous hyperpigmentation</span>
 	- Diagnostics
 		- <span style="background:rgba(240, 200, 0, 0.2)">High levels of β-MSH and ACTH</span>
-		- <span style="background:rgba(240, 200, 0, 0.2)">Pituitary adenoma on MRI confirms the diagnosis.</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[./Pituitary adenoma|Pituitary adenoma]] on MRI confirms the diagnosis.</span>
 	- Treatment: <span style="background:rgba(240, 200, 0, 0.2)">surgery (e.g., transsphenoidal resection) and/or pituitary radiation therapy (e.g., if the tumor cannot be fully resected)</span>
 
 ---

@@ -16,7 +16,7 @@ A genetic disorder characterized by impaired osteogenesis that results in skelet
 
 ---
 # Pathophysiology
-<span style="background:rgba(240, 200, 0, 0.2)">↓ synthesis of normal type I collagen</span>
+<span style="background:rgba(240, 200, 0, 0.2)">↓ synthesis of normal type I [[../Biochemistry/Collagen|collagen]]</span>
 
 ---
 # Clinical features
@@ -26,7 +26,7 @@ A genetic disorder characterized by impaired osteogenesis that results in skelet
 - Bowing of bones and saber shins ![[../../assets/img/Pasted image 20230929144728.png|Pasted image 20230929144728.png]]
 - Fractures during childbirth  and recurrently from minimal trauma thereafter
 - <span style="background:rgba(240, 200, 0, 0.2)">Blue sclerae</span> (choroidal veins show through the thin, translucent sclera) ![[../../assets/img/Pasted image 20230929144322.png|Pasted image 20230929144322.png]]
-- <span style="background:rgba(240, 200, 0, 0.2)">Progressive hearing loss</span> due to deformation, fracture, and/or atrophy of the ossicles
+- <span style="background:rgba(240, 200, 0, 0.2)">Progressive [[../Neurology/Hearing loss|hearing loss]]</span> due to deformation, fracture, and/or atrophy of the ossicles
 - Brittle, opalescent teeth
 ## Osteogenesis imperfecta type II
 - Most severe form; usually fatal within the first year of life

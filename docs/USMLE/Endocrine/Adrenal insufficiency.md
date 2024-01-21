@@ -19,14 +19,14 @@ share: true
 - Infectious adrenalitis
 	- Tuberculosis: most common cause worldwide, but rare in the US
 	- CMV disease in immunosuppressed states (especially AIDS)
-	- Histoplasmosis
+	- [[../Infective disease/Histoplasmosis|Histoplasmosis]]
 - Adrenal hemorrhage 
-	- Sepsis: especially meningococcal sepsis (endotoxic shock) → hemorrhagic necrosis (Waterhouse-Friderichsen syndrome)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Sepsis: especially meningococcal sepsis (endotoxic shock) → hemorrhagic necrosis (Waterhouse-Friderichsen syndrome)</span>
 	- Disseminated intravascular coagulation (DIC)
 - Infiltration of the adrenal glands
 	- Tumors (adrenocortical tumors, lymphomas, metastatic carcinoma)
-	- Amyloidosis
-	- Hemochromatosis
+	- [[../Pathology/Amyloidosis|Amyloidosis]]
+	- [[../Blood/Hemochromatosis|Hemochromatosis]]
 - Adrenalectomy
 - Impaired activity of enzymes that are responsible for cortisol synthesis
 	- Cortisol synthesis inhibitors (e.g., rifampin, fluconazole, phenytoin, ketoconazole): drug-induced adrenal insufficiency
@@ -47,12 +47,12 @@ Tertiary adrenal insufficiency is caused by conditions that <span style="backgro
 - Fatigue, lethargy, depression
 - Muscle aches
 - Weakness
-- Gastrointestinal complaints (e.g., nausea, vomiting, diarrhea)
+- Gastrointestinal complaints (e.g., nausea, vomiting, [[../GI/Diarrhea|diarrhea]])
 - Sugar cravings
 - (Orthostatic) hypotension
 	- Glucocorticoids play an important role in catecholamine‑induced vasoconstriction and myocardial contractility.
 ### Lab findings
-- <span style="background:rgba(240, 200, 0, 0.2)">Hypoglycemia </span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[./Hypoglycemia|Hypoglycemia]] </span>
 	- Glucocorticoids inhibit peripheral glucose utilization and increase [[../Biochemistry/Gluconeogenesis|gluconeogenesis]].
 - <span style="background:rgba(240, 200, 0, 0.2)">Hyponatremia</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Glucocorticoids inhibit ADH secretion and thereby prevent excessive water retention. With adrenal insufficiency, ADH secretion is disinhibited causing increased reabsorption of free water with subsequent dilution hyponatremia.</span>

@@ -17,11 +17,29 @@ share: true
 
 ---
 # Pathophysiology
-
+## Autonomous aldosterone secretion and hypertension
+- Physiological aldosterone secretion is regulated by the renin-angiotensin-aldosterone system (RAAS) and occurs in response to the detection of low blood pressure in the kidneys (see “Renin-angiotensin-aldosterone system”).
+- ↑ Aldosterone → ↑ open Na+ channels in principal cells of luminal membrane at the cortical collecting ducts of the kidneys → ↑ Na+ reabsorption and retention → water retention → hypertension
+- <span style="background:rgba(240, 200, 0, 0.2)">Aldosterone escape</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Definition: Evasion of the Na+-retaining effects of inappropriately elevated aldosterone levels in conditions such as primary hyperaldosteronism or [[../Cardiology/Congestive heart failure|congestive heart failure]]</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Mechanism: sodium and water retention → volume expansion → secretion of atrial natriuretic peptide (ANP) and pressure natriuresis → compensatory diuresis → “escape” from edema formation and hypernatremia</span>
+## Hypokalemia and metabolic alkalosis
+- ↑ Na+ reabsorption → electronegative lumen → electrical gradient through open K+ channels → ↑ K+ secretion → <span style="background:rgba(240, 200, 0, 0.2)">hypokalemia</span>
+- Hypokalemia → metabolic alkalosis via two mechanisms (both of which decrease extracellular H+, thereby <span style="background:rgba(240, 200, 0, 0.2)">increasing extracellular pH</span>):
+	- <span style="background:rgba(240, 200, 0, 0.2)">Efflux of K+ from intracellular to extracellular space in exchange for H+</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ H+ secretion in the kidney in order to enable ↑ K+ reabsorption</span>
+- [[../Renal/Diabetes insipidus|Diabetes insipidus]]: hypokalemia → desensitization of renal tubules to antidiuretic hormone (ADH) → polyuria and polydipsia
 
 ---
 # Clinical features
-
+- Hypertension
+- <span style="background:rgba(240, 200, 0, 0.2)">Features of hypokalemia </span>
+	- Fatigue
+	- <span style="background:rgba(240, 200, 0, 0.2)">Muscle weakness, cramping</span>
+	- [[../Neurology/Headaches|Headaches]]
+- Absence of significant edema (due to aldosterone escape)
+>[!tip] 
+>Primary hyperaldosteronism is characterized by hypokalemia and drug-resistant hypertension.
 
 ---
 # Diagnostics
@@ -46,7 +64,7 @@ share: true
 	- Bilateral adrenalectomy has a low success rate for curing hypertension and also leaves the patient dependent on lifelong glucocorticoid replacement; for this reason, medical management is recommended for bilateral disease.
 ## Medical management
 - First-line: aldosterone receptor antagonists
-	- Spironolactone (preferred) 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Spironolactone (preferred)</span>
 	- Eplerenone
 		- In contrast to spironolactone, <span style="background:rgba(240, 200, 0, 0.2)">eplerenone does not block androgen or progesterone receptors, which decreases certain side effects</span> (e.g., gynecomastia and decreased libido); <span style="background:rgba(240, 200, 0, 0.2)">however, eplerenone is only half as potent</span> at blocking the mineralocorticoid receptor and is less effective at lowering blood pressure.
 

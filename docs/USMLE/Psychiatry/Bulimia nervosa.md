@@ -39,6 +39,6 @@ share: true
 	- Can reduce binge eating episodes and purging
 
 >[!warning] 
->The antidepressant <span style="background:rgba(240, 200, 0, 0.2)">bupropion</span> lowers the seizure threshold and is contraindicated in individuals with a history of anorexia nervosa, bulimia nervosa, or purging behaviors.
+>The antidepressant <span style="background:rgba(240, 200, 0, 0.2)">bupropion</span> lowers the seizure threshold and is contraindicated in individuals with a history of [[./Anorexia nervosa|anorexia nervosa]], bulimia nervosa, or purging behaviors.
 
 ---

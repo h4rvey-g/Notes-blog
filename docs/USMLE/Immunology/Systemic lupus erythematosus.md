@@ -53,6 +53,7 @@ share: true
 ---
 # Diagnostics
 ## Laboratory studies
+![[../../assets/img/Pasted image 20240116151535.png|Pasted image 20240116151535.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Antinuclear antibodies (ANAs)</span>
 	- Positive titers of ≥ 1:80 have <span style="background:rgba(240, 200, 0, 0.2)">∼ 98% sensitivity for SLE</span>
 - Antigen-specific ANAs: Request only if ANAs are positive.

@@ -39,12 +39,12 @@ CJD is caused by misfolded proteins (prions, PrP<sup>Sc</sup>) that are either p
 		- Also associated with metabolic abnormalities found in liver and renal failure
 	- Ataxia
 - Neuropsychiatric symptoms
-	- <span style="background:rgba(240, 200, 0, 0.2)">Rapidly progressing dementia (weeks to months)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Rapidly progressing [[./Dementia|dementia]] (weeks to months)</span>
 	- Personality changes
 	- Akinetic mutism
 
 >[!tip] 
->Rapidly progressive dementia and myoclonic jerks are the hallmarks of Creutzfeldt-Jakob disease.
+>Rapidly progressive [[./Dementia|dementia]] and myoclonic jerks are the hallmarks of Creutzfeldt-Jakob disease.
 
 ---
 # Diagnostics

@@ -10,8 +10,21 @@ aliases:
 share: true
 ---
 
-# Epidemiology
-
+# Function
+## Motor (somatic)
+- Eyelid opening (indirect): levator palpebrae superioris muscle 
+- Eye movement 
+	- Superior rectus muscle: elevation, intorsion, and adduction
+	- Inferior rectus muscle: depression and extorsion
+	- Medial rectus muscle: adduction
+	- Inferior oblique muscle: extorsion, elevation, and abduction
+## Motor (parasympathetic)
+- Pupillary constriction
+	- Pupillary sphincter (Edinger-Westphal nucleus and muscarinic receptors)
+	- Efferent limb of the [[./Pupillary light reflex|pupillary light reflex]]
+- Accommodation: ciliary muscle
+>[!tip] 
+><span style="background:rgba(240, 200, 0, 0.2)">Parasympathetic fibers of CN III are located superficially and motor fibers are located centrally. Parasympathetic fibers are more susceptible to compressive lesions (e.g., uncal herniation, aneurysm of the posterior communicating artery). Motor fibers are more susceptible to ischemia (e.g., [[../MSK/Vasculitides|vasculitis]], [[../Endocrine/Diabetes mellitus|diabetes]], atherosclerosis).</span>
 
 ---
 # Etiology
@@ -19,12 +32,17 @@ share: true
 The basilar segment is the only region where the oculomotor nerve is not accompanied by other cranial nerves.
 ### Cause
 - Aneurysm of the posterior communicating artery
-### Clinical features
-- Headache
-- Paralytic squint
-- Pupillary involvement: nonreactive, dilated pupil (blown pupil)
->[!tip] 
-><span style="background:rgba(240, 200, 0, 0.2)">Parasympathetic fibers of CN III are located superficially and motor fibers are located centrally. Parasympathetic fibers are more susceptible to compressive lesions (e.g., uncal herniation, aneurysm of the posterior communicating artery). Motor fibers are more susceptible to ischemia (e.g., [[../MSK/Vasculitides|vasculitis]], [[../Endocrine/Diabetes mellitus|diabetes]], atherosclerosis).</span>
+	- Clinical features
+		- Headache
+		- Paralytic squint
+		- Pupillary involvement: nonreactive, dilated pupil (blown pupil)
+- Transtentorial herniation (uncal herniation)
+	- Clinical features
+		- Abducens nerve palsy 
+			- CN VI is the first cranial nerve to be affected by an elevated ICP.
+		- Features of elevated intracranial pressure (e.g., coma, blown pupil)
+		- Hutchinson pupil 
+
 
 ---
 # Pathophysiology

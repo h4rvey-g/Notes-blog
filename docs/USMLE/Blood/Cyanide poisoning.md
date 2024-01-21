@@ -18,7 +18,7 @@ share: true
 |  | Cyanide | CO |
 |---|---|---|
 | Clinical features | - Skin may appear flushed (“cherry red”)<br>- Breath may have bitter almond odor |  |
-| Labs |  | - Elevated carboxyhemoglobin on co-oximetry.<br><br>- Bilateral globus pallidus lesions on MRI |
+| Labs |  | - Elevated carboxyhemoglobin on co-oximetry.<br>- Bilateral globus pallidus lesions on MRI |
 | Oxygen-hemoglobin curve |  | Left shift |
 # Management 
 - Patient decontamination (e.g., remove clothes, wash skin)

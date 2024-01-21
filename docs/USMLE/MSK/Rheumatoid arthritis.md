@@ -2,7 +2,7 @@
 author: Harvey Guo
 created: 2023-10-14 08:56
 modified: 2023-10-14 08:56
-aliases: Untitled
+aliases: []
 share: true
 ---
 
@@ -31,7 +31,7 @@ share: true
 
 ---
 # Diagnostics
-
+![[../../assets/img/Pasted image 20240116151535.png|Pasted image 20240116151535.png]]
 
 ---
 # Treatment
