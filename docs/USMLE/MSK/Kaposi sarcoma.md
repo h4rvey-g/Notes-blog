@@ -23,7 +23,7 @@ share: true
 
 ---
 # Clinical features
-Patients typically present with multiple cutaneous or visceral elevated tumors with rapid growth. [2][3]
+Patients typically present with multiple cutaneous or visceral elevated tumors with rapid growth.
 - Most commonly affects the skin but may also involve the lymph nodes, mucosa, and viscera
 - Can occur at any CD4 count (typically < 500/mm3)
 - Initial stage: 
