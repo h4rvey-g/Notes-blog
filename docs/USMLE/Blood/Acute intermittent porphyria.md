@@ -20,11 +20,11 @@ share: true
 - Medications (<span style="background:rgba(240, 200, 0, 0.2)">especially inducers of hepatic cytochrome P450 enzymes</span>, which are used in the biosynthesis of heme), including:
 	- [[../Neurology/Anticonvulsant drugs|Anticonvulsants]] (e.g., barbiturates, phenytoin)
 	- Sulfonamides
-	- Anesthetics
+	- [[../Neurology/Inhalational anesthetics|Anesthetics]]
 	- Hormone therapy
-- Alcohol
+- <span style="background:rgba(240, 200, 0, 0.2)">Alcohol</span>
 - Smoking
-- Fasting
+- [[../Biochemistry/Metabolic fuel use|Fasting]]
 
 ---
 # Clinical features
@@ -36,11 +36,11 @@ The clinical presentation of AIP is variable and symptoms are often nonspecific.
 	- Autonomic dysfunction: tachycardia, hypertension 
 	- Psychiatric abnormalities: hallucinations, disorientation, anxiety, insomnia 
 	- Red-purple urine
-		- <span style="background:rgba(240, 200, 0, 0.2)">Due to the accumulation of porphyrins and/or bilirubin in urine.</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Due to the accumulation of porphyrins and/or bilirubin in urine.</span>![[../../assets/img/Pasted image 20240120164805.png|Pasted image 20240120164805.png]]
 		- Porphyria is from the Greek “porphyros,” meaning purple. Urine may also show discoloration after prolonged exposure to sunlight.
 
 >[!Mnemonic] 
->The 5 P's of acute intermittent porphyria: <font color="#ffc000">P</font>ainful abdomen, <font color="#ffc000">P</font>olyneuropathy, <font color="#ffc000">P</font>sychologic disturbances, <font color="#ffc000">P</font>ort wine-colored pee, <font color="#ffc000">P</font>recipitated by triggers like drugs
+>The 5 P's of acute intermittent porphyria: <font color="#ffc000">P</font>ainful abdomen, <font color="#ffc000">P</font>olyneuropathy, <font color="#ffc000">P</font>sychologic disturbances, <font color="#ffc000">P</font>ort wine-colored pee, <font color="#ffc000">P</font>recipitated by triggers like drugs or alcohol
 
 >[!tip] 
 ><font color="#ffc000"></font>The skin is not involved in acute intermittent porphyria.
@@ -51,6 +51,9 @@ The clinical presentation of AIP is variable and symptoms are often nonspecific.
 
 ---
 # Treatment
-
+- <span style="background:rgba(240, 200, 0, 0.2)">Hemin therapy</span>
+	- Start as soon as possible
+	- Mechanism: <span style="background:rgba(240, 200, 0, 0.2)">Hemin is an iron-containing porphyrin that decreases the activity of δ-aminolevulinate synthase, thereby decreasing heme biosynthesis and the accumulation of intermediates.</span>
+- Glucose loading: consider only for mild attacks or as temporizing measure
 
 ---
