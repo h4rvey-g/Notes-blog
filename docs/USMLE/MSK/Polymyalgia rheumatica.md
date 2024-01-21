@@ -7,10 +7,10 @@ share: true
 ---
 
 # Epidemiology
-- Sex: ♀ > ♂ (3:1) [1]
-- Age of onset: >70 years (rarely seen in patients < 50 years) [2]
+- Sex: ♀ > ♂ (3:1) 
+- Age of onset: >70 years (rarely seen in patients < 50 years) 
 >[!tip] 
->Women of advanced age are particularly prone to the disease.
+><span style="background:rgba(240, 200, 0, 0.2)">Women of advanced age are particularly prone to the disease.</span>
 
 ---
 # Etiology
@@ -26,8 +26,8 @@ Association with giant cell arteritis (GCA): Approx. 10% of individuals with pol
 	- Constitutional symptoms: fever, weight loss, night sweats
 	- Fatigue and malaise
 - Musculoskeletal symptoms: primarily affects shoulders, neck, and pelvic girdle
-	- New onset, symmetric pain that is worse at night
-	- Morning stiffness (> 45 min)
+	- <span style="background:rgba(240, 200, 0, 0.2)">New onset, symmetric pain that is worse at night</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Morning stiffness (> 45 min)</span>
 	- Muscular atrophy and weakness: not directly caused by PMR but resulting from reduced activity due to pain and stiffness
 
 ---
@@ -39,6 +39,6 @@ Association with giant cell arteritis (GCA): Approx. 10% of individuals with pol
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
