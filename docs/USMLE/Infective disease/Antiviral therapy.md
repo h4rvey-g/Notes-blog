@@ -6,7 +6,9 @@ aliases: []
 share: true
 ---
 
-
+Left part is for HIV, right part is for other virus.![[../../assets/img/Pasted image 20240114163028.png|Pasted image 20240114163028.png]]
+>[!tip] 
+>See [[./HIV therapy|HIV therapy]] for NRTIs and NNRTIs...
 # Oseltamivir, zanamivir
 - Inhibit influenza neuraminidase → ↓ release of progeny virus.![[../../assets/img/Pasted image 20231222091013.png|Pasted image 20231222091013.png]]
 # Acyclovir, famciclovir, valacyclovir
