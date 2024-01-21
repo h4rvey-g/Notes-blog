@@ -2,7 +2,10 @@
 author: Harvey Guo
 created: 2023-12-28 17:17
 modified: 2023-12-28 17:17
-aliases: []
+aliases:
+  - Sturge-Weber syndrome
+  - Tuberous sclerosis
+  - neurofibromatosis
 share: true
 ---
 
