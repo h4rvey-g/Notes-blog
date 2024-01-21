@@ -54,3 +54,7 @@ This will help you remember the normal range for glucose is 70-100 [[./MSK/Myast
 ---
 # Coagulation studies
 ![[../assets/img/Pasted image 20231115161844.png|Pasted image 20231115161844.png]]
+
+---
+# Cerebrospinal Fluid (CSF) values
+![[../assets/img/Pasted image 20240114103543.png|Pasted image 20240114103543.png]]
