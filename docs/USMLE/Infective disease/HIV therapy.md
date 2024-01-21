@@ -7,7 +7,8 @@ share: true
 ---
 
 
-# NRTIs
+Left part is for HIV, right part is for other virus.![[../../assets/img/Pasted image 20240114163028.png|Pasted image 20240114163028.png]]
+# NRTIs (Nucleoside reverse transcriptase inhibitors)
 ![[../../assets/img/Pasted image 20231210153709.png|Pasted image 20231210153709.png]]
 >[!Mnemonic] 
 >Zi<font color="#ffc000">dov</font>udine -> get <font color="#ffc000">rid of</font> [[../Blood/Hemoglobin variants|hemoglobin]] -> [[../Blood/Anemia|anemia]]
