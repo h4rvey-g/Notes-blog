@@ -51,6 +51,17 @@ share: true
 
 >[!tip] 
 >Whenever you see marked <span style="background:rgba(240, 200, 0, 0.2)">left atrial abnormality or [[./Atrial fibrillation|atrial fibrillation]] in the presence of right ventricular hypertrophy signs</span>, always think about rheumatic mitral valve disease. Mitral stenosis is the only single lesion that can readily account for the combination of left atrial enlargement and right ventricular hypertrophy.
+## Pathology
+- Myocardial findings
+	- Aschoff bodies 
+		- Granuloma of rheumatic inflammation
+		- <span style="background:rgba(240, 200, 0, 0.2)">Central area of fibrinoid necrosis</span>
+		- Surrounded by characteristic multinucleated giant cells (Aschoff cells) and other inflammatory cells (mononuclear cells, plasma cells, and T lymphocytes) due to a [[../Immunology/Type IV hypersensitivity reaction|type IV hypersensitivity reaction]]. ![[../../assets/img/Pasted image 20240120172139.png|Pasted image 20240120172139.png]]
+	- Anitschkow cells
+		- <span style="background:rgba(240, 200, 0, 0.2)">Cardiac histiocytes (mononuclear cells) appearing in Aschoff bodies</span>
+		- Large and elongated cells
+		- Longitudinal section: ovoid nucleus containing wavy, caterpillar-like bar of chromatin (caterpillar cell)
+		- <span style="background:rgba(240, 200, 0, 0.2)">Transverse section: owl-eye appearance </span>![[../../assets/img/Pasted image 20240120172347.png|Pasted image 20240120172347.png]]
 
 ---
 # Treatment
