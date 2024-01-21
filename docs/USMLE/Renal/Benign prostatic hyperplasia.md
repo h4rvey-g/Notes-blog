@@ -26,11 +26,11 @@ share: true
 # Diagnostics
 ## Serum [[./Prostate-specific antigen|PSA]] level
 - Findings
-	- Total PSA > 1.5 ng/mL: suggests an enlarged prostate (> 40 mL) 
-	- Total PSA > 4 ng/mL: increased likelihood of prostate cancer
+	- Total [[./Prostate-specific antigen|PSA]] > 1.5 ng/mL: suggests an enlarged prostate (> 40 mL) 
+	- Total [[./Prostate-specific antigen|PSA]] > 4 ng/mL: increased likelihood of prostate cancer
 - Free PSA levels and free PSA/total PSA ratio
 	- ↑ Free PSA levels and ↑ free PSA/total PSA ratio: usually seen in BPH
-	- ↓ Free PSA levels and ↓ free PSA/total PSA ratio: suggestive of prostate cancer
+	- ↓ Free PSA levels and ↓ free PSA/total PSA ratio: suggestive of [[./Prostate cancer|prostate cancer]]
 
 ---
 # Treatment
