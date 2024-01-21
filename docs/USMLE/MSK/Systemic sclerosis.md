@@ -65,7 +65,8 @@ CREST syndrome refers to a constellation of symptoms traditionally associated wi
 >[!warning] 
 >Scleroderma renal crisis is a medical emergency with a high mortality rate. Promptly evaluate serum creatinine and urine protein in individuals with SSc who present with an acute rise in blood pressure and start management of SRC.
 - Antinuclear antibodies (ANA): present in ∼ 90% of patients
-- SSc-specific autoantibodies  [8][14]
+- SSc-specific autoantibodies![[../../assets/img/Pasted image 20240116151535.png|Pasted image 20240116151535.png]]
+
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anticentromere antibodies</span>: associated with limited SSc, increased risk for vascular complications (e.g., PAH)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anti-Scl-70 (anti-topoisomerase I antibody)</span>: associated with severe and rapidly progressive diffuse SSc, limited SSc, ILD, digital ulcers
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anti-RNA polymerase III</span>: associated with diffuse SSc, scleroderma renal crisis
