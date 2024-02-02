@@ -20,8 +20,8 @@ share: true
 	- Most common type of primary lung cancer
 	- More common in women and <mark style="background: #FFF3A34A;">nonsmokers</mark>
 	- Associated with mutations in:
-		- EGFR gene 
-		- ALK gene 
+		- EGFR gene
+		- ALK gene
 		- KRAS gene
 	- <mark style="background: #FFF3A34A;">Common finding: hypertrophic osteoarthropathy (digital clubbing)</mark>
 	- Most common type of lung cancer that originates in pulmonary scars 
