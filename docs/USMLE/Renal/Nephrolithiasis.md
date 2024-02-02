@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-08-11 17:28
 modified: 2023-08-11 17:28
-aliases: Untitled
+aliases:
+  - kidney stones
 share: true
 ---
 
