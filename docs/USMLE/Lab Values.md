@@ -41,7 +41,7 @@ This will help you remember the normal range for glucose is 70-100 [[./MSK/Myast
 
 ---
 # PTH
-- 230 - 630 $pg/mL$
+- 10-65 pg/mL
 - ![[../assets/img/Pasted image 20230820152459.png|Pasted image 20230820152459.png]]
 # Renal
 - GFR: **90 to 120 mL/min/1.73 m<sup>2</sup>**
