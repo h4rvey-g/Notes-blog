@@ -13,8 +13,8 @@ share: true
 # Etiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Prolactin-secreting [[./Pituitary adenoma|pituitary adenoma]] (prolactinomas) </span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Damage to the [[../Neurology/Hypothalamus|hypothalamus]] and/or infundibular stalk</span>
-	- They compress the infundibular stalk and result in an interruption of the tonic inhibitory effect of hypothalamic [[../Neurology/Neurotransmitters|dopamine]] on the secretion of prolactin![[../../assets/img/Pasted image 20231216164848.png|Pasted image 20231216164848.png]]
-- Severe primary [[../Biochemistry/Hypothyroidism|hypothyroidism]]: ↓ T3/T4 → ↑ TRH → ↑ prolactin
+	- They compress the infundibular stalk and result in an interruption of the tonic inhibitory effect of hypothalamic [[../Neurology/Neurotransmitters|dopamine]] on the secretion of prolactin![[../../assets/img/Pasted image 20231216164848.png|Pasted image 20231216164848.png]]![[../../assets/img/Pasted image 20240125153219.png|Pasted image 20240125153219.png]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Severe primary [[../Biochemistry/Hypothyroidism|hypothyroidism]]: ↓ T3/T4 → ↑ TRH → ↑ prolactin</span>
 - Drugs
 	- [[../Neurology/Neurotransmitters|Dopamine]] antagonists: 
 		- Antiemetics: metoclopramide, domperidone 
@@ -45,6 +45,6 @@ share: true
 
 ---
 # Treatment
-
+- <span style="background:rgba(240, 200, 0, 0.2)">Dopamine agonists (treatment of choice): bromocriptine</span>, cabergoline
 
 ---
