@@ -18,7 +18,7 @@ Prevalence increases with age.
 	- Multipara
 	- Pregnancy and vaginal deliveries 
 	- High-impact activity (e.g., jumping, running, hopping)
-	- Menopause
+	- [[../Reproductive/Menopause|Menopause]]
 	- Obesity
 	- Smoking
 	- Chronic cough (e.g., COPD)
@@ -40,7 +40,8 @@ Prevalence increases with age.
 ---
 # Treatment
 # Conservative treatment
-- Kegel exercises 
+- <span style="background:rgba(240, 200, 0, 0.2)">Kegel exercises </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Strengthen Levator ani</span>
 - Lifestyle changes (e.g., weight loss, avoiding alcohol and caffeine, smoking cessation)
 - Vaginal pessary
 # Surgical procedures
