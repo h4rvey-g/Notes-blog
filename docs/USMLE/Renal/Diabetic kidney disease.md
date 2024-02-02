@@ -31,7 +31,7 @@ major cause of ESRD
 
 ---
 # Clinical features
-- Patients are usually asymptomatic in the early stages; some may report <span style="background:rgba(240, 200, 0, 0.2)">foamy urine</span>. [6][7]
+- Patients are usually asymptomatic in the early stages; some may report <span style="background:rgba(240, 200, 0, 0.2)">foamy urine</span>.
 - In the later stages, clinical features of chronic kidney disease (e.g., hypertension, volume overload) may be present.
 
 ---
