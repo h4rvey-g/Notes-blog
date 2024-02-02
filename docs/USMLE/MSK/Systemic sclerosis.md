@@ -8,7 +8,7 @@ share: true
 ---
 
 # Epidemiology
-- ♀ > ♂ (∼ 5:1)  [1][2]
+- ♀ > ♂ (∼ 5:1)
 - Peak incidence: 30–50 years
 
 ---
@@ -26,12 +26,12 @@ share: true
 CREST syndrome refers to a constellation of symptoms traditionally associated with <span style="background:rgba(240, 200, 0, 0.2)">limited SSc</span> (can also be seen in diffuse SSc).
 - C: Calcinosis cutis: small white calcium deposits on the pressure points of the extremities (e.g., elbows, knees, fingertips) ![[../../assets/img/Pasted image 20231010172910.png|Pasted image 20231010172910.png]]
 - R: Raynaud phenomenon 
-- E: Esophageal hypomotility (systemic sclerosis): smooth muscle atrophy and fibrosis → esophageal dysmotility and decreased lower esophageal sphincter pressure → dysphagia, gastroesophageal reflux, heartburn → aspiration, Barrett esophagus, stricture
+- <span style="background:rgba(240, 200, 0, 0.2)">E: Esophageal hypomotility</span> (systemic sclerosis): <span style="background:rgba(240, 200, 0, 0.2)">smooth muscle atrophy and fibrosis → esophageal dysmotility and decreased lower esophageal sphincter pressure → dysphagia, gastroesophageal reflux, heartburn → aspiration, Barrett esophagus, stricture</span>
 - S: Sclerodactyly ![[../../assets/img/Pasted image 20231010201149.png|Pasted image 20231010201149.png]]
 - T: Telangiectasia![[../../assets/img/Pasted image 20231010201224.png|Pasted image 20231010201224.png]]
 ## Cutaneous
-- Thickening and hardening of the skin, which appears smooth, shiny, and puffy
-- Sclerodactyly: fibrotic thickening and tightening of the skin on the fingers and hands 
+- <span style="background:rgba(240, 200, 0, 0.2)">Thickening and hardening of the skin, which appears smooth, shiny, and puffy</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Sclerodactyly</span>: fibrotic thickening and tightening of the skin on the fingers and hands 
 	- Edema followed by fibrosis that results in a waxy appearance of the skin
 	- Limited range of motion and possibly flexure contractures and clawing of the digits
 	- Multiple, painful ischemic digital ulcers with atrophy and necrotic spots
@@ -48,8 +48,8 @@ CREST syndrome refers to a constellation of symptoms traditionally associated wi
 		- <span style="background:rgba(240, 200, 0, 0.2)">Hypertension with or without symptoms of hypertensive emergency</span>
 		- Microangiopathic hemolytic [[../Blood/Anemia|anemia]] (<span style="background:rgba(240, 200, 0, 0.2)">MAHA</span>) and thrombocytopenia
 	- Treatment: ACE inhibitors
-- Chronic kidney disease: reduced kidney function due to abnormal collagen deposition → thickening of renal arteriolar walls → decreased renal blood flow
-## Pulmonary [9]
+- Chronic kidney disease: reduced kidney function due to abnormal [[../Biochemistry/Collagen|collagen]] deposition → thickening of renal arteriolar walls → decreased renal blood flow
+## Pulmonary
 - <span style="background:rgba(240, 200, 0, 0.2)">Interstitial lung disease </span>
 - Pulmonary artery hypertension 
 ## Other extracutaneous
