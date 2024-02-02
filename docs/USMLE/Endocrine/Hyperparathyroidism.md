@@ -9,6 +9,13 @@ share: true
 # Primary hyperparathyroidism
 ## Etiology
 - Parathyroid gland adenoma (∼ 85%): benign tumor of the parathyroid glands
+
+---
+# Clinical features
+<span style="background:rgba(240, 200, 0, 0.2)">Symptomatic patients often have clinical features of [[../Cardiology/Hypercalcemia|hypercalcemia]]</span>
+![[../Cardiology/Hypercalcemia#Clinical features|Hypercalcemia > Clinical features]]
+
+---
 ## Complications
 ### Osteitis fibrosa cystica (OFC)
 - A rare skeletal disorder seen in advanced hyperparathyroidism characterized by <span style="background:rgba(240, 200, 0, 0.2)">replacement of calcified bone with fibrous tissue</span>

@@ -40,7 +40,7 @@ PTH-mediated or non-PTH-mediated causes
 - Anorexia
 - [[../GI/Peptic ulcer disease|Peptic ulcer disease]]
 	- hypercalcemia-induced increase of gastric acid secretion and gastrin levels.
-- Neuropsychiatric symptoms such as anxiety, depression, fatigue, and cognitive dysfunction
+- <span style="background:rgba(240, 200, 0, 0.2)">Neuropsychiatric symptoms such as anxiety, depression, fatigue, and cognitive dysfunction</span>
 - Diminished muscle excitability
 	- Cardiac arrhythmias
 		- <span style="background:rgba(240, 200, 0, 0.2)">ECG: Shorten QT interval</span>, see [[./ECGs#QT interval|ECGs > QT interval]]

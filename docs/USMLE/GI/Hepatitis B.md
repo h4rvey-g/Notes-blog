@@ -26,7 +26,7 @@ share: true
 	- Periportal liver cell necrosis with lymphocytic infiltration![[../../assets/img/Pasted image 20231017214520.png|Pasted image 20231017214520.png]]
 	- The cause of interface hepatitis is a CD8 T-cell‑induced hepatocyte apoptosis.
 	- Indicates chronic active hepatitis and poor prognosis
-- Fibrous septa   [30]
+- Fibrous septa
 - <span style="background:rgba(240, 200, 0, 0.2)">Ground glass hepatocytes (Characteristic for HBV)</span>
 	- Hepatocytes with swollen transparent cytoplasm due to hyperplasia of the endoplasmic reticulum resulting in a ground glass appearance![[../../assets/img/Pasted image 20231017214542.png|Pasted image 20231017214542.png]]![[../../assets/img/Pasted image 20231017214547.png|Pasted image 20231017214547.png]]
 	- Pathognomonic for hepatitis B
@@ -51,6 +51,9 @@ HBV carries a DNA polymerase with both DNA and RNA-dependent functions, also kno
 - Chronic infection (inactive): HBsAg (+), Anti-HBc (+, IgG), Anti-HBe (+)![[../../assets/img/Pasted image 20231213111859.png|Pasted image 20231213111859.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Recovery: conversion from HBsAg (+) to Anti-Hbs (+) in chronic infection, also HBV DNA needs to be undetectable</span>
 - ![[../../assets/img/Pasted image 20231213112059.png|Pasted image 20231213112059.png]]
+>[!tip] 
+>During the window period, anti-HBc IgM and anti-HBe may be the only markers available to diagnose an acute HBV infection.
+
 
 ---
 # Treatment
@@ -62,4 +65,4 @@ HBV carries a DNA polymerase with both DNA and RNA-dependent functions, also kno
 ![[../../assets/img/Pasted image 20231029112500.png|Pasted image 20231029112500.png]]
 - Breastfeeding may be started immediately if there are no contraindications (e.g., cracked or bleeding nipples), regardless of whether individuals:
 	- Have HBsAg positive or unknown status
-	- Are receiving antiviral therapy
+	- Are receiving [[../Infective disease/Antiviral therapy|antiviral therapy]]

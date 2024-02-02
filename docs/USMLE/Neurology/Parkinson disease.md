@@ -44,3 +44,11 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Some patients develop impulse control disorders with compulsive gambling or hypersexuality.</span>
 
 ---
+# Parkinson-plus syndromes
+## [[./Dementia|Dementia]] with Lewy bodies
+- Epidemiology
+	- Second most common form of neurodegenerative [[./Dementia|dementia]] (10–20% of [[./Dementia|dementia]] cases) 
+- Diagnosis requires two of the following
+	- <span style="background:rgba(240, 200, 0, 0.2)">Cognitive fluctuations</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Visual hallucinations</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Parkinsonism</span>
