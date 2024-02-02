@@ -30,6 +30,12 @@ share: true
 # Pathophysiology
 ## Normal insulin physiology
 - Secretion: Insulin is synthesized in the β cells of the islets of Langerhans. The <span style="background:rgba(240, 200, 0, 0.2)">cleavage of proinsulin (precursor molecule of insulin)</span> produces C-peptide (connecting peptide) and insulin, which consists of two peptide chains (A and B chains).
+- Action
+	- Carbohydrate metabolism
+	- Protein metabolism: insulin inhibits proteolysis, stimulates protein synthesis, and stimulates cellular uptake of amino acids
+	- Lipid metabolism: maintains a fat depot and has an antiketogenic effect 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Electrolyte regulation: stimulates intracellular potassium accumulation </span>
+		- Directly stimulates Na+/K+ ATPase and promotes intracellular alkalosis, reduces phosphate levels (glucose binds to phosphate in the cell), and stimulates magnesium uptake into cells
 ## Type 2 diabetes
 - Mechanisms
 	- Peripheral insulin resistance
