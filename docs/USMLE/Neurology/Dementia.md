@@ -10,3 +10,4 @@ share: true
 - [[../Psychiatry/Alzheimer disease|Alzheimer disease]]
 - [[./Frontotemporal dementia|Frontotemporal dementia]]
 - [[./Creutzfeldt-Jakob disease|Creutzfeldt-Jakob disease]] (Rapidly progressive dementia (weeks to months))
+- [[./Parkinson disease#Dementia with Lewy bodies|Parkinson disease > Dementia with Lewy bodies]]
