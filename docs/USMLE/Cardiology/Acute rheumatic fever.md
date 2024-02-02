@@ -19,7 +19,14 @@ share: true
 
 ---
 # Clinical features
-
+- CNS: <span style="background:rgba(240, 200, 0, 0.2)">Sydenham chorea (involuntary, irregular, nonrepetitive movements of the limbs, neck, head, and/or face)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Occurs 1–8 months after the inciting infection</span>
+		- In contrast to the other rheumatic manifestations, which usually occur within 3 weeks after initial infection.
+	- Clinical features
+		- Sometimes asymmetrical or confined to one side (hemichorea)
+		- Additional <span style="background:rgba(240, 200, 0, 0.2)">motor symptoms (e.g., ballismus, muscle weakness) and speech disorders (slurred or “jerky” speech)</span>
+			- <span style="background:rgba(240, 200, 0, 0.2)">Milkmaid grip: characterized by the inability to maintain muscle contraction in the hands → intermittent loss of contraction results in alternating squeeze and release of grip ("milking")</span>
+			- <span style="background:rgba(240, 200, 0, 0.2)">Choreic hand: characterized by intermittent wrist flexion with extension of the digits (“spooning” of the hand)</span>
 
 ---
 # Diagnostics
