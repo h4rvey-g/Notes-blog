@@ -25,6 +25,7 @@ share: true
 		- Silent somatotroph and corticotroph adenomas 
 	- Secretory pituitary adenomas: hormone secretion → hyperpituitarism
 		- <span style="background:rgba(240, 200, 0, 0.2)">Most exclusively proliferate in only one type of endocrine cell and therefore secrete only one pituitary hormone.</span>
+
 ![[../../assets/img/Pasted image 20231212164853.png|Pasted image 20231212164853.png]]
 >[!tip] 
 >Prolactinomas are the most common pituitary adenomas.
