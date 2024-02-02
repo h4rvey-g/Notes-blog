@@ -4,6 +4,8 @@ created: 2023-11-27 21:49
 modified: 2023-11-27 21:49
 aliases:
   - De Quervain thyroiditis
+  - Subacute granulomatous thyroiditis
+  - Subacute lymphocytic thyroiditis
 share: true
 ---
 
@@ -45,14 +47,14 @@ Subacute lymphocytic thyroiditis is characterized by damage to follicular cells 
 # Clinical features
 ## Subacute granulomatous thyroiditis (De Quervain thyroiditis)
 - Possible <span style="background:rgba(240, 200, 0, 0.2)">history of upper respiratory tract infections</span> a few weeks prior to the onset of subacute thyroiditis
-- <span style="background:rgba(240, 200, 0, 0.2)">Very painful, diffuse, firm goiter, jaw pain </span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Very painful, diffuse, firm [[./Goiter|goiter]], jaw pain </span>
 - Fever and/or malaise may be present.
 - <span style="background:rgba(240, 200, 0, 0.2)">Features of [[./Hyperthyroidism|hyperthyroidism]] followed by features of [[../Biochemistry/Hypothyroidism|hypothyroidism]]</span>
 >[!Mnemonic] 
 >De Quer<font color="#ffc000">vain</font> causes <font color="#ffc000">pain</font>.
 
 ## Subacute lymphocytic thyroiditis
-- <span style="background:rgba(240, 200, 0, 0.2)">Painless</span>, diffuse, firm goiter (thyroid size may be normal)
+- <span style="background:rgba(240, 200, 0, 0.2)">Painless</span>, diffuse, firm [[./Goiter|goiter]] (thyroid size may be normal)
 	- The terms “silent” or “painless” thyroiditis are often used to describe subacute lymphocytic thyroiditis.
 - Features of [[./Hyperthyroidism|hyperthyroidism]] followed by features of [[../Biochemistry/Hypothyroidism|hypothyroidism]]
 
