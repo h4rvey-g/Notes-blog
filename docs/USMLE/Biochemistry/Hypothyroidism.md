@@ -15,8 +15,8 @@ share: true
 	- [[../Endocrine/Hashimoto thyroiditis|Hashimoto thyroiditis]]
 		- The most common cause of hypothyroidism in iodine-sufficient regions
 		- Associated with HLA-DR3 and other autoimmune diseases (e.g., vitiligo, pernicious anemia, type 1 [[../Endocrine/Diabetes mellitus|diabetes mellitus]], and [[../Immunology/Systemic lupus erythematosus|systemic lupus erythematosus]])
-	- Postpartum thyroiditis (subacute lymphocytic thyroiditis) 
-	- [[../Endocrine/Subacute thyroiditis|De Quervain thyroiditis]] (subacute granulomatous thyroiditis): often subsequent to a flu-like illness
+	- Postpartum thyroiditis ([[../Endocrine/Subacute thyroiditis|subacute lymphocytic thyroiditis]]) 
+	- [[../Endocrine/Subacute thyroiditis|De Quervain thyroiditis]] ([[../Endocrine/Subacute thyroiditis|subacute granulomatous thyroiditis]]): often subsequent to a flu-like illness
 	- Iatrogenic: e.g., post thyroidectomy, radioiodine therapy, antithyroid medication (e.g., amiodarone, lithium)
 	- Nutritional (insufficient intake of iodine): the most common cause of hypothyroidism worldwide, particularly in iodine-deficient regions
 	- [[../Endocrine/Riedel thyroiditis|Riedel thyroiditis]]: occurs in IgG4-related systemic disease
@@ -35,6 +35,10 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Hair loss (Queen Anne sign), brittle nails, and cold, dry skin</span>
 - Symptoms related to generalized myxedema
 	- <span style="background:rgba(240, 200, 0, 0.2)">Hoarse voice, difficulty articulating words</span>
+- Symptoms of <span style="background:rgba(240, 200, 0, 0.2)">[[../Endocrine/Hyperprolactinemia|hyperprolactinemia]]</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Abnormal menstrual cycle (esp. secondary amenorrhea or menorrhagia)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Galactorrhea </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Decreased libido</span>, erectile dysfunction, delayed ejaculation, and infertility in men
 
 ---
 # Diagnostics
