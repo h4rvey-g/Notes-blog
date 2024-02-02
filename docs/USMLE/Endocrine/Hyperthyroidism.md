@@ -12,11 +12,11 @@ share: true
 	- Overt hyperthyroidism
 		- ↓ Serum TSH levels with ↑ serum free T4 and/or T3 levels
 		- Patients typically experience symptoms of thyrotoxicosis.
-		- E.g., [[./Graves disease|Graves disease]], toxic MNG, and toxic adenoma
+		- E.g., [[./Graves disease|Graves disease]], [[./Toxic multinodular goiter|toxic MNG]], and toxic adenoma
 	- Subclinical hyperthyroidism
 		- <span style="background:rgba(240, 200, 0, 0.2)">↓ Serum TSH levels with normal serum free T4 and T3 levels</span>
-		- Patients are normally asymptomatic or mildly symptomatic.
-		- May progress to overt hyperthyroidism
+		- Patients are normally <span style="background:rgba(240, 200, 0, 0.2)">asymptomatic or mildly symptomatic.</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">May progress to overt hyperthyroidism</span>
 		- If the negative feedback regulation mechanism is intact, increased T3 and T4 lead to TSH suppression, which in turn leads to reduced stimulation of thyroid follicular cells. Thyroid hormone levels may then be normal.
 
 ---
@@ -40,6 +40,10 @@ share: true
 		- Can develop acutely or several weeks to months after the onset of hyperthyroidism.
 		- Typically affects proximal muscles (e.g., hip flexors, quadriceps) more than distal muscles
 		- Serum creatine kinase levels are most often normal
+- Endocrinological
+	- <span style="background:rgba(240, 200, 0, 0.2)">Female: oligo/amenorrhoea, anovulatory infertility, dysfunctional uterine bleeding </span>
+		- Serum sex hormone-binding globulin (SHBG) levels are high in hyperthyroidism → low serum free (unbound) estradiol concentrations
+	- <span style="background:rgba(240, 200, 0, 0.2)">Male: gynecomastia, decreased libido, infertility, erectile dysfunction </span>
 
 ---
 # Diagnostics
