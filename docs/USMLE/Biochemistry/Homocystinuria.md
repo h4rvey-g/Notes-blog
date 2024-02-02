@@ -29,8 +29,8 @@ Definition: a group of inherited genetic disorders characterized by impaired hom
 # Clinical features
 - Nonspecific features in infancy: growth faltering, developmental delay
 - Eyes
-	- <span style="background:rgba(240, 200, 0, 0.2)">Downward and inward subluxation of the ocular lens (ectopia lentis) after 3 years of age (in Marfan syndrome, the lens usually luxates upwards and outwards)</span>![[../../assets/img/Pasted image 20231111110428.png|Pasted image 20231111110428.png]]
-	- Myopia and glaucoma later in life
+	- <span style="background:rgba(240, 200, 0, 0.2)">Downward and inward subluxation of the ocular lens (ectopia lentis) after 3 years of age (in [[../Pathology/Ehlers-Danlos syndrome and Marfan syndrome|Marfan syndrome]], the lens usually luxates upwards and outwards)</span>![[../../assets/img/Pasted image 20231111110428.png|Pasted image 20231111110428.png]]
+	- Myopia and [[../Neurology/Angle-closure glaucoma|glaucoma]] later in life
 - <span style="background:rgba(240, 200, 0, 0.2)">Progressive intellectual disability</span>
 - Psychiatric and behavioral disorders
 - Light skin
@@ -42,9 +42,9 @@ Definition: a group of inherited genetic disorders characterized by impaired hom
 	- Hyperlaxity of joints and hyperelasticity of the skin
  
 >[!tip] 
->Marfan syndrome and homocystinuria both present with marfanoid habitus. <span style="background:rgba(240, 200, 0, 0.2)">Distinguishing features include intellectual disability, which is only seen in homocystinuria, and the direction of lens dislocation (downwards in homocystinuria and upwards in Marfan syndrome).</span>
+>[[../Pathology/Ehlers-Danlos syndrome and Marfan syndrome|Marfan syndrome]] and homocystinuria both present with [[./Marfanoid features|marfanoid habitus]]. <span style="background:rgba(240, 200, 0, 0.2)">Distinguishing features include intellectual disability, which is only seen in homocystinuria, and the direction of lens dislocation (downwards in homocystinuria and upwards in [[../Pathology/Ehlers-Danlos syndrome and Marfan syndrome|Marfan syndrome]]).</span>
 - [[../MSK/Osteoporosis|Osteoporosis]]
-- Cardiovascular complications like thromboembolism, premature arteriosclerosis, and coronary heart disease increase the risk of myocardial infarction and stroke
+- Cardiovascular complications like thromboembolism, premature arteriosclerosis, and [[../Cardiology/Coronary artery disease|coronary heart disease]] increase the risk of myocardial infarction and stroke
 
 ---
 # Diagnostics
