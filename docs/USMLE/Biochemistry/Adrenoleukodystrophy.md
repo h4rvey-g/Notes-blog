@@ -20,8 +20,8 @@ share: true
 - Clinical features
 	- Cognitive impairment
 	- Progressive vision, hearing, and motor deterioration
-	- Dementia
-	- Adrenal insufficiency
+	- [[../Neurology/Dementia|Dementia]]
+	- [[../Endocrine/Adrenal insufficiency|Adrenal insufficiency]]
 	- Coma
 	- Death
 - Diagnostics
