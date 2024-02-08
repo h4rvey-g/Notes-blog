@@ -16,7 +16,7 @@ most commonly <mark style="background: #FFF3A34A;">occurs after initiating cytot
 ---
 # Pathophysiology
 Tumor cell lysis → release of intracellular components (e.g., K+, PO43-, nucleic acids) into the bloodstream
-- ↑ Nucleic acid → conversion to uric acid → hyperuricemia → urate nephropathy and risk of acute kidney injury 
+- ↑ Nucleic acid → conversion to uric acid → [[../MSK/Gout|hyperuricemia]] → urate nephropathy and risk of acute kidney injury 
 - ↓ Ca2+ secondary to PO43- binding → hypocalcemia → neuronal excitability → risk of seizures
 - Hyperphosphatemia: PO43- binds Ca2+ and forms calcium phosphate crystals that obstruct renal tubules → acute kidney injury
 - Hyperkalemia: changes in resting membrane potential → risk of cardiac arrhythmias
