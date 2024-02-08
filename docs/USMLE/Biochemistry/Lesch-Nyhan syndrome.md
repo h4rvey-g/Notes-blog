@@ -21,7 +21,7 @@ Definition: inherited genetic disorder characterized by <span style="background:
 ---
 # Clinical features
 - Usually asymptomatic for the first 6 months of life
-- <span style="background:rgba(240, 200, 0, 0.2)">Orange sand-like sodium urate crystals can be found in the diapers of infants with hyperuricemia.</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Orange sand-like sodium urate crystals can be found in the diapers of infants with [[../MSK/Gout|hyperuricemia]].</span>
 	- See [[../Renal/Nephrolithiasis#Uric acid stones|Nephrolithiasis > Uric acid stones]]
 - Developmental delay and cognitive impairment
 - Pyramidal and extrapyramidal symptoms (e.g., dystonia, spasticity)
@@ -33,7 +33,7 @@ Definition: inherited genetic disorder characterized by <span style="background:
 
 ---
 # Diagnostics
-- Hyperuricemia
+- [[../MSK/Gout|Hyperuricemia]]
 - ↓ HGPRT activity
 - Macrocytosis (megaloblastic anemia may occur)
 
