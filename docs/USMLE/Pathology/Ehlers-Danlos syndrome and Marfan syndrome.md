@@ -14,7 +14,7 @@ share: true
 ---
 # Etiology
 ## Marfan syndrome
-- Mutation of <span style="background:rgba(240, 200, 0, 0.2)">fibrillin-1 gene (FBN1)</span> on chromosome 15 → defective fibrillin (a glycoprotein that forms a supportive sheath around elastin) → defective connective tissue microfibrils → defective elastin
+- Mutation of <span style="background:rgba(240, 200, 0, 0.2)">fibrillin-1 gene (FBN1)</span> on chromosome 15 → defective fibrillin (a glycoprotein that forms a supportive sheath around elastin) → defective connective tissue microfibrils → <span style="background:rgba(240, 200, 0, 0.2)">defective elastin</span>
 - Autosomal dominant inheritance pattern with variable penetrance
 >[!Mnemonic] 
 >Mar<font color="#ffc000">F</font>an syndrome is caused by a gene mutation in <font color="#ffc000">F</font>BN1 on chromosome 15 (<font color="#ffc000">F</font>ifteen), resulting in defective <font color="#ffc000">F</font>ibrillin protein.

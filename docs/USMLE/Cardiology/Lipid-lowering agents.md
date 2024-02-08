@@ -6,11 +6,14 @@ aliases: Untitled
 share: true
 ---
 
+See also [[../Biochemistry/Lipid transport|Lipid transport]]
+![[../../assets/img/Pasted image 20240208105331.png|Pasted image 20240208105331.png]]
 # Statins
 - Competitive inhibition of HMG-CoA reductase renders this enzyme unable to convert HMG-CoA to mevalonate (the rate-limiting step of cholesterol synthesis) → reduced intrahepatic cholesterol biosynthesis → <span style="background:rgba(240, 200, 0, 0.2)">upregulation of expression of LDL receptor gene via sterol regulatory element-binding protein (SREBP) → increased LDL recycling</span> and:
 	- <span style="background:rgba(240, 200, 0, 0.2)">↓↓ LDL cholesterol</span>
 	- ↑ HDL cholesterol
 	- ↓ Triglyceride level
+
 ![[../../assets/img/Pasted image 20231012113514.png|Pasted image 20231012113514.png]]
 # Ezetimibe
 - Mechanism of action: selective inhibition of cholesterol reabsorption at the<span style="background:rgba(240, 200, 0, 0.2)"> brush border of enterocytes (cholesterol transporter NPC1L1)</span> → ↓↓ LDL, little effect on HDL (slight ↑) and triglycerides (slight ↓)
@@ -27,11 +30,13 @@ share: true
 	- ↑ LFTs (reversible)
  
 ![[../../assets/img/Pasted image 20231012134711.png|Pasted image 20231012134711.png]]
+>[!tip] 
+>Pioglitazone activates PPAR-γ. See [[../Endocrine/Diabetes mellitus#T2DM|Diabetes mellitus > T2DM]]
 # [[../Biochemistry/Vitamin B3|Niacin]] (Vitamin B3)
 - <span style="background:rgba(240, 200, 0, 0.2)">Mechanism of action: inhibits lipolysis and fatty acid release in adipose tissue through blockade of hormone-sensitive lipase and ↓ hepatic VLDL synthesis → ↓ triglyceride, ↓↓ LDL synthesis, ↑↑ HDL</span>![[../../assets/img/Pasted image 20231112162849.png|Pasted image 20231112162849.png]]
 - Indication: high LDL cholesterol and lipoprotein(a) levels (> 50 mg/dL) despite statin and ezetimibe therapy (or if statins are contraindicated)
 - Adverse effects
 	- Flushing and pruritus: ↑ prostaglandin synthesis → peripheral vasodilation (pretreatment with aspirin or ibuprofen can minimize this side effect)
 	- Hyperglycemia
-	- <span style="background:rgba(240, 200, 0, 0.2)">Hyperuricemia and gout</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[../MSK/Gout|Hyperuricemia]] and [[../MSK/Gout|gout]]</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">[[../Biochemistry/Vitamin B3|Niacin]] decreases renal uric acid excretion.</span>

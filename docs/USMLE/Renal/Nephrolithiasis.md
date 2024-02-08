@@ -56,8 +56,8 @@ share: true
 - Diet low in sodium
 ## Uric acid stones
 ### Etiology
-- Hyperuricemia and hyperuricosuria
-	- Gout
+- [[../MSK/Gout|Hyperuricemia]] and hyperuricosuria
+	- [[../MSK/Gout|Hyperuricemia]]
 	- High cell turnover (e.g., [[./Tumor lysis syndrome|tumor lysis syndrome]], [[../Blood/Myelodysplastic syndromes|myelodysplastic syndrome]])
 - Diabetes mellitus, metabolic syndrome
 - Chronic diarrhea

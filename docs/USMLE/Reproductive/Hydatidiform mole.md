@@ -12,7 +12,7 @@ share: true
 ---
 # Etiology
 ## Complete mole
-- <span style="background:rgba(240, 200, 0, 0.2)">Fertilization of an empty egg that does not carry any chromosomes by a single sperm</span>
+- Fertilization of an <span style="background:rgba(240, 200, 0, 0.2)">empty egg that does not carry any chromosomes</span> by a single sperm
 - Fetal karyotypes
 	- <span style="background:rgba(240, 200, 0, 0.2)">46XX (more common; ∼ 90% of cases)</span>
 	- 46XY (less common; ∼ 10% of cases)

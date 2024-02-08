@@ -56,6 +56,6 @@ share: true
 ---
 # Vitamin B3 toxicity
 - <span style="background:rgba(240, 200, 0, 0.2)">Facial flushing: due to prostaglandin release and NOT due to histamine (typically seen when niacin therapy is started, can be avoided by coadministration of <font color="#ffc000">aspirin</font>)</span>
-- Hyperuricemia, podagra 
+- [[../MSK/Gout|Hyperuricemia]], podagra 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Niacin decreases renal uric acid excretion.</span>
 - Hyperglycemia

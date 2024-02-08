@@ -58,7 +58,7 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Typically gradual</span>
 - The majority of patients are asymptomatic. 
 - <span style="background:rgba(240, 200, 0, 0.2)">Some patients may present with a hyperglycemic crisis.</span>
-	- Elderly patients especially may present in a hyperosmolar hyperglycemic state.
+	- Elderly patients especially may present in a [[./Hyperglycemic crises|hyperosmolar hyperglycemic state]].
 	- Occasionally, patients with T2DM present with DKA , which mostly affects black and Hispanic individuals.
 - <span style="background:rgba(240, 200, 0, 0.2)">Symptoms of complications may be the first clinical sign of disease.</span>
 ## Common clinical features
@@ -130,7 +130,7 @@ share: true
 - α-glucosidase inhibitors
 	- ![[../../assets/img/Pasted image 20231209142546.png|Pasted image 20231209142546.png]]
 - Pioglitazone
-	- Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">activation of the transcription factor PPARγ</span> (peroxisome proliferator-activated receptor of gamma type in the nucleus) → ↑ transcription of genes involved in glucose and lipid metabolism → ↑ levels of adipokines such as adiponectin and insulin sensitivity → <span style="background:rgba(240, 200, 0, 0.2)">↑ storage of fatty acids in adipocytes</span>, ↓ products of lipid metabolism (e.g., free fatty acids) → ↓ free fatty acids in circulation → <span style="background:rgba(240, 200, 0, 0.2)">↑ glucose utilization and ↓ hepatic glucose productio</span>n
+	- Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">activation of the transcription factor PPARγ</span> (peroxisome proliferator-activated receptor of gamma type in the nucleus) → ↑ <span style="background:rgba(240, 200, 0, 0.2)">transcription of genes involved in glucose and lipid metabolism</span> → ↑ levels of adipokines such as adiponectin and insulin sensitivity → <span style="background:rgba(240, 200, 0, 0.2)">↑ storage of fatty acids in adipocytes</span>, ↓ products of lipid metabolism (e.g., free fatty acids) → ↓ free fatty acids in circulation → <span style="background:rgba(240, 200, 0, 0.2)">↑ glucose utilization and ↓ hepatic glucose productio</span>n
 	- Clinical characteristics
 		- Glycemic efficacy: lowers HbA1c by 1% in 3 months
 		- Favorable effect on lipid metabolism: ↓ triglyceride, ↓ LDL, ↑ HDL
@@ -147,6 +147,9 @@ share: true
 >[!Mnemonic] 
 >- glita <- glitter
 >- Eat in the party will make you <font color="#ffc000">gain weight</font>.
+
+>[!tip] 
+>Fibrates activate PPAR-α. See [[../Cardiology/Lipid-lowering agents#Fibrates|Lipid-lowering agents > Fibrates]]
 - Amylin analogs (Pramlintide)
 	- Works with insulin to ↓ glucagon release, ↓ gastric emptying.
 

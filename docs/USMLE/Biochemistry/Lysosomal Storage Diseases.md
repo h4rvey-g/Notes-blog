@@ -13,6 +13,7 @@ aliases:
 share: true
 ---
 
+# Fabry disease
 ![[../../assets/img/Pasted image 20231110170141.png|Pasted image 20231110170141.png]]Fabrite -> favourite
 
 ---

@@ -7,7 +7,8 @@ share: true
 ---
 
 # Epidemiology
-
+- Incidence: following skin cancer (i.e., melanoma and nonmelanoma combined) <span style="background:rgba(240, 200, 0, 0.2)">most common cancer in men</span> in the US
+- Mortality: in 2020, <span style="background:rgba(240, 200, 0, 0.2)">second leading cause of cancer deaths</span> in men in the US (after lung cancer)
 
 ---
 # Etiology
