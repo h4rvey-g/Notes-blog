@@ -21,6 +21,7 @@ share: true
 	- Antagonizes NMDA receptors → stimulant or depressive neurological effects (dose dependent)
 - Clinical features
 	- <span style="background:rgba(240, 200, 0, 0.2)">Violence</span>
+		- K 粉 -> Kick
 	- <span style="background:rgba(240, 200, 0, 0.2)">Rotary [[../Neurology/Internuclear ophthalmoplegia|nystagmus]]</span>![[../../assets/img/Pasted image 20240107155450.png|Pasted image 20240107155450.png]]
 	- impulsivity, psychomotor agitation, tachycardia, hypertension, analgesia, psychosis, delirium, seizures.
 
