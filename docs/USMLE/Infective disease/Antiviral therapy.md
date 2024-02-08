@@ -12,6 +12,10 @@ Left part is for HIV, right part is for other virus.![[../../assets/img/Pasted i
 # Oseltamivir, zanamivir
 - Inhibit influenza neuraminidase → ↓ release of progeny virus.![[../../assets/img/Pasted image 20231222091013.png|Pasted image 20231222091013.png]]
 # Acyclovir, famciclovir, valacyclovir
-Guanosine analogs. Preferentially inhibit viral DNA polymerase by chain termination.![[../../assets/img/Pasted image 20231222091724.png|Pasted image 20231222091724.png]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Guanosine analogs</span>. 
+- HSV/VZV-coded thymidine kinase monophosphorylates the guanosine analogue to an active intermediate → phosphorylation by cellular kinases → acyclovir triphosphate (ACV-TP)![[../../assets/img/Pasted image 20240207162621.png|Pasted image 20240207162621.png]]
+- The <span style="background:rgba(240, 200, 0, 0.2)">phosphorylated drug is incorporated into the replicating viral DNA strand → inhibition of viral DNA polymerase via chain termination</span>![[../../assets/img/Pasted image 20231222091724.png|Pasted image 20231222091724.png]]
+- Mechanism of antiviral resistance: Mutation of viral thymidine kinase
+
 # Foscarnet, Cidofovir
 inhibits viral DNA polymerase![[../../assets/img/Pasted image 20231222093206.png|Pasted image 20231222093206.png]]
