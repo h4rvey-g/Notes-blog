@@ -2,10 +2,12 @@
 author: Harvey Guo
 created: 2023-09-28 17:22
 modified: 2023-09-28 17:22
-aliases: Untitled
+aliases: []
 share: true
 ---
 
+>[!tip] 
+>Think of Tyrion!![[../../assets/img/Pasted image 20240207163550.png|Pasted image 20240207163550.png]]
 # Epidemiology
 - Most common type of skeletal dysplasia
 - Most common cause of disproportionate short stature
@@ -30,6 +32,7 @@ share: true
 	- Small foramen magnum: compression of the cervical medulla
 	- Lumbar lordosis and kyphoscoliosis 
 	- Spinal canal stenosis: lower back and leg pain, paresthesias, dysesthesia, incontinence
+
 ![[../../assets/img/Pasted image 20230928173131.png|Pasted image 20230928173131.png]]
 
 ---
