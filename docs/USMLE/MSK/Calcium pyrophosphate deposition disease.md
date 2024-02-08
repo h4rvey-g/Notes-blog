@@ -16,7 +16,7 @@ share: true
 - The primary (idiopathic) form is most common, with age as a major risk factor.
 - Secondary forms
 	- Joint trauma/damage: including joint surgery, previous juvenile idiopathic arthritis, and [[./Osteoarthritis|Osteoarthritis]]
-	- Metabolic disorders: including [[../Endocrine/Hyperparathyroidism|hyperparathyroidism]], [[../Blood/Hemochromatosis|hemochromatosis]], hypomagnesemia, hypophosphatasia, and possibly gout
+	- Metabolic disorders: including [[../Endocrine/Hyperparathyroidism|hyperparathyroidism]], [[../Blood/Hemochromatosis|hemochromatosis]], hypomagnesemia, hypophosphatasia, and possibly [[./Gout|gout]]
 	- Familial chondrocalcinosis: due to mutations in the CCAL1 or CCAL2 genes
 
 ---
@@ -31,7 +31,7 @@ Deposition of calcium pyrophosphate dihydrate (CPP or CPPD) crystals in articula
 	- <span style="background:rgba(240, 200, 0, 0.2)">Monoarthritis</span> (occasionally oligoarthritis)
 	- Most commonly affects the knee and wrist; can also affect other large joints (e.g., hips, ankles)
 	- Typically self-limited
-- <span style="background:rgba(240, 200, 0, 0.2)">Features that differ from acute gout</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Features that differ from acute [[./Gout|gout]]</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Longer duration of acute attacks </span>
 		- Up to several months
 	- <span style="background:rgba(240, 200, 0, 0.2)">Possible systemic symptoms</span>
