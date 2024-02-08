@@ -10,7 +10,7 @@ share: true
 # Etiology
 - Usually caused by an ascending bacterial infection of the bladder (cystitis)
 - Pathogens
-	- Gram-negative bacteria
+	- <span style="background:rgba(240, 200, 0, 0.2)">Gram-negative rods</span> bacteria (Thus <span style="background:rgba(240, 200, 0, 0.2)">use fluoroquinolones</span>)
 		- Escherichia coli (∼ 75–90% of cases; leading cause of pyelonephritis)
 		- Pseudomonas aeruginosa
 		- Klebsiella pneumoniae
@@ -19,8 +19,8 @@ share: true
 	- Pregnancy
 	- Urinary tract obstruction (potentially leading to pyonephrosis)
 	- Foreign bodies (e.g., indwelling urinary catheters or other urologic instrumentation)
-	- Anatomical abnormalities (e.g., benign prostatic hyperplasia, [[./Vesicoureteral reflux|vesicoureteral reflux]], [[./Nephrolithiasis|nephrolithiasis]], ureteral strictures)
-	- Immunosuppression (e.g., HIV, diabetes mellitus)
+	- Anatomical abnormalities (e.g., [[./Benign prostatic hyperplasia|benign prostatic hyperplasia]], [[./Vesicoureteral reflux|vesicoureteral reflux]], [[./Nephrolithiasis|nephrolithiasis]], ureteral strictures)
+	- Immunosuppression (e.g., HIV, [[../Endocrine/Diabetes mellitus|diabetes mellitus]])
 
 ---
 # Pathology
@@ -48,11 +48,11 @@ share: true
 ---
 # Diagnostics
 ## Urinalysis
-- Nonspecific findings of UTI
+- Nonspecific findings of [[./Urinary tract infections|UTI]]
 	- Pyuria (positive esterase on dipstick test)
 	- Leukocyturia (WBCs > 5/hpf)
 	- Bacteriuria
-	- Positive nitrites on dipstick test indicate bacteria that convert nitrates to nitrites.
+	- Positive nitrites on dipstick test indicate bacteria that convert [[../Pharmacology/Nitrates|nitrates]] to nitrites (most commonly gram-negative bacteria; e.g., E.coli).
 	- Hematuria (including microhematuria)
 - Other findings
 	- WBC casts: rare finding, but considered to be a strong indicator for pyelonephritis
