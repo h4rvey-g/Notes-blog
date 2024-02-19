@@ -32,7 +32,7 @@ share: true
 ## Acute lymphoblastic leukemia (ALL)
 - Genetic or chromosomal factors
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[../Biochemistry/Down syndrome|Down syndrome]]: Risk of ALL is, like that of AML, 10–20 times higher in patients with [[../Biochemistry/Down syndrome|Down syndrome]] compared to the general population.</span>
-	- Neurofibromatosis type 1
+	- [[../Neurology/Neurocutaneous disorders|Neurofibromatosis]] type 1
 	- Ataxia telangiectasia
 
 ---
@@ -47,11 +47,12 @@ share: true
 # Diagnostics
 >[!tip] 
 >Some subtypes (<span style="background:rgba(240, 200, 0, 0.2)">especially M3, or APL</span>) exhibit Auer rods 
->- Pink-red, rod-shaped granular cytoplasmic inclusion bodies in malignant immature myeloblasts or promyelocytes
+>- Pink-red, rod-shaped granular cytoplasmic inclusion bodies in malignant immature myeloblasts or promyelocytes![[../../assets/img/Pasted image 20240209151353.png|Pasted image 20240209151353.png]]
 >- Myeloperoxidase (MPO) positive
 
 ---
 # Treatment
-
+>[!tip] 
+>In <font color="#ffc000">APL, the t(15;17) translocation</font> and subsequent formation of the PML-RARA fusion gene can inhibit myeloblast differentiation under physiological levels of retinoic acid. <font color="#ffc000">High doses of ATRA (a vitamin A derivative) may induce myeloblast differentiation and promote remission.</font>
 
 ---
