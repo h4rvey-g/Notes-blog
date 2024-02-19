@@ -35,7 +35,7 @@ share: true
 	- Hematological
 		- Mixed cryoglobulinemia
 		- Lymphoma (especially B-cell non-Hodgkin lymphoma)
-		- ITP
+		- [[../Blood/Immune thrombocytopenia (ITP)|ITP]]
 		- [[../Blood/Autoimmune hemolytic anemia|Autoimmune hemolytic anemia]]
 		- Monoclonal gammopathies
 	- Renal
