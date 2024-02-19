@@ -42,7 +42,7 @@ share: true
 - Dyspareunia
 ## Intestines
 - <span style="background:rgba(240, 200, 0, 0.2)">Dyschezia</span>
-- <span style="background:rgba(240, 200, 0, 0.2)">Diarrhea</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[../GI/Diarrhea|Diarrhea]]</span>
 - Constipation
 - Rectal bleeding
 
@@ -60,6 +60,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Abnormal uterine bleeding</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Chronic pelvic pain, aggravated during menses</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Globular, uniformly enlarged uterus that is soft but tender on palpation</span>
+		- Differ from [[./Uterine leiomyoma|Uterine leiomyoma]], which shows irregularly enlarged, firm uterine
 - Diagnostics
 	- Diagnosis is clinical and may be supported by transvaginal ultrasound and MRI findings
 		- Asymmetric myometrial wall thickening 
