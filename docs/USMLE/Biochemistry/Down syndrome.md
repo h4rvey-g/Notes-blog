@@ -15,7 +15,18 @@ share: true
 
 ---
 # Etiology
-
+## Full [[./Autosomal trisomies|trisomy]] 21 (∼ 95% of cases)
+- Definition: three complete copies of chromosome 21 are present in all cells, with a total of 47 chromosomes
+- Pathogenesis: <span style="background:rgba(240, 200, 0, 0.2)">meiotic nondisjunction</span>
+- Karyotype: ♀: 47,XX,+21 or ♂: 47,XY,+21
+## Translocation [[./Autosomal trisomies|trisomy]] 21 (3–4% of cases)
+- Definition: <span style="background:rgba(240, 200, 0, 0.2)">three copies of chromosome 21 are present, one of which is attached to another chromosome, usually chromosome 14</span> (less likely attached to chromosomes 13, 15, or 22)
+- Pathogenesis and karyotype
+	- Balanced Robertsonian translocation: translocation of the long arm of chromosome 21 to the long arm of chromosome 14. Not symptomatic, but can affect future generations![[../../assets/img/Pasted image 20240214223619.png|Pasted image 20240214223619.png]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Unbalanced Robertsonian translocation: clinical features of trisomy 21 caused by inheritance of a translocation chromosome and a normal chromosome</span>![[../../assets/img/Pasted image 20240214223629.png|Pasted image 20240214223629.png]]
+## Mosaic [[./Autosomal trisomies|trisomy]] 21 (1–2% of cases)
+- Definition: <span style="background:rgba(240, 200, 0, 0.2)">two cell lines are present</span>, the [[./Autosomal trisomies|trisomy]] 21 cell line and the normal cell line
+- Phenotypic expression varies according to the ratio of healthy to trisomic cells.
 
 ---
 # Pathophysiology
@@ -38,6 +49,10 @@ share: true
 - Skeletal features
 	- Atlantoaxial instability
 	- <span style="background:rgba(240, 200, 0, 0.2)">Short stature</span>
+## Organ malformations and associated conditions
+- Gastrointestinal tract
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[../GI/Intestinal atresia|Duodenal atresia]]/stenosis</span>
+	- [[../GI/Hirschsprung disease|Hirschsprung disease]]
 
 ---
 # Diagnostics
