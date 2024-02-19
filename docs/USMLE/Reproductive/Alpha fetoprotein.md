@@ -16,4 +16,4 @@ share: true
 >[!tip] 
 >- AFP is normally produced by the fetus → transient elevation of maternal AFP levels
 >- ↑ AFP: abdominal wall defects, neural tube defects
->- ↓ AFP: associated with trisomy 21, 18, and 13 (see prenatal diagnostics for details)
+>- ↓ AFP: associated with [[../Biochemistry/Down syndrome|trisomy 21]], 18, and 13 (see prenatal diagnostics for details)
