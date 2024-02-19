@@ -23,7 +23,7 @@ share: true
 		- <span style="background:rgba(240, 200, 0, 0.2)">Physical: surgery, trauma</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Psychological</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Pregnancy</span>
-		- Thyroid overstimulation by <span style="background:rgba(240, 200, 0, 0.2)">high levels of hCG and TRAb</span> during the first trimester increases the risk of Graves disease in the first trimester of pregnancy. In the second trimester, the risk decreases due to progesterone-induced immunosuppression. The risk of Graves disease increases postpartum in susceptible patients due to a drop in progesterone level which leads to the rebound of the immune system that can trigger autoimmunity.
+		- Thyroid overstimulation by <span style="background:rgba(240, 200, 0, 0.2)">high levels of [[../Reproductive/Human chorionic gonadotropin|hCG]] and TRAb</span> during the first trimester increases the risk of Graves disease in the first trimester of pregnancy. In the second trimester, the risk decreases due to progesterone-induced immunosuppression. The risk of Graves disease increases postpartum in susceptible patients due to a drop in progesterone level which leads to the rebound of the immune system that can trigger autoimmunity.
 
 ---
 # Pathophysiology
