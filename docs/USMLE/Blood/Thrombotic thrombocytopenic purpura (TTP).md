@@ -3,7 +3,8 @@ title: Thrombotic thrombocytopenic purpura (TTP)
 author: Harvey Guo
 created: <% tp.file.creation_date() %>
 modified: <% tp.file.last_modified_date() %>
-aliases: <% tp.file.title %>
+aliases:
+  - TTP
 share: true
 ---
 
@@ -11,6 +12,9 @@ share: true
 # Etiology
 ADAMTS13 deficiency
 # Pathophysiology
+>[!Mnemonic] 
+>ADAMTS13 deficiency → excess vWF → microthrombus formation → blockage of small vessels → RBC fragmentation (hemolysis) and end-organ damage
+
 TTP is a thrombotic microangiopathy, a condition in which microthrombi form and occlude the microvasculature. 
 1. Autoantibodies or gene mutations → <span style="background:rgba(240, 200, 0, 0.2)">deficiency of ADAMTS13  (a metalloprotease that cleaves von Willebrand factor)</span>
 2. ↓ Breakdown of vWF multimers → <span style="background:rgba(240, 200, 0, 0.2)">vWF multimers accumulate on endothelial cell surfaces </span>
@@ -18,8 +22,6 @@ TTP is a thrombotic microangiopathy, a condition in which microthrombi form and 
 4. Microthrombi → fragmentation of RBCs with schistocyte formation → <span style="background:rgba(240, 200, 0, 0.2)">hemolytic anemia</span>
 5. Arteriolar and capillary microthrombosis → end-organ ischemia and damage, especially in the brain and kidneys (potentially resulting in [[../Renal/Acute kidney injury|acute kidney injury]] or stroke)
 
->[!Mnemonic] 
->ADAMTS13 deficiency → excess vWF → microthrombus formation → blockage of small vessels → RBC fragmentation (hemolysis) and end-organ damage
 
 
 ---
