@@ -12,7 +12,7 @@ share: true
 ![[../../assets/img/Pasted image 20230620213926.png|800]]
 The differential diagnosis of a regular narrow tachycardia in general includes 5 major mechanisms: 
 - Sinus tachycardia 
-- AVNRT 
+- [[./Supraventricular tachycardia|AVNRT]] 
 - Atrial tachycardia 
 - Orthodromic atrio-ventricular reentrant tachycardia (AVRT) involving retrograde conduction over a "concealed" bypass tract 
 - [[./Atrial flutter|Atrial flutter]] with 2:1 block
@@ -160,7 +160,7 @@ Thus,
 - **P mitrale (widened and biphasic P wave): Mitral stenosis, causing left atrium hypertrophy**
 - **Peaked P wave: Pulmonary hypertension, causing right atrium hypertrophy**
 ![[../../assets/img/Pasted image 20230620211202.png|Pasted image 20230620211202.png]]
-In AVNRT, The <mark style="background: #FFF3A34A;">retrograde P</mark> wave (or Atrial echo) **shows up at the end of the QRS**. Best observed in lead II or III. Also, <mark style="background: #FFF3A34A;">Retrograde P</mark> wave (aka pseudo-R' wave) is seen in V1.
+In [[./Supraventricular tachycardia|AVNRT]], The <mark style="background: #FFF3A34A;">retrograde P</mark> wave (or Atrial echo) **shows up at the end of the QRS**. Best observed in lead II or III. Also, <mark style="background: #FFF3A34A;">Retrograde P</mark> wave (aka pseudo-R' wave) is seen in V1.
 ![[../../assets/img/127701f042d46e7958a823fce6249be.jpg|127701f042d46e7958a823fce6249be.jpg]]
 
 ## ST segment
@@ -204,6 +204,6 @@ The QT interval includes the QRS complex, the ST segment, and the T wave.
 ## Rates
 - [[./Atrial flutter|Atrial flutter]]: 250-300/min -- about 1 small block
 - [[./Atrial fibrillation|Atrial fibrillation]]: 350-400/min -- less than 1 small block
-- Atrial tachycardia, AVNRT: 130-240 -- 1-2 small block
+- Atrial tachycardia, [[./Supraventricular tachycardia|AVNRT]]: 130-240 -- 1-2 small block
 - Ventricular tachycardia: >100 -- less than 3 small blocks
 
