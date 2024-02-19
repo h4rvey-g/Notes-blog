@@ -35,7 +35,7 @@ share: true
 - Arthritis (30–70%)
 
 >[!Mnemonic] 
->PATHERGY: Positive pathergy test, Aphthous oral ulcers, Thrombosis (arterial and venous), Hemoptysis (pulmonary artery aneurysm), Eye lesions (uveitis, retinal vasculitis), Recurrent Genital ulcers, Young at presentation (3rd decade)
+>PATHERGY: Positive pathergy test, Aphthous oral ulcers, Thrombosis (arterial and venous), Hemoptysis (pulmonary artery aneurysm), Eye lesions (uveitis, retinal vasculitis), Recurrent [[../Infective disease/Genital ulcers|Genital ulcers]], Young at presentation (3rd decade)
 
 
 ---
