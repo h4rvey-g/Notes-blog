@@ -39,7 +39,7 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">↓ Risk of endometrial cancer and uterine sarcoma</span>
 # Clomiphene
 ## Mechanism of action
-- Blocks hypothalamic estrogen receptors, thereby inhibiting negative feedback and increasing release of FSH and LH to trigger ovulation
+- <span style="background:rgba(240, 200, 0, 0.2)">Blocks hypothalamic estrogen receptors, thereby inhibiting negative feedback and increasing release of FSH and LH to trigger ovulation</span>
 ## Indications
 - Infertility (for ovulation induction)
 ## Side effects

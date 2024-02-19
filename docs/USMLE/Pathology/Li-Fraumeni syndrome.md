@@ -9,10 +9,10 @@ share: true
 Autosomal dominant mutation of the <span style="background:rgba(240, 200, 0, 0.2)">p53 tumor suppressor gene</span>
 - Pathophysiology
 	- One abnormal copy of the TP53 gene is inherited.
-	- If the second allele is somatically mutated or deleted (loss of heterozygosity), it results in unregulated cell proliferation and cancer.
+	- If the <span style="background:rgba(240, 200, 0, 0.2)">second allele</span> is somatically mutated or deleted (<span style="background:rgba(240, 200, 0, 0.2)">loss of heterozygosity</span>), it results in unregulated cell proliferation and cancer.
 - Clinical features: <span style="background:rgba(240, 200, 0, 0.2)">multiple malignancies at an early age</span>
-	- Breast cancer
+	- <span style="background:rgba(240, 200, 0, 0.2)">Breast cancer</span>
 	- Osteosarcoma
 	- Leukemia, lymphoma
-	- Brain tumors
+	- [[../Neurology/Brain tumors|Brain tumors]]
 	- Adrenocortical carcinoma

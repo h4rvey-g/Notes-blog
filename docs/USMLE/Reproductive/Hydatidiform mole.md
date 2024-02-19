@@ -32,11 +32,11 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Uterus size greater</span> than normal for gestational age
 - Pelvic pressure or pain
 - Passage of vesicles with grape-like appearance
-- β-hCG-mediated endocrine conditions
-	- Theca lutein cysts
+- [[./Human chorionic gonadotropin|β-hCG]]-mediated endocrine conditions
+	- <span style="background:rgba(240, 200, 0, 0.2)">Theca lutein cysts</span>
 	- Preeclampsia (before the 20th week of gestation)
 	- Hyperemesis gravidarum
-	- [[../Endocrine/Hyperthyroidism|Hyperthyroidism]]: Very high amounts of hCG may lead to [[../Endocrine/Hyperthyroidism|hyperthyroidism]] because the α-subunit of hCG structurally resembles TSH.
+	- [[../Endocrine/Hyperthyroidism|Hyperthyroidism]]: Very high amounts of hCG may lead to [[../Endocrine/Hyperthyroidism|hyperthyroidism]] because the α-subunit of [[./Human chorionic gonadotropin|hCG]] structurally resembles TSH.
 
 ---
 # Diagnostics

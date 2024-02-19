@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-09-25 15:15
 modified: 2023-09-25 15:15
-aliases: Untitled
+aliases:
+  - BPH
 share: true
 ---
 
@@ -27,7 +28,7 @@ share: true
 ## Serum [[./Prostate-specific antigen|PSA]] level
 - Findings
 	- Total [[./Prostate-specific antigen|PSA]] > 1.5 ng/mL: suggests an enlarged prostate (> 40 mL) 
-	- Total [[./Prostate-specific antigen|PSA]] > 4 ng/mL: increased likelihood of prostate cancer
+	- Total [[./Prostate-specific antigen|PSA]] > 4 ng/mL: increased likelihood of [[./Prostate cancer|prostate cancer]]
 - Free PSA levels and free PSA/total PSA ratio
 	- ↑ Free PSA levels and ↑ free PSA/total PSA ratio: usually seen in BPH
 	- ↓ Free PSA levels and ↓ free PSA/total PSA ratio: suggestive of [[./Prostate cancer|prostate cancer]]
@@ -43,3 +44,10 @@ share: true
 >-steride (“testosterone reductase inhibitor”)
 
 ---
+# Complications
+- Recurrent UTI 
+	- BPH → incomplete voiding → urinary stasis → predisposition to UTIs
+- Urinary retention with bladder distension and bladder wall thickening (hypertrophy)
+- Bladder calculi
+- <span style="background:rgba(240, 200, 0, 0.2)">Hydronephrosis</span>
+- Chronic kidney disease

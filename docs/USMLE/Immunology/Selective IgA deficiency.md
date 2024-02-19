@@ -13,7 +13,7 @@ share: true
 	- Often asymptomatic
 	- May manifest with <span style="background:rgba(240, 200, 0, 0.2)">[[../Respiratory/Sinusitis|sinusitis]] or respiratory infections (S. pneumoniae, H. influenzae)</span>, seen in childhood
 	- <span style="background:rgba(240, 200, 0, 0.2)">Chronic [[../GI/Diarrhea|diarrhea]], partially due to elevated susceptibility to parasitic infection (e.g. by Giardia lamblia)</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Associated with autoimmune diseases</span> (e.g., [[../GI/Celiac disease|gluten-sensitive enteropathy]], inflammatory bowel disease, immune thrombocytopenia) and [[../Respiratory/Atopy|atopy]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Associated with autoimmune diseases</span> (e.g., [[../GI/Celiac disease|gluten-sensitive enteropathy]], inflammatory bowel disease, [[../Blood/Immune thrombocytopenia (ITP)|immune thrombocytopenia]]) and [[../Respiratory/Atopy|atopy]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anaphylactic reaction to products containing IgA (e.g., intravenous immunoglobulin)</span>
 
 >[!tip] 

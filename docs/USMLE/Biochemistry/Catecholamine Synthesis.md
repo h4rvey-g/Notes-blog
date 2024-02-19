@@ -2,13 +2,13 @@
 author: Harvey Guo
 created: 2023-11-07 14:36
 modified: 2023-11-07 14:36
-aliases: Untitled
+aliases: []
 share: true
 ---
 
 
 ![[../../assets/img/Pasted image 20231113173155.png|Pasted image 20231113173155.png]]![[../../assets/img/Pasted image 20231107143619.png|Pasted image 20231107143619.png]]
-# Alkaptonuria
+# [[../Endocrine/Alkaptonuria|Alkaptonuria]]
 - [[../Renal/Urine color|Dark urine]]
 - Arthralgia
 - Discolored face

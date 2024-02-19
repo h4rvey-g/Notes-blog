@@ -36,10 +36,11 @@ Symptoms depend on the number, size, and location of leiomyomas. <span style="ba
 - Features of mass effect
 	- <span style="background:rgba(240, 200, 0, 0.2)">Enlarged, firm and irregular uteru</span>s during bimanual pelvic examination 
 		- Size can range from normal to full-term gestation
+		- Differ from [[./Endometriosis|Adenomyosis]], which shows globular, <span style="background:rgba(240, 200, 0, 0.2)">uniformly enlarged</span> uterus that is soft but tender on palpation
 	- <span style="background:rgba(240, 200, 0, 0.2)">Back or pelvic pain/discomfort </span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Urinary tract or bowel symptoms</span> (e.g., urinary frequency/retention/incontinence, constipation, features of hydronephrosis) 
 - Reproductive abnormalities
-	- <span style="background:rgba(240, 200, 0, 0.2)">Infertility (difficulty conceiving and increased risk of pregnancy loss) </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Infertility (difficulty conceiving and increased risk of [[./Pregnancy|pregnancy]] loss) </span>
 		- Related to an obstructed uterine cavity and/or impaired contractility of the uterus.
 	- Dyspareunia 
 

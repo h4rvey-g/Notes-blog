@@ -41,7 +41,7 @@ share: true
 ## Overflow incontinence
 ### Mechanism
 - Impaired (weak) detrusor contractility
-- Bladder outlet obstruction (e.g., BPH)
+- Bladder outlet obstruction (e.g., [[./Benign prostatic hyperplasia|BPH]])
 - Both mechanisms can lead to incomplete bladder emptying → bladder overfilling → <mark style="background: #FFF3A34A;">chronically distended bladder with ↑ bladder pressure → dribbling of urine (leak) when intravesical pressure > outlet resistance</mark>
 ### Clinical features
 - Frequent, involuntary intermittent/continuous dribbling of urine in the absence of an urge to urinate

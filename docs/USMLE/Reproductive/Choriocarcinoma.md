@@ -21,9 +21,9 @@ share: true
 		- <span style="background:rgba(240, 200, 0, 0.2)">Dyspnea, cough, or hemoptysis from metastases in the lungs</span>
 		- Seizures, [[../Neurology/Headaches|headaches]] from metastases in the brain
 		- Visible vascular lesions from metastases to the vagina
-	- β-hCG-mediated endocrine conditions (e.g., [[../Endocrine/Hyperthyroidism|hyperthyroidism]], theca lutein cysts)
+	- [[./Human chorionic gonadotropin|β-hCG]]-mediated endocrine conditions (e.g., [[../Endocrine/Hyperthyroidism|hyperthyroidism]], theca lutein cysts)
 - Diagnostics
-	- β-HCG levels: very high (initial test of choice)
+	- [[./Human chorionic gonadotropin|β-HCG]] levels: very high (initial test of choice)
 	- Chest x-ray
 		- Asses for lung metastases 
 		- <span style="background:rgba(240, 200, 0, 0.2)">“Cannonball metastases” (hematogenous spread → multiple nodules in the lung)</span>![[../../assets/img/Pasted image 20240201104048.png|Pasted image 20240201104048.png]]![[../../assets/img/Pasted image 20240201104054.png|Pasted image 20240201104054.png]]

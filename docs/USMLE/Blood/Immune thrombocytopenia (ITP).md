@@ -3,19 +3,20 @@ title: Immune thrombocytopenia (ITP)
 author: Harvey Guo
 created: <% tp.file.creation_date() %>
 modified: <% tp.file.last_modified_date() %>
-aliases: <% tp.file.title %>
+aliases:
+  - ITP
 share: true
 ---
 
 
 ![[../../assets/img/Pasted image 20230623160626.png|Pasted image 20230623160626.png]]
 # Etiology
-- Primary ITP: idiopathic (most common)  [6]
+- Primary ITP: idiopathic (most common) 
 - Secondary ITP associated with:
-	- Autoimmune disorders: SLE, [[../MSK/Antiphospholipid syndrome|Antiphospholipid syndrome]]
+	- Autoimmune disorders: [[../Immunology/Systemic lupus erythematosus|SLE]], [[../MSK/Antiphospholipid syndrome|Antiphospholipid syndrome]]
 	- Malignancy: lymphoma, leukemia (particularly CLL)
 	- Infection: HIV, HCV
-	- Drugs: e.g., quinine, beta-lactam antibiotics, carbamazepine, heparin, vaccines, linezolid, sulfonamides, vancomycin, TMP-SMX, antiepileptics  [7]
+	- Drugs: e.g., quinine, beta-lactam antibiotics, carbamazepine, heparin, vaccines, linezolid, sulfonamides, vancomycin, TMP-SMX, antiepileptics
 
 <mark style="background: #BBFABBA6;">The acute form is typically seen in children after a viral disease.</mark>
 # Pathophysiology

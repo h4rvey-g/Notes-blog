@@ -7,8 +7,8 @@ share: true
 ---
 
 # Epidemiology
-- Incidence: following skin cancer (i.e., melanoma and nonmelanoma combined) <span style="background:rgba(240, 200, 0, 0.2)">most common cancer in men</span> in the US
-- Mortality: in 2020, <span style="background:rgba(240, 200, 0, 0.2)">second leading cause of cancer deaths</span> in men in the US (after lung cancer)
+- Incidence: following skin cancer (i.e., [[../MSK/Melanoma|melanoma]] and nonmelanoma combined) <span style="background:rgba(240, 200, 0, 0.2)">most common cancer in men</span> in the US
+- Mortality: in 2020, <span style="background:rgba(240, 200, 0, 0.2)">second leading cause of cancer deaths</span> in men in the US (after [[../Respiratory/Lung cancer|lung cancer]])
 
 ---
 # Etiology
@@ -20,7 +20,12 @@ share: true
 
 ---
 # Clinical features
-
+- Advanced prostate cancer can manifest with:
+	- Constitutional symptoms: fatigue, loss of appetite, clinically significant unintentional weight loss
+	- Features of metastatic disease; examples include:
+		- <span style="background:rgba(240, 200, 0, 0.2)">Bone pain (due to [[../MSK/Bone metastasis|bone metastasis]], especially in the lumbosacral spine)</span>
+		- Neurological deficits (e.g., due to vertebral fracture causing spinal cord compression) 
+		- Lymphedema (caused by obstructing metastases in the lymph nodes)
 
 ---
 # Diagnostics
@@ -42,7 +47,7 @@ share: true
 - Indication: adjunct to ADT in locally advanced and metastatic prostate cancer
 - Androgen receptor antagonists (antiandrogen therapy)
 	- Mechanism of action: displaces androgens from androgen receptors
-	- Commonly used agents: apalutamide and enzalutamide (second-generation antiandrogens)
+	- Commonly used agents: <span style="background:rgba(240, 200, 0, 0.2)">apalutamide and enzalutamide (second-generation antiandrogens)</span>
 
 >[!tip] 
 ><span style="background:rgba(240, 200, 0, 0.2)">First-generation antiandrogens (flutamide and bicalutamide) are used only for the short-term management of a testosterone flare.</span>
