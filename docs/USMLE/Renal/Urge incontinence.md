@@ -2,7 +2,7 @@
 author: Harvey Guo
 created: 2023-08-22 15:21
 modified: 2023-08-22 15:21
-aliases: Untitled
+aliases: []
 share: true
 ---
 
@@ -31,6 +31,6 @@ The condition is caused by sensory or motor dysfunction.
 ---
 # Treatment
 >[!Mnemonic] 
-> Oxybutynin treats Overactive bladder.
+> <font color="#ffc000">O</font>xybutynin treats <font color="#ffc000">O</font>veractive bladder.
 
 ---
