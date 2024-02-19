@@ -23,7 +23,7 @@ share: true
 - Age > 50 years
 - Inherited genetic syndromes (10% of pancreatic cancers)
 	- Familial atypical multiple mole melanoma (FAMMM) syndrome
-	- Hereditary breast and ovarian cancer syndrome (BRCA1 and BRCA2 mutations)
+	- Hereditary breast and [[../Reproductive/Ovarian cancer|ovarian cancer]] syndrome (BRCA1 and BRCA2 mutations)
 	- HNPCC
 	- Von-Hippel-Lindau syndrome
 	- Neurofibromatosis type 1
