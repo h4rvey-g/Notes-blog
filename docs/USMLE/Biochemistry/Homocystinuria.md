@@ -44,7 +44,7 @@ Definition: a group of inherited genetic disorders characterized by impaired hom
 >[!tip] 
 >[[../Pathology/Ehlers-Danlos syndrome and Marfan syndrome|Marfan syndrome]] and homocystinuria both present with [[./Marfanoid features|marfanoid habitus]]. <span style="background:rgba(240, 200, 0, 0.2)">Distinguishing features include intellectual disability, which is only seen in homocystinuria, and the direction of lens dislocation (downwards in homocystinuria and upwards in [[../Pathology/Ehlers-Danlos syndrome and Marfan syndrome|Marfan syndrome]]).</span>
 - [[../MSK/Osteoporosis|Osteoporosis]]
-- Cardiovascular complications like thromboembolism, premature arteriosclerosis, and [[../Cardiology/Coronary artery disease|coronary heart disease]] increase the risk of myocardial infarction and stroke
+- Cardiovascular complications like thromboembolism, premature [[../Cardiology/Atherosclerosis|arteriosclerosis]], and [[../Cardiology/Coronary artery disease|coronary heart disease]] increase the risk of myocardial infarction and stroke
 
 ---
 # Diagnostics
