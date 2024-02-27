@@ -24,7 +24,7 @@ share: true
 
 ---
 # Pathophysiology
-Hypothesized pathophysiological mechanism: exposure to allergen/antigen (e.g., infection, drugs) → stimulation of IgA production → <span style="background:rgba(240, 200, 0, 0.2)">deposition of IgA immune complexes in vascular walls (e.g., in the skin, GI tract, joints, kidneys) → activation of complement → vascular inflammation and damage</span>![[../../assets/img/Pasted image 20231029162851.png|Pasted image 20231029162851.png]]
+Hypothesized pathophysiological mechanism: exposure to allergen/antigen (e.g., infection, drugs) → stimulation of IgA production → <span style="background:rgba(240, 200, 0, 0.2)">deposition of IgA immune complexes in vascular walls (e.g., in the skin, GI tract, joints, kidneys) → activation of [[../Immunology/Complement system|complement]] → vascular inflammation and damage</span>![[../../assets/img/Pasted image 20231029162851.png|Pasted image 20231029162851.png]]
 
 ---
 # Clinical features
