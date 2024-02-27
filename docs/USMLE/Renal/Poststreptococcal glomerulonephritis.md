@@ -16,7 +16,7 @@ Prior infection with group A beta-hemolytic streptococci (GAS)
 
 ---
 # Pathophysiology
-Infection with nephritogenic strains of group A beta-hemolytic streptococci → <span style="background:rgba(240, 200, 0, 0.2)">immune complexes</span> containing the streptococcal antigen deposit within the <span style="background:rgba(240, 200, 0, 0.2)">glomerular basement membrane (Type III hypersensitivity reaction)</span> → <span style="background:rgba(240, 200, 0, 0.2)">complement activation</span> (↑ consumption of complement factors) → destruction of the glomeruli → immune complex-mediated glomerulonephritis and [[./Nephritic syndrome|nephritic syndrome]]
+Infection with nephritogenic strains of group A beta-hemolytic streptococci → <span style="background:rgba(240, 200, 0, 0.2)">immune complexes</span> containing the streptococcal antigen deposit within the <span style="background:rgba(240, 200, 0, 0.2)">glomerular basement membrane (Type III hypersensitivity reaction)</span> → <span style="background:rgba(240, 200, 0, 0.2)">[[../Immunology/Complement system|complement]] activation</span> (↑ consumption of [[../Immunology/Complement system|complement]] factors) → destruction of the glomeruli → immune complex-mediated glomerulonephritis and [[./Nephritic syndrome|nephritic syndrome]]
 
 ---
 # Clinical features
