@@ -20,7 +20,7 @@ share: true
 
 ---
 # Pathophysiology
-Anti-phospholipase A2 receptor antibodies (anti-PLA2R antibodies) bind to PLA2R (an autoantigen in glomerular podocytes) and thereby form immune complexes that activate the complement system, leading to podocyte injury.
+Anti-phospholipase A2 receptor antibodies (anti-PLA2R antibodies) bind to PLA2R (an autoantigen in glomerular podocytes) and thereby form immune complexes that activate the [[../Immunology/Complement system|complement system]], leading to podocyte injury.
 
 ---
 # Clinical features

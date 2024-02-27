@@ -2,13 +2,15 @@
 author: Harvey Guo
 created: 2023-12-17 10:17
 modified: 2023-12-17 10:17
-aliases: []
+aliases:
+  - Pyruvate dehydrogenase deficiency
 share: true
 ---
 
 - Definition: inherited genetic disorder characterized by impaired [[./Pyruvate metabolism|pyruvate metabolism]]
 - Inheritance: X-linked recessive or autosomal recessive
 - Pathophysiology
+	- Why is it called pyruvate dehydrogenase? Because it takes the hydrogen from carbon and thus oxidizing it.![[../../assets/img/Pasted image 20240223102745.png|Pasted image 20240223102745.png]]
 	- Absent pyruvate dehydrogenase complex (PDC) → <span style="background:rgba(240, 200, 0, 0.2)">impaired conversion of pyruvate to acetyl-CoA</span> → reduced production of citrate → impaired citric acid cycle → <span style="background:rgba(240, 200, 0, 0.2)">energy deficit (especially in the CNS) → neurological dysfunction</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Excess pyruvate is further metabolized in the Cahill cycle to the following</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Lactate via lactate dehydrogenase</span>
@@ -24,8 +26,8 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Alanine in serum and urine</span>
 - Treatment
 	- Acute: correction of acidosis
-	- Long-term: ketogenic diet
+	- <span style="background:rgba(240, 200, 0, 0.2)">Long-term: ketogenic diet</span>
 		- High in fat, low in carbohydrates
-		- High in ketogenic amino acids (lysine and leucine) 
+		- <span style="background:rgba(240, 200, 0, 0.2)">High in ketogenic amino acids (lysine and leucine) </span>
 		- Avoidance of glucogenic acids (e.g., valine)
 	  - <span style="background:rgba(240, 200, 0, 0.2)">Avoid glucogenic amino acids: Methionine, histidine, valine.</span>

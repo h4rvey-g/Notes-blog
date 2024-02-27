@@ -15,7 +15,7 @@ share: true
 # Etiology
 - The primary (idiopathic) form is most common, with age as a major risk factor.
 - Secondary forms
-	- Joint trauma/damage: including joint surgery, previous juvenile idiopathic arthritis, and [[./Osteoarthritis|Osteoarthritis]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Joint trauma/damage: including joint surgery, previous juvenile idiopathic arthritis, and [[./Osteoarthritis|Osteoarthritis]]</span>
 	- Metabolic disorders: including [[../Endocrine/Hyperparathyroidism|hyperparathyroidism]], [[../Blood/Hemochromatosis|hemochromatosis]], hypomagnesemia, hypophosphatasia, and possibly [[./Gout|gout]]
 	- Familial chondrocalcinosis: due to mutations in the CCAL1 or CCAL2 genes
 
@@ -48,6 +48,7 @@ Deposition of calcium pyrophosphate dihydrate (CPP or CPPD) crystals in articula
 ---
 # Diagnostics
 ## [[./Arthrocentesis|Arthrocentesis]] and synovial fluid analysis (SFA)
+- Cloudy fluid
 - Polarized light microscopy (with a red filter) appearance of CPP crystals
 	- <span style="background:rgba(240, 200, 0, 0.2)">Rhomboid-shaped crystals that are weakly positively birefringent</span>
 	- Crystals appear blue when their optical axis is oriented parallel to the polarizer.

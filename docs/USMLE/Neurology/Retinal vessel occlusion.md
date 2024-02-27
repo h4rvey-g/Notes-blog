@@ -15,10 +15,10 @@ share: true
 # Etiology
 ## Retinal artery occlusion
 - Embolism
-	- Release of thrombotic emboli as a result of carotid artery atherosclerosis (most common)
+	- Release of thrombotic emboli as a result of carotid artery [[../Cardiology/Atherosclerosis|atherosclerosis]] (most common)
 ## Retinal vein occlusion
 - Systemic diseases
-	- Atherosclerosis
+	- [[../Cardiology/Atherosclerosis|Atherosclerosis]]
 	- Hypertension
 	- [[../Endocrine/Diabetes mellitus|Diabetes mellitus]]
 

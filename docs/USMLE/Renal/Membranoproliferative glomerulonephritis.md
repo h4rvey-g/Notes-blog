@@ -12,4 +12,4 @@ share: true
 # Classifications
 - Immunoglobulin (IG)-mediated membranoproliferative glomerulonephritis (type 1 MPGN)
 	- Associated with [[../Immunology/Systemic lupus erythematosus|SLE]], monoclonal gammopathy
-- Complement-mediated membranoproliferative glomerulonephritis (type 2 MPGN: associated with dense deposit disease (IgG antibodies that stabilize C3 convertase, i.e., C3 nephritic factor, cause a persistent complement activation, leading to a depletion of C3)
+- [[../Immunology/Complement system|Complement]]-mediated membranoproliferative glomerulonephritis (type 2 MPGN: associated with dense deposit disease (IgG antibodies that stabilize C3 convertase, i.e., C3 nephritic factor, cause a persistent [[../Immunology/Complement system|complement]] activation, leading to a depletion of C3)

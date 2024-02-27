@@ -28,10 +28,10 @@ share: true
 		- Disorientation, impaired vigilance, and cognitive deficits
 	2. Oculomotor dysfunction 
 		- Due to involvement of the [[./Oculomotor nerve palsy (III)|CN III]], CN IV, and CN VI nuclei
-		- <span style="background:rgba(240, 200, 0, 0.2)">Gaze-induced horizontal/vertical nystagmus (most common)</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Gaze-induced horizontal/vertical [[./Internuclear ophthalmoplegia|nystagmus]] (most common)</span>
 		- Diplopia 
 		- Conjugate gaze palsy
-	3. <span style="background:rgba(240, 200, 0, 0.2)">Gait ataxia: wide-based, small steps </span>
+	3. <span style="background:rgba(240, 200, 0, 0.2)">[[./Gait|Gait]] ataxia: wide-based, small steps </span>
 		- Due to a combination of peripheral neuropathy, vestibular dysfunction, and cerebellar dysfunction
 		- <span style="background:rgba(240, 200, 0, 0.2)">[[./Romberg test|Romberg test]] positive</span>
 

@@ -22,3 +22,4 @@ share: true
 | 11  | <font color="#ffc000">J</font>uggs  | <font color="#ffc000">J</font>ugular Foramen          |
 | 12  | <font color="#ffc000">H</font>oney  | <font color="#ffc000">H</font>ypoglossal Canal        |
 
+CN V![[../../assets/img/Pasted image 20240219180217.png|Pasted image 20240219180217.png]]

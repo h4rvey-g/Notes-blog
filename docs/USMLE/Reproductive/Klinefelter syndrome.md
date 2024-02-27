@@ -26,7 +26,7 @@ share: true
 # Clinical features
 ![[../../assets/img/Pasted image 20240207164358.png|Pasted image 20240207164358.png]]
 - Associated disorders
-	- Mitral valve prolapse
+	- [[../Cardiology/Mitral valve prolapse|Mitral valve prolapse]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Increased risk of breast and testicular cancer</span>
 		- Due to increased estrogen
 

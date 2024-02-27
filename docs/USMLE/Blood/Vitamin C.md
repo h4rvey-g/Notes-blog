@@ -49,7 +49,7 @@ severe malnutrition (e.g., due to alcoholism, illicit drug use, and/or psychiatr
 ---
 # Vitamin C toxicity
 - Nausea, vomiting
-- Diarrhea, bloating
+- [[../GI/Diarrhea|Diarrhea]], bloating
 - Fatigue
 - <span style="background:rgba(240, 200, 0, 0.2)">↑ Risk of iron toxicity in [[./Transfusion|transfusion]] patients and hereditary [[./Hemochromatosis|hemochromatosis]]</span> due to increased absorption of dietary iron 
 - <span style="background:rgba(240, 200, 0, 0.2)">[[../Renal/Nephrolithiasis|Nephrolithiasis]] due to ↑ calcium oxalate formation</span>

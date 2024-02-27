@@ -24,7 +24,7 @@ share: true
 	- Efferent limb of the [[./Pupillary light reflex|pupillary light reflex]]
 - Accommodation: ciliary muscle
 >[!tip] 
-><span style="background:rgba(240, 200, 0, 0.2)">Parasympathetic fibers of CN III are located superficially and motor fibers are located centrally. Parasympathetic fibers are more susceptible to compressive lesions (e.g., uncal herniation, aneurysm of the posterior communicating artery). Motor fibers are more susceptible to ischemia (e.g., [[../MSK/Vasculitides|vasculitis]], [[../Endocrine/Diabetes mellitus|diabetes]], atherosclerosis).</span>
+><span style="background:rgba(240, 200, 0, 0.2)">Parasympathetic fibers of CN III are located superficially and motor fibers are located centrally. Parasympathetic fibers are more susceptible to compressive lesions (e.g., uncal herniation, aneurysm of the posterior communicating artery). Motor fibers are more susceptible to ischemia (e.g., [[../MSK/Vasculitides|vasculitis]], [[../Endocrine/Diabetes mellitus|diabetes]], [[../Cardiology/Atherosclerosis|atherosclerosis]]).</span>
 
 ---
 # Etiology

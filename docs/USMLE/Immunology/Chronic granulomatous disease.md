@@ -12,19 +12,24 @@ X-linked recessive or autosomal recessive inheritance (2:1)
 
 ---
 # Pathophysiology
-Defective phagocytic nicotinamide adenine dinucleotide phosphate (NADPH) oxidase that results in:
+<span style="background:rgba(240, 200, 0, 0.2)">Defective phagocytic nicotinamide adenine dinucleotide phosphate (NADPH) oxidase</span> that results in:
 - Decreased respiratory burst in neutrophils
 
 ---
 # Clinical features
-- Recurrent, severe infections (chronic skin, lymph node, bone, respiratory, GI, and urinary tract infections) with <mark style="background: #FFF3A34A;">catalase-positive organisms</mark> (S. aureus, Nocardia spp., Escherichia coli, Candida, Klebsiella, Pseudomonas, Aspergillus, Serratia)
+- Recurrent, severe infections (chronic skin, lymph node, bone, respiratory, GI, and [[../Renal/Urinary tract infections|urinary tract infections]]) with <mark style="background: #FFF3A34A;">catalase-positive organisms</mark>
+	- Staphylococcus aureus
+	- <span style="background:rgba(240, 200, 0, 0.2)">Burkholderia cepacia</span>
+	- Serratia marcescens
+	- Nocardia
+	- Aspergillus
 - Lymphadenopathy
 - Granulomas of the skin and GI/GU tract
 
 ---
 # Diagnostics
 - Neutrophil assay
-	- Dihydrorhodamine test (DHR): flow cytometry test showing abnormal NADPH oxidase activity (inability to metabolize dihydrorhodamine to fluorescent product, rhodamine → decreased green fluorescence)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Dihydrorhodamine test (DHR): flow cytometry test showing abnormal NADPH oxidase activity</span> (inability to metabolize dihydrorhodamine to fluorescent product, rhodamine → decreased green fluorescence)
  - Nitroblue tetrazolium dye reduction test: negative
 
 ---

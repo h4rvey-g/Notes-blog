@@ -28,7 +28,7 @@ share: true
 	- Pauci-immune <span style="background:rgba(240, 200, 0, 0.2)">glomerulonephritis</span> (Pauci‑immune indicates that there is little evidence of immune complex/antibody deposits.) → rapidly progressive (crescentic) glomerulonephritis ([[../Renal/Rapidly progressive glomerulonephritis|RPGN]]) with possible pulmonary-renal syndrome
 
 >[!tip] 
->Classic <span style="background:rgba(240, 200, 0, 0.2)">GPA triad: necrotizing vasculitis of small arteries, upper/lower respiratory tract manifestations, and glomerulonephritis</span>![[../../assets/img/Pasted image 20231209150554.png|Pasted image 20231209150554.png]]
+>Classic <span style="background:rgba(240, 200, 0, 0.2)">GPA triad: necrotizing [[../MSK/Vasculitides|vasculitis]] of small arteries, upper/lower respiratory tract manifestations, and glomerulonephritis</span>![[../../assets/img/Pasted image 20231209150554.png|Pasted image 20231209150554.png]]
 
 
 >[!Mnemonic] Granulomatosis with polyangiitis (Wegener granulomatosis)
@@ -46,7 +46,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Multiple bilateral cavitating nodular lesions</span>![[../../assets/img/Pasted image 20231209150857.png|Pasted image 20231209150857.png]]
 - Biopsy
 	- Necrosis
-	- Vasculitis of small and medium-sized vessels
+	- [[../MSK/Vasculitides|Vasculitis]] of small and medium-sized vessels
 	- granulomas (mainly in the lungs and upper airways)
 	- necrotizing glomerulonephritis
 

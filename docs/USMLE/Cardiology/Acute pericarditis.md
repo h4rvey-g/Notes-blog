@@ -9,7 +9,7 @@ share: true
 
 
 ECG features of pericarditis
-Not all patients go through all stages and manifestations may vary. In particular, pericarditis due to uremia may not involve characteristic ECG changes. [16]
+Not all patients go through all stages and manifestations may vary. In particular, pericarditis due to uremia may not involve characteristic ECG changes. 
 Stage 1: <mark style="background: #FFF3A3A6;">diffuse ST elevations, ST depression in aVR and V1, PR segment depression </mark>
 Stage 2: ST segment normalizes in ∼ 1 week.
 Stage 3: inverted T waves

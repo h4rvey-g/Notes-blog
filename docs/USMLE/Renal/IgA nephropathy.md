@@ -12,7 +12,7 @@ Peak incidence: <span style="background:rgba(240, 200, 0, 0.2)">20-30 years old<
 
 ---
 # Pathophysiology
-<span style="background:rgba(240, 200, 0, 0.2)">An increased number of defective, circulating IgA antibodies are synthesized</span> <span style="background:rgba(240, 200, 0, 0.2)">(often triggered by mucosal infections, i.e., upper respiratory tract and gastrointestinal infections)</span> → <span style="background:rgba(240, 200, 0, 0.2)">IgA antibodies form immune complexes that deposit in the renal mesangium</span> → mesangial cell and complement system activation → glomerulonephritis (<span style="background:rgba(240, 200, 0, 0.2)">type III hypersensitivity reaction</span>)
+<span style="background:rgba(240, 200, 0, 0.2)">An increased number of defective, circulating IgA antibodies are synthesized</span> <span style="background:rgba(240, 200, 0, 0.2)">(often triggered by mucosal infections, i.e., upper respiratory tract and gastrointestinal infections)</span> → <span style="background:rgba(240, 200, 0, 0.2)">IgA antibodies form immune complexes that deposit in the renal mesangium</span> → mesangial cell and [[../Immunology/Complement system|complement system]] activation → glomerulonephritis (<span style="background:rgba(240, 200, 0, 0.2)">type III hypersensitivity reaction</span>)
 
 ---
 # Clinical features
@@ -32,7 +32,7 @@ Peak incidence: <span style="background:rgba(240, 200, 0, 0.2)">20-30 years old<
 # Diagnostics
 - Laboratory tests
 	- Serum IgA level is elevated in 50% of patients.
-	- Complement levels (e.g., C3 level) are generally normal.
+	- [[../Immunology/Complement system|Complement]] levels (e.g., C3 level) are generally normal.
 
  >[!tip] 
 ><span style="background:rgba(240, 200, 0, 0.2)">C3 levels help rule out [[./Poststreptococcal glomerulonephritis|poststreptococcal glomerulonephritis]], [[./Membranoproliferative glomerulonephritis|membranoproliferative glomerulonephritis]], and lupus nephritis.</span>

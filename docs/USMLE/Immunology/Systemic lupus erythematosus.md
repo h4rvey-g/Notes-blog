@@ -14,8 +14,8 @@ share: true
 # Etiology
 - Genetic predisposition
 	- HLA-DR2 and HLA-DR3 are commonly present in individuals with SLE.
-	- Genetic deficiency of classical pathway complement proteins (C1q, C2, C4) in approx. 10% of affected individuals
-- Hormonal factors: <span style="background:rgba(240, 200, 0, 0.2)">Hyperestrogenic states (e.g., due to oral contraceptive use, postmenopausal hormonal therapy</span>, endometriosis) are associated with an increased risk of SLE.
+	- Genetic deficiency of classical pathway [[./Complement system|complement]] proteins (C1q, C2, C4) in approx. 10% of affected individuals
+- Hormonal factors: <span style="background:rgba(240, 200, 0, 0.2)">Hyperestrogenic states (e.g., due to oral contraceptive use, postmenopausal hormonal therapy</span>, [[../Reproductive/Endometriosis|endometriosis]]) are associated with an increased risk of SLE.
 - Environmental factors
 	- Cigarette smoking and silica exposure increase the risk of developing SLE.
 	- <span style="background:rgba(240, 200, 0, 0.2)">UV light and EBV infection may trigger disease flares</span>, but there is insufficient evidence on whether they cause SLE.
@@ -66,6 +66,10 @@ share: true
 		- <span style="background:rgba(240, 200, 0, 0.2)">Autoantibodies against Smith antigens (nonhistone nuclear proteins)</span>
 		- Positive in < 30% of patients, but highly specific for SLE
 - Antiphospholipid antibodies: Screen all patients for [[../MSK/Antiphospholipid syndrome|antiphospholipid syndrome]].
+- Laboratory markers of disease activity and/or organ damage in SLE
+	- Complement levels: <span style="background:rgba(240, 200, 0, 0.2)">↓ C3 and/or ↓ C4 in patients with active disease, factor B levels remain normal </span>![[../../assets/img/Pasted image 20240224215441.png|Pasted image 20240224215441.png]]
+		- Antigen-antibody complexes trigger classic pathway, which decreases C3 and C4. But factor B in alternative pathway is intact.
+
 ## Skin biopsy
 - Lupus band test (LBT): a direct [[../Renal/Immunofluorescence|immunofluorescence]] staining technique used to detect immunoglobulin and complement component deposits along the dermoepidermal junction in affected and unaffected skin in patients with SLE![[../../assets/img/Pasted image 20231029092317.png|Pasted image 20231029092317.png]]
 
