@@ -14,12 +14,19 @@ share: true
 
 
 ---
-# Pathophysiology
+# Subtypes and variants
+## Cyclothymia 
+- <span style="background:rgba(240, 200, 0, 0.2)">Persistent instability of mood</span> involving numerous periods of depressive symptoms and periods of hypomanic symptoms
+- <span style="background:rgba(240, 200, 0, 0.2)">Symptoms are not sufficiently severe or persistent enough to diagnose bipolar disorder</span> (symptoms never meet the criteria for a major depressive or hypomanic episode)
+- <span style="background:rgba(240, 200, 0, 0.2)">Symptoms last at least 2 years, are present at least half of the time, and are never absent for more than 2 months at a time.</span>
 
 
 ---
 # Clinical features
-
+>[!Mnemonic] 
+>- <font color="#ffc000">DIGFAST</font> for features of mania: Distractibility, Irresponsibility, Grandiosity, Flight of ideas, Activity increase, Sleep deficit, and Talkativeness.
+>- <font color="#ffc000">SAGECAPS</font> for features of depression: Sleep (insomnia or hypersomnia), Interest loss (<font color="#ffc000">A</font>nhedonia), Guilt (low self-esteem), Energy (low energy or fatigue), Concentration (poor concentration or difficulty making decisions), Appetite (decreased appetite or overeating), Psychomotor agitation or retardation, and Suicidal ideation.
+>	- Imagined a very sad wizard in a fancy hat.
 
 ---
 # Diagnostics
