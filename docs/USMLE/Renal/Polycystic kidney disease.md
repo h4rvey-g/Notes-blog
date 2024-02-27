@@ -46,7 +46,7 @@ formation and expansion of cysts in the renal cortex and medulla → <span style
 		- May rupture and cause subarachnoid hemorrhage (the risk for growth and rupture is the same in patients with ADPKD as in the general population)
 - Cardiovascular 
 	- Signs of <span style="background:rgba(240, 200, 0, 0.2)">arterial hypertension</span> (e.g., morning [[../Neurology/Headaches|headaches]]) through increased renin production
-	- Heart valve defects (particularly <span style="background:rgba(240, 200, 0, 0.2)">mitral valve prolapse</span>)
+	- Heart valve defects (particularly <span style="background:rgba(240, 200, 0, 0.2)">[[../Cardiology/Mitral valve prolapse|mitral valve prolapse]]</span>)
 - Colon diverticula (diverticulosis)
 ## ARPKD
 - Symptom onset: Symptoms most commonly manifest <span style="background:rgba(240, 200, 0, 0.2)">in infancy or childhood</span>.
