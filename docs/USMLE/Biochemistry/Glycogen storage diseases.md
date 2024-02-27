@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-11-14 17:12
 modified: 2023-11-14 17:12
-aliases: Untitled
+aliases:
+  - McArdle disease
 share: true
 ---
 
@@ -11,9 +12,12 @@ share: true
 ![[../../assets/img/Pasted image 20231114172027.png|Pasted image 20231114172027.png]]Abnormal glycogen branch like coral.
 ![[../../assets/img/Pasted image 20231114172325.png|Pasted image 20231114172325.png]]
 >[!Mnemonic] 
-><font color="#ffc000">M</font>uscle -> <font color="#ffc000">M</font>cArdl'es
+><font color="#ffc000">M</font>uscle -> <font color="#ffc000">M</font>cArdle's
 ><font color="#ffc000">H</font>epatic -> <font color="#ffc000">H</font>er's
 
+- <span style="background:rgba(240, 200, 0, 0.2)">Flat venous lactate curve with exaggerated elevations in blood ammonia during exercise</span>
+	- No glucose, can't produce lactate
+	- Increased protein and amino acid Metabolism
 
 ![[../../assets/img/Pasted image 20231114172854.png|Pasted image 20231114172854.png]]
 >[!Mnemonic] 
