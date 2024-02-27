@@ -11,6 +11,9 @@ share: true
 
 ---
 # Etiology
+## Bacterial
+- <span style="background:rgba(240, 200, 0, 0.2)">Neisseria meningitidis (First peak: &lt; 2 years of age; second peak: 16–20 years of age)</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Streptococcus pneumoniae (most common in adults >20 and elders)</span>
 ## Other etiologies
 - Viral meningitis: often associated with encephalitis (meningoencephalitis)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Enteroviruses (especially coxsackieviruses and echoviruses): the most common cause of all types of meningitis in all patient groups</span>
@@ -22,11 +25,11 @@ share: true
 
 ---
 # Clinical features
-<% tp.file.cursor() %>
+
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
