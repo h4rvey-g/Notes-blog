@@ -21,7 +21,7 @@ share: true
 
 ---
 # Diagnostics
-- ↓ Serum C3 complement levels
+- ↓ Serum C3 [[../Immunology/Complement system|complement]] levels
 - ANA, anti-dsDNA antibodies
 - LM
 	- <mark style="background: #FFF3A34A;">Thickening of glomerular capillaries (appear as wire loops) </mark>![[../../assets/img/Pasted image 20230822213646.png|Pasted image 20230822213646.png]]![[../../assets/img/Pasted image 20231210144927.png|Pasted image 20231210144927.png]]
