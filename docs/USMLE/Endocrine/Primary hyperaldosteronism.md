@@ -47,7 +47,7 @@ share: true
 # Differential diagnostics
 ### Secondary hyperaldosteronism
 - Etiology
-	- Renal artery stenosis (e.g., due to atherosclerosis, fibromuscular dysplasia)
+	- Renal artery stenosis (e.g., due to [[../Cardiology/Atherosclerosis|atherosclerosis]], fibromuscular dysplasia)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Renin-secreting tumor</span>
 	- Chronic kidney disease
 	- Advanced CHF
