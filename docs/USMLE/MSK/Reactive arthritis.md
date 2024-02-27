@@ -33,16 +33,16 @@ share: true
 	- Dactylitis
 - Extra‑articular symptoms
 	- Conjunctivitis, iritis, episcleritis, or keratitis 
-	- Dermatologic manifestations  [2]
+	- Dermatologic manifestations
 	- Balanitis circinata: skin lesions of the glans resembling psoriasis 
 	- Keratoderma blenorrhagicum: hyperkeratinization of the palms and soles 
-	- Urethritis
+	- [[../Renal/Urethritis|Urethritis]]
 - Symptoms from preceding infection 
 	- [[../GI/Diarrhea|Diarrhea]]
 	- Urogenital tract symptoms (dysuria, pelvic pain, prostatitis)
 
 >[!Mnemonic] 
->Classic triad of reactive arthritis (seen in approximately one-third of affected individuals): “can't see (conjunctivitis), can't pee (urethritis), can't climb a tree (arthritis)”.
+>Classic triad of reactive arthritis (seen in approximately one-third of affected individuals): “can't see (conjunctivitis), can't pee ([[../Renal/Urethritis|urethritis]]), can't climb a tree (arthritis)”.
 
 ---
 # Differential Diagnostics
