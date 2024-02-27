@@ -33,7 +33,7 @@ In thiamine pyrophosphate (TPP), <span style="background:rgba(240, 200, 0, 0.2)"
 
 ---
 # Clinical features
-- Beriberi (脚气病): inadequate thiamine uptake due to malnutrition, heavy drinking, or increased demand (e.g., [[../Endocrine/Hyperthyroidism|hyperthyroidism]], pregnancy) 
+- Beriberi (脚气病): inadequate thiamine uptake due to malnutrition, heavy drinking, or increased demand (e.g., [[../Endocrine/Hyperthyroidism|hyperthyroidism]], [[../Reproductive/Pregnancy|pregnancy]]) 
 	- Dry beriberi
 		- Symmetrical peripheral neuropathy (sensory and motor)
 		- Progressive muscle wasting
