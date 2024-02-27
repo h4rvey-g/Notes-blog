@@ -17,7 +17,7 @@ share: true
 	- Medication side effects: carbamazepine, methimazole, NSAIDs, chloramphenicol, propylthiouracil, sulfa drugs, cytostatic drugs (esp. alkylating agents and antimetabolites) 
 	- Toxins: benzene, cleaning solvents, insecticides, toluene
 	- Ionizing radiation
-	- Viruses: HBV, EBV, CMV, HIV
+	- Viruses: [[../GI/Hepatitis B|HBV]], EBV, CMV, HIV
 	- <span style="background:rgba(240, 200, 0, 0.2)">Fanconi anemia</span>
 		- Hereditary autosomal recessive disorder due to a <span style="background:rgba(240, 200, 0, 0.2)">DNA crosslink repair defect resulting in bone marrow failure</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Skeletal and organ abnormalities: short stature, hypo- and hyperpigmentation, cafe-au-lait spots, microcephaly, developmental delay, thumb and forearm malformations, kidney, GI, heart, eye, and ear abnormalities</span>
