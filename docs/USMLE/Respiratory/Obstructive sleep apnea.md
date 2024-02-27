@@ -17,13 +17,13 @@ share: true
 ---
 # Pathophysiology
 - Obstruction of the upper airways → apnea → <span style="background:rgba(240, 200, 0, 0.2)">↓ partial pressure of oxygen in arterial blood (PaO2), ↑ partial pressure of carbon dioxide in arterial blood (PaCO2, also known as hypercapnia)</span>, which leads to:
-	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Hypoxic pulmonary vasoconstriction → ↑ pulmonary hypertension → cor pulmonale</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Hypoxic pulmonary vasoconstriction → ↑ [[./Pulmonary hypertension|pulmonary hypertension]] → [[./Pulmonary hypertension|cor pulmonale]]</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Sympathetic activity → secondary hypertension</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Respiratory acidosis → renal compensation → increased HCO3 retention and decreased chloride reabsorption </span>
 
 ---
 # Clinical features
-- Pulmonary hypertension and cor pulmonale
+- [[./Pulmonary hypertension|cor pulmonale]] and [[./Pulmonary hypertension|cor pulmonale]]
 	- edema
 
 ---
