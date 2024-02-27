@@ -24,7 +24,7 @@ Characteristic by granular (​ lumpy-bumpy​ ) pattern of staining of the GBM!
 ### Type I [[./Membranoproliferative glomerulonephritis|MPGN]]:
 - Electron microscopy: Characterized by the presence of discrete subendothelial electron dense deposits![[../../assets/img/Pasted image 20230825153718.png|Pasted image 20230825153718.png]]
 - Mesangial and occasional subepithelial deposits may also be present
-- Immunofluorescence shows IgG, IgM and C3 deposited in a granular pattern and every complement components (C1Q and C4) are often also present indicating are immune complexes pathogenesis
+- Immunofluorescence shows IgG, IgM and C3 deposited in a granular pattern and every [[../Immunology/Complement system|complement]] components (C1Q and C4) are often also present indicating are immune complexes pathogenesis
 ### Type II [[./Membranoproliferative glomerulonephritis|MPGN]] (<span style="background:rgba(240, 200, 0, 0.2)">more diverse, more dense!</span>)
 - Is characterised by deposition of dark, ribbon like electron dense material in the central layer of (Lamina Densa) of glomerular basement membrane![[../../assets/img/Pasted image 20230825153751.png|Pasted image 20230825153751.png]]
 - Immunofluorescence – C3 deposition on both sides of the basement membrane in irregular granular or linear pattern
