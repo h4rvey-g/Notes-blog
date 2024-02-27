@@ -51,7 +51,7 @@ share: true
 	- Sexual dysfunction
 	- Orthostatic hypotension
 	- Weight gain
-	- <span style="background:rgba(240, 200, 0, 0.2)">Hypertensive crisis with ingestion of foods containing tyramine</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[../Cardiology/Hypertensive crises|Hypertensive crisis]] with ingestion of foods containing tyramine</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Examples: aged cheeses, smoked/cured meats, alcoholic beverages (especially beer and red wine), dried fruits, fava beans, chocolate</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Tyramine stimulates the sympathetic nervous system by releasing other [[../Neurology/Neurotransmitters|neurotransmitters]], such as noradrenaline, from vesicles into the synaptic cleft.</span>
 # Tricyclic antidepressants (TCA)
