@@ -35,7 +35,7 @@ share: true
 		- Adults: 50% dextrose
 		- Children (excluding neonates): 10% dextrose OR 25% dextrose
 	- <span style="background:rgba(240, 200, 0, 0.2)">IM glucagon: if neither oral nor IV routes of administering glucose are feasible</span>
-		- Glucagon therapy is only successful if the patient's glycogen reserves have not been depleted, as glucagon elevates endogenous glucose production via hepatic glycogenolysis and gluconeogenesis.
+		- Glucagon therapy is only successful if the patient's glycogen reserves have not been depleted, as glucagon elevates endogenous glucose production via hepatic glycogenolysis and [[../Biochemistry/Gluconeogenesis|gluconeogenesis]].
 
 >[!tip] 
 >For patients with type 1 diabetes presenting with hypoglycemia and using insulin pumps, <span style="background:rgba(240, 200, 0, 0.2)">do not discontinue insulin pumps</span> and treat hypoglycemia as usual. Removing the insulin pump puts patients at risk for diabetic ketoacidosis.
