@@ -31,7 +31,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Hypotension</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Cardiac arrhythmia (bradycardia)</span>
 	- Cardiac atrophy
-	- <span style="background:rgba(240, 200, 0, 0.2)">Mitral valve prolapse</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[../Cardiology/Mitral valve prolapse|Mitral valve prolapse]]</span>
 - Endocrine	
 	- <span style="background:rgba(240, 200, 0, 0.2)">Stress hormones: ↑ cortisol, ↑ adrenaline</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Thyroid: [[../Endocrine/Euthyroid sick syndrome|euthyroid sick syndrome]]</span>
