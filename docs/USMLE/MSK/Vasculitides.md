@@ -7,6 +7,7 @@ aliases:
 share: true
 ---
 
+![[../../assets/img/ee0814073e46f50d728e9efdf46b0d4.jpg|ee0814073e46f50d728e9efdf46b0d4.jpg]]
 ![[../../assets/img/Pasted image 20230920172031.png|Pasted image 20230920172031.png]]
 # Large-vessel vasculitis
 ![[../../assets/img/Pasted image 20230920162430.png|Pasted image 20230920162430.png]]
