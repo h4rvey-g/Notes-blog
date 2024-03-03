@@ -69,6 +69,8 @@ share: true
 		- Large and elongated cells
 		- Longitudinal section: ovoid nucleus containing wavy, caterpillar-like bar of chromatin (caterpillar cell)
 		- <span style="background:rgba(240, 200, 0, 0.2)">Transverse section: owl-eye appearance </span>![[../../assets/img/Pasted image 20240120172347.png|Pasted image 20240120172347.png]]
+# Differential diagnostics
+vs [[./Infective endocarditis|Infective endocarditis]]![[../../assets/img/Pasted image 20240227171625.png|Pasted image 20240227171625.png]]
 
 ---
 # Treatment
