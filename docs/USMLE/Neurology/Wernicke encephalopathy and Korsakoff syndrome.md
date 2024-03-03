@@ -35,6 +35,9 @@ share: true
 		- Due to a combination of peripheral neuropathy, vestibular dysfunction, and cerebellar dysfunction
 		- <span style="background:rgba(240, 200, 0, 0.2)">[[./Romberg test|Romberg test]] positive</span>
 
+>[!tip] When to suspect
+>Wernicke encephalopathy should be suspected in any patient with <span style="background:rgba(240, 200, 0, 0.2)">chronic alcohol abuse or any form of malnutrition and any of the following: acute altered mental status, ophthalmoplegia, ataxic [[./Gait|gait]], delirium, and hypotension.</span>
+
 ---
 # Diagnostics
 
