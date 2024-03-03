@@ -6,7 +6,7 @@ aliases: ARDS
 share: true
 ---
 
-ARDS is a clinical syndrome of acute respiratory failure characterized by hypoxemia and bilateral pulmonary infiltrates that cannot be fully accounted for by heart failure or fluid overload.
+ARDS is a clinical syndrome of acute respiratory failure characterized by hypoxemia and bilateral pulmonary infiltrates that cannot be fully accounted for by [[../Cardiology/Heart failure|heart failure]] or fluid overload.
 # Epidemiology
 
 
@@ -17,7 +17,7 @@ ARDS is a clinical syndrome of acute respiratory failure characterized by hypoxe
 	- Trauma
 	- Shock
 	- Massive [[../Blood/Transfusion|transfusion]] 
-	- Acute pancreatitis
+	- [[../GI/Acute pancreatitis|Acute pancreatitis]]
 - Primary damage to the lungs
 	- [[./Pneumonia|Pneumonia]]
 	- Aspiration
@@ -49,7 +49,7 @@ ARDS is a clinical syndrome of acute respiratory failure characterized by hypoxe
 	- Mild ARDS: PaO2/FiO2 = 201–300 mm Hg
 	- Moderate ARDS: PaO2/FiO2 = 101–200 mm Hg
 	- Severe ARDS: PaO2/FiO2 ≤ 100 mm Hg
-- <span style="background:rgba(240, 200, 0, 0.2)">Respiratory failure cannot be fully accounted for by heart failure or fluid overload.</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Respiratory failure cannot be fully accounted for by [[../Cardiology/Heart failure|heart failure]] or fluid overload.</span>
 
 >[!Mnemonic] 
 >ARDS diagnostic criteria include: <span style="background:rgba(240, 200, 0, 0.2)">A</span>bnormal x-ray, <span style="background:rgba(240, 200, 0, 0.2)">R</span>espiratory failure < 1 week after a known or suspected trigger, <span style="background:rgba(240, 200, 0, 0.2)">D</span>ecreased PaO2/FiO2, <span style="background:rgba(240, 200, 0, 0.2)">S</span>hould exclude CHF or fluid overload as a potential cause of respiratory distress.
