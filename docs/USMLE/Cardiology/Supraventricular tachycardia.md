@@ -11,7 +11,17 @@ aliases:
 share: true
 ---
 
-
+# Clinical features
+- <span style="background:rgba(240, 200, 0, 0.2)">Palpitations</span>
+- Fatigue
+- <span style="background:rgba(240, 200, 0, 0.2)">Chest pain or discomfort</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Dyspnea</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Dizziness or presyncope</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Syncope</span> (uncommon; occurs more frequently in older adults)
+- <span style="background:rgba(240, 200, 0, 0.2)">Diaphoresis</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Symptom onset and resolution are typically abrupt, in contrast to sinus tachycardia (in which onset and resolution are more gradual).</span>
+>[!warning] 
+>Signs of unstable tachycardia due to SVT include acute pulmonary edema, <font color="#ffc000">hypotension</font>, severe chest pain, and altered mental status.
 # Wolff-Parkinson-White (WPW) syndrome
 WPW syndrome is a specific form of pre-excitation syndrome characterized by a <mark style="background: #FFF3A34A;">congenital</mark> accessory pathway and tachyarrhythmias, while pre-excitation syndrome is a broader term that encompasses various syndromes involving early ventricular activation.a
 ## ECG
