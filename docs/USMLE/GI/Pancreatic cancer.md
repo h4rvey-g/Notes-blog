@@ -27,7 +27,7 @@ share: true
 	- HNPCC
 	- Von-Hippel-Lindau syndrome
 	- Neurofibromatosis type 1
-	- Multiple endocrine neoplasia type 1
+	- [[../Endocrine/Multiple endocrine neoplasias|Multiple endocrine neoplasia]] type 1
 	- Familial pancreatic carcinoma
 
 ---
