@@ -26,6 +26,9 @@ share: true
 ---
 # Diagnostics
 ![[../../assets/img/Pasted image 20231208103735.png|Pasted image 20231208103735.png]]
+- High-dose dexamethasone suppression test
+	- Used to differ ectopic ACTH secretion vs Cushing disease
+	- This test is similar to the low-dose dexamethasone suppression test but uses 8 mg of dexamethasone. <span style="background:rgba(240, 200, 0, 0.2)">Most pituitary adenomas retain partial sensitivity to feedback inhibition in response to high doses of glucocorticoids, while ectopic tumors are resistant even to high doses.</span>
 
 ---
 # Treatment
