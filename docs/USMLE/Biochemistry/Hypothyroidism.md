@@ -46,7 +46,17 @@ share: true
 
 ---
 # Treatment
+Hypothyroidism is treated with lifelong hormone substitution.
+- <span style="background:rgba(240, 200, 0, 0.2)">Levothyroxine: synthetic form of T4</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">First-line choice</span> for the treatment of hypothyroidism
+	- <span style="background:rgba(240, 200, 0, 0.2)">Peripherally converted to T3</span> (biologically active metabolite) and rT3 (biologically inactive metabolite)
+- <span style="background:rgba(240, 200, 0, 0.2)">Liothyronine: synthetic form of T3</span>
+	- Part of the treatment for myxedema coma
+	- Not recommended as monotherapy or in combination with levothyroxine for the long-term treatment of hypothyroidism
+		- Liothyronine has a short half-life and requires three to four daily doses, making it less suitable than levothyroxine for the ongoing treatment of hypothyroidism.
 
+>[!Mnemonic] 
+>T4 (<font color="#ffc000">levo</font>thyroxine; <font color="#ffc000">levo</font> = 4 letters) or T3 (<font color="#ffc000">lio</font>thyronine; <font color="#ffc000">lio</font> = 3 letters)
 
 ---
 # Congenital hypothyroidism
