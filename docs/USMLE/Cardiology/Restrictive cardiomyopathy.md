@@ -8,7 +8,7 @@ share: true
 
 # Etiology
 >[!Mnemonic] 
->“PLEASe Help!”: Causes of restrictive cardiomyopathy include Postradiation/Postsurgery fibrosis, [[./Löffler endocarditis|Löffler endocarditis]], Endocardial fibroelastosis, [[../Pathology/Amyloidosis|Amyloidosis]], [[../Respiratory/Sarcoidosis|Sarcoidosis]], and Hemochromatosis.
+>“PLEASe Help!”: Causes of restrictive cardiomyopathy include Postradiation/Postsurgery fibrosis, [[./Löffler endocarditis|Löffler endocarditis]], Endocardial fibroelastosis, [[../Pathology/Amyloidosis|Amyloidosis]], [[../Respiratory/Sarcoidosis|Sarcoidosis]], and [[../Blood/Hemochromatosis|Hemochromatosis]].
 
 ---
 # Pathophysiology
@@ -16,14 +16,14 @@ Infiltration (e.g., abnormal proteins, glycogen, eosinophils, granulomas, iron) 
 
 ---
 # Clinical features
-<% tp.file.cursor() %>
+
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+<span style="background:rgba(240, 200, 0, 0.2)">Differ from [[./Hypertrophic cardiomyopathy|Hypertrophic cardiomyopathy]] by EF = 25~50%, while [[./Hypertrophic cardiomyopathy|Hypertrophic cardiomyopathy]] > 60%</span>
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
