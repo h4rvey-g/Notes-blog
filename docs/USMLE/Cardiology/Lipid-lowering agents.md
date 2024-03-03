@@ -22,7 +22,7 @@ See also [[../Biochemistry/Lipid transport|Lipid transport]]
 >Ezetim<span style="background:rgba(240, 200, 0, 0.2)">IB</span>e -- Intestinal brush border
 # Fibrates
 - Agents: bezafibrate, fenofibrate, and gemfibrozil
-- Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">activation of the peroxisome proliferator-activated receptor alpha (PPAR–α)</span> → ↑ lipoprotein lipase activity → <span style="background:rgba(240, 200, 0, 0.2)">more rapid degradation of LDL and triglycerides and induction of HDL synthesis</span> → ↓ LDL, ↑ HDL, ↓↓↓ triglyceride
+- Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">activation of the peroxisome proliferator-activated receptor alpha (PPAR–α)</span> → ↑ lipoprotein lipase activity → <span style="background:rgba(240, 200, 0, 0.2)">more rapid degradation of LDL and triglycerides and induction of HDL synthesis</span> → ↓ LDL, ↑ HDL, <span style="background:rgba(240, 200, 0, 0.2)">↓↓↓ triglyceride</span>
 - Adverse effects
 	- Dyspepsia
 	- Myopathy, especially in combination with statins 
@@ -40,3 +40,12 @@ See also [[../Biochemistry/Lipid transport|Lipid transport]]
 	- Hyperglycemia
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[../MSK/Gout|Hyperuricemia]] and [[../MSK/Gout|gout]]</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">[[../Biochemistry/Vitamin B3|Niacin]] decreases renal uric acid excretion.</span>
+# Bile acid resins
+- Drugs: cholestyramine, colestipol, colesevelam
+- Mechanism of action
+	- Ion exchange resin binds bile acids in the intestine  → interruption of enterohepatic circulation (<span style="background:rgba(240, 200, 0, 0.2)">↓ bile acid absorption and ↑ bile acid excretion</span>)  → ↑ conversion (compensatory) of cholesterol to bile → <span style="background:rgba(240, 200, 0, 0.2)">lowers cholesterol pool in the liver and promotes synthesis of LDL receptors and ↑ LDL receptor recycling</span> → <span style="background:rgba(240, 200, 0, 0.2)">↓↓ unbound LDL</span>, slightly ↑ HDL, and slightly <span style="background:rgba(240, 200, 0, 0.2)">↑ triglycerides</span> 
+- Indications
+	- Combination treatment with statins in hypercholesterolemia
+	- Digitoxin overdose
+- Adverse effects
+	- Gastrointestinal: nausea, abdominal bloating and cramping

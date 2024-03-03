@@ -4,6 +4,9 @@ created: 2023-12-18 16:29
 modified: 2023-12-18 16:29
 aliases:
   - Multiple endocrine neoplasia
+  - MEN1
+  - MEN2A
+  - MEN2B
 share: true
 ---
 

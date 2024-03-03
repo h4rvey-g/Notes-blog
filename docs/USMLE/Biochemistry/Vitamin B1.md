@@ -10,7 +10,7 @@ share: true
 # Functions
 Active form: <span style="background:rgba(240, 200, 0, 0.2)">thiamine pyrophosphate (TPP)</span>
 In thiamine pyrophosphate (TPP), <span style="background:rgba(240, 200, 0, 0.2)">a cofactor for several dehydrogenase enzyme reactions</span> (<font color="#ffc000">B</font>e <font color="#ffc000">APT</font>):
-- <font color="#ffc000">B</font>ranched-chain ketoacid dehydrogenase
+- <font color="#ffc000">B</font>ranched-chain ketoacid dehydrogenase ([[./Maple syrup urine disease|Maple syrup urine disease]])
 - <font color="#ffc000">α</font>-Ketoglutarate dehydrogenase ([[./TCA cycle|TCA cycle]])
 - <font color="#ffc000">P</font>yruvate dehydrogenase (links [[./Glycolysis|glycolysis]] to [[./TCA cycle|TCA cycle]])
 - <font color="#ffc000">T</font>ransketolase ([[./HMP shunt|HMP shunt]])

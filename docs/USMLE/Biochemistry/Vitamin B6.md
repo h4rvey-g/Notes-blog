@@ -35,7 +35,7 @@ Active form: pyridoxal phosphate (PLP)
 	- [[./Vitamin B3|Niacin]]
 	- Gluthathione
 	- Cystathionine 
-	- Neurotransmitters, including:
+	- [[../Neurology/Neurotransmitters|Neurotransmitters]], including:
 		- Serotonin
 		- Dopamine
 		- Epinephrine
@@ -45,7 +45,7 @@ Active form: pyridoxal phosphate (PLP)
 ---
 # Clinical features
 - Cheilosis, glossitis, stomatitis
-- <span style="background:rgba(240, 200, 0, 0.2)">[[../Blood/Sideroblastic anemia|Sideroblastic anemia]]: Vitamin B6 deficiency causes [[../Blood/Heme synthesis|heme synthesis]] dysfunction with impaired transfer of iron to hemoglobin, which ultimately leads to iron accumulation in RBCs.</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[../Blood/Sideroblastic anemia|Sideroblastic anemia]]: Vitamin B6 deficiency causes [[../Blood/Heme synthesis|heme synthesis]] dysfunction with impaired transfer of iron to [[../Blood/Hemoglobin variants|hemoglobin]], which ultimately leads to iron accumulation in RBCs.</span>
 - Irritability, seizures, <span style="background:rgba(240, 200, 0, 0.2)">peripheral neuropathy</span>
 - Seborrheic dermatitis
 ![[../../assets/img/Pasted image 20231111103922.png|Pasted image 20231111103922.png]]

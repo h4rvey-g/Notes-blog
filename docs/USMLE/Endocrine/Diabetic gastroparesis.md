@@ -37,6 +37,14 @@ Diabetic gastroparesis is a complication of long-term [[./Diabetes mellitus|diab
 
 ---
 # Treatment
-
+## Prokinetics
+- Used to improve symptoms and gastric emptying
+- <span style="background:rgba(240, 200, 0, 0.2)">First line: metoclopramide</span> ([[../Neurology/Neurotransmitters|Dopamine]] antagonist)
+- Alternatives
+	- <span style="background:rgba(240, 200, 0, 0.2)">Motilin agonists (e.g., erythromycin, azithromycin)</span>
+	- 5-HT4 agonists, e.g., prucalopride
+## Antiemetics
+- Improve symptoms (nausea, vomiting) but do not improve gastric emptying.
+- <span style="background:rgba(240, 200, 0, 0.2)">Options include 5-HT3 antagonists (e.g., ondansetron) and NK1 receptors antagonists (e.g., aprepitant)</span>
 
 ---

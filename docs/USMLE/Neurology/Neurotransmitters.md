@@ -22,8 +22,10 @@ share: true
 		- [[./Huntington disease|Huntington disease]]
 - Dopamine
 	- <span style="background:rgba(240, 200, 0, 0.2)">Drive to GET a reward.</span> NOT the feeling of reward. Both excitatory and inhibitory
+		- D1 receptor: Subsequent activation of protein kinase A causes <span style="background:rgba(240, 200, 0, 0.2)">smooth muscle relaxation</span>
+		- D2 receptor: located mainly in the substantia nigra, striatum, area postrema, and pituitary gland.
 	- Increased levels
-		- Schizophrenia
+		- [[../Psychiatry/Schizophrenia|Schizophrenia]]
 		- [[./Huntington disease|Huntington disease]]
 	- Decreased levels
 		- Depression

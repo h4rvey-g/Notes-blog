@@ -16,12 +16,12 @@ Prevalence increases with age.
 	- Intrinsic sphincter deficiency
 - Risk factors
 	- Multipara
-	- Pregnancy and vaginal deliveries 
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[../Reproductive/Pregnancy|Pregnancy]] and vaginal deliveries </span>
 	- High-impact activity (e.g., jumping, running, hopping)
 	- [[../Reproductive/Menopause|Menopause]]
 	- Obesity
 	- Smoking
-	- Chronic cough (e.g., COPD)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Chronic cough (e.g., COPD)</span>
 	- Prostate or pelvic surgery
 
 ---

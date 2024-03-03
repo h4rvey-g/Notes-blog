@@ -7,10 +7,10 @@ share: true
 ---
 
 - Classification: based on radiological findings 
-- Osteoblastic metastasis
+- <span style="background:rgba(240, 200, 0, 0.2)">Osteoblastic metastasis</span>
 	- New bone formation by osteoblasts outweighs osteolytic processes → increase in radiographic density
-	- Examples: [[../Renal/Prostate cancer|prostate cancer]], small cell [[../Respiratory/Lung cancer|lung cancer]]
-- Osteolytic metastasis
+	- <span style="background:rgba(240, 200, 0, 0.2)">Examples: [[../Renal/Prostate cancer|prostate cancer]], small cell [[../Respiratory/Lung cancer|lung cancer]]</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Osteolytic metastasis</span>
 	- Osteolytic processes outweigh new bone formation → decrease in radiographic density
-	- Examples: multiple myeloma, [[../Endocrine/Thyroid cancer|thyroid cancer]], kidney cancer, [[./Melanoma|melanoma]], non-small cell [[../Respiratory/Lung cancer|lung cancer]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Examples: multiple myeloma, [[../Endocrine/Thyroid cancer|thyroid cancer]], kidney cancer, [[./Melanoma|melanoma]], non-small cell [[../Respiratory/Lung cancer|lung cancer]]</span>
 - Mixed metastasis: e.g., breast cancer, gastrointestinal cancer

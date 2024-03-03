@@ -16,9 +16,9 @@ share: true
 	- Severe vomiting
 - Predisposing conditions
 	- Alcohol use disorder
-	- <span style="background:rgba(240, 200, 0, 0.2)">Bulimia nervosa</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[../Psychiatry/Bulimia nervosa|Bulimia nervosa]]</span>
 	- Hiatal hernia (higher pressure gradient)
-	- Gastroesophageal reflux disease (GERD)
+	- [[./Gastroesophageal reflux disease|Gastroesophageal reflux disease]] (GERD)
 
 ---
 # Pathophysiology

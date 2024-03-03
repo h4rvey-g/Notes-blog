@@ -69,6 +69,8 @@ The enzyme that catalyzes this reaction is phosphofructokinase (PFK). As in step
 
 The enzyme Aldolase splits fructose 1, 6-bisphosphate into two sugars that are isomers of each other. These two sugars are dihydroxyacetone phosphate  (DHAP) and glyceraldehyde 3-phosphate (GAP).  
 醛缩酶将果糖 1, 6-二磷酸分解成两种互为异构体的糖。这两种糖是磷酸二羟丙酮 (DHAP) 和 3-磷酸甘油醛 (GAP)。
+- <span style="background:rgba(240, 200, 0, 0.2)">DHAP: converted to glycerol-3 phosphate during the synthesis of triglycerides, in fed state.</span>![[../../assets/img/Pasted image 20240302103109.png|Pasted image 20240302103109.png]]
+- <span style="background:rgba(240, 200, 0, 0.2)">GAP: continue in glycolysis</span>
 
 ### Details: 细节：
 

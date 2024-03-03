@@ -11,14 +11,14 @@ share: true
 
 ---
 # Etiology
-- RET gene mutations associated with multiple endocrine neoplasia type 2 (MEN2) and familial Hirschsprung disease
+- RET gene mutations associated with [[../Endocrine/Multiple endocrine neoplasias|multiple endocrine neoplasia]] type 2 (MEN2) and familial Hirschsprung disease
 >[!Mnemonic] 
 >Hirschsprung disease always involves the REcTum and is often associated with RET mutations.
 
 ---
 # Pathophysiology
 - Hirschsprung disease is caused by defective caudal migration of parasympathetic neuroblasts (precursors of ganglion cells) from the neural crest to the distal colon. This process takes place between the 4th and 7th week of development.
-- Affected segments are histologically characterized by the <span style="background:rgba(240, 200, 0, 0.2)">absence of the Meissner plexus and Auerbach plexus (submucosal and myenteric plexus ganglion) beginning at the anorectal line</span>, leading to: [3]
+- Affected segments are histologically characterized by the <span style="background:rgba(240, 200, 0, 0.2)">absence of the Meissner plexus and Auerbach plexus (submucosal and myenteric plexus ganglion) beginning at the anorectal line</span>, leading to:
 	- Inability of the myenteric plexus to control the intestinal wall muscles → <span style="background:rgba(240, 200, 0, 0.2)">uncoordinated peristalsis and slowed motility</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Spastic contraction of intestinal muscles → stenosis and functional obstruction</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Expansion of the colon segment proximal to the aganglionic section (possible megacolon)</span>

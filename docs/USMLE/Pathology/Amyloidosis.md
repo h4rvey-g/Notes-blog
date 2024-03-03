@@ -39,7 +39,7 @@ Increased production of the light chains of immunoglobulins → deposition of am
 
 # AA amyloidosis (secondary amyloidosis)
 ## Etiology
-AA amyloidosis is secondary to a chronic disease, such as:
+<span style="background:rgba(240, 200, 0, 0.2)">AA amyloidosis is secondary to a chronic disease</span>, such as:
 - Chronic inflammatory conditions (e.g., IBD, [[../MSK/Rheumatoid arthritis|rheumatoid arthritis]], [[../Immunology/Systemic lupus erythematosus|SLE]], vasculitis, familial Mediterranean fever)
 - Chronic infectious diseases (e.g., tuberculosis, [[../Respiratory/Bronchiectasis|bronchiectasis]], leprosy, osteomyelitis)
 

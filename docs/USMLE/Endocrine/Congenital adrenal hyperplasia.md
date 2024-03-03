@@ -5,6 +5,7 @@ modified: 2024-01-30 21:03
 aliases:
   - Congenital adrenal hyperplasias
   - CAH
+  - Adrenal hyperplasia
 share: true
 ---
 

@@ -12,7 +12,7 @@ CF is a hereditary autosomal recessive disorder caused by defective <mark style=
 
 ---
 # Pathophysiology
-- Mutated CFTR gene → misfolded protein → retention for degradation of the defective protein in the rough endoplasmic reticulum (rER) → absence of ATP-gated chloride channel on the cell surface of epithelial cells throughout the body (e.g., intestinal and respiratory epithelia, sweat glands, exocrine pancreas, exocrine glands of reproductive organs)
+- Mutated CFTR gene → misfolded protein → retention for degradation of the defective protein in the rough endoplasmic reticulum (rER) → <span style="background:rgba(240, 200, 0, 0.2)">absence of ATP-gated chloride channel on the cell surface</span> of epithelial cells throughout the body (e.g., intestinal and respiratory epithelia, sweat glands, exocrine pancreas, exocrine glands of reproductive organs)
 - In sweat glands
 	- Defective ATP-gated chloride channel →<span style="background:rgba(240, 200, 0, 0.2)"> inability to reabsorb Cl- from the lumen of the sweat glands → reduced reabsorption of Na<sup>+</sup> and H<sup>2</sup>O → excessive loss of salt and elevated levels of NaCl in sweat</span>
 - In all other exocrine glands (e.g., in the GI tract or lungs)
@@ -23,7 +23,7 @@ CF is a hereditary autosomal recessive disorder caused by defective <mark style=
 # Clinical features
 ## GI
 - <span style="background:rgba(240, 200, 0, 0.2)">Meconium ileus (in newborns)</span>
-- Failure to thrive (due to [[../GI/Malabsorption|malabsorption]])
+- <span style="background:rgba(240, 200, 0, 0.2)">Failure to thrive (due to [[../GI/Malabsorption|malabsorption]])</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Pancreatic disease (obstruction of pancreatic ducts)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Autopsy revealed pancreas develops cysts and became scarred, that's how it's named cystic fibrosis</span>
 	- Pancreatitis
