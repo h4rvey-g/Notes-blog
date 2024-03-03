@@ -31,7 +31,7 @@ share: true
 	- In origin of left subclavian artery is involved: BP in the right arm > in left arm 
 - <span style="background:rgba(240, 200, 0, 0.2)">Cold feet and lower-extremity claudication upon physical exertion</span>
 - Strong apical impulse displaced to the left
-- <span style="background:rgba(240, 200, 0, 0.2)">Headache, epistaxis, tinnitus </span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Headache, [[../Respiratory/Epistaxis|epistaxis]], tinnitus </span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Caused by brachiocephalic hypertension</span>
 - In severe stenosis: shock and multiorgan failure when ductus arteriosus closes 
 - Auscultation
