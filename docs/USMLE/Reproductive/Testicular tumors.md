@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2024-02-18 10:21
 modified: 2024-02-18 10:21
-aliases: []
+aliases:
+  - Yolk sac tumor
 share: true
 ---
 
@@ -15,14 +16,14 @@ share: true
 ><font color="#ffc000">Semen</font> eats <font color="#ffc000">egg</font>.
 
 ## Testicular [[./Choriocarcinoma|choriocarcinoma]]
-- <span style="background:rgba(240, 200, 0, 0.2)">Extremely high levels of HCG</span>, causing HCG-related symptoms
-	- HCG overproduce estrogen -> <span style="background:rgba(240, 200, 0, 0.2)">Gynecomastia</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Paraneoplastic hyperthyroidism</span>: <span style="background:rgba(240, 200, 0, 0.2)">alpha subunits of HCG and TSH are identical</span>, enabling weak stimulation of the TSH receptor in tumors with HCG overproduction.
+- <span style="background:rgba(240, 200, 0, 0.2)">Extremely high levels of [[./Human chorionic gonadotropin|HCG]]</span>, causing [[./Human chorionic gonadotropin|HCG]]-related symptoms
+	- [[./Human chorionic gonadotropin|HCG]] overproduce estrogen -> <span style="background:rgba(240, 200, 0, 0.2)">Gynecomastia</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Paraneoplastic [[../Endocrine/Hyperthyroidism|hyperthyroidism]]</span>: <span style="background:rgba(240, 200, 0, 0.2)">alpha subunits of [[./Human chorionic gonadotropin|HCG]] and TSH are identical</span>, enabling weak stimulation of the TSH receptor in tumors with HCG overproduction.
 ## Yolk sac tumor
-- High levels of AFP
+- High levels of [[./Alpha fetoprotein|AFP]]
 - Microscopy: <span style="background:rgba(240, 200, 0, 0.2)">Schiller-Duval bodies</span> (perivascular glomeruloid structures)![[../../assets/img/Pasted image 20240218112307.png|Pasted image 20240218112307.png]]![[../../assets/img/Pasted image 20240218112311.png|Pasted image 20240218112311.png]]Cuboidal cells are organized in a solid pattern. A central blood vessel (red overlay) is surrounded by germ cells (blue overlay), resulting in a glomerulus-like appearance (Schiller-Duval body).
 >[!tip] 
->HCG is always elevated in [[./Choriocarcinoma|choriocarcinoma]] and sometimes elevated in seminoma. [[./Alpha fetoprotein|AFP]] is always elevated in yolk sac tumors. Both [[./Alpha fetoprotein|AFP]] and HCG may be elevated in mixed germ cell tumors.
+>[[./Human chorionic gonadotropin|HCG]] is always elevated in [[./Choriocarcinoma|choriocarcinoma]] and sometimes elevated in seminoma. [[./Alpha fetoprotein|AFP]] is always elevated in yolk sac tumors. Both [[./Alpha fetoprotein|AFP]] and [[./Human chorionic gonadotropin|HCG]] may be elevated in mixed germ cell tumors.
 # Non–germ cell tumors
-## Germ cell tumors
+## Leydig cell tumor
 - Microscopy: <span style="background:rgba(240, 200, 0, 0.2)">Reinke crystals</span> (eosinophilic cytoplasmic inclusions)![[../../assets/img/Pasted image 20240218112851.png|Pasted image 20240218112851.png]]
