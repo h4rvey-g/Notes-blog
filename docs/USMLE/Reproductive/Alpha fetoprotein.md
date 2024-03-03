@@ -10,7 +10,7 @@ share: true
 # Associated conditions
 - Hepatocellular carcinoma (HCC)
 - Hepatoblastoma
-- Yolk sac tumor (endodermal sinus tumor)
+- <span style="background:rgba(240, 200, 0, 0.2)">[[./Testicular tumors|Yolk sac tumor]]</span> (endodermal sinus tumor)
 - Mixed germ cell tumor
 - <span style="background:rgba(240, 200, 0, 0.2)">Ataxia-telangiectasia</span>
 >[!tip] 
