@@ -19,7 +19,7 @@ share: true
 ---
 # Pathophysiology
 >[!tip] Key points
-><font color="#ffc000">↑LH → ↑↑↑androgen, beyond the conversion capacity to estrogen → ↑↑↑androgen inhibits FSH, causing more LH → no LH surge, oligoovulation/anovulation</font>
+><font color="#ffc000">↑LH → ↑↑↑[[./Androgen and estrogen synthesis|androgen]], beyond the conversion capacity to [[./Androgen and estrogen synthesis|estrogen]] → ↑↑↑androgen inhibits FSH, causing more LH → no LH surge, oligoovulation/anovulation</font>
 - <span style="background:rgba(240, 200, 0, 0.2)">Strong association with obesity → ↑ in peripheral estrogen synthesis from adipose tissue and ↓ in peripheral sensitivity to insulin</span>
 	- Estrogen is also produced in other aromatase-containing tissues: Fatty tissue, Placenta
 - <span style="background:rgba(240, 200, 0, 0.2)">Reduced insulin sensitivity (peripheral insulin resistance) and the consequent hyperinsulinemia</span> result in: <span style="background:rgba(240, 200, 0, 0.2)">↑LH</span>:FSH
@@ -49,7 +49,7 @@ Onset of symptoms typically <span style="background:rgba(240, 200, 0, 0.2)">occu
 	- Oily skin
 	- [[../MSK/Acanthosis nigricans|Acanthosis nigricans]]
 - Psychiatric conditions
-- Malignancy (increased risk before [[./Menopause|menopause]]): Endometrial cancer
+- <span style="background:rgba(240, 200, 0, 0.2)">Malignancy (increased risk before [[./Menopause|menopause]]): Endometrial cancer</span>
 ![[../../assets/img/Pasted image 20231208102353.png|Pasted image 20231208102353.png]]
 
 ---
