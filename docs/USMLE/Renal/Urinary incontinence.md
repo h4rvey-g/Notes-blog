@@ -49,7 +49,7 @@ share: true
 - Postvoid residual urine volume *(seen on ultrasound or with catherization)*
 ### Treatment
 - [[./Intermittent catheterization|Intermittent catheterization]]: for scheduled bladder emptying
-	- Intermittent -> prevention of catheter-associated UTIs and is favored by most patients; indwelling catheters may be considered if necessary.
+	- Intermittent -> prevention of catheter-associated [[./Urinary tract infections|UTIs]] and is favored by most patients; indwelling catheters may be considered if necessary.
 ## ![[./Stress incontinence|Stress incontinence]]
 ## ![[./Urge incontinence|Urge incontinence]]
 ## Neurogenic bladder dysfunction
