@@ -41,8 +41,12 @@ share: true
 	- Locally advanced and metastatic prostate cancer: primary treatment modality
 - Options
 	- Medical castration: decreases pituitary stimulation of androgen production by the testes
-		- Gonadotropin-releasing hormone (GnRH) agonists (e.g., leuprolide)
+		- <span style="background:rgba(240, 200, 0, 0.2)">Gonadotropin-releasing hormone (GnRH) agonists (e.g., leuprolide)</span>
 	- Surgical castration: bilateral orchiectomy
+- Adverse effects
+	- <span style="background:rgba(240, 200, 0, 0.2)">Increased risk of osteoporosis and fractures</span> 
+	- Sexual dysfunction: loss of libido, erectile dysfunction
+	- Change in body image: gynecomastia
 ### Androgen synthesis inhibitors and androgen receptor antagonists
 - Indication: adjunct to ADT in locally advanced and metastatic prostate cancer
 - Androgen receptor antagonists (antiandrogen therapy)
