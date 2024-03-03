@@ -23,10 +23,10 @@ share: true
 
 ---
 # Pathophysiology
-- <span style="background:rgba(240, 200, 0, 0.2)">Autoantibody development: deficiency of classical complement proteins (C1q, C4, C2) → failure of macrophages to phagocytose immune complexes and apoptotic cell material (i.e., plasma and nuclear antigens) → dysregulated, intolerant lymphocytes targeting normally hidden intracellular antigens → autoantibody production (e.g., ANA, anti-dsDNA) </span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Autoantibody development: deficiency of classical [[./Complement system|complement]] proteins (C1q, C4, C2) → failure of macrophages to phagocytose immune complexes and apoptotic cell material (i.e., plasma and nuclear antigens) → dysregulated, intolerant lymphocytes targeting normally hidden intracellular antigens → autoantibody production (e.g., ANA, anti-dsDNA) </span>
 	- Normally, apoptotic cells are engulfed by macrophages during apoptosis, avoiding the release of intracellular content that induces inflammation or an immune response in the extracellular environment.
 - Autoimmune reactions
-	- <span style="background:rgba(240, 200, 0, 0.2)">Type III hypersensitivity (most common in SLE) → antibody-antigen complex formation in microvasculature → complement activation and inflammation → damage to skin, kidneys, joints, small vessels</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Type III hypersensitivity (most common in SLE) → antibody-antigen complex formation in microvasculature → [[./Complement system|complement]] activation and inflammation → damage to skin, kidneys, joints, small vessels</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Type II hypersensitivity → IgG and IgM antibodies directed against antigens on cells (e.g., red blood cells) → cytopenia</span>
 
 ---
@@ -67,11 +67,11 @@ share: true
 		- Positive in < 30% of patients, but highly specific for SLE
 - Antiphospholipid antibodies: Screen all patients for [[../MSK/Antiphospholipid syndrome|antiphospholipid syndrome]].
 - Laboratory markers of disease activity and/or organ damage in SLE
-	- Complement levels: <span style="background:rgba(240, 200, 0, 0.2)">↓ C3 and/or ↓ C4 in patients with active disease, factor B levels remain normal </span>![[../../assets/img/Pasted image 20240224215441.png|Pasted image 20240224215441.png]]
+	- [[./Complement system|Complement]] levels: <span style="background:rgba(240, 200, 0, 0.2)">↓ C3 and/or ↓ C4 in patients with active disease, factor B levels remain normal </span>![[../../assets/img/Pasted image 20240224215441.png|Pasted image 20240224215441.png]]
 		- Antigen-antibody complexes trigger classic pathway, which decreases C3 and C4. But factor B in alternative pathway is intact.
 
 ## Skin biopsy
-- Lupus band test (LBT): a direct [[../Renal/Immunofluorescence|immunofluorescence]] staining technique used to detect immunoglobulin and complement component deposits along the dermoepidermal junction in affected and unaffected skin in patients with SLE![[../../assets/img/Pasted image 20231029092317.png|Pasted image 20231029092317.png]]
+- Lupus band test (LBT): a direct [[../Renal/Immunofluorescence|immunofluorescence]] staining technique used to detect immunoglobulin and [[./Complement system|complement]] component deposits along the dermoepidermal junction in affected and unaffected skin in patients with SLE![[../../assets/img/Pasted image 20231029092317.png|Pasted image 20231029092317.png]]
 
 ---
 # Treatment
