@@ -15,5 +15,5 @@ Hemophilia usually affects males, as it is primarily an <mark style="background:
 - Hemophilia C (factor XI deficiency): very rare
 # Clinical features
 1. Repeated hemarthrosis (e.g., knee joint) → hemophilic arthropathy (i.e., destruction of the joint due to repeated hemarthrosis)
-2. Oral mucosa bleeding, epistaxis, excessive bleeding following small procedures (e.g., dentist procedures)
+2. Oral mucosa bleeding, [[../Respiratory/Epistaxis|epistaxis]], excessive bleeding following small procedures (e.g., dentist procedures)
 3. Hemophilia C does not typically manifest with spontaneous bleeding, hemarthrosis, or deep tissue bleeding.
