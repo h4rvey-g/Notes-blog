@@ -2,7 +2,9 @@
 author: Harvey Guo
 created: 2023-08-20 15:10
 modified: 2023-08-20 15:10
-aliases: PTHrP
+aliases:
+  - PTHrP
+  - PTH-related protein
 share: true
 ---
 
