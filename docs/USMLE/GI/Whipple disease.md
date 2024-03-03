@@ -24,7 +24,7 @@ share: true
 >Cardiac symptoms,  Arthralgias, and Neurologic symptoms are common.
 - Intestinal manifestations
 	- Abdominal pain
-	- Malabsorption syndrome (including diarrhea and/or [[./Steatorrhea|steatorrhea]]): commonly occurs later in the disease progression
+	- [[./Malabsorption|Malabsorption]] syndrome (including [[./Diarrhea|diarrhea]] and/or [[./Steatorrhea|steatorrhea]]): commonly occurs later in the disease progression
 - Extraintestinal manifestations
 	- <span style="background:rgba(240, 200, 0, 0.2)">Enteropathic arthritis</span> (60% of cases) 
 	- Migrating arthralgias and arthritis, especially sacroiliitis (40% of cases)
@@ -38,6 +38,7 @@ share: true
 ---
 # Diagnostics
 - Small intestine biopsies: detection of PAS-positive foamy macrophages in the lamina propria![[../../assets/img/Pasted image 20231004152409.png|Pasted image 20231004152409.png]]
+	- The purple highlights whipplei organisms in macrophages
 - Imaging may show enlarged mesenteric nodes.
 
 ---
