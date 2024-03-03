@@ -21,6 +21,8 @@ share: true
 		- Antipsychotics (e.g., haloperidol, risperidone)
 	- Certain tricyclic [[../Psychiatry/Antidepressants|antidepressants]]: e.g., clomipramine
 - Physiological causes: stress, pregnancy, lactation, nipple stimulation, crying baby, sexual orgasm, sleep, exercise
+>[!tip] 
+>The dopamine-prolactin pathway (tuberoinfundibular pathway) is unique among other pathways, as dopamine inhibits prolactin.
 
 ---
 # Pathophysiology
