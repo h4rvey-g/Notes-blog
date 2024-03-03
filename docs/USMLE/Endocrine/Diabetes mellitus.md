@@ -53,13 +53,13 @@ share: true
 ## Onset
 ### Type 1 DM
 - <span style="background:rgba(240, 200, 0, 0.2)">Often sudden</span>
-- <span style="background:rgba(240, 200, 0, 0.2)">Diabetic ketoacidosis (DKA)</span> is the first manifestation in approx. one-third of cases.
+- <span style="background:rgba(240, 200, 0, 0.2)">[[./Hyperglycemic crises|Diabetic ketoacidosis]] ([[./Hyperglycemic crises|DKA]])</span> is the first manifestation in approx. one-third of cases.
 ### Type 2 DM
 - <span style="background:rgba(240, 200, 0, 0.2)">Typically gradual</span>
 - The majority of patients are asymptomatic. 
 - <span style="background:rgba(240, 200, 0, 0.2)">Some patients may present with a hyperglycemic crisis.</span>
 	- Elderly patients especially may present in a [[./Hyperglycemic crises|hyperosmolar hyperglycemic state]].
-	- Occasionally, patients with T2DM present with DKA , which mostly affects black and Hispanic individuals.
+	- Occasionally, patients with T2DM present with [[./Hyperglycemic crises|DKA]] , which mostly affects black and Hispanic individuals.
 - <span style="background:rgba(240, 200, 0, 0.2)">Symptoms of complications may be the first clinical sign of disease.</span>
 ## Common clinical features
 - Classic symptoms of hyperglycemia
@@ -81,8 +81,8 @@ share: true
 - Pathophysiology: <span style="background:rgba(240, 200, 0, 0.2)">chronic hyperglycemia → nonenzymatic glycation of proteins and lipids → thickening of the basal membrane with progressive function impairment and tissue damage</span>
 - Manifestations
 	- [[../Renal/Diabetic kidney disease|Diabetic nephropathy]]
-	- Diabetic retinopathy, glaucoma
-	- [[./Diabetic neuropathy|Diabetic neuropathy]] including [[./Diabetic gastroparesis|diabetic gastroparesis]]
+	- Diabetic retinopathy, [[../Neurology/Angle-closure glaucoma|glaucoma]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[./Diabetic neuropathy|Diabetic neuropathy]] including [[./Diabetic gastroparesis|diabetic gastroparesis]]</span>
 	- Diabetic foot
 
 >[!tip] 
@@ -91,6 +91,17 @@ share: true
 ---
 # Diagnostics
 ![[../../assets/img/Pasted image 20231210111903.png|Pasted image 20231210111903.png]]
+## Diagnostic criteria for diabetes mellitus
+### Hyperglycemia tests
+- <span style="background:rgba(240, 200, 0, 0.2)">Hemoglobin A1C (HbA1c or A1C): glycated hemoglobin, which reflects the average blood glucose levels of the prior 8–12 weeks</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Can be measured at any time, not required to fast and the results are independent of time of day</span>
+	- Results may be altered by a variety of conditions or treatments, e.g., sickle cell trait, chronic kidney disease. 
+	- Factors resulting in a falsely high HbA1c
+		- Increased RBC lifespan: e.g., iron and/or [[../Biochemistry/Vitamin B12|vitamin B12 deficiency]], splenectomy, [[../Blood/Aplastic anemia|aplastic anemia]]
+		- Assay interference: heavy alcohol use
+	- <span style="background:rgba(240, 200, 0, 0.2)">Factors resulting in a falsely low HbA1c</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Decreased RBC lifespan</span>: e.g., due to acute blood loss, <span style="background:rgba(240, 200, 0, 0.2)">hemoglobinopathies such as sickle cell trait/disease, [[../Blood/Thalassemia|thalassemia]]</span>, G6PD-deficiency, cirrhosis, hemolytic anemia, [[../Blood/Splenomegaly|splenomegaly]], antiretroviral drugs
+		- Increased erythropoiesis: e.g., due to EPO therapy, reticulocytosis, <span style="background:rgba(240, 200, 0, 0.2)">pregnancy</span> (second and third trimesters), iron supplementation
 ## Additional studies
 - <span style="background:rgba(240, 200, 0, 0.2)">C-peptide</span>: can help differentiate between types of diabetes![[../../assets/img/Pasted image 20231215112826.png|Pasted image 20231215112826.png]]
 	- ↑ C-peptide levels may indicate insulin resistance and hyperinsulinemia → T2DM
@@ -105,11 +116,25 @@ share: true
 >- glu<font color="#ffc000">LI</font>sine <font color="#ffc000">Little</font> Short acting (Also use the LI to remember LIspro)
 >- g<font color="#ffc000">LARGE</font>ne <font color="#ffc000">LARGEine</font> Long acting
 ## T2DM
+![[../../assets/img/Pasted image 20240229113037.png|Pasted image 20240229113037.png]]
 - Metformin![[../../assets/img/Pasted image 20231209113337.png|Pasted image 20231209113337.png]]
 >[!Mnemonic] 
 ><font color="#ffc000">Met</font>formin accumulation will cause <font color="#ffc000">met</font>abolic acidosis (lactic acidosis), so stop it before contrast CT scan.
-- Sulfonylureas
-	- Close K+ channels in pancreatic B cell membrane → cell depolarizes → <span style="background:rgba(240, 200, 0, 0.2)">insulin release via ↑ Ca2+ influx.</span>![[../../assets/img/Pasted image 20231209134835.png|Pasted image 20231209134835.png]]
+- Sulfonylureas![[../../assets/img/Pasted image 20231209134835.png|Pasted image 20231209134835.png]]
+	- Close K+ channels in pancreatic B cell membrane → cell depolarizes → <span style="background:rgba(240, 200, 0, 0.2)">insulin release via ↑ Ca2+ influx.</span>
+	- Side effects
+		- <span style="background:rgba(240, 200, 0, 0.2)">Life-threatening hypoglycemia</span>
+			- Due to <span style="background:rgba(240, 200, 0, 0.2)">excessive insulin secretion</span>, which occurs <span style="background:rgba(240, 200, 0, 0.2)">independent of blood glucose concentrations</span> (ie, even when blood glucose concentrations are low).
+			- Increased risk under the following circumstances:
+				- <span style="background:rgba(240, 200, 0, 0.2)">Simultaneous intake of CYP2C9 inhibitors (e.g., amiodarone, trimethoprim, fluconazole) </span>
+				- <span style="background:rgba(240, 200, 0, 0.2)">Patients with renal failure </span>
+					- Because sulfonylureas are excreted via the kidneys, renal failure can result in accumulation. Hypoglycemia due to accumulation of long-acting glyburide may persist for several days, requiring extensive glucose substitution.
+				- <span style="background:rgba(240, 200, 0, 0.2)">Decreased carbohydrate intake (diets or periods of fasting)</span>
+				- Elevated glucose utilization (e.g., unaccustomed physical activity)
+				- Sulfonylurea overdose
+		- <span style="background:rgba(240, 200, 0, 0.2)">Alcohol intolerance (first-generation agents): disulfiram-like reaction </span>
+		- Weight gain
+		- Hematological changes: granulocytopenia, hemolytic anemia
 
 >[!Mnemonic] 
 >G (Gee), IDE take your sulfonylurea.
@@ -134,11 +159,11 @@ share: true
 	- Clinical characteristics
 		- Glycemic efficacy: lowers HbA1c by 1% in 3 months
 		- Favorable effect on lipid metabolism: ↓ triglyceride, ↓ LDL, ↑ HDL
-		- No risk of hypoglycemia
+		- No risk of [[./Hypoglycemia|hypoglycemia]]
 		- <span style="background:rgba(240, 200, 0, 0.2)">Onset of action is delayed by several weeks. </span>
 			- because it acts at the level of transcription
 	- Important side effects
-		- ↑ Risk of heart failure
+		- ↑ Risk of [[../Cardiology/Heart failure|heart failure]]
 		- ↑ Risk of bone fractures ([[../MSK/Osteoporosis|osteoporosis]])
 		- Fluid retention and edema
 		- <span style="background:rgba(240, 200, 0, 0.2)">Weight gain</span>
