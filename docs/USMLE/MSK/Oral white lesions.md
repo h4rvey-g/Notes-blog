@@ -6,7 +6,7 @@ aliases:
   - Oral conditions
   - Oral hairy leukoplakia
   - Leukoplakia
-  - lichen planus
+  - Oral lichen planus
 share: true
 ---
 
@@ -26,7 +26,7 @@ share: true
 # Oral lichen planus
 - <span style="background:rgba(240, 200, 0, 0.2)">Thin, gray-white lines that form a reticular pattern (Wickham striae)</span>
 - Painful, atrophic, and erosive lesions may be present.
-- Associated with dental materials, drugs (e.g., NSAIDs, ACE inhibitors), infection, autoimmunity (e.g., PBC), and IBD![[../../assets/img/Pasted image 20231207104421.png|Pasted image 20231207104421.png]]
+- Associated with dental materials, drugs (e.g., NSAIDs, ACE inhibitors), infection, autoimmunity (e.g., [[../GI/Primary biliary cholangitis|PBC]]), and IBD![[../../assets/img/Pasted image 20231207104421.png|Pasted image 20231207104421.png]]
 # Oral hairy leukoplakia
 - <span style="background:rgba(240, 200, 0, 0.2)">Benign, painless, irregularly shaped white plaques with feathery or hairy appearance </span>![[../../assets/img/Pasted image 20231207104642.png|Pasted image 20231207104642.png]]![[../../assets/img/Pasted image 20231207104851.png|Pasted image 20231207104851.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Most commonly located on the lateral tongue</span>, but can also occur on the floor of the mouth, palate, or buccal mucosa
