@@ -14,15 +14,15 @@ share: true
 ## Primary osteoporosis (most common)
 - Type I (postmenopausal osteoporosis): postmenopausal women [2][3]
 	- Estrogen stimulates osteoblasts and inhibits osteoclasts.
-	- <span style="background:rgba(240, 200, 0, 0.2)">The decreased estrogen levels following menopause lead to increased bone resorption.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">The decreased estrogen levels following [[../Reproductive/Menopause|menopause]] lead to increased bone resorption.</span>
 - Type II (senile osteoporosis): gradual loss of bone mass as patients age (especially > 70 years)
 ## Secondary osteoporosis
 - Most commonly due to systemic <span style="background:rgba(240, 200, 0, 0.2)">long-term therapy with corticosteroids</span> (e.g., in patients with autoimmune disease)
-- Endocrine/metabolic: hypercortisolism, hypogonadism, hyperthyroidism, [[../Endocrine/Hyperparathyroidism|hyperparathyroidism]], renal disease
+- Endocrine/metabolic: [[../Endocrine/Cushing syndrome|hypercortisolism]], hypogonadism, [[../Endocrine/Hyperthyroidism|hyperthyroidism]], [[../Endocrine/Hyperparathyroidism|hyperparathyroidism]], renal disease
 ## Additional risk factors
 - Cigarette smoking
 - Immobilization or inadequate physical activity
-- Malabsorption (e.g., [[../GI/Celiac disease|celiac disease]]), malnutrition (e.g., diet low in calcium and vitamin D), anorexia 
+- [[../GI/Malabsorption|Malabsorption]] (e.g., [[../GI/Celiac disease|celiac disease]]), malnutrition (e.g., diet low in calcium and vitamin D), anorexia 
 
 ---
 # Pathophysiology
@@ -34,10 +34,14 @@ share: true
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+## Nonbisphosphonates
+### PTH and [[../Renal/Parathyroid hormone-related protein|PTH-related protein]] analogues
+- Teriparatide, Abaloparatide
+- Recombinant human parathyroid hormone that increases osteoblastic activity → increased bone growth
+	- <span style="background:rgba(240, 200, 0, 0.2)">Pulsatile PTH secretion has an anabolic effect on bone metabolism, stimulating osteoblast proliferation, decreasing osteoblast apoptosis, and inducing increased formation of new bone.</span>  Recombinant PTH analogues (eg, teriparatide) are used to treat severe osteoporosis; these analogues promote bone remodeling by inducing increased resorption of old bone while stimulating a corresponding increase in new bone production, resulting in a net increase in total bone mass (ie, positive bone balance).
 
 ---
