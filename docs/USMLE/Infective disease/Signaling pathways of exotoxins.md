@@ -15,6 +15,6 @@ share: true
 ## Activation of Gs protein → overactivation of adenylate cyclase → ↑ cAMP
 - V. cholerae
 ## Inhibition of Gi protein → adenylate cyclase disinhibition → cAMP accumulation
-- B. pertussis
+- B. [[./Pertussis|pertussis]]
 ## Edema factor (EF): binds to calcium and calmodulin and gains adenylate cyclase activity → ↑ cAMP
 - B. anthracis
