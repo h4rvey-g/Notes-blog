@@ -38,7 +38,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Maculopapular, pruritic rash (20% of cases)</span>
 ## Complications
 - <span style="background:rgba(240, 200, 0, 0.2)">Guillain-Barre syndrome</span>
-- During pregnancy
+- During [[../Reproductive/Pregnancy|pregnancy]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Congenital Zika syndrome</span>: growth restriction and significant CNS complications in neonates resulting from intrauterine transmission of the Zika virus 
 		- <span style="background:rgba(240, 200, 0, 0.2)">Microcephaly (craniofacial disproportion)</span>
 		- Ventriculomegaly 
