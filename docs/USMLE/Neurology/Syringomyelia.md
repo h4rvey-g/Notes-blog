@@ -22,7 +22,7 @@ share: true
 	- Lower motor neurons in the anterior horns at segment level → initially bilateral weakness → eventual bilateral flaccid paresis and muscle atrophy 
 		- Muscle atrophy typically begins in the hands and progresses to the arms and shoulders.
 	- Upper motor neurons in the medial part of the lateral corticospinal tract → unilateral or bilateral spastic paresis below the level of the syrinx
-	- Descending hypothalamic fibers in T1 to T4 cord segments → <span style="background:rgba(240, 200, 0, 0.2)">Horner syndrome</span>
+	- Descending hypothalamic fibers in T1 to T4 cord segments → <span style="background:rgba(240, 200, 0, 0.2)">[[./Horner syndrome|Horner syndrome]]</span>
 
 >[!tip] 
 >Syringomyelia is an abnormal fluid-filled dilation of the central canal of the spinal cord occurring as a result of impaired CSF flow.
