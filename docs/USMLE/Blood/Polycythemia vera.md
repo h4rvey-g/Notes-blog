@@ -11,7 +11,7 @@ share: true
 
 ---
 # Etiology
-- The JAK2 (Janus kinase 2) oncogene codes for a non-receptor tyrosine kinase in hematopoietic progenitor cells. JAK2 is essential for the regulation of erythropoiesis, thrombopoiesis (megakaryopoiesis), and granulopoiesis. 
+- The JAK2 (Janus kinase 2) oncogene codes for a <span style="background:rgba(240, 200, 0, 0.2)">non-receptor tyrosine kinase</span> in hematopoietic progenitor cells. JAK2 is essential for the regulation of erythropoiesis, thrombopoiesis (megakaryopoiesis), and granulopoiesis. 
 - 98% of patients with polcythemia vera have a <span style="background:rgba(240, 200, 0, 0.2)">mutation in the JAK2 gene (gain of function) </span>→ <span style="background:rgba(240, 200, 0, 0.2)">↑ tyrosine kinase activity → erythropoietin-independent proliferation of the myeloid cell lines → ↑ blood cell mass (erythrocytosis, thrombocytosis, and granulocytosis) → hyperviscosity and slow blood flow → ↑ risk of thrombosis and poor oxygenation.</span>
 
 ---
@@ -33,6 +33,6 @@ share: true
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
