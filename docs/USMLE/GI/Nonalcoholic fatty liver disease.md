@@ -10,19 +10,19 @@ share: true
 ---
 
 - Descriptions
-	- NAFLD: non-alcohol related accumulation of fat in the liver cells
+	- NAFLD: non-alcohol related <span style="background:rgba(240, 200, 0, 0.2)">accumulation of fat in the liver cells</span>
 	- NASH: NAFLD with chronic inflammation and damage of liver cells
 - Epidemiology: very widespread
 - Etiology
 	- <span style="background:rgba(240, 200, 0, 0.2)">Obesity and/or type 2 [[../Endocrine/Diabetes mellitus|diabetes]] (metabolic syndrome)</span>
 		- Due to excess supply of nutrients in the liver
 - Pathophysiology: ↑ Insulin resistance 
-	- ↑ Hepatic uptake of fatty acids
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Hepatic uptake of fatty acids</span>
 	- ↑ Triglyceride synthesis
 	- ↑ Peripheral lipolysis
 - Clinical features 
 	- Often asymptomatic
-	- Hepatomegaly
+	- [[./Hepatomegaly|Hepatomegaly]]
 	- May progress to [[./Cirrhosis|cirrhosis]] 
 - Diagnostics
 	- ↑ Transaminases (AST/ALT ratio < 1): The reversal of the AST/ALT ratio to values > 1 may indicate progression to [[./Cirrhosis|cirrhosis]]. 
