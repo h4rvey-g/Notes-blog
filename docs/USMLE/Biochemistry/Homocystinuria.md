@@ -30,7 +30,7 @@ Definition: a group of inherited genetic disorders characterized by impaired hom
 - Nonspecific features in infancy: growth faltering, developmental delay
 - Eyes
 	- <span style="background:rgba(240, 200, 0, 0.2)">Downward and inward subluxation of the ocular lens (ectopia lentis) after 3 years of age (in [[../Pathology/Ehlers-Danlos syndrome and Marfan syndrome|Marfan syndrome]], the lens usually luxates upwards and outwards)</span>![[../../assets/img/Pasted image 20231111110428.png|Pasted image 20231111110428.png]]
-	- Myopia and [[../Neurology/Angle-closure glaucoma|glaucoma]] later in life
+	- Myopia and [[../Neurology/Glaucoma|glaucoma]] later in life
 - <span style="background:rgba(240, 200, 0, 0.2)">Progressive intellectual disability</span>
 - Psychiatric and behavioral disorders
 - Light skin
