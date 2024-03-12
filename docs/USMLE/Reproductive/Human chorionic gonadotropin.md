@@ -21,3 +21,5 @@ share: true
 	- β-subunit
 		- <span style="background:rgba(240, 200, 0, 0.2)">Specific to hCG </span>
 		- Pregnancy tests generally detect hCG through antibodies to the β-subunit.
+# Types of pregnancy tests
+![[../../assets/img/Pasted image 20240311145801.png|Pasted image 20240311145801.png]]
