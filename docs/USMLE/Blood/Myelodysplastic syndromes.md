@@ -7,7 +7,7 @@ share: true
 ---
 
 # Etiology
-- Primary MDS (90% of cases) [1]
+- Primary MDS (90% of cases) 
 	- Tends to occur in elderly patients
 - Secondary MDS (10% of cases): caused by exogenous bone marrow damage
 
@@ -17,11 +17,11 @@ Myelodysplastic syndromes (MDS) are a group of hematological cancers in which ma
 
 ---
 # Clinical features
-- Depending on the affected cell line: [3]
+- Depending on the affected cell line:
 	- Erythrocytopenia (70% of cases) → symptoms of anemia
 	- Leukocytopenia with increased susceptibility to bacterial infections, especially of the skin
 	- Thrombocytopenia with impaired primary hemostasis → petechial bleeding
-- Hepatosplenomegaly  (uncommon)
+- Hepatosplenomegaly (uncommon)
 
 ---
 # Diagnostics
