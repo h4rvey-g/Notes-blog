@@ -20,7 +20,7 @@ share: true
 
 ---
 # Pathophysiology
-Focal segmental glomerulosclerosis: sclerosis of glomeruli → damage and loss of podocytes
+Focal segmental glomerulosclerosis: <span style="background:rgba(240, 200, 0, 0.2)">sclerosis of glomeruli → damage and loss of podocytes</span>
 
 ---
 # Clinical features
