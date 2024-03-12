@@ -17,3 +17,4 @@ share: true
 	- Altered expression of the <span style="background:rgba(240, 200, 0, 0.2)">RET proto-oncogene</span> → elevated tyrosine kinase activity
 	- MEN 2B
 		- [[../Biochemistry/Marfanoid features|Marfanoid habitus]]
+- See [[../Pathology/Hereditary cancer syndromes|Hereditary cancer syndromes]]
