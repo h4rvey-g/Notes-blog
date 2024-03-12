@@ -12,9 +12,9 @@ share: true
 ---
 # Etiology
 - Typically a sexually transmitted infection
-	- Gonococcal urethritis (GU): Neisseria gonorrhoeae
-	- Chlamydia trachomatis (most common)
-- Coinfection is also common
+	- <span style="background:rgba(240, 200, 0, 0.2)">Gonococcal urethritis (GU): Neisseria gonorrhoeae</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Chlamydia trachomatis (most common)</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Coinfection is also common</span>
 
 ---
 # Pathophysiology
@@ -30,8 +30,10 @@ share: true
 
 ---
 # Treatment
-- <span style="background:rgba(240, 200, 0, 0.2)">Nongonococcal urethritis: single dose azithromycin or doxycycline PO for seven days</span>
-- <span style="background:rgba(240, 200, 0, 0.2)">Gonococcal urethritis: single dose of ceftriaxone IM </span>
-- <span style="background:rgba(240, 200, 0, 0.2)">If T. vaginalis infection is suspected: metronidazole</span>
+Divided into either a GU (gonococcal urethritis) or NGU regimen.
+- <span style="background:rgba(240, 200, 0, 0.2)">GU alone: ceftriaxone</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">GU + Chlamydia (whether certain or uncertain): ceftriaxone + doxycycline</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Chlamydia/Mycoplasma: azithromycin</span>
+- Trichomonas: metronidazole
 
 ---
