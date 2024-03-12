@@ -26,22 +26,22 @@ share: true
 
 ---
 # Clinical features
-## Asymptomatic
-- Most common manifestation
+- Asymptomatic
+	- Most common manifestation
 - Symptomatic
-- Lower gastrointestinal bleeding (most common feature)
-	- Presence of <span style="background:rgba(240, 200, 0, 0.2)">ectopic gastric mucosa</span> or pancreatic tissue → <span style="background:rgba(240, 200, 0, 0.2)">acid or enzyme secretion within the diverticulum → ileal ulceration → bleeding</span>
-	- Can manifest as:
-		- Hematochezia 
-			- Indicates a brisk hemorrhage
-		- Tarry stools 
-			- Indicate a slow hemorrhage
-		- Currant jelly stools
-			- Indicate intussusception with bowel ischemia
+	- Lower gastrointestinal bleeding (most common feature)
+		- Presence of <span style="background:rgba(240, 200, 0, 0.2)">ectopic gastric mucosa</span> or pancreatic tissue → <span style="background:rgba(240, 200, 0, 0.2)">acid or enzyme secretion within the diverticulum → ileal ulceration → bleeding</span>
+		- Can manifest as:
+			- Hematochezia 
+				- Indicates a brisk hemorrhage
+			- Tarry stools 
+				- Indicate a slow hemorrhage
+			- Currant jelly stools
+				- Indicate intussusception with bowel ischemia
 
 ---
 # Diagnostics
-
+<span style="background:rgba(240, 200, 0, 0.2)">Meckel scintigraphy scan (Meckel scan)</span>: a noninvasive nuclear medicine imaging technique using <span style="background:rgba(240, 200, 0, 0.2)">radiolabelled technetium (<sup>99m</sup>Tc), which is preferentially absorbed by the gastric mucosa and can identify ectopic gastric mucosa</span>![[../../assets/img/Pasted image 20240303100534.png|Pasted image 20240303100534.png]]
 
 ---
 # Treatment
