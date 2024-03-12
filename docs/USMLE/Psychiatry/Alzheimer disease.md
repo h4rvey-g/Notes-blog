@@ -40,7 +40,7 @@ share: true
 	- Temporal and spatial disorientation (patients are usually not oriented to person, place, time, or events) 
 	- Impairment of executive functions and judgment
 - Less common symptoms
-	- Primary progressive aphasia 
+	- Primary progressive [[../Neurology/Aphasia|aphasia]] 
 	- Apraxia
 ## Noncognitive
 - Behavioral changes
@@ -87,7 +87,7 @@ share: true
 		- Dizziness
 		- Insomnia
 		- Cholinergic crisis
-		- Bradycardia, conduction abnormalities
+		- <span style="background:rgba(240, 200, 0, 0.2)">Bradycardia, conduction abnormalities</span>
 - NMDA receptor antagonist: memantine
 	- <span style="background:rgba(240, 200, 0, 0.2)">Moderate to severe AD</span>; Often used in combination with donepezil
 	- NMDA receptor antagonism → ↓ glutamate-induced calcium-mediated excitotoxicity
