@@ -13,19 +13,19 @@ share: true
 ---
 # Etiology
 - Common triggers
-	- Antiepileptics: lamotrigine, phenytoin, carbamazepine
+	- <span style="background:rgba(240, 200, 0, 0.2)">Antiepileptics: lamotrigine, phenytoin, carbamazepine</span>
 	- dapsone, sulfamethoxazole/trimethoprim; vancomycin, minocycline; sulfonamides
 	- allopurinol
 
 ---
 # Pathophysiology
-Delayed hypersensitivity reaction (type IV HSR) to drug metabolites
+<span style="background:rgba(240, 200, 0, 0.2)">Delayed hypersensitivity reaction ([[../Immunology/Type IV hypersensitivity reaction|type IV HSR]]) to drug metabolites</span>
 
 ---
 # Clinical features
 - Systemic symptom
-	- Fever, typically high (> 38.5°C/101.3°F) and spiking
-- Diffuse rash
+	- <span style="background:rgba(240, 200, 0, 0.2)">Fever, typically high</span> (> 38.5°C/101.3°F) and spiking
+- <span style="background:rgba(240, 200, 0, 0.2)">Diffuse rash</span>
 	- Typical manifestation: generalized morbilliform pruritic rash
 		- The term morbilliform refers to a rash that looks like measles.
 - Signs of internal organ involvement
@@ -37,6 +37,6 @@ Eosinophilia, thrombocytopenia, atypical lymphocytes often present
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
