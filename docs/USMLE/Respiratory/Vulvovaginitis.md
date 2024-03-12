@@ -22,6 +22,9 @@ share: true
 		- Identified on a vaginal wet mount preparation
 	- Vaginal pH > 4.5
 	- Positive amine test (sometimes referred to as the “whiff test”)
+- Treatment
+	- <span style="background:rgba(240, 200, 0, 0.2)">First-line: metronidazole</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Alternative: clindamycin</span>
 # Vaginal yeast infection (vulvovaginal candidiasis)
 - Epidemiology: second most common cause of vulvovaginitis (17–39% of all cases)
 - Pathogen: primarily <span style="background:rgba(240, 200, 0, 0.2)">Candida albicans</span>
