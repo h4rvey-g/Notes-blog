@@ -4,9 +4,44 @@ created: 2023-12-28 15:40
 modified: 2023-12-28 15:40
 aliases:
   - MAOI
+  - SSRI
 share: true
 ---
 
+# Selective serotonin reuptake inhibitors (SSRI)
+- Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">inhibition of serotonin reuptake in synaptic cleft → ↑ serotonin levels</span>
+- Drugs
+	- Fluoxetine
+	- Paroxetine
+	- Sertraline
+	- Citalopram
+	- Escitalopram
+	- Fluvoxamine
+- Indications
+	- [[./Major depressive disorder|Major depressive disorder]] (first-line therapy)
+	- Generalized anxiety disorder (GAD)
+	- Obsessive-compulsive disorder (OCD)
+	- Post-traumatic stress disorder (PTSD)
+	- Panic disorder
+	- Premature ejaculation
+	- Premenstrual dysphoric disorder
+	- Binge-eating disorder
+	- [[./Bulimia nervosa|Bulimia nervosa]]
+	- Social anxiety disorder
+- Side effects
+	- Early side effects (onset and resolution typically within 1 week of therapy start)
+		- Headache
+		- [[../GI/Diarrhea|Diarrhea]], nausea, vomiting 
+		- Activating effects (e.g., agitation, anxiety, insomnia) 
+	- Late side effects 
+		- <span style="background:rgba(240, 200, 0, 0.2)">Sexual dysfunction (e.g., anorgasmia, ↓ libido, erectile or ejaculatory dysfunction)</span>
+		- [[../Neurology/Syndrome of inappropriate antidiuretic hormone secretion|SIADH]]
+		- [[../Neurology/Serotonin syndrome|Serotonin syndrome]]
+			- Can be caused by any drug that increases serotonin levels
+			- [[../Neurology/Serotonin syndrome|Serotonin syndrome]] caused by SSRIs alone typically manifests with mild symptoms (e.g., nausea, mild tremor).
+			- Increased risk of occurrence and greater severity of symptoms when coadministered with another serotonergic agent (e.g., MAOIs)
+			- Differential diagnosis: poisoning or overdose from concomitant use of substances (e.g., ethanol, salicylates) that may cause similar symptoms to [[../Neurology/Serotonin syndrome|serotonin syndrome]] (e.g., altered mental status)
+		- Motor disorders (e.g., tremors, bruxism)
 # Atypical antidepressants
 ## Mirtazapine
 - Mechanism of action 

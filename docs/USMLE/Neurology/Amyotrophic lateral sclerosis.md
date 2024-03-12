@@ -30,7 +30,7 @@ a neurodegenerative disease with upper and lower motor neuron dysfunction.
 - Symptoms are highly variable and potentially non-specific (e.g., subtle vocal changes or difficulties grasping objects)
 - Asymmetric limb weakness, often beginning with weakness in the hands and feet 
 - Bulbar symptoms such as dysarthria, dysphagia, and tongue atrophy (20% of cases at disease onset)
-- Pseudobulbar palsy with pseudobulbar affect may develop.
+- [[./Bulbar palsy|Pseudobulbar palsy]] with pseudobulbar affect may develop.
 - Fasciculations, cramps, and muscle stiffness
 - Weight loss
 - Split hand sign: a wasting pattern in which the muscles of the thenar eminence atrophy due to degeneration of the lateral portion of the anterior horn of the spinal cord
@@ -39,7 +39,7 @@ a neurodegenerative disease with upper and lower motor neuron dysfunction.
 - Autonomic symptoms (e.g., constipation, bladder dysfunction) may develop; the mechanism of development is unclear. [1]
 - Life-threatening symptoms
 	- Respiratory failure due to paralysis of respiratory muscles
-	- Dysphagia due to bulbar weakness or pseudobulbar palsy
+	- Dysphagia due to bulbar weakness or [[./Bulbar palsy|pseudobulbar palsy]]
 
 ---
 # Diagnosis

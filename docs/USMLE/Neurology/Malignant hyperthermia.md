@@ -15,7 +15,7 @@ share: true
 	- ∼ 50% of cases: <span style="background:rgba(240, 200, 0, 0.2)">associated with a mutation in the ryanodine receptor type 1 (RYR-1)</span>
 		- RYR1 primarily in skeletal myocytes, RYR2 primarily in cardiac myocytes, and RYR3 in various cells including neurons.
 - Triggering agents
-	- Volatile anesthetics (except nitrous oxide)
+	- Volatile [[./Inhalational anesthetics|anesthetics]] (except nitrous oxide)
 	- Succinylcholine
 
 ---

@@ -37,11 +37,15 @@ share: true
 # Treatment
 ## Pharmacological therapy
 ### 5-alpha reductase inhibitors (5-ARIs)
+- See [[../Reproductive/Androgen and estrogen synthesis#Adrenal androgen synthesis|Androgen and estrogen synthesis > Adrenal androgen synthesis]]
 - Inhibition of 5-alpha reductase → ↓ conversion of testosterone to DHT → ↓ intraprostatic DHT levels → ↓ prostatic growth and ↑ prostatic apoptosis and involution → improvement of LUTS![[../../assets/img/Pasted image 20230925162608.png|Pasted image 20230925162608.png]]
 - Adverse effects: sexual dysfunction (e.g., erectile dysfunction, decreased libido, ejaculatory dysfunction), gynecomastia
 - Finasteride, Dutasteride
 >[!tip] 
 >-steride (“testosterone reductase inhibitor”)
+### Phosphodiesterase type 5 inhibitors (PDE-5 inhibitors)
+- <span style="background:rgba(240, 200, 0, 0.2)">Increase in intracellular cGMP → ↓ detrusor, prostate, and urethra muscle tone → improvement of LUTS</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Tadalafil</span>
 
 ---
 # Complications

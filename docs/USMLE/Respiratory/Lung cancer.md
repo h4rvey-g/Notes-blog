@@ -44,7 +44,7 @@ share: true
 	- A rare type of neuroendocrine lung tumor that consists predominantly of neuroendocrine Kulchitsky cells
 - Neuroendocrine Kulchitsky cells
 	- Rapid growth pattern
-	- Expressed tumor markers
+	- Expressed [[../Pathology/Tumor markers|tumor markers]]
 		- Chromogranin A
 		- Synaptophysin
 		- Neuron-specific enolase

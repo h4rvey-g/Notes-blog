@@ -11,7 +11,11 @@ share: true
 
 ---
 # Etiology
-
+## Watery diarrhea
+## Bloody diarrhea
+- Campylobacter jejuni
+	- <span style="background:rgba(240, 200, 0, 0.2)">Poultry, unpasteurized milk (natural gut flora in birds)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Contact with infected persons or infected animals (e.g., pigs, dogs, cats)</span>
 
 ---
 # Pathophysiology

@@ -20,7 +20,7 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">LH stimulates Leydig cells to produce testosterone.</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">FSH stimulates Sertoli cells to release:</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Androgen-binding protein, stimulating spermatogenesis</span>
-	- Inhibin B: Serves as negative feedback control for FSH secretion, a marker of Sertoli cell function and of spermatogenesis.
+	- Inhibin B: Serves as negative feedback control for FSH secretion, a marker of Sertoli cell function and of spermatogenesis.![[../../assets/img/L10036.jpg|L10036.jpg]]
 ## Adrenal androgen synthesis
 Although the majority of testosterone is produced by the Leydig cells in the testicles, the adrenal cortex contributes to androgen production as well.![[../../assets/img/Pasted image 20240130210737.png|Pasted image 20240130210737.png]]
 - A stimulus triggers the secretion of CRH, leading to increased secretion of ACTH by the pituitary gland. 

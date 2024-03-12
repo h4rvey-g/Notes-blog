@@ -17,7 +17,8 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Increased number of CAG repeats (trinucleotide or triplet repeat expansion) in the huntingtin gene on chromosome 4 </span>(most likely due to DNA polymerase dysfunction) results in the expression of an altered huntingtin protein.
 	- Huntingtin is physiologically expressed throughout the CNS, but its exact function is not known.
 - Autosomal dominant
-- Anticipation: increase in the number of CAG repeats in subsequent generations
+- <span style="background:rgba(240, 200, 0, 0.2)">Anticipation: increase in the number of CAG repeats in subsequent generations</span>
+	- In genetics, the term “anticipation” refers to the increasing severity and/or increasingly earlier manifestation of a disease from generation to generation. This phenomenon is observed in HD.
 
 ---
 # Pathophysiology
@@ -44,15 +45,15 @@ share: true
 		- Motor impersistence: inability to sustain simple voluntary acts (e.g., tongue protrusion)
 		- Dysarthria and dysphagia
 	- Cognitive decline, psychiatric symptoms, and behavioral changes (these symptoms may mimic substance use)
-		- <span style="background:rgba(240, 200, 0, 0.2)">Dementia</span> (particularly executive dysfunction)
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[./Dementia|Dementia]]</span> (particularly executive dysfunction)
 		- <span style="background:rgba(240, 200, 0, 0.2)">[[../Psychiatry/Major depressive disorder|Major depressive disorder]]</span> (possibly including suicidal tendencies)
-		- <span style="background:rgba(240, 200, 0, 0.2)">Schizophrenia-like psychosis</span> (∼ 10% of cases)
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[../Psychiatry/Schizophrenia|Schizophrenia]]-like psychosis</span> (∼ 10% of cases)
 			- Paranoid delusions (most common), delusions of infidelity
 			- Auditory hallucinations
 		- Aggression
 
 >[!tip] 
->Chorea characterizes the early stages of the disease while hypokinetic/akinetic symptoms may dominate later on. Dementia, depression, and behavioral disorders are common in advanced stages.
+>Chorea characterizes the early stages of the disease while hypokinetic/akinetic symptoms may dominate later on. [[./Dementia|Dementia]], depression, and behavioral disorders are common in advanced stages.
 
 ---
 # Diagnostics

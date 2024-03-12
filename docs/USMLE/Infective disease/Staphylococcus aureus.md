@@ -16,7 +16,8 @@ share: true
 - Toxins
 	- Superantigens
 		- Toxic shock syndrome toxin-1 (TSST-1)![[../../assets/img/Pasted image 20231224104819.png|Pasted image 20231224104819.png]]
-		- Enterotoxin B (heat stable)
+		- <span style="background:rgba(240, 200, 0, 0.2)">Enterotoxin B (heat stable)</span>
+			- <span style="background:rgba(240, 200, 0, 0.2)">Can cause [[./Food poisoning|Food poisoning]]</span>
 	- Exfoliative toxin
 - Proteins
 	- <span style="background:rgba(240, 200, 0, 0.2)">Protein A (binds to the Fc region of IgG)</span>, prevents opsonization and phagocytosis![[../../assets/img/Pasted image 20231224105141.png|Pasted image 20231224105141.png]]

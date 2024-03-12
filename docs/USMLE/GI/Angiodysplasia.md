@@ -2,13 +2,13 @@
 author: Harvey Guo
 created: 2023-10-23 20:30
 modified: 2023-10-23 20:30
-aliases: Untitled
+aliases: []
 share: true
 ---
 
 - Definition: a common <span style="background:rgba(240, 200, 0, 0.2)">degenerative disorder of GI vessels</span> (mostly venous) that can cause GI bleeding
-- Epidemiology: <span style="background:rgba(240, 200, 0, 0.2)">predominantly seen in individuals > 60 years of age</span> [5]
-- Etiology: associated with von Willebrand disease, aortic stenosis (e.g., Heyde syndrome), and end-stage renal disease (ESRD)
+- Epidemiology: <span style="background:rgba(240, 200, 0, 0.2)">predominantly seen in individuals > 60 years of age</span> 
+- Etiology: associated with [[../Blood/Von Willebrand disease|von Willebrand disease]], [[../Cardiology/Aortic valve stenosis|aortic stenosis]] (e.g., Heyde syndrome), and end-stage renal disease (ESRD)
 - Clinical features
 	- <span style="background:rgba(240, 200, 0, 0.2)">Manifests with episodic bleeding (hematochezia)</span>  , fatigue, weakness, dizziness, shortness of breath, and, potentially, hematemesis
 	- Physical examination: tachycardia, pallor

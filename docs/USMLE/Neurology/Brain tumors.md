@@ -47,6 +47,7 @@ Eosinophilic fibers with corkscrew appearance (<font color="#ffc000">Rosenthal f
 >For Craniopharyngioma what i came up with was <font color="#ffc000">"remnants of WRATH"</font> and i imagine a story like thats a gang or a motorcylcist group whose logo is a <font color="#ffc000">cranium</font>.
 
 ## Pineal gland tumors
-- Parinaud syndrome
+- Parinaud syndrome, a condition involving the inability to look up.
 >[!Mnemonic] 
-><font color="#ffc000">P</font>ineal gland tumors -> <font color="#ffc000">P</font>arinaud syndrome
+>- <font color="#ffc000">P</font>ineal gland tumors -> <font color="#ffc000">P</font>arinaud syndrome
+>- Consider <font color="#ffc000">Parinaud’s</font> syndrome when you find someone’s <font color="#ffc000">peerin</font>’ odd.![[../../assets/img/Pasted image 20240309142710.png|Pasted image 20240309142710.png]]

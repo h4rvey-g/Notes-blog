@@ -44,7 +44,11 @@ HBV carries a DNA polymerase with both DNA and RNA-dependent functions, also kno
 
 ---
 # Clinical features
-
+## Outcomes
+- <span style="background:rgba(240, 200, 0, 0.2)">Acute hepatitis with complete resolution</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Most common, > 95% in infected adults</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Chronic hepatitis</span> (with or without [[./Cirrhosis|cirrhosis]] and the attendant increased risk of [[./Hepatocellular carcinoma|hepatocellular carcinoma]])
+- <span style="background:rgba(240, 200, 0, 0.2)">Fulminant hepatitis with massive liver necrosis.</span>
 
 ---
 # Diagnostics

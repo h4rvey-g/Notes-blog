@@ -7,14 +7,23 @@ share: true
 ---
 
 # Epidemiology
-- <span style="background:rgba(240, 200, 0, 0.2)">Opioid overdose is the most common cause of drug overdose death.</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Opioid overdose is the most common cause of [[../Psychiatry/Psychoactive drug intoxication and withdrawal|drug overdose]] death.</span>
 
 ---
 # Etiology
 
 
 ---
-# Pathophysiology
+# Indications
+---
+## Pain management
+- Buprenorphine
+	- Partial μ-agonist
+	- <span style="background:rgba(240, 200, 0, 0.2)">Chronic pain refractory to nonopioid analgesics: transdermal patches</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Management of opioid use disorder</span> (sublingual and subcutaneous preparations)
+	- Other features
+		- Can displace other opioids from opioid receptors due to high receptor affinity and precipitate withdrawal since it does not produce the same receptor activation as a full agonist
+		- High doses of naloxone or naltrexone are necessary to antagonize buprenorphine effects.
 
 
 ---
@@ -40,6 +49,7 @@ The classic triad consists of:
 
 ---
 # Treatment
-
+>[!tip] 
+>Naloxone has short half-life (60 minutes on average; ranges from 30 to 90 minutes). Therefore, patients may develop recurrent symptoms of opioid toxicity after naloxone is metabolized, and frequent redosing may be necessary.
 
 ---

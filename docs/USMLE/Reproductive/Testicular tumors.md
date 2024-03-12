@@ -27,3 +27,17 @@ share: true
 # Non–germ cell tumors
 ## Leydig cell tumor
 - Microscopy: <span style="background:rgba(240, 200, 0, 0.2)">Reinke crystals</span> (eosinophilic cytoplasmic inclusions)![[../../assets/img/Pasted image 20240218112851.png|Pasted image 20240218112851.png]]
+# Extragonadal germ cell tumors
+- Definition: <span style="background:rgba(240, 200, 0, 0.2)">primary germ cell tumors that arise outside of the gonads, anywhere along the body's midline from the pineal gland to the coccyx.</span>
+- Epidemiology: 5–10% of all germ cell tumors; mostly affects young males
+- Location
+	- <span style="background:rgba(240, 200, 0, 0.2)">Midline organs</span>
+	- Mediastinal > retroperitoneal > intracranial (pineal gland and suprasellar region)
+	- Sacrococcygeal teratomas
+		- Most common in infancy or early childhood
+- Symptoms
+	- Chest pain, dyspnea (on exertion), cough
+- Diagnosis
+	- Testicular ultrasound: to rule out gonadal primary tumor 
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[../Pathology/Tumor markers|Tumor markers]]: [[./Alpha fetoprotein|alpha fetoprotein]] ([[./Alpha fetoprotein|AFP]]) and [[./Human chorionic gonadotropin|human chorionic gonadotropin]] (HCG)</span>
+	- Tumor biopsy (confirmatory)

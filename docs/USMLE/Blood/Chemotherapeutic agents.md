@@ -2,7 +2,7 @@
 author: Harvey Guo
 created: 2023-08-30 21:52
 modified: 2023-08-30 21:52
-aliases: Untitled
+aliases: []
 share: true
 ---
 
@@ -51,3 +51,12 @@ See [[../Biochemistry/De novo pyrimidine and purine synthesis|De novo pyrimidine
 > 	- Dilated cardiomyopathy because it starts with D like Doxorubicin
 > 	- Dexrazoxane used to prevent it -> also starts with D and sounds like Roxane ('Roxane, you don't have to put on the red light', song by the police) -> again red for RUBYcin and heart.
 > - Bleomycin: **b**leo -> fi**b**ro
+# Protein kinase inhibitors
+## CDK inhibitors
+- <span style="background:rgba(240, 200, 0, 0.2)">Palbociclib</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Inhibition of cyclin-dependent kinase 4 and 6 → inhibition of cancer cell growth and induction of apoptosis</span>
+- Indications
+	- Metastatic breast cancer
+	- Myelosuppression
+- Side effects
+	- Pulmonary toxicity (e.g., pneumonitis)

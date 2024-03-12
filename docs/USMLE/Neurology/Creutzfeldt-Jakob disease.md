@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-12-24 15:42
 modified: 2023-12-24 15:42
-aliases: []
+aliases:
+  - Prion disease
 share: true
 ---
 
@@ -33,7 +34,7 @@ CJD is caused by misfolded proteins (prions, PrP<sup>Sc</sup>) that are either p
 ---
 # Clinical features
 - Neurological symptoms
-	- Cerebellar disturbances (e.g., gait instability) and extrapyramidal deficits
+	- Cerebellar disturbances (e.g., [[./Gait|gait]] instability) and extrapyramidal deficits
 	- <span style="background:rgba(240, 200, 0, 0.2)">Myoclonus</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Often triggered by startling (e.g., loud noises)</span>
 		- Also associated with metabolic abnormalities found in liver and renal failure

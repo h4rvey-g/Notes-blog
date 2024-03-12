@@ -36,7 +36,8 @@ share: true
 
 ---
 # Diagnostics
-
+- <span style="background:rgba(240, 200, 0, 0.2)">Normal RBC indices (e.g. MCV)</span>
+	- Not all red blood cells are sickled
 
 ---
 # Treatment

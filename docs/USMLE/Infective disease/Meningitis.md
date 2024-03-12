@@ -33,6 +33,15 @@ share: true
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+## Prevention
+### N. meningitidis
+- Indications
+	- All close contacts within 7 days of symptom onset, i.e.:
+		- Household members
+- Recommended regimens
+	- <span style="background:rgba(240, 200, 0, 0.2)">Rifampin</span>
+	- OR ceftriaxone
+### H. influenzae
+- Rifampin for 4 days
 
 ---

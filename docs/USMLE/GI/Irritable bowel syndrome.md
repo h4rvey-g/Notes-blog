@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2024-01-31 16:02
 modified: 2024-01-31 16:02
-aliases: []
+aliases:
+  - IBS
 share: true
 ---
 

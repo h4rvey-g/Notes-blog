@@ -81,7 +81,7 @@ share: true
 - Pathophysiology: <span style="background:rgba(240, 200, 0, 0.2)">chronic hyperglycemia → nonenzymatic glycation of proteins and lipids → thickening of the basal membrane with progressive function impairment and tissue damage</span>
 - Manifestations
 	- [[../Renal/Diabetic kidney disease|Diabetic nephropathy]]
-	- Diabetic retinopathy, [[../Neurology/Angle-closure glaucoma|glaucoma]]
+	- Diabetic retinopathy, [[../Neurology/Glaucoma|glaucoma]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[./Diabetic neuropathy|Diabetic neuropathy]] including [[./Diabetic gastroparesis|diabetic gastroparesis]]</span>
 	- Diabetic foot
 

@@ -12,7 +12,7 @@ share: true
 	- Most common cause of inherited CRC
 - Increased lifetime risk of associated cancers (by age 70) 
 	- Endometrial cancer: up to 40%
-	- Gastric cancer: ∼ 10%
+	- [[./Gastric cancer|Gastric cancer]]: ∼ 10%
 	- Ovarian tumors: ∼ 10%
 	- Urothelial cancer: up to 10%
 	- Skin: ∼ 4%
@@ -22,6 +22,7 @@ share: true
 - Hereditary disease: <span style="background:rgba(240, 200, 0, 0.2)">autosomal dominant</span> with varying penetrance
 - <span style="background:rgba(240, 200, 0, 0.2)">Mutations in various DNA mismatch repair genes (MLH1, MSH2, MSH6, PMS2) cause microsatellite instability.</span>
 	- Increased occurrence of adenomas with ∼ 80% risk of progression to carcinomas
+- See [[../Pathology/Hereditary cancer syndromes|Hereditary cancer syndromes]]
 
 ---
 # Pathophysiology
@@ -30,7 +31,7 @@ share: true
 ---
 # Clinical features
 - Patients are usually asymptomatic until CRC develops.
-- <span style="background:rgba(240, 200, 0, 0.2)">Turcot syndrome: presence of Lynch syndrome-related CRC and brain tumors (especially gliomas)</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Turcot syndrome: presence of Lynch syndrome-related CRC and [[../Neurology/Brain tumors|brain tumors]] (especially gliomas)</span>
 
 ---
 # Diagnostics

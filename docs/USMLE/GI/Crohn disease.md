@@ -28,6 +28,7 @@ share: true
 
 ---
 # Pathology
+![[../../assets/img/Pasted image 20240303110920.png|Pasted image 20240303110920.png]]
 - Transmural inflammation: all mucosal layers of the intestinal wall are involved 
 	- Noncaseating granulomas![[../../assets/img/Pasted image 20231026112626.png|Pasted image 20231026112626.png]]![[../../assets/img/Pasted image 20231026112648.png|Pasted image 20231026112648.png]]
 
@@ -46,7 +47,7 @@ CD most <span style="background:rgba(240, 200, 0, 0.2)">commonly affects the ter
 - <span style="background:rgba(240, 200, 0, 0.2)">Palpable abdominal mass  in the RLQ  </span>
 	- Due to adhesions within the intestine caused by inflammation![[../../assets/img/Pasted image 20231026105145.png|Pasted image 20231026105145.png]]
 - Features of CD complications
-	- <span style="background:rgba(240, 200, 0, 0.2)">Malabsorption (e.g., weight loss, [[../Blood/Anemia|anemia]], failure to thrive)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[./Malabsorption|Malabsorption]] (e.g., weight loss, [[../Blood/Anemia|anemia]], failure to thrive)</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Since [[./Ulcerative colitis|ulcerative colitis]] does not affect the small intestine, [[./Absorption|absorption]] of nutrients is not impaired.</span> However, loss of appetite, poor tolerance of or avoidance of certain foods, and adjustment of diet without medical consultation can lead to malnutrition already in nonsevere disease.
 	- Enterocutaneous or perianal fistulas, often associated with abscess formation
 
@@ -96,17 +97,17 @@ CD most <span style="background:rgba(240, 200, 0, 0.2)">commonly affects the ter
 - Occur in one-third of patients with CD
 - Typically involve the perianal region![[../../assets/img/Pasted image 20231026113426.png|Pasted image 20231026113426.png]]
 ## Other intestinal complications
-- Colorectal cancer (especially in the case of pancolitis)
+- [[./Colorectal cancer|Colorectal cancer]] (especially in the case of pancolitis)
 - Short bowel syndrome and associated issues after surgery
-- Stenosis/strictures → bowel obstruction/(sub)ileus
+- <span style="background:rgba(240, 200, 0, 0.2)">Stenosis/strictures → bowel obstruction/(sub)ileus</span>
 - Intestinal perforation → peritonitis
 - [[./Primary sclerosing cholangitis|Primary sclerosing cholangitis]]
 - Impaired bile acid reabsorption
 	- Bile acid diarrhea 
-	- Bile acid malabsorption → [[./Steatorrhea|steatorrhea]] and deficiencies in fat-soluble vitamins 
+	- Bile acid [[./Malabsorption|malabsorption]] → [[./Steatorrhea|steatorrhea]] and deficiencies in fat-soluble vitamins 
 - Abscess formation/phlegmons
 ## Systemic complications
-- Signs of malabsorption syndrome
+- Signs of [[./Malabsorption|malabsorption]] syndrome
 	- Weight loss
 	- Failure to thrive and growth failure in children
 	- [[../Blood/Anemia|Anemia]]
