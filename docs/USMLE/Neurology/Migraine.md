@@ -53,6 +53,16 @@ share: true
 			- Vasospasm of coronary vessels → coronary ischemia (rare)
 			- Paresthesia and sensation of cold in the extremities
 			- [[./Serotonin syndrome|Serotonin syndrome]] (if taken with other 5-HT agonists)
-
-
----
+## Prophylactic therapy of migraine
+- Lifestyle modifications
+	- Exercise in moderation
+	- Maintain a healthy diet
+	- Identify and try to avoid potential triggers
+	- Follow a regular sleeping schedule
+- General prophylaxis
+	- First-line
+		- <span style="background:rgba(240, 200, 0, 0.2)">Anticonvulsants (e.g., topiramate, divalproex)</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Beta blockers</span> (e.g., propranolol, metoprolol (off-label), timolol)
+	- Second-line
+		- Tricyclic antidepressant: amitriptyline
+		- NSAIDs
