@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2024-01-10 11:38
 modified: 2024-01-10 11:38
-aliases: []
+aliases:
+  - AMD
 share: true
 ---
 
@@ -27,6 +28,7 @@ AMD is characterized by progressive degenerative changes in the central part of 
 	- Also referred to as exudative AMD or neovascular AMD
 	- <span style="background:rgba(240, 200, 0, 0.2)">Choroidal neovascularization (between the retinal pigment epithelium and Bruch's membrane) → leaking of intravascular serous fluid and blood  → sudden localized elevation of the macula and/or detachment of the retinal pigment epithelium</span>
 		- Hemorrhages can cause sudden loss of vision.
+
 ![[../../assets/img/Pasted image 20240114102118.png|Pasted image 20240114102118.png]]
 
 ---
