@@ -7,6 +7,9 @@ aliases:
 share: true
 ---
 
+- <span style="background:rgba(240, 200, 0, 0.2)">Impaired copper excretion causes copper to accumulate in the body. </span>
+- Early-stage Wilson disease is characterized by the presence of copper deposits in the liver. 
+- As the disease progresses, copper accumulates in other organs as well, most importantly in the brain and cornea.
 # Epidemiology
 
 
@@ -21,6 +24,8 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Reduced biliary copper excretion</span> 
 - <span style="background:rgba(240, 200, 0, 0.2)">Results in ↑ free serum copper → accumulation in the liver, cornea, CNS (basal ganglia, brain stem, cerebellum), kidneys, and enterocytes</span>
 ![[../../assets/img/Pasted image 20231029105439.png|Pasted image 20231029105439.png]]
+>[!tip] 
+>Don't mess up with [[../Blood/Hemochromatosis|Hemochromatosis]]
 
 ---
 # Clinical features
