@@ -54,5 +54,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Wakefulness.</span> Think about benadryl (antihistamine) makes us drowsy and sleepy)
 - Glutamate
 	- <span style="background:rgba(240, 200, 0, 0.2)">Excitatory in the brain</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Glutamate-induced excitotoxicity</span>
+		- ![[../../assets/img/highresdefault_L74653.jpg|highresdefault_L74653.jpg]]
 - Glycine
 	- Inhibitory in the spine
