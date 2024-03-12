@@ -10,7 +10,9 @@ Left part is for HIV, right part is for other virus.![[../../assets/img/Pasted i
 >[!tip] 
 >See [[./HIV therapy|HIV therapy]] for NRTIs and NNRTIs...
 # Oseltamivir, zanamivir
-- Inhibit influenza neuraminidase → ↓ release of progeny virus.![[../../assets/img/Pasted image 20231222091013.png|Pasted image 20231222091013.png]]
+- Inhibit influenza neuraminidase → ↓ release of progeny virus.
+	- A viral enzyme that cleaves neuraminic acid residues from glycoprotein, which results in viral release from the host cell. Found in influenza virus.
+- ![[../../assets/img/Pasted image 20231222091013.png|Pasted image 20231222091013.png]]
 # Acyclovir, famciclovir, valacyclovir
 - <span style="background:rgba(240, 200, 0, 0.2)">Guanosine analogs</span>. 
 - HSV/VZV-coded thymidine kinase monophosphorylates the guanosine analogue to an active intermediate → phosphorylation by cellular kinases → acyclovir triphosphate (ACV-TP)![[../../assets/img/Pasted image 20240207162621.png|Pasted image 20240207162621.png]]
