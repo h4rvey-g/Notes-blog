@@ -41,7 +41,7 @@ The virus replicates in the gastrointestinal tract (oropharynx and small intesti
 ---
 # Differential Diagnosis
 - Guillain-Barré syndrome: <span style="background:rgba(240, 200, 0, 0.2)">Paralysis is typically symmetrical in Guillain-Barré syndrome. In addition, it would not manifest with CSF pleocytosis.</span>
-- Acute intermittent porphyria: may also present with muscle weakness and bulbar paralysis
+- [[../Blood/Acute intermittent porphyria|Acute intermittent porphyria]]: may also present with muscle weakness and bulbar paralysis
 - Spinal muscular atrophy: Paralysis is typically symmetrical.
 
 ---
