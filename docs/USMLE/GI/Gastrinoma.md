@@ -32,7 +32,7 @@ share: true
 - Dyspeptic symptoms (e.g., heartburn)
 - Upper gastrointestinal bleeding 
 - <span style="background:rgba(240, 200, 0, 0.2)">Weight loss </span>
-- <span style="background:rgba(240, 200, 0, 0.2)">Possible symptoms of other endocrine neoplasias.</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Possible symptoms of other endocrine neoplasias.</span> See [[../Endocrine/Multiple endocrine neoplasias|MEN1]]
 
 ---
 # Diagnostics
