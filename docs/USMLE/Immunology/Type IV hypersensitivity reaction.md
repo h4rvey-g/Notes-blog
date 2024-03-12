@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-12-17 10:54
 modified: 2023-12-17 10:54
-aliases: []
+aliases:
+  - Type IV HSR
 share: true
 ---
 
