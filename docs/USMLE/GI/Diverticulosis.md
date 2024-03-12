@@ -26,7 +26,8 @@ share: true
 ---
 # Etiology
 - Caused mainly by lifestyle and environmental factors
-	- Diet (low-fiber, rich in fat and red meat)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Diet (low-fiber, rich in fat and red meat)</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">May lead to constipation</span>
 	- Obesity
 	- Low physical activity
 
