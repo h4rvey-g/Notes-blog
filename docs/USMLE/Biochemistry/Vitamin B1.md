@@ -20,7 +20,7 @@ In thiamine pyrophosphate (TPP), <span style="background:rgba(240, 200, 0, 0.2)"
 ---
 # Etiology
 - Heavy drinking
-	- Alcohol <span style="background:rgba(240, 200, 0, 0.2)">damages the lining of the intestine</span> and directly inhibits the transport mechanism that is responsible for thiamine [[../GI/Absorption|absorption]] in the intestinal tract.
+	- Alcohol <span style="background:rgba(240, 200, 0, 0.2)">damages the lining of the intestine</span> and directly inhibits the transport mechanism that is responsible for thiamine [[../GI/Absorption|absorption]] in the intestinal tract.![[../../assets/img/Pasted image 20240316194556.png|Pasted image 20240316194556.png]]
 - Malnutrition, [[./Metabolic fuel use|starvation]]
 - [[../GI/Malabsorption|Malabsorption]]
 - Malignancy
