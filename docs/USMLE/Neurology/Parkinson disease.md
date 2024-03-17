@@ -15,6 +15,9 @@ share: true
 
 ---
 # Pathophysiology
+>[!Mnemonic] 
+><font color="#ffc000">PA</font>rkinson's <font color="#ffc000">D</font>isease = do<font color="#ffc000">PA</font>mine <font color="#ffc000">D</font>owm
+>[[../Psychiatry/Alzheimer disease|Alzheimer Disease]] = <font color="#ffc000">A</font>cetylcholine <font color="#ffc000">D</font>own
 - Progressive dopaminergic neuron degeneration in the substantia nigra (part of the basal ganglia) and the locus coeruleus → <span style="background:rgba(240, 200, 0, 0.2)">[[./Neurotransmitters|dopamine]] deficiency at the respective receptors of the striatum with interrupted transmission to the thalamus and motor cortex → motor symptoms of PD</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">[[./Neurotransmitters|Serotonin]] and noradrenaline depletion (in the raphe nuclei): likely cause of depressive symptoms</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">[[./Neurotransmitters|Acetylcholine]] surplus (in the nucleus basalis of Meynert): likely cause of dyskinesia</span>
