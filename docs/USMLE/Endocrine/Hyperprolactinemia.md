@@ -13,16 +13,16 @@ share: true
 # Etiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Prolactin-secreting [[./Pituitary adenoma|pituitary adenoma]] (prolactinomas) </span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Damage to the [[../Neurology/Hypothalamus|hypothalamus]] and/or infundibular stalk</span>
-	- They compress the infundibular stalk and result in an interruption of the tonic inhibitory effect of hypothalamic [[../Neurology/Neurotransmitters|dopamine]] on the secretion of prolactin![[../../assets/img/Pasted image 20231216164848.png|Pasted image 20231216164848.png]]![[../../assets/img/Pasted image 20240125153219.png|Pasted image 20240125153219.png]]
+	- They compress the infundibular stalk and result in an interruption of the tonic inhibitory effect of hypothalamic [[../Neurology/Neurotransmitters|dopamine]] on the secretion of prolactin![[../../assets/img/L26372.jpg|L26372.jpg]]![[../../assets/img/Pasted image 20240125153219.png|Pasted image 20240125153219.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Severe primary [[../Biochemistry/Hypothyroidism|hypothyroidism]]: ↓ T3/T4 → ↑ TRH → ↑ prolactin</span>
 - Drugs
-	- [[../Neurology/Neurotransmitters|Dopamine]] antagonists: 
-		- Antiemetics: metoclopramide, domperidone 
-		- Antipsychotics (e.g., haloperidol, risperidone)
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[../Neurology/Neurotransmitters|Dopamine]] antagonists: </span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[../GI/Antiemetics|Antiemetics]]: metoclopramide, domperidone </span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Antipsychotics (e.g., haloperidol, risperidone)</span>
 	- Certain tricyclic [[../Psychiatry/Antidepressants|antidepressants]]: e.g., clomipramine
 - Physiological causes: stress, pregnancy, lactation, nipple stimulation, crying baby, sexual orgasm, sleep, exercise
 >[!tip] 
->The dopamine-prolactin pathway (tuberoinfundibular pathway) is unique among other pathways, as dopamine inhibits prolactin.
+>The dopamine-prolactin pathway ([[../Neurology/Dopaminergic pathway|tuberoinfundibular pathway]]) is unique among other pathways, as dopamine inhibits prolactin.
 
 ---
 # Pathophysiology
