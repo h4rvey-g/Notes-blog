@@ -15,6 +15,9 @@ share: true
 
 ---
 # Pathophysiology
+>[!Mnemonic] 
+><font color="#ffc000">PA</font>rkinson's <font color="#ffc000">D</font>isease = do<font color="#ffc000">PA</font>mine <font color="#ffc000">D</font>owm
+><font color="#ffc000">A</font>lzheimer <font color="#ffc000">D</font>isease = <font color="#ffc000">A</font>cetylcholine <font color="#ffc000">D</font>own
 - <span style="background:rgba(240, 200, 0, 0.2)">Senile plaques (neuritic plaques)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Extracellular</span>
 	- Located in the grey matter of the brain
