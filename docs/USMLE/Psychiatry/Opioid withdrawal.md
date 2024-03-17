@@ -11,7 +11,7 @@ share: true
 
 ---
 # Etiology
-
+- <span style="background:rgba(240, 200, 0, 0.2)">Mostly heroin</span>
 
 ---
 # Pathophysiology
@@ -59,6 +59,23 @@ Neonatal abstinence syndrome is caused by maternal drug use during pregnancy (ty
 
 ---
 # Treatment
+- Naloxone
+	- A competitive <span style="background:rgba(240, 200, 0, 0.2)">opioid receptor antagonist</span> with high binding affinity to the mu (μ) opioid receptor. 
+	- Used to <span style="background:rgba(240, 200, 0, 0.2)">reverse opioid overdose.</span> 
+	- It has a relatively short duration of action, which can lead to renewed effect of opioids.
+- Naltrexone
+	- <span style="background:rgba(240, 200, 0, 0.2)">Maintenance therapy for patients who have completed opioid withdrawal and want to abstain from opioid use</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Acute opioid withdrawal: methadone/buprenorphine</span>
+	- Methadone 
+		- <span style="background:rgba(240, 200, 0, 0.2)">full mu-opioid receptor agonist</span>
+		- It has a <span style="background:rgba(240, 200, 0, 0.2)">long half-life, which allows it to effectively suppress cravings and withdrawal symptoms</span>
+		- It also blocks the euphoric effects of other opioids by maintaining high tolerance levels
+	- Buprenorphine is an <span style="background:rgba(240, 200, 0, 0.2)">opioid partial agonist</span> used for opioid use disorder
 
+>[!Mnemonic] 
+> <font color="#ffc000">Methadone</font>? The recovering heroin addict I <font color="#ffc000">met had one</font> .
+> Buprenorphine <font color="#ffc000">boop</font>s the <font color="#ffc000">morphine</font>![[../../assets/img/Pasted image 20240316205426.png|Pasted image 20240316205426.png]]
+
+![[../../assets/img/Pasted image 20240316203900.png|Pasted image 20240316203900.png]]
 
 ---

@@ -39,9 +39,10 @@ share: true
 >[!Mnemonic] 
 ><font color="#ffc000">Papi</font> and <font color="#ffc000">Moma</font> adopted <font color="#ffc000">Orphan Annie</font>.
 ## Medullary carcinoma
-- Tissue of origin: Parafollicular cells (C cells)
+- Tissue of origin: <span style="background:rgba(240, 200, 0, 0.2)">Parafollicular cells (C cells)</span>
+	- The parafollicular cells are <span style="background:rgba(240, 200, 0, 0.2)">located in the connective tissue between the thyroid follicles, which can be considered a "medullary" (central) part of the thyroid gland</span>, although not in the same sense as the medulla in other organs like the adrenal glands.
 - Poorly differentiated
 - Characteristics
 	- Sometimes a genetic predisposition → <span style="background:rgba(240, 200, 0, 0.2)">[[./Multiple endocrine neoplasias|multiple endocrine neoplasia]] type 2 (MEN2)</span> (25% of medullary carcinomas)
 	- Sporadic (75% of medullary carcinomas)
-	- Produces [[./Calcitonin|calcitonin]]
+	- Produces [[./Calcitonin|calcitonin]]![[../../assets/img/Pasted image 20240317093756.png|Pasted image 20240317093756.png]]

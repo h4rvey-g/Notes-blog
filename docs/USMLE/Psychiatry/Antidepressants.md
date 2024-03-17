@@ -42,6 +42,11 @@ share: true
 			- Increased risk of occurrence and greater severity of symptoms when coadministered with another serotonergic agent (e.g., MAOIs)
 			- Differential diagnosis: poisoning or overdose from concomitant use of substances (e.g., ethanol, salicylates) that may cause similar symptoms to [[../Neurology/Serotonin syndrome|serotonin syndrome]] (e.g., altered mental status)
 		- Motor disorders (e.g., tremors, bruxism)
+## Sertraline
+- Ser for serotonin
+- Sertraline has more GI side effects but is safe when pregnant or breastfeeding.
+>[!Mnemonic] 
+>Think <font color="#ffc000">squirt</font> raline to remember <font color="#ffc000">diarrhea and breast milk</font>.
 # Atypical antidepressants
 ## Mirtazapine
 - Mechanism of action 
@@ -56,9 +61,10 @@ share: true
 	- Minimal sexual side effects
 - Drug interactions: risk of [[../Neurology/Neurotransmitters|serotonin]] syndrome if used concomitantly with other serotonergic drugs
 >[!Mnemonic] 
->Mirta<font color="#ffc000">zzz</font>apine makes you sleepy (<font color="#ffc000">Zzz</font>...).
+>- Mirta<font color="#ffc000">zzz</font>apine makes you sleepy (<font color="#ffc000">Zzz</font>...).
+>- <font color="#ffc000">MEAL</font>-tazapine
 ## Bupropion
-- Mechanism of action: increase dopamine and norepinephrine levels via reuptake inhibition 
+- Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">increase dopamine and norepinephrine</span> levels via reuptake inhibition 
 - Indications
 	- <span style="background:rgba(240, 200, 0, 0.2)">Smoking cessation: used in conjunction with counseling and nicotine replacement</span> (see “Nicotine use disorder”)
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[./Major depressive disorder|Major depressive disorder]]</span>
@@ -73,7 +79,14 @@ share: true
 - Drug interactions: risk of [[../Neurology/Serotonin syndrome|serotonin syndrome]] if used concomitantly with other serotonergic drugs
 >[!tip] 
 >Buproprion is not associated with sexual dysfunction or weight gain. It is contraindicated in patients with seizure and eating disorders.
+
+>[!Mnemonic] 
+><font color="#ffc000">Bu</font>propion + <font color="#ffc000">d</font>op<font color="#ffc000">a</font>mine + <font color="#ffc000">n</font>or<font color="#ffc000">e</font>pinephrine = bu-da-ne (butane).![[../../assets/img/Pasted image 20240315202547.png|Pasted image 20240315202547.png]]
+>- A butane lighter is hot, like bupropion’s lack of sexual side effects.
+>- A butane lighter can help you remember the association of bupropion with cigarettes.
+>- <font color="#ffc000">Bu</font>propion should be avoided in patients with <font color="#ffc000">bu</font>limia.
 # Monoamine oxidase inhibitors
+<span style="background:rgba(240, 200, 0, 0.2)">Most powerful among these drugs, also has worst adverse effects</span>
 - Drugs
 	- <font color="#ffc000">Tranylcypromine</font>
 	- Phenelzine
@@ -83,14 +96,17 @@ share: true
 	- [[../Neurology/Parkinson disease|Parkinson disease]]: selegiline (as an adjunct to carbidopa-levodopa)
 - Side effects
 	- CNS stimulation
-	- Sexual dysfunction
+	- Sexual dysfunction, can cause priapism
 	- Orthostatic hypotension
 	- Weight gain
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[../Cardiology/Hypertensive crises|Hypertensive crisis]] with ingestion of foods containing tyramine</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Examples: aged cheeses, smoked/cured meats, alcoholic beverages (especially beer and red wine), dried fruits, fava beans, chocolate</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Tyramine stimulates the sympathetic nervous system by releasing other [[../Neurology/Neurotransmitters|neurotransmitters]], such as noradrenaline, from vesicles into the synaptic cleft.</span>
+
+>[!Mnemonic] 
+>Think of trazodone as trazo <font color="#ffc000">bone</font> to remember priapism![[../../assets/img/Pasted image 20240315203328.png|Pasted image 20240315203328.png]]
 # Tricyclic antidepressants (TCA)
-- Mechanism of action: inhibition of serotonin and norepinephrine reuptake in synaptic cleft → ↑ serotonin and norepinephrine levels 
+- Mechanism of action: inhibition of serotonin and norepinephrine reuptake in synaptic cleft → ↑ serotonin and norepinephrine levels ![[../../assets/img/Pasted image 20240315204406.png|Pasted image 20240315204406.png]]
 - Drugs
 	- Secondary amines 
 		- Nortriptyline
@@ -107,12 +123,13 @@ share: true
 	- [[./Major depressive disorder|Major depressive disorder]] (third- or fourth-line therapy)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Neuropathic pain (e.g., peripheral neuropathy, [[../Endocrine/Diabetic neuropathy|diabetic neuropathy]], postherpetic neuralgia)</span>
 	- Chronic pain (including [[../MSK/Fibromyalgia|fibromyalgia]])
-	- Migraine prophylaxis
+	- [[../Neurology/Migraine|Migraine]] prophylaxis
 	- Clomipramine specifically: OCD
 	- Imipramine specifically: nocturnal enuresis (limited use due to side effects)
 - Side effects
 	- Orthostatic hypotension 
-	- Cardiotoxicity due to Na+ channel inhibition in the myocardium: changes in cardiac conductivity velocity, arrhythmias, prolonged QT interval (predisposes to [[../Cardiology/Torsades de pointes|torsades de pointes]]), wide QRS complex
+	- <span style="background:rgba(240, 200, 0, 0.2)">Cardiotoxicity</span> due to Na+ channel inhibition in the myocardium: changes in cardiac conductivity velocity, arrhythmias, <span style="background:rgba(240, 200, 0, 0.2)">prolonged QT interval (predisposes to [[../Cardiology/Torsades de pointes|torsades de pointes]]), wide QRS complex</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Treatment is sodium bicarbonate</span>
 	- Tremor
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anticholinergic symptoms due to blockage of muscarinic cholinergic receptors (more common with tertiary amines)</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">TCAs have structural similarities to acetylcholine, enabling them to bind to and block muscarinic receptors.</span>
@@ -120,4 +137,9 @@ share: true
 		- CNS: confusion, hallucinations, sedation, seizures (confusion and hallucinations are most commonly seen in older patients)
 		- Gastrointestinal: constipation
 		- <span style="background:rgba(240, 200, 0, 0.2)">Genitourinary: urinary retention</span>
+			- <font color="#ffc000">Imip</font>ramine = <font color="#ffc000">I'm peeing</font>-ramine
 		- General: xerostomia
+
+>[!Mnemonic] 
+>A sodium bi <font color="#ffc000">car</font> bonate can run over a <font color="#ffc000">tricycle </font>![[../../assets/img/Pasted image 20240315204252.png|Pasted image 20240315204252.png]]
+

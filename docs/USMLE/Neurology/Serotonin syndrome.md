@@ -19,6 +19,7 @@ share: true
 
 ---
 # Clinical features
+![[../../assets/img/Pasted image 20240315213536.png|Pasted image 20240315213536.png]]
 - Onset: acute, typically within 24 hours of administration of the causative drug
 - <span style="background:rgba(240, 200, 0, 0.2)">Classic triad</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Autonomic dysfunction</span>
@@ -30,10 +31,10 @@ share: true
 		- <span style="background:rgba(240, 200, 0, 0.2)">Contrast to [[./Parkinson disease|Parkinson disease]]</span>
 		- Hyperreflexia
 		- Myoclonus
-		- Clonus
-		- Horizontal ocular clonus
+		- [[../MSK/Spasticity (Clonus) vs Rigidity|Clonus]]
+		- Horizontal ocular [[../MSK/Spasticity (Clonus) vs Rigidity|clonus]]
 		- Hypertonicity
-		- Rigidity (especially in the lower extremities)
+		- [[../MSK/Spasticity (Clonus) vs Rigidity|Rigidity]] (especially in the lower extremities)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Altered mental status</span>
 		- Delirium
 		- Psychomotor agitation

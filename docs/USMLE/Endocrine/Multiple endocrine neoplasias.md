@@ -7,6 +7,7 @@ aliases:
   - MEN1
   - MEN2A
   - MEN2B
+  - MEN2
 share: true
 ---
 

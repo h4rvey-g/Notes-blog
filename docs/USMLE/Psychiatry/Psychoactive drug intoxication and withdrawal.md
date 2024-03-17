@@ -10,7 +10,7 @@ share: true
 
 # Opioids
 ## ![[./Opioid withdrawal|Opioid withdrawal]]
-# Benzodiazepines
+# [[./Sedative-hypnotic drugs|Benzodiazepines]]
 - Benzos increase the FREQUENCY of chloride channel opening
 - Barbiturates increase the DURATION of chloride channel opening
 >[!Mnemonic] 

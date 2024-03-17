@@ -37,7 +37,7 @@ share: true
 
 ---
 # Clinical features
-- Symptoms: worsen with exercise, dehydration, and use of certain drugs (e.g., diuretics, hydralazine, ACEIs/ARBs, [[./Cardiac glycosides|digoxin]]) [6]
+- Symptoms: worsen with exercise, dehydration, and use of certain drugs (e.g., diuretics, hydralazine, ACEIs/ARBs, [[./Cardiac glycosides|digoxin]])
 	- Frequently asymptomatic (especially the nonobstructive type)
 	- Exertional dyspnea
 	- [[./Coronary artery disease|Angina]] pectoris 
@@ -49,7 +49,7 @@ share: true
 		- Increases with Valsalva maneuver, standing, inotropic drugs (e.g., [[./Cardiac glycosides|digitalis]]) 
 		- Decreases with:
 			- Hand grip, squatting, or passive leg elevation
-			- Drugs that decrease cardiac contractility (e.g., beta blockers)
+			- Drugs that decrease cardiac contractility (e.g., [[./Beta blockers|beta blockers]])
 	- Possible holosystolic murmur from mitral regurgitation
 	- Sustained apex beat
 	- <span style="background:rgba(240, 200, 0, 0.2)">S4 gallop</span>
