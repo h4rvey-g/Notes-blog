@@ -50,6 +50,7 @@ A. <span style="background:rgba(240, 200, 0, 0.2)">Five or more of the nine symp
 >[!Mnemonic] 
 ><font color="#ffc000">SAGE CAPS</font>
 >Imagined a very sad wizard in a fancy hat.
+><font color="#ffc000">2 weeks = too blue</font>![[../../assets/img/Pasted image 20240315195825.png|Pasted image 20240315195825.png]]
 ## Further assessment
 ### Suicide risk
 - Screen all patients with MDD for suicidality.
