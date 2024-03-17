@@ -7,6 +7,7 @@ aliases:
 share: true
 ---
 
+Abnormal uterine bleeding (AUB) is a broad term that describes irregularities in the menstrual cycle involving frequency, regularity, duration, and volume of flow <span style="background:rgba(240, 200, 0, 0.2)">outside of [[./Pregnancy|pregnancy]]</span>
 # Epidemiology
 ---
 
@@ -26,7 +27,7 @@ share: true
 
 # Diagnostics
 ---
-<% tp.file.cursor() %>
+
 
 # Treatment
 ---
