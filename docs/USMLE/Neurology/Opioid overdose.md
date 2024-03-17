@@ -29,6 +29,7 @@ share: true
 ---
 # Clinical features
 ## Opioid toxidrome
+![[../../assets/img/Pasted image 20240315214152.png|Pasted image 20240315214152.png]]
 The classic triad consists of:
 - <span style="background:rgba(240, 200, 0, 0.2)">Altered mental status (e.g., CNS depression, euphoria)</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Bilateral miosis (pinpoint pupils)</span>
