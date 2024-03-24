@@ -7,7 +7,6 @@ aliases:
   - Laryngotracheobronchitis
 share: true
 ---
-
 # Epidemiology
 - Peak incidence: 6 months to 3 years
 - Most common in fall and winter
@@ -20,7 +19,7 @@ share: true
 
 ---
 # Pathophysiology
-Viral infection → inflammation of the upper airway with edema formation and infiltration of inflammatory cells → <span style="background:rgba(240, 200, 0, 0.2)">narrowing of subglottic airway</span> (inspiratory stridor) and increased work of breathing![[../../assets/img/Pasted image 20231225203056.png|Pasted image 20231225203056.png]]
+Viral infection → inflammation of the upper airway with edema formation and infiltration of inflammatory cells → <span style="background:rgba(240, 200, 0, 0.2)">narrowing of subglottic airway</span> (inspiratory stridor) and increased [[./Work of breathing|work of breathing]]![[../../assets/img/Pasted image 20231225203056.png|Pasted image 20231225203056.png]]
 
 ---
 # Clinical features
