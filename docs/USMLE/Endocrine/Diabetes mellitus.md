@@ -7,7 +7,6 @@ aliases:
   - DM
 share: true
 ---
-
 # Epidemiology
 ## Type 2 DM
 - Age
@@ -35,7 +34,7 @@ share: true
 	- Protein metabolism: insulin inhibits proteolysis, stimulates protein synthesis, and stimulates cellular uptake of amino acids
 	- Lipid metabolism: maintains a fat depot and has an antiketogenic effect 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Electrolyte regulation: stimulates intracellular potassium accumulation </span>
-		- Directly stimulates Na+/K+ ATPase and promotes intracellular alkalosis, reduces phosphate levels (glucose binds to phosphate in the cell), and stimulates magnesium uptake into cells
+		- Directly stimulates Na<sup>+</sup>sup>+</sup>/K<sup>+</sup> ATPase and promotes intracellular alkalosis, reduces phosphate levels (glucose binds to phosphate in the cell), and stimulates magnesium uptake into cells
 ## Type 2 diabetes
 - Mechanisms
 	- Peripheral insulin resistance
@@ -91,6 +90,8 @@ share: true
 ---
 # Diagnostics
 ![[../../assets/img/Pasted image 20231210111903.png|Pasted image 20231210111903.png]]
+>[!Mnemonic] 
+>Remember HbA1c as <font color="#ffc000">4</font>,5,<font color="#ffc000">6</font>,7
 ## Diagnostic criteria for diabetes mellitus
 ### Hyperglycemia tests
 - <span style="background:rgba(240, 200, 0, 0.2)">Hemoglobin A1C (HbA1c or A1C): glycated hemoglobin, which reflects the average blood glucose levels of the prior 8–12 weeks</span>
@@ -121,7 +122,7 @@ share: true
 >[!Mnemonic] 
 ><font color="#ffc000">Met</font>formin accumulation will cause <font color="#ffc000">met</font>abolic acidosis (lactic acidosis), so stop it before contrast CT scan.
 - Sulfonylureas![[../../assets/img/Pasted image 20231209134835.png|Pasted image 20231209134835.png]]
-	- Close K+ channels in pancreatic B cell membrane → cell depolarizes → <span style="background:rgba(240, 200, 0, 0.2)">insulin release via ↑ Ca2+ influx.</span>
+	- Close K<sup>+</sup> channels in pancreatic B cell membrane → cell depolarizes → <span style="background:rgba(240, 200, 0, 0.2)">insulin release via ↑ Ca<sup>2+</sup> influx.</span>
 	- Side effects
 		- <span style="background:rgba(240, 200, 0, 0.2)">Life-threatening hypoglycemia</span>
 			- Due to <span style="background:rgba(240, 200, 0, 0.2)">excessive insulin secretion</span>, which occurs <span style="background:rgba(240, 200, 0, 0.2)">independent of blood glucose concentrations</span> (ie, even when blood glucose concentrations are low).
