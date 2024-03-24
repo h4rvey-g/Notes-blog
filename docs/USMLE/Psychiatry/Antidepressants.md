@@ -7,7 +7,6 @@ aliases:
   - SSRI
 share: true
 ---
-
 # Selective serotonin reuptake inhibitors (SSRI)
 - Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">inhibition of serotonin reuptake in synaptic cleft → ↑ serotonin levels</span>
 - Drugs
@@ -128,7 +127,7 @@ share: true
 	- Imipramine specifically: nocturnal enuresis (limited use due to side effects)
 - Side effects
 	- Orthostatic hypotension 
-	- <span style="background:rgba(240, 200, 0, 0.2)">Cardiotoxicity</span> due to Na+ channel inhibition in the myocardium: changes in cardiac conductivity velocity, arrhythmias, <span style="background:rgba(240, 200, 0, 0.2)">prolonged QT interval (predisposes to [[../Cardiology/Torsades de pointes|torsades de pointes]]), wide QRS complex</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Cardiotoxicity</span> due to Na<sup>+</sup> channel inhibition in the myocardium: changes in cardiac conductivity velocity, arrhythmias, <span style="background:rgba(240, 200, 0, 0.2)">prolonged QT interval (predisposes to [[../Cardiology/Torsades de pointes|torsades de pointes]]), wide QRS complex</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Treatment is sodium bicarbonate</span>
 	- Tremor
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anticholinergic symptoms due to blockage of muscarinic cholinergic receptors (more common with tertiary amines)</span>
