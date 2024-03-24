@@ -6,7 +6,6 @@ aliases:
   - 22q11.2 deletion syndrome
 share: true
 ---
-
 - Definition: syndrome characterized by defective development of the third and fourth pharyngeal pouches leading to <span style="background:rgba(240, 200, 0, 0.2)">hypoplastic thymus and parathyroids</span>
 - Etiology: autosomal dominant; <span style="background:rgba(240, 200, 0, 0.2)">microdeletion at chromosome 22 (22q11.2)</span>
 - Clinical features ![[../../assets/img/Pasted image 20231217165656.png|Pasted image 20231217165656.png]]
@@ -24,7 +23,7 @@ share: true
 	- Hypoparathyroidism: hypocalcemia with tetany
 - Diagnosis
 	- Detection of 22q11.2 deletion via fluorescence in situ hybridization (FISH)
-	- <span style="background:rgba(240, 200, 0, 0.2)">↓ PTH and Ca2+</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">↓ PTH and Ca<sup>2+</sup></span>
 	- ↓ Absolute T-[[../Blood/Lymphocyte|lymphocyte]] count
 	- Delayed hypersensitivity skin testing
 	- <span style="background:rgba(240, 200, 0, 0.2)">CXR: absence of thymic shadow</span>
