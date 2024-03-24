@@ -5,7 +5,6 @@ modified: 2023-08-22 14:38
 aliases: Untitled
 share: true
 ---
-
 # Epidemiology
 Prevalence increases with age.
 
@@ -21,7 +20,7 @@ Prevalence increases with age.
 	- [[../Reproductive/Menopause|Menopause]]
 	- Obesity
 	- Smoking
-	- <span style="background:rgba(240, 200, 0, 0.2)">Chronic cough (e.g., COPD)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Chronic cough (e.g., [[../Respiratory/Chronic obstructive pulmonary disease|COPD]])</span>
 	- Prostate or pelvic surgery
 
 ---
