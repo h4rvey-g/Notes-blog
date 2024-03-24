@@ -5,7 +5,6 @@ modified: 2023-08-03 22:01
 aliases: Untitled
 share: true
 ---
-
 # Etiology
 >[!tip] 
 >
@@ -22,7 +21,7 @@ share: true
 	- [[../Biochemistry/Primary ciliary dyskinesia|Kartagener syndrome]]
 	- Smoking: associated with poor ciliary motility
 - Bronchial narrowing or other forms of obstruction
-	- COPD
+	- [[./Chronic obstructive pulmonary disease|COPD]]
 	- Aspiration
 	- Tumors
 - Immunodeficiency (e.g., common variable immunodeficiency, hypogammaglobulinemia, HIV)
