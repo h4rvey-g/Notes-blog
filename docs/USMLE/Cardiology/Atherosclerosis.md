@@ -7,7 +7,6 @@ aliases:
   - Arteriolosclerosis
 share: true
 ---
-
 # Definitions
 - Arteriosclerosis: an umbrella term to describe arterial wall thickening (hardening) and elasticity loss with variable pathogenesis
 - <span style="background:rgba(240, 200, 0, 0.2)">Atherosclerosis</span>
@@ -26,7 +25,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Hyaline arteriolosclerosis</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Deposition of proteins below the endothelium due to plasma protein leakage</span>
 		- H&E: pink amorphous deposits (hyaline) within the arteriolar walls ![[../../assets/img/Pasted image 20240226215304.png|Pasted image 20240226215304.png]]
-		- Causes: <span style="background:rgba(240, 200, 0, 0.2)">chronic essential hypertension</span>, [[../Endocrine/Diabetes mellitus|diabetes mellitus]], and normal aging
+		- Causes: <span style="background:rgba(240, 200, 0, 0.2)">chronic essential hypertension</span>, [[../Endocrine/Diabetes mellitus|diabetes mellitus]], and normal [[../Pathology/Aging changes|aging]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Hyperplastic arteriolosclerosis</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Proliferation of subendothelial smooth muscle cells in response to very high blood pressure</span>
 		- H&E: "onion-skin" appearance of the arteriole ![[../../assets/img/Pasted image 20240226215326.png|Pasted image 20240226215326.png]]
