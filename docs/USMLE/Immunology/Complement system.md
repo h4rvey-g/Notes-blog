@@ -7,14 +7,15 @@ aliases:
   - Complements
 share: true
 ---
-
+![[../../assets/img/Pasted image 20240318194037.png|Pasted image 20240318194037.png]]
 - Effect
 	- <span style="background:rgba(240, 200, 0, 0.2)">Opsonization</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Increases the susceptibility of target particles (e.g., bacteria) to phagocytosis</span>![[../../assets/img/Pasted image 20240224220021.png|Pasted image 20240224220021.png]]
 		- Attachment of opsonins (e.g., immunoglobulins) causes structural changes that facilitate interaction with immune cells.
-		- <span style="background:rgba(240, 200, 0, 0.2)">C3b and IgG are the two main opsonins for bacteria</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">C3b and IgG are the two main opsonins for bacteria</span>![[../../assets/img/L16733.jpg|L16733.jpg]]
 		- <span style="background:rgba(240, 200, 0, 0.2)">C3b is also involved in eliminating immune complexes.</span>
 			- Deficiency of C3b will increase risk of [[./Systemic lupus erythematosus|SLE]]
+			- C3 is decreased in [[../Renal/Poststreptococcal glomerulonephritis|PSGN]]
 	- Membrane attack complex (MAC)
 		- Formed by C5b–C9
 		- Lysis of bacteria (especially gram‑negative bacteria) by perforation of the cell wall
