@@ -7,7 +7,6 @@ aliases: []
 share: true
 ---
 
-
 Hypercalcemia is a total serum calcium concentration of > 10.5 mg/dL (> 2.62 mmol/L) or ionized (free) calcium concentration of > 5.25 mg/dL (> 1.31 mmol/L).
 >[!tip] 
 >- Total protein normal level **6.0 to 8.3 g/dL** (60 to 83 g/L)
@@ -24,7 +23,7 @@ PTH-mediated or non-PTH-mediated causes
 >- Milk-alkali synd., meds ([[./Thiazides|thiazides]], lithium)
 >- Paraneoplastic [[../Renal/Parathyroid hormone-related protein|PTHrP]]
 >- [[../Endocrine/Adrenal insufficiency|Adrenal insufficiency]]
->- Neoplasm (multiple myeloma, breast, lung)
+>- Neoplasm ([[../Blood/Multiple myeloma|multiple myeloma]], breast, lung)
 >- [[../GI/Gastrinoma|Zollinger-Ellison syndrome]]
 >- Excessive vitamin D
 >- Excessive [[../Biochemistry/Vitamin A|vitamin A]]
@@ -34,7 +33,7 @@ PTH-mediated or non-PTH-mediated causes
 - <span style="background:rgba(240, 200, 0, 0.2)">Bone pain</span>, arthralgias, myalgias, fractures
 	- Because most of the calcium is released from bones
 - <span style="background:rgba(240, 200, 0, 0.2)">Constipation</span>
-	- Increase in extracellular Ca2+ → membrane potential outside is more positive → more amount of depolarization is needed to initiate action potential → decreased excitability of muscle and nerve tissue
+	- Increase in extracellular Ca<sup>2+</sup> → membrane potential outside is more positive → more amount of depolarization is needed to initiate action potential → decreased excitability of muscle and nerve tissue
 - <span style="background:rgba(240, 200, 0, 0.2)">Abdominal pain</span>
 - Nausea and vomiting
 - Anorexia
