@@ -7,7 +7,6 @@ aliases:
   - Mucosa-associated lymphatic tissue lymphoma
 share: true
 ---
-
 <span style="background:rgba(240, 200, 0, 0.2)">A B-cell [[../Blood/Non-Hodgkin lymphomas|non-Hodgkin lymphoma]] (NHL) that typically affects elderly patients in the 7th and 8th decades.</span>
 # Epidemiology
 ---
@@ -18,7 +17,7 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Gastric MALTomas: multiple studies show an association with H. pylori infection. </span>
 	- The prevalence of H. pylori infection in low-grade gastric MALTomas is up to 90%.
 - Nongastric MALTomas: frequent association with autoimmune conditions
-	- Salivary gland MALTomas: see Sjogren syndrome
+	- Salivary gland MALTomas: see [[../MSK/Sjogren syndrome|Sjogren syndrome]]
 
 # Pathophysiology
 ---
