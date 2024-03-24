@@ -7,19 +7,21 @@ aliases:
 share: true
 ---
 
-
 # Sources of exposure
 - Fires: Cyanide is released by various substances during combustion (e.g., plastics, upholstery, rubber).
 - <span style="background:rgba(240, 200, 0, 0.2)">Long-term or high-dose treatment with sodium nitroprusside, especially in individuals with chronic renal failure</span>
 	- Sodium nitroprusside releases cyanide ions.
 - Industrial: metal industry, manufacture of nitrogen-containing materials and products (plastics and wool), electroplating
+## Pathophysiology
+- <span style="background:rgba(240, 200, 0, 0.2)">Cyanide blocks the electron transport chain by binding to cytochrome complex IV → ↓ oxidative phosphorylation → anaerobic metabolism, ↑ lactic acid, hypoxia</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[../Respiratory/Oxygen dissociation curve|Oxygen dissociation curve]] is usually normal (opposed to carbon monoxide poisoning)</span>
 # Differential diagnostics
 ## Cyanide poisoning vs CO poisoning
-|  | Cyanide | CO |
-|---|---|---|
-| Clinical features | - Skin may appear flushed (“cherry red”)<br>- Breath may have bitter almond odor |  |
-| Labs |  | - Elevated carboxyhemoglobin on co-oximetry.<br>- Bilateral globus pallidus lesions on MRI |
-| Oxygen-hemoglobin curve |  | Left shift |
+|                         | Cyanide                                                                          | CO                                                                                         |
+| ----------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Clinical features       | - Skin may appear flushed (“cherry red”)<br>- Breath may have bitter almond odor |                                                                                            |
+| Labs                    |                                                                                  | - Elevated carboxyhemoglobin on co-oximetry.<br>- Bilateral globus pallidus lesions on MRI |
+| Oxygen-hemoglobin curve |                                                                                  | Left shift                                                                                 |
 # Management 
 - Patient decontamination (e.g., remove clothes, wash skin)
 - Administration of 100% oxygen regardless of saturation readings
