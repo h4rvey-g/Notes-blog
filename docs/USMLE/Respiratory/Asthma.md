@@ -5,15 +5,13 @@ modified: 2023-08-03 14:40
 aliases: Untitled
 share: true
 ---
-
 # Etiology
 - Risk factors for asthma include:
     - Family history of asthma
     - Past history of allergies
     - [[../MSK/Atopic dermatitis|Atopic dermatitis]]
     - Low socioeconomic status
-- Allergic asthma (extrinsic asthma) vs Nonallergic asthma (intrinsic asthma)
-	-  ![[../../assets/img/Pasted image 20230803144309.png|Pasted image 20230803144309.png]]
+- Allergic asthma (extrinsic asthma) vs Nonallergic asthma (intrinsic asthma)![[../../assets/img/Pasted image 20230803144309.png|Pasted image 20230803144309.png]]
 >[!tip] 
 > - Allergic asthma (extrinsic asthma): A type of asthma triggered by allergens (e.g., pollen, dust mites, mold spores, pet allergens). Typically onset in childhood.
 > - Nonallergic asthma (intrinsic asthma): A type of asthma that typically develops in patients > 40 years of age.
