@@ -6,7 +6,6 @@ modified: 2023-07-21 17:38
 aliases: Untitled
 share: true
 ---
-
 # Etiology
 
 
@@ -60,13 +59,19 @@ share: true
 ## Shared paraneoplastic features and syndromes
 - [[../MSK/Idiopathic inflammatory myopathies|Dermatomyositis]]
 ## NSCLC
-- [[../Cardiology/Hypercalcemia|Hypercalcemia]] of malignancy (increased risk with squamous cell carcinoma)
+### Squamous cell carcinoma
+- <span style="background:rgba(240, 200, 0, 0.2)">[[../Cardiology/Hypercalcemia|Hypercalcemia]] of malignancy (increased risk with squamous cell carcinoma)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Secrete [[../Renal/Parathyroid hormone-related protein|PTHrP]]</span>
+### Adenocarcinoma
 - Hypertrophic osteoarthropathy
 - Clubbing of the fingers and toes (Hippocratic fingers) 
-## SCLC
+- [[../MSK/Idiopathic inflammatory myopathies|Dermatomyositis]] or [[../MSK/Idiopathic inflammatory myopathies|polymyositis]]
+- Migratory thrombophlebitis (Trousseau syndrome)
+## SCLC <span style="background:rgba(240, 200, 0, 0.2)">(Secretion caused problems, except for PTHrP)</span>
 - [[../Endocrine/Cushing syndrome|Cushing syndrome]]
 - [[../Neurology/Syndrome of inappropriate antidiuretic hormone secretion|Syndrome of inappropriate antidiuretic hormone secretion]] ([[../Neurology/Syndrome of inappropriate antidiuretic hormone secretion|SIADH]])
 - <span style="background:rgba(240, 200, 0, 0.2)">Lambert-Eaton syndrome, see [[../MSK/Myasthenia gravis#Lambert-Eaton myasthenic syndrome (LEMS)|Myasthenia gravis > Lambert-Eaton myasthenic syndrome (LEMS)]]</span>
+- Cerebellar ataxia
 
 ---
 # Diagnostics
