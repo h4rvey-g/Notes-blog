@@ -5,7 +5,6 @@ modified: 2023-09-04 16:16
 aliases: Untitled
 share: true
 ---
-
 # Epidemiology
 
 
@@ -18,7 +17,7 @@ share: true
 
 ---
 # Pathophysiology
-The α-intercalated cells of the distal tubule are unable to secrete H+ (apical) → ↓ intracellular production of HCO3-  → ↓ HCO3-/Cl- exchanger activity (basolateral) → decreased concentration of HCO3- in the blood → metabolic acidosis
+The α-intercalated cells of the distal tubule are unable to secrete H<sup>+</sup> (apical) → ↓ intracellular production of HCO3-  → ↓ HCO3-/Cl<sup>-</sup> exchanger activity (basolateral) → decreased concentration of HCO3- in the blood → metabolic acidosis
 
 ---
 # Clinical features
