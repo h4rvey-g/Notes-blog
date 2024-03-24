@@ -6,7 +6,6 @@ aliases:
   - Antipsychotic
 share: true
 ---
-
 >[!Mnemonic] 
 >Antipsychotics are thought to work by blocking the <font color="#ffc000">D2</font> receptor .
 >Psychotic patients sometimes take a <font color="#ffc000">DetouR</font> from reality.![[../../assets/img/Pasted image 20240315135310.png|Pasted image 20240315135310.png]]
@@ -54,7 +53,7 @@ share: true
 - Pathophysiology: Inhibition of the nigrostriatal dopaminergic pathways results in EPS.
 	- First-generation high-potency antipsychotics: D2antagonism → EPS
 	- Second-generation antipsychotics: weaker D2antagonism → fewer EPS
-- Clinical features similar to [[../Neurology/Parkinson disease|Parkinson disease]]: Muscle, rustle, and hustle
+- Clinical features similar to [[../Neurology/Parkinson disease|Parkinson disease]]: Muscle, rustle, and hustle![[../../assets/img/Pasted image 20240317222923.png|Pasted image 20240317222923.png]]
 ### Tardive dyskinesia
 - Repetitive chewing and lip smacking
 - Choreic movements
