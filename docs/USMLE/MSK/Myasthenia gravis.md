@@ -7,7 +7,6 @@ aliases: []
 share: true
 ---
 
-
 Associated with [[./Thymoma|Thymoma]].
 # Pathophysiology
 ## Thymus involvement
@@ -21,7 +20,7 @@ Associated with [[./Thymoma|Thymoma]].
 ## Lambert-Eaton myasthenic syndrome (LEMS)
 - Etiology
 	- Paraneoplastic: <span style="background:rgba(240, 200, 0, 0.2)">associated with small-cell lung carcinoma (in ⅔ of patients with LEMS)</span>
-- Pathophysiology: autoantibodies directed against presynaptic voltage-gated calcium channels (anti-VGCC antibodies) → <span style="background:rgba(240, 200, 0, 0.2)">↓ Ca2+ influx → ↓ presynaptic vesicle fusion → impaired acetylcholine release in the NMJ</span>
+- Pathophysiology: autoantibodies directed against presynaptic voltage-gated calcium channels (anti-VGCC antibodies) → <span style="background:rgba(240, 200, 0, 0.2)">↓ Ca<sup>2+</sup> influx → ↓ presynaptic vesicle fusion → impaired acetylcholine release in the NMJ</span>
 ![[../../assets/img/Pasted image 20231220160043.png|Pasted image 20231220160043.png]]
 ![[../../assets/img/Pasted image 20230921164528.png|Pasted image 20230921164528.png]]
 >[!tip] 
