@@ -5,7 +5,6 @@ modified: 2023-11-07 15:46
 aliases: Untitled
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20231107154612.png|Pasted image 20231107154612.png]]
 Glycolysis is the metabolic process that serves as the foundation for both aerobic and anaerobic cellular respiration. In glycolysis, glucose is converted into pyruvate. Glucose is a six- memebered ring molecule found in the blood and is usually a result of the breakdown of carbohydrates into sugars. It enters cells through specific transporter proteins that move it from outside the cell into the cell’s cytosol. All of the glycolytic enzymes are found in the cytosol.  
 糖酵解是一种代谢过程，是有氧和无氧细胞呼吸的基础。在糖酵解中，葡萄糖转化为丙酮酸。葡萄糖是血液中发现的六元环分子，通常是碳水化合物分解成糖的结果。它通过特定的转运蛋白进入细胞，将其从细胞外转移到细胞质中。所有糖酵解酶都存在于细胞质中。
@@ -13,7 +12,7 @@ Glycolysis is the metabolic process that serves as the foundation for both aerob
 The overall reaction of glycolysis which occurs in the cytoplasm is represented simply as:  
 细胞质中发生的糖酵解的总体反应简单地表示为：
 
-**C6H12O6 + 2 NAD+ + 2 ADP + 2 P —–> 2 pyruvic acid, (CH3(C=O)COOH + 2 ATP + 2 NADH + 2 H+  
+**C6H12O6 + 2 NAD+ + 2 ADP + 2 P —–> 2 pyruvic acid, (CH3(C=O)COOH + 2 ATP + 2 NADH + 2 H<sup>+</sup>  
 C 6 H 12 O 6 + 2 NAD + + 2 ADP + 2 P —–> 2 丙酮酸，(CH < b4> (C=O)COOH + 2 ATP + 2 NADH + 2 H +**
 ![[../../assets/img/Pasted image 20240222112054.png|Pasted image 20240222112054.png]]
 ## Step 1: Hexokinase 第 1 步：己糖激酶

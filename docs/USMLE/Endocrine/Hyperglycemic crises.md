@@ -10,7 +10,6 @@ aliases:
   - hyperosmolar hyperglycemic state
 share: true
 ---
-
 # Epidemiology
 
 
@@ -26,7 +25,7 @@ share: true
 - As a result of hyperglycemic hyperosmolality, potassium shifts along with water from inside cells to the extracellular space and is lost in the urine.
 - Insulin normally promotes cellular potassium uptake but is absent in DKA, compounding the problem.
 - A total body potassium deficit develops in the body, although serum potassium may be normal or even paradoxically elevated.
-- <span style="background:rgba(240, 200, 0, 0.2)">Insulin deficiency → hyperosmolality → K+ shift out of cells + lack of insulin to promote K+ uptake → intracellular K+ depleted → total body K+ deficit despite normal or even elevated serum K+</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Insulin deficiency → hyperosmolality → K<sup>+</sup> shift out of cells + lack of insulin to promote K<sup>+</sup> uptake → intracellular K<sup>+</sup> depleted → total body K<sup>+</sup> deficit despite normal or even elevated serum K<sup>+</sup></span>
 >[!tip] 
 ><span style="background:rgba(240, 200, 0, 0.2)">There is a total body potassium deficit in DKA.</span> This becomes important during treatment, when insulin replacement leads to rapid potassium uptake by depleted cells and patients may require potassium replacement.
 ## HHS

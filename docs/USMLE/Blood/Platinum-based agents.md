@@ -2,10 +2,9 @@
 author: Harvey Guo
 created: 2023-08-30 21:45
 modified: 2023-08-30 21:45
-aliases: Untitled
+aliases: []
 share: true
 ---
-
 # Agents
 - Cisplatin
 - Carboplatin

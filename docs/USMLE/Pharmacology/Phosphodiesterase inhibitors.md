@@ -4,9 +4,9 @@ created: 2024-03-10 19:53
 modified: 2024-03-10 19:53
 aliases:
   - PDE inhibitors
+  - Phosphodiesterase-5 inhibitors
 share: true
 ---
-
 - Phosphodiesterase (PDE) inhibitors are a heterogenic class of drugs that target various isoforms of PDE enzymes. 
 - <span style="background:rgba(240, 200, 0, 0.2)">Normally, the PDE decreases cAMP or cGMP in target cells by catalyzing the hydrolysis of these second messengers. </span>
 - <span style="background:rgba(240, 200, 0, 0.2)">By inhibiting this step, PDE inhibitors actually increase cAMP and/or cGMP concentrations. </span>
@@ -14,7 +14,7 @@ share: true
 # Nonspecific phosphodiesterase inhibitors (inhibitors of PDE3, 4, and 5)
 - Theophylline
 - Indications
-	- COPD (severe and refractory cases)
+	- [[../Respiratory/Chronic obstructive pulmonary disease|COPD]] (severe and refractory cases)
 	- Asthma
 ## Adverse effects
 - General considerations

@@ -7,7 +7,6 @@ aliases:
   - endolymphatic hydrops
 share: true
 ---
-
 # Epidemiology
 
 
@@ -26,7 +25,7 @@ All patients with Meniere disease have <span style="background:rgba(240, 200, 0,
 # Clinical features
 Meniere disease characteristically manifests as<span style="background:rgba(240, 200, 0, 0.2)"> recurrent episodes of acute, unilateral symptoms that last from minutes to hours.</span>
 ## <span style="background:rgba(240, 200, 0, 0.2)">Meniere triad</span>
-- <span style="background:rgba(240, 200, 0, 0.2)">Peripheral vertigo</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Peripheral [[./Vertigo|vertigo]]</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Tinnitus</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Asymmetric fluctuating sensorineural [[./Hearing loss|hearing loss]]</span> (SNHL)
 

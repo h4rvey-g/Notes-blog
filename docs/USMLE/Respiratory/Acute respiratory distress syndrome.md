@@ -5,7 +5,6 @@ modified: 2023-08-31 13:30
 aliases: ARDS
 share: true
 ---
-
 ARDS is a clinical syndrome of acute respiratory failure characterized by hypoxemia and bilateral pulmonary infiltrates that cannot be fully accounted for by [[../Cardiology/Heart failure|heart failure]] or fluid overload.
 # Epidemiology
 
@@ -45,7 +44,7 @@ ARDS is a clinical syndrome of acute respiratory failure characterized by hypoxe
 - <span style="background:rgba(240, 200, 0, 0.2)">Bilateral opacities (on chest x-ray or CT)</span>
 	- Similar appearance to pulmonary edema
 	- Not sufficiently explained by pleural effusions, lobar or lung collapse, or nodules
-- <span style="background:rgba(240, 200, 0, 0.2)">Hypoxemia: PaO2/FiO2 ≤ 300 mm Hg</span> (measured with a minimum of 5 cm H2O PEEP) [9]
+- <span style="background:rgba(240, 200, 0, 0.2)">Hypoxemia: PaO2/FiO2 ≤ 300 mm Hg</span> (measured with a minimum of 5 cm H2O PEEP)
 	- Mild ARDS: PaO2/FiO2 = 201–300 mm Hg
 	- Moderate ARDS: PaO2/FiO2 = 101–200 mm Hg
 	- Severe ARDS: PaO2/FiO2 ≤ 100 mm Hg

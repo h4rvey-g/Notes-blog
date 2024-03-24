@@ -7,7 +7,6 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
-
 # Clinical features
 ## Typical pneumonia
 Typical pneumonia is characterized by a sudden onset of symptoms caused by lobar infiltration.
@@ -52,7 +51,7 @@ Atypical pneumonia typically has an indolent course (slow onset) and commonly ma
 - Aspiration pneumonia: a type of pneumonia that occurs as a result of oropharyngeal secretions and/or gastric contents aspiration
 - Aspiration pneumonitis
 	- Aspiration of gastric acid that initially causes tracheobronchitis, with rapid progression to chemical pneumonitis
-	- May cause ARDS in extreme cases
+	- May cause [[./Acute respiratory distress syndrome|ARDS]] in extreme cases
 ## Clinical features
 - Aspiration pneumonitis
 	- Immediate symptoms: bronchospasms , dyspnea, wheezing and/or crackles, hypoxemia

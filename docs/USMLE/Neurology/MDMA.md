@@ -6,10 +6,9 @@ aliases:
   - methylenedioxymethamphetamine
 share: true
 ---
-
 - Mechanism of action
 	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Release and ↓ reuptake of [[./Neurotransmitters|serotonin]], [[./Neurotransmitters|dopamine]], and [[./Neurotransmitters|norepinephrine]] </span>
-		- Serotonin stimulation is more prominent
+		- [[./Neurotransmitters|Serotonin]] stimulation is more prominent
 	- <span style="background:rgba(240, 200, 0, 0.2)">MDMA increases secretion of antidiuretic hormone (ADH) → thirst → increased water intake without electrolyte repletion → hyponatremia</span>
 - Clinical features
 	- <span style="background:rgba(240, 200, 0, 0.2)">Clinical features of stimulant intoxication, e.g., sympathetic toxidrome, euphoria, agitation</span>

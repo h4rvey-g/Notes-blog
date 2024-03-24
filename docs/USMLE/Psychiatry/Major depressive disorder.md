@@ -8,7 +8,6 @@ aliases:
   - dysthymia
 share: true
 ---
-
 # Epidemiology
 
 
@@ -39,7 +38,7 @@ share: true
 ## Diagnostic criteria
 A. <span style="background:rgba(240, 200, 0, 0.2)">Five or more of the nine symptoms listed below, for at least 2 weeks, with at least one of the symptoms being depressed mood or anhedonia</span>
 1. <font color="#ffc000">S</font>leep disturbances
-2. <font color="#ffc000">A</font>nhedonia (↓ Interest in pleasurable activities)
+2. <font color="#ffc000">A</font>nhedonia (↓ <font color="#ffc000">I</font>nterest in pleasurable activities)
 3. <font color="#ffc000">G</font>uilt or feelings of worthlessness
 4. ↓ <font color="#ffc000">E</font>nergy
 5. ↓ <font color="#ffc000">C</font>oncentration

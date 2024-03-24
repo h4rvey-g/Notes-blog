@@ -5,7 +5,6 @@ modified: 2023-08-13 16:58
 aliases: Untitled
 share: true
 ---
-
 # Etiology
 
 
@@ -16,7 +15,7 @@ share: true
 
 ---
 # Clinical features
-- Hemoptysis
+- <span style="background:rgba(240, 200, 0, 0.2)">Hemoptysis</span>
 - Cough
 - Dyspnea
 - [[./Nephritic syndrome|Nephritic syndrome]]
@@ -26,7 +25,9 @@ share: true
 ---
 # Diagnostics
 - Anti-GBM antibodies
-- Hemosiderin-filled macrophages in sputum
+- <span style="background:rgba(240, 200, 0, 0.2)">Hemosiderin-filled macrophages in sputum</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Due to intra-alveolar bleeding. Macrophages that subsequently phagocytose the erythrocytes are called “[[../Cardiology/Heart failure|heart failure]] cells.”</span> 
+	- These cells may also be detected in the sputum of patients with pulmonary infarction, [[../MSK/Vasculitides|vasculitis]], or aspiration of blood.
 - Iron deficiency [[../Blood/Anemia|anemia]]
 
 ---

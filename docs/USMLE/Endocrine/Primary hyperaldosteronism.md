@@ -7,7 +7,6 @@ aliases:
   - Conn syndrome
 share: true
 ---
-
 # Epidemiology
 
 
@@ -19,15 +18,15 @@ share: true
 # Pathophysiology
 ## Autonomous aldosterone secretion and hypertension
 - Physiological aldosterone secretion is regulated by the renin-angiotensin-aldosterone system (RAAS) and occurs in response to the detection of low blood pressure in the kidneys (see “Renin-angiotensin-aldosterone system”).
-- ↑ Aldosterone → ↑ open Na+ channels in principal cells of luminal membrane at the cortical collecting ducts of the kidneys → ↑ Na+ reabsorption and retention → water retention → hypertension
+- ↑ Aldosterone → ↑ open Na<sup>+</sup> channels in principal cells of luminal membrane at the cortical collecting ducts of the kidneys → ↑ Na<sup>+</sup> reabsorption and retention → water retention → hypertension
 - <span style="background:rgba(240, 200, 0, 0.2)">Aldosterone escape</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Definition: Evasion of the Na+-retaining effects of inappropriately elevated aldosterone levels in conditions such as primary hyperaldosteronism or [[../Cardiology/Congestive heart failure|congestive heart failure]]</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Definition: Evasion of the Na<sup>+</sup>-retaining effects of inappropriately elevated aldosterone levels in conditions such as primary hyperaldosteronism or [[../Cardiology/Congestive heart failure|congestive heart failure]]</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Mechanism: sodium and water retention → volume expansion → secretion of atrial natriuretic peptide (ANP) and pressure natriuresis → compensatory diuresis → “escape” from edema formation and hypernatremia</span>
 ## Hypokalemia and metabolic alkalosis
-- ↑ Na+ reabsorption → electronegative lumen → electrical gradient through open K+ channels → ↑ K+ secretion → <span style="background:rgba(240, 200, 0, 0.2)">hypokalemia</span>
-- Hypokalemia → metabolic alkalosis via two mechanisms (both of which decrease extracellular H+, thereby <span style="background:rgba(240, 200, 0, 0.2)">increasing extracellular pH</span>):
-	- <span style="background:rgba(240, 200, 0, 0.2)">Efflux of K+ from intracellular to extracellular space in exchange for H+</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">↑ H+ secretion in the kidney in order to enable ↑ K+ reabsorption</span>
+- ↑ Na<sup>+</sup> reabsorption → electronegative lumen → electrical gradient through open K<sup>+</sup> channels → ↑ K<sup>+</sup> secretion → <span style="background:rgba(240, 200, 0, 0.2)">hypokalemia</span>
+- Hypokalemia → metabolic alkalosis via two mechanisms (both of which decrease extracellular H<sup>+</sup>sup>+</sup>, thereby <span style="background:rgba(240, 200, 0, 0.2)">increasing extracellular pH</span>):
+	- <span style="background:rgba(240, 200, 0, 0.2)">Efflux of K<sup>+</sup> from intracellular to extracellular space in exchange for H<sup>+</sup></span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ H<sup>+</sup> secretion in the kidney in order to enable ↑ K<sup>+</sup> reabsorption</span>
 - [[../Renal/Diabetes insipidus|Diabetes insipidus]]: hypokalemia → desensitization of renal tubules to antidiuretic hormone (ADH) → polyuria and polydipsia
 
 ---

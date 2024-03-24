@@ -5,7 +5,6 @@ created: 2023-07-21 17:31
 modified: 2023-07-21 17:31
 share: true
 ---
-
 # Neuromuscular
 - Lambert-Eaton syndrome
 	- Small cell [[./Lung cancer|lung cancer]] (SCLC)
@@ -21,4 +20,4 @@ share: true
 		- NHL
 	- Local osteolytic [[../Cardiology/Hypercalcemia|hypercalcemia]]: osteolytic activity at sites of skeletal metastases
 		- Multiple myeloma
-		- Breast cancer
+		- [[../Reproductive/Breast cancer|Breast cancer]]

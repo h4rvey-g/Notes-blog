@@ -6,12 +6,11 @@ aliases:
   - Dark urine
 share: true
 ---
-
 - Red 
 	- Foods: beets, blackberries, rhubarb 
 	- Medications: laxatives, antipsychotics (chlorpromazine, thioridazine), anesthetics (propofol) 
 	- Toxins: lead, mercury 
-	- Conditions: [[./Urinary tract infections|urinary tract infections]], [[./Nephrolithiasis|nephrolithiasis]], porphyria, hemoglobinuria (rhabdomyolysis); see Question 7 
+	- Conditions: [[./Urinary tract infections|urinary tract infections]], [[./Nephrolithiasis|nephrolithiasis]], porphyria, hemoglobinuria ([[./Rhabdomyolysis and crush syndrome|rhabdomyolysis]]); see Question 7 
 - Orange 
 	- Foods: [[../Blood/Vitamin C|vitamin C]], carrots 
 	- Medications: rifampin, phenazopyridine 

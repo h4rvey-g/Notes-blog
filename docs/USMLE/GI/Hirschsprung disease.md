@@ -5,13 +5,12 @@ modified: 2023-10-13 20:29
 aliases: Untitled
 share: true
 ---
-
 # Epidemiology
 
 
 ---
 # Etiology
-- RET gene mutations associated with [[../Endocrine/Multiple endocrine neoplasias|multiple endocrine neoplasia]] type 2 (MEN2) and familial Hirschsprung disease
+- RET gene mutations associated with [[../Endocrine/Multiple endocrine neoplasias|multiple endocrine neoplasia]] type 2 ([[../Endocrine/Multiple endocrine neoplasias|MEN2]]) and familial Hirschsprung disease
 >[!Mnemonic] 
 >Hirschsprung disease always involves the REcTum and is often associated with RET mutations.
 

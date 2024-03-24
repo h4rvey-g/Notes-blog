@@ -6,7 +6,6 @@ aliases:
   - Hyperuricemia
 share: true
 ---
-
 # Epidemiology
 
 
@@ -45,7 +44,7 @@ share: true
 - Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">binds and stabilizes tubulin subunits → inhibits microtubule polymerization → inhibits phagocytosis of urate crystals, neutrophil activation, migration, and degranulation </span>
 - Adverse effects
 	- <span style="background:rgba(240, 200, 0, 0.2)">Gastrointestinal symptoms, e.g., diarrhea</span>, nausea, vomiting, and abdominal pain, are the most common.
-	- <span style="background:rgba(240, 200, 0, 0.2)">Rhabdomyolysis</span> , myopathy
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[../Renal/Rhabdomyolysis and crush syndrome|Rhabdomyolysis]]</span> , myopathy
 	- [[../Neurology/Polyneuropathy|Polyneuropathy]]  
 	- Cardiac toxicity, arrhythmias
 	- Nephrotoxicity

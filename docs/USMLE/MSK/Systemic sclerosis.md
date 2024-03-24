@@ -6,7 +6,6 @@ aliases:
   - Scleroderma
 share: true
 ---
-
 # Epidemiology
 - ♀ > ♂ (∼ 5:1)
 - Peak incidence: 30–50 years
@@ -50,7 +49,7 @@ CREST syndrome refers to a constellation of symptoms traditionally associated wi
 	- Treatment: ACE inhibitors
 - Chronic kidney disease: reduced kidney function due to abnormal [[../Biochemistry/Collagen|collagen]] deposition → thickening of renal arteriolar walls → decreased renal blood flow
 ## Pulmonary
-- <span style="background:rgba(240, 200, 0, 0.2)">Interstitial lung disease </span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[../Respiratory/Interstitial lung diseases|Interstitial lung disease]] </span>
 - Pulmonary artery hypertension 
 ## Other extracutaneous
 - Gastrointestinal tract
@@ -68,7 +67,7 @@ CREST syndrome refers to a constellation of symptoms traditionally associated wi
 - SSc-specific autoantibodies![[../../assets/img/Pasted image 20240116151535.png|Pasted image 20240116151535.png]]
 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anticentromere antibodies</span>: associated with limited SSc, increased risk for vascular complications (e.g., PAH)
-	- <span style="background:rgba(240, 200, 0, 0.2)">Anti-Scl-70 (anti-topoisomerase I antibody)</span>: associated with severe and rapidly progressive diffuse SSc, limited SSc, ILD, digital ulcers
+	- <span style="background:rgba(240, 200, 0, 0.2)">Anti-SCl<sup>-</sup>70 (anti-topoisomerase I antibody)</span>: associated with severe and rapidly progressive diffuse SSc, limited SSc, ILD, digital ulcers
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anti-RNA polymerase III</span>: associated with diffuse SSc, scleroderma renal crisis
 
 

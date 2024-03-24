@@ -2,10 +2,11 @@
 author: Harvey Guo
 created: 2023-08-31 16:40
 modified: 2023-08-31 16:40
-aliases: DI
+aliases:
+  - DI
+  - Primary polydipsia
 share: true
 ---
-
 # Epidemiology
 
 
@@ -15,10 +16,10 @@ share: true
 - Most common form: caused by insufficient or absent hypothalamic synthesis or posterior pituitary secretion of ADH
 	- Primary (∼ ⅓ of cases)
 	- Secondary (∼ ⅔ of cases)
-		- Brain tumors (especially craniopharyngioma)
+		- [[../Neurology/Brain tumors|Brain tumors]] (especially craniopharyngioma)
 		- Neurosurgery
-		- Traumatic brain injury, pituitary bleeding, subarachnoid hemorrhage
-		- Pituitary ischemia (e.g., Sheehan syndrome, ischemic stroke)
+		- Traumatic brain injury, pituitary bleeding, [[../Neurology/Intracranial hemorrhage|subarachnoid hemorrhage]]
+		- Pituitary ischemia (e.g., [[../Endocrine/Hypopituitarism|Sheehan syndrome]], [[../Neurology/Ischemic stroke|ischemic stroke]])
 ## Nephrogenic diabetes insipidus (NDI)
 - Rare: caused by defective ADH receptors in the distal tubules and collecting ducts
 - Hereditary (mutation in ADH receptor): very rare
@@ -37,16 +38,16 @@ share: true
 - Nocturia → restless sleep, daytime sleepiness
 - Polydipsia (excessive thirst)
 - In cases of low water intake  → severe dehydration (altered mental status, lethargy, seizures, coma) and hypotension
-- Symptoms may worsen during pregnancy.
+- Symptoms may worsen during [[../Reproductive/Pregnancy|pregnancy]].
 >[!tip] 
 >In the absence of nocturia, diabetes insipidus is very unlikely.
 
 ---
 # Diagnostics
 ## Serum sodium and plasma osmolality
-- ↓ Na+ and/or ↓ plasma osmolality: primary polydipsia likely 
+- ↓ Na<sup>+</sup> and/or ↓ plasma osmolality: primary polydipsia likely 
 - Normal values: diagnosis unclear; obtain subsequent studies to differentiate between polyuria-polydipsia syndromes.
-- <span style="background:rgba(240, 200, 0, 0.2)">↑ Na+ and/ or ↑ plasma osmolality: Diabetes insipidus likely</span>; obtain subsequent studies to differentiate between CDI and NDI.
+- <span style="background:rgba(240, 200, 0, 0.2)">↑ Na<sup>+</sup> and/ or ↑ plasma osmolality: Diabetes insipidus likely</span>; obtain subsequent studies to differentiate between CDI and NDI.
 ## Water deprivation test (indirect assessment of ADH activity)
 Urine concentrating capacity is assessed during a period of dehydration; desmopressin is then administered to assess response to a synthetic ADH analogue.![[../../assets/img/Pasted image 20231204113426.png|Pasted image 20231204113426.png]]
 - Interpretation after period of water deprivation
@@ -59,6 +60,17 @@ Urine concentrating capacity is assessed during a period of dehydration; desmopr
 	- [[./Urine osmolality|Urine osmolality]] (< 300 mOsm/kg) and:
 		- Significant increase (> 50%) after desmopressin: complete CDI (indicating intact renal ADH receptors)
 		- No or moderate increase (< 50%) after desmopressin: NDI (indicating defective renal ADH receptors)
+# Differential diagnostics
+## Primary polydipsia (psychogenic polydipsia)
+- Mechanism
+	- <span style="background:rgba(240, 200, 0, 0.2)">Compulsive water intake</span>
+- Etiology
+	- Psychiatric diseases (e.g., schizophrenia, obsessive-compulsive disorder)
+	- Lesions in the hypothalamic thirst center
+- Features
+	- <span style="background:rgba(240, 200, 0, 0.2)">Hyponatremia</span>
+	- Low plasma osmolarity, very low urine osmolarity
+	- <span style="background:rgba(240, 200, 0, 0.2)">Water deprivation: plasma and urine osmolarity increase to normal level</span>
 
 ---
 # Treatment
@@ -74,6 +86,7 @@ Encourage adequate fluid intake and a low-sodium, low-protein diet.
 	- Lead to sodium depletion, which increases sodium and water reabsorption in the proximal tubules
 	- As a result, less water reaches the distal collecting tubules and urine volume decreases.
 - NSAIDs (e.g., indomethacin) 
+	- Inhibit renal prostaglandins that act as ADH antagonists
 - Amiloride
 
 ---

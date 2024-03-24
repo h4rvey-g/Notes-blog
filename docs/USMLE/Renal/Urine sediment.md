@@ -2,10 +2,11 @@
 author: Harvey Guo
 created: 2023-08-16 16:36
 modified: 2023-08-16 16:36
-aliases: Untitled
+aliases:
+  - Casts
+  - Granular casts
 share: true
 ---
-
 # Urinary casts
 Urinary casts are formed only in the <span style="background:rgba(240, 200, 0, 0.2)">distal convoluted tubule (DCT)</span> or the <span style="background:rgba(240, 200, 0, 0.2)">collecting duct (distal nephron)</span>. The proximal convoluted tubule (PCT) and loop of Henle are not locations for cast formation.
 ![[../../assets/img/Pasted image 20230831154504.png|Pasted image 20230831154504.png]]
@@ -21,7 +22,7 @@ White blood cell casts are most typical for acute [[./Pyelonephritis|pyelonephri
 
 ![](https://webpath.med.utah.edu/TUTORIAL/URINE/URINE05.gif)
 
-When cellular casts remain in the nephron for some time before they are flushed into the bladder urine, the cells may degenerate to become a coarsely granular cast, later a finely granular cast, and ultimately, a waxy cast. Granular and waxy casts are be believed to derive from renal tubular cell casts. Broad casts are believed to emanate from damaged and dilated tubules and are therefore seen in end-stage chronic renal disease.
+When cellular casts remain in the nephron for some time before they are flushed into the bladder urine, the cells may degenerate to become a coarsely granular cast, later a finely granular cast, and ultimately, a waxy cast. <span style="background:rgba(240, 200, 0, 0.2)">Granular and waxy casts are be believed to derive from renal tubular cell casts.</span> Broad casts are believed to emanate from damaged and dilated tubules and are therefore seen in end-stage chronic renal disease.
 
 ![](https://webpath.med.utah.edu/TUTORIAL/URINE/URINE07.gif)  
 ![](https://webpath.med.utah.edu/TUTORIAL/URINE/URINE08.gif)

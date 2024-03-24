@@ -5,7 +5,6 @@ modified: 2023-12-15 10:12
 aliases: []
 share: true
 ---
-
 # Epidemiology
 
 
@@ -16,11 +15,11 @@ share: true
 ---
 # Pathophysiology
 ![[../../assets/img/Pasted image 20231215101227.png|Pasted image 20231215101227.png]]
-- Most commonly due to a defect of the liver enzyme phenylalanine hydroxylase (PAH) → impaired conversion of phenylalanine to tyrosine → tyrosine becomes nutritionally essential (classical PKU)
+- <span style="background:rgba(240, 200, 0, 0.2)">Most commonly due to a defect of the liver enzyme phenylalanine hydroxylase (PAH)</span> → impaired conversion of phenylalanine to tyrosine → tyrosine becomes nutritionally essential (classical PKU)
 - Less commonly
 	- Tetrahydrobiopterin deficiency (malignant PKU): due to tetrahydrobiopterin deficiency (a cofactor of phenylalanine metabolism), caused by a deficiency in dihydropteridine reductase (normally reduces dihydrobiopterin to BH4), resulting in:
 		- Hyperphenylalaninemia due to ↓ conversion of phenylalanine to tyrosine → ↓ synthesis of catecholamines (BH4 is a cofactor for phenylalanine hydroxylase and tyrosine hydroxylase)
-		- ↓ Synthesis of serotonin (BH4 is a cofactor for tryptophan hydroxylase) → deficiencies of neurotransmitters
+		- <span style="background:rgba(240, 200, 0, 0.2)">↓ Synthesis of [[../Neurology/Neurotransmitters|serotonin]] (BH4 is a cofactor for tryptophan hydroxylase) → deficiencies of [[../Neurology/Neurotransmitters|neurotransmitters]]</span>
 		- Symptom severity varies between affected individuals.
 
 ---

@@ -5,7 +5,6 @@ modified: 2023-09-23 21:55
 aliases: Untitled
 share: true
 ---
-
 # Epidemiology
 - Age of symptom onset: childhood
 
@@ -17,7 +16,7 @@ share: true
 # Pathophysiology
 Structural alteration in the ENaC subunits → inability of these subunits to bind with an intracellular ubiquitin-protein ligase (Nedd4) → <span style="background:rgba(240, 200, 0, 0.2)">decreased degradation of ENaC</span> channels by ubiquitin proteasomes → <span style="background:rgba(240, 200, 0, 0.2)">increased number of ENaCs in the collecting duct → increased reuptake of water and sodium (pseudohyperaldosteronism) → hypertension with low renin production and hypokalemia</span>
 >[!tip] ENaC
-> aka epithelial Na+ channel![[../../assets/img/Pasted image 20230923215701.png|Pasted image 20230923215701.png]]
+> aka epithelial Na<sup>+</sup> channel![[../../assets/img/Pasted image 20230923215701.png|Pasted image 20230923215701.png]]
 
 ---
 # Clinical features
