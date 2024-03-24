@@ -5,13 +5,23 @@ modified: 2024-01-15 21:55
 aliases: []
 share: true
 ---
-
 # Epidemiology
 
 
 ---
 # Etiology
-
+## Serotonergic drugs
+- [[../Psychiatry/Antidepressants|Antidepressants]] (e.g., MAOIs, SSRIs, SNRIs, tricyclic [[../Psychiatry/Antidepressants|antidepressants]], vortioxetine, vilazodone, trazodone)
+- Anxiolytics (e.g., buspirone)
+- [[./Anticonvulsant drugs|Anticonvulsants]] (e.g., valproate)
+- <span style="background:rgba(240, 200, 0, 0.2)">Opioids (e.g., tramadol, meperidine)</span>
+- NMDA receptor antagonists (e.g., dextromethorphan)
+- 5-HT3 receptor antagonists (e.g., ondansetron)
+- [[./Neurotransmitters|Serotonin]] receptor agonists (e.g., triptans, ritonavir)
+- Antibiotics (e.g., linezolid)
+- Herbal supplements (e.g., St. John's wort, ginseng, <span style="background:rgba(240, 200, 0, 0.2)">tryptophan</span>)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Tryptophan is precursor of serotonin</span>![[../../assets/img/Pasted image 20231215101227.png|Pasted image 20231215101227.png]]
+- Recreational stimulants (e.g., [[./MDMA|MDMA]], cocaine)
 
 ---
 # Pathophysiology
@@ -47,6 +57,12 @@ share: true
 
 ---
 # Treatment
-
+- <span style="background:rgba(240, 200, 0, 0.2)">Agitation and excessive muscle activity: Treat with benzodiazepines.</span>
+- Hyperthermia: Initiate cooling measures, e.g., by reducing ambient temperature, applying cooling blankets or ice packs, administering cold IV fluids. 
+- Autonomic instability
+	- Give antihypertensive treatment.
+	- Treat MAOI-induced hypotension or shock.
+- Moderate to severe and/or refractory cases
+	- <span style="background:rgba(240, 200, 0, 0.2)">Consider treatment with 5-HT2A receptor antagonists: cyproheptadine</span>
 
 ---
