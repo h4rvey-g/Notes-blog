@@ -8,12 +8,11 @@ aliases:
   - β-2 agonists
 share: true
 ---
-
 # Adverse effects
 - Cardiac: ventricular arrhythmias, tachycardia
 - Central nervous system/muscular: <span style="background:rgba(240, 200, 0, 0.2)">tremor</span>
 - Electrolytes
 	- Hyperglycemia 
 		- β2-mediated stimulation in the liver → elevated cAMP levels → increased glycogenolysis
-	- Hypokalemia (risk of life-threatening arrhythmias): β2-mediated stimulation of Na+/K+-ATPase → intracellular K+ shift 
+	- Hypokalemia (risk of life-threatening arrhythmias): β2-mediated stimulation of Na<sup>+</sup>sup>+</sup>/K<sup>+</sup>-ATPase → intracellular K<sup>+</sup> shift 
 
