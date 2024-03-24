@@ -7,11 +7,10 @@ aliases:
   - Digoxin
 share: true
 ---
-
 # Digoxin poisoning
 ## Risk factors
 - Electrolyte imbalances
-	- <span style="background:rgba(240, 200, 0, 0.2)">Hypokalemia: digoxin competes with K+ for binding to Na+/K+-ATPase</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Hypokalemia: digoxin competes with K<sup>+</sup> for binding to Na<sup>+</sup>/K<sup>+</sup>-ATPase</span>
 - Medical conditions
 	- Renal failure (reduced digoxin excretion)
 	- Volume depletion (e.g., treatment with diuretics)
